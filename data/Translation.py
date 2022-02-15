@@ -22,10 +22,9 @@ def createHindiBenchmark2xml(sourcepath,destinationpath,filename):
         b_en.fill_benchmark(files)
         b_hi.fill_benchmark(files)
         for e,entries in enumerate(b.entries):
-            for l,lexs in enumerate(nentries.lexs):
-                b_hi.entries[e].lexs[l].lex= t.translate_text('hi',b.entries[e].lexs[l].lex)
+            for l,lexs in enumerate(entries.lexs):
+                b_hi.entries[e].lexs[l].lex= t.translate_text('hi',lexs.lex)
                 print(b_hi.entries[e].lexs[l].lex)
-                break
         b_hi.b2xml(destinationpath,filename)
 
 
