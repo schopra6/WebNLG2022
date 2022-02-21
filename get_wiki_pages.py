@@ -1,11 +1,21 @@
-import requests
-from bs4 import BeautifulSoup
+import os
+
+import wikipediaapi
 
 from benchmark_reader import Benchmark
 from benchmark_reader import select_files
 
 base_url = "https://wikipedia.com/wiki/"
 base_path = "wk/en/"
+base = "wk/"
+
+language = ["fr", "hi", "ru", "pt", "br"]
+
+if not os.path.exists(base):
+    os.makedirs(base_path)
+    for x in language:
+        os.makedirs(base + x + "/")
+
 # where to find the corpus
 path_to_corpus = 'corpus/ru/train/'
 
@@ -21,12 +31,19 @@ b.fill_benchmark(files)
 urls = []
 for entry in b.entries:
     for x in entry.modifiedtripleset.triples:
-        url = base_url + x.o.replace("\"", "").replace(" ", "_")
-        urls.append(url)
-        prod = BeautifulSoup(requests.request("GET", url).text, 'html.parser')
-        if "Wikipedia does not have an article with this exact name. Please" not in prod.text:
-            file = open(base_path + x.o.replace("\"", "").replace(" ", "_").replace("/", "") + ".html", "w")
-            file.write(prod.prettify())
+        wiki_html = wikipediaapi.Wikipedia(
+            language='en',
+            extract_format=wikipediaapi.ExtractFormat.HTML
+        )
+        page = wiki_html.page(x.o)
+        if page.exists():
+            file = open(base_path + page.title + ".html", "w", encoding="utf-8")
+            file.write(page.text)
             file.close()
-        else:
-            print(url)
+
+            for link in page.langlinks:
+                lpage = page.langlinks[link]
+                if lpage.language in language:
+                    file = open(base + lpage.language + "/" + page.title + ".html", "w", encoding="utf-8")
+                    file.write(lpage.text)
+                    file.close()
