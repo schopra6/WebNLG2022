@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The official title of the Turkish leader is President of Turkey. Ahmet Davutoglu is Turkeys leader. The largest city in Turkey is Istanbul. Lira is the currency used in Turkey. In Izmir is the Ataturk Monument, which was designed by Pietro Canonica and is made of Bronze.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की के नेता का आधिकारिक शीर्षक तुर्की का राष्ट्रपति है। अहमद दावुतोग्लू तुर्की के नेता हैं। तुर्की का सबसे बड़ा शहर इस्तांबुल है। लीरा तुर्की में इस्तेमाल की जाने वाली मुद्रा है। इजमिर में अतातुर्क स्मारक है, जिसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था और यह कांस्य से बना है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument is a bronze structure located in Izmir, and designed by Pietro Canonica. It is found in Turkey, where the largest city is Istanbul, the currency is the Turkish Lira, and the leader, the President of Turkey, is named Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id2" lang="hi">अतातपरस्तिक स्मारक इजमिर में स्थित एक कांस्य संरचना है, और इसे पिएत्रो कैनोनिका द्वारा डिजाइन किया गया है। यह तुर्की में पाया जाता है, जहां सबसे बड़ा शहर इस्तांबुल है, मुद्रा तुर्की लीरा है, और नेता, तुर्की के राष्ट्रपति का नाम अहमद दावुतोग्लू है।</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument in İzmir was designed by Pietro Canonica and was inaugurated on 27th July, 1932. It can be found in Turkey, a country with Istanbul as its largest city and the lira as its currency, and led by the President of Turkey, Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id1" lang="hi">पेट्रो कैनोनिका द्वारा डिजाइन किया गया था और 27 जुलाई, 1932 को उद्घाटन किया गया था। यह तुर्की में पाया जा सकता है, जो इस्तांबुल के सबसे बड़े शहर और लीरा को अपनी मुद्रा के रूप में रखता है, और तुर्की के राष्ट्रपति, अहमत दावुतोग्लू के नेतृत्व में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Leader Of Turkey (official title President of Turkey) is Ahmet Davutoğlu. Ataturk Monument, located in İzmir was designed by Pietro Canonica and was inaugurated on 27th of July, 1932. Turkey's largest city is Istanbul and their currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्की के नेता (तुर्की के आधिकारिक शीर्षक राष्ट्रपति) अहमद दावुतो गुग्लू हैं। अटातुर्क स्मारक का डिजाइन पिएत्रो कैनोनिका ने तैयार किया था और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। तुर्की का सबसे बड़ा शहर इस्तांबुल है और उनकी मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Turkish leader (official title President of Turkey) is Ahmet Davutoglu. Pietro Canonica designed the Ataturk Monument in Izmir and it was inaugurated on 27th of July, 1932. Turkey's largest City is Istanbul and the currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की के नेता (तुर्की के आधिकारिक शीर्षक राष्ट्रपति) अहमद दावुतोग्लू हैं। पीएट्रो कैनोनिका ने इजमिर में अतातुर्क स्मारक डिजाइन किया और इसका उद्घाटन 27 जुलाई, 1932 को किया गया। तुर्की का सबसे बड़ा शहर इस्तांबुल है और मुद्रा तुर्की लीरा है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="7" shape="(X (X) (X (X) (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Turkey's leader is Ahmet Davutoglu, who is the President of Turkey. Its capital is Ankara and the largest city is Istanbul. The currency used in Turkey is Turkish Lira. The ataturk Monument (Izmir), that is located in Turkey, is made of bronze.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमद दावुतोग्लू तुर्की के राष्ट्रपति हैं। इसकी राजधानी अंकारा और सबसे बड़ा शहर इस्तांबुल है। तुर्की में इस्तेमाल की जाने वाली मुद्रा तुर्की लीरा है। तुर्की में स्थित अतातुर्क स्मारक (इजमिर) कांस्य से बना है।</lex>
+      <lex comment="" lid="Id2" lang="en">The bronze Ataturk monument is located in Turkey where President Ahmet Davutoglu is the leader. The capital city is Ankara, although the largest city is Istanbul and the local currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="hi">कांस्य अतातुर्क स्मारक तुर्की में स्थित है जहां राष्ट्रपति अहमद दावुतोग्लू नेता हैं। राजधानी अंकारा है, हालांकि सबसे बड़ा शहर इस्तांबुल है और स्थानीय मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id3" lang="en">President Ahmet Davutoglu is the leader of Turkey which has the capital city of Ankara, although the largest city is Istanbul. The currency of the country is the Turkish lira and the country is the location of the bronze Ataturk monument.</lex>
+      <lex comment="" lid="Id3" lang="hi">राष्ट्रपति अहमत दावुतोग्लू तुर्की के नेता हैं जिसकी राजधानी अंकारा है, हालांकि सबसे बड़ा शहर इस्तांबुल है। देश की मुद्रा तुर्की लीरा है और देश कांस्य अतातुर्क स्मारक का स्थान है।</lex>
+    </entry>
+  </entries>
+</benchmark>

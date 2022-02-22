@@ -1,0 +1,518 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="1" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Atlantic City International Airport is located in Egg Harbor Township (a township in Atlantic County) , New Jersey, United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">अटलांटिक सिटी अंतर्राष्ट्रीय हवाई अड्डा एग हार्बर टाउनशिप (अटलांटिक काउंटी में एक टाउनशिप), न्यू जर्सी, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Atlantic City International Airport is located in Egg Harbor Township which is in New Jersey.</lex>
+      <lex comment="" lid="Id2" lang="hi">अटलांटिक सिटी अंतर्राष्ट्रीय हवाई अड्डा न्यू जर्सी के एग हार्बर टाउनशिप में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport is in Egg Harbor Township, Atlantic County, New Jersey.</lex>
+      <lex comment="" lid="Id3" lang="hi">अटलांटिक सिटी अंतर्राष्ट्रीय हवाई अड्डा एग हार्बर टाउनशिप, अटलांटिक काउंटी, न्यू जर्सी में स्थित है।</lex>
+    </entry>
+    <entry category="Airport" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</otriple>
+        <otriple>Agra_Airport | operator | Indian_Air_Force</otriple>
+        <otriple>Indian_Air_Force | aircraftTransport | Boeing_C-17_Globemaster_III</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
+        <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
+        <mtriple>Indian_Air_Force | transportAircraft | Boeing_C-17_Globemaster_III</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agra Airport is operated by the Indian Air Force which uses HAL Light Combat Helicopter (aircraft helicopter) and the Boeing C-17 Globemaster III (a transport aircraft).</lex>
+      <lex comment="" lid="Id1" lang="hi">आगरा हवाई अड्डे का संचालन भारतीय वायु सेना द्वारा किया जाता है जो एचएएल लाइट कॉम्बैट हेलिकॉप्टर (विमान हेलीकॉप्टर) और बोइंग सी-17 ग्लोबमास्टर III (एक परिवहन विमान) का उपयोग करता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The operating organization for Agra Airport is the Indian Air Force who deploy the HAL Light Combat Helicopter and the Boeing C17 Globemaster III transport aircraft.</lex>
+      <lex comment="" lid="Id2" lang="hi">आगरा हवाई अड्डे के लिए परिचालन संगठन भारतीय वायु सेना है, जिसने एचएएल लाइट कॉम्बैट हेलीकॉप्टर और बोइंग सी 17 ग्लोबमास्टर III परिवहन विमान तैनात किए हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Agra airport is operated by the Indian Air Force, using HAL light combat helicopters and Beoing C-17 globemaster III.</lex>
+      <lex comment="" lid="Id3" lang="hi">आगरा हवाई अड्डे का संचालन भारतीय वायु सेना द्वारा किया जाता है, जिसमें एचएएल हल्के लड़ाकू हेलीकॉप्टरों और सी-17 ग्लोबमास्टर III का उपयोग किया जाता है।</lex>
+    </entry>
+    <entry category="Airport" eid="3" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Infraero | location | Brasília</otriple>
+        <otriple>Afonso_Pena_International_Airport | elevation | &quot;910.742&quot;^^xsd:double</otriple>
+        <otriple>Afonso_Pena_International_Airport | operator | Infraero</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Infraero | location | Brasília</otriple>
+        <otriple>Afonso_Pena_International_Airport | elevation | &quot;911.0&quot;^^xsd:double</otriple>
+        <otriple>Afonso_Pena_International_Airport | operator | Infraero</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Infraero | location | Brasília</mtriple>
+        <mtriple>Afonso_Pena_International_Airport | elevationAboveTheSeaLevel | 911.0</mtriple>
+        <mtriple>Afonso_Pena_International_Airport | operatingOrganisation | Infraero</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Afonso Pena International airport is located 911 metres above sea level and operated by Infraero located in Brasilia.</lex>
+      <lex comment="" lid="Id1" lang="hi">अफोंसो पेना अंतर्राष्ट्रीय हवाई अड्डा समुद्र तल से 911 मीटर की ऊंचाई पर स्थित है और इसका संचालन ब्रासीलिया में स्थित इंफ्राएरो द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">At 911.0 metres above sea level, Afonso Pena International Airport is operated by Infraero which is in Brasilia.</lex>
+      <lex comment="" lid="Id2" lang="hi">समुद्र तल से 911.0 मीटर की ऊंचाई पर स्थित अफोंसो पेना अंतर्राष्ट्रीय हवाई अड्डा ब्रासीलिया में स्थित इंफ्राएरो द्वारा संचालित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Infraero, in Brasilia, is served by Afonso Pena Aiport, with an elevation of 911 meters about sea level and is operated by Infraero.</lex>
+      <lex comment="" lid="Id3" lang="hi">ब्रासीलिया में स्थित इन्फ्राएरो को अफोंसो पेना हवाई अड्डा सेवा प्रदान करता है, जिसकी समुद्र तल से ऊंचाई 911 मीटर है और इसका संचालन इन्फ्राएरो द्वारा किया जाता है।</lex>
+    </entry>
+    <entry category="Airport" eid="4" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Iraq | language | Kurdish_languages</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | language | Kurdish_languages</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Al-Taqaddum Air Base serves the city of Fallujah, in the country of Iraq where the Kurdish language is spoken.</lex>
+      <lex comment="" lid="Id1" lang="hi">अल-तकद्दूम एयर बेस इराक के देश में फालुजा शहर में स्थित है, जहां कुर्द भाषा बोली जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Al-Taqaddum Air Base serves the city of Fallujah in Iraq where the Kurdish languages are spoken.</lex>
+      <lex comment="" lid="Id2" lang="hi">अल-तकद्दम एयर बेस इराक के फल्लुजा शहर में स्थित है, जहां कुर्द भाषाएं बोली जाती हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Al Taqaddum Air Base serves the city of Fallujah in Iraq, a country where the Kurdish languages are spoken.</lex>
+      <lex comment="" lid="Id3" lang="hi">अल तकद्दम एयर बेस इराक के फालुजा शहर में स्थित है, जहां कुर्द भाषाएं बोली जाती हैं।</lex>
+    </entry>
+    <entry category="Airport" eid="5" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Fuad_Masum</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Fuad_Masum</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Al-Taqaddum Air Base is located in Fallujah, a city in Fuad Masum led Iraq.</lex>
+      <lex comment="" lid="Id1" lang="hi">अल-तकद्दूम एयर बेस इराक के फुआद मासूम के नेतृत्व वाले शहर फल्लुजा में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Fuad Masum leads Iraq where Al Taqaddum air base serves the city of Fallujah.</lex>
+      <lex comment="" lid="Id2" lang="hi">फुआद मासूम इराक का नेतृत्व करता है जहां अल तकद्दम हवाई अड्डा फालुजा शहर को सेवा प्रदान करता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Al Taqaddum Air Base serves the city of Fallujah in Iraq. The country is led by Fuad Masum.</lex>
+      <lex comment="" lid="Id3" lang="hi">अल तकद्दम एयर बेस इराक के फल्लुजा शहर में स्थित है। देश का नेतृत्व फुआद मासूम कर रहे हैं।</lex>
+    </entry>
+    <entry category="Airport" eid="6" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leaderName | Haider_al-Abadi</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Iraq | leader | Haider_al-Abadi</otriple>
+        <otriple>Fallujah | country | Iraq</otriple>
+        <otriple>Al-Taqaddum_Air_Base | city | Fallujah</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Iraq | leader | Haider_al-Abadi</mtriple>
+        <mtriple>Al-Taqaddum_Air_Base | cityServed | Fallujah</mtriple>
+        <mtriple>Fallujah | country | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Al-Taqaddum air base serves the city of Fallujah in Iraq. Haider al-Abadi is the leader of Iraq.</lex>
+      <lex comment="" lid="Id1" lang="hi">अल-तकद्दम हवाई अड्डा इराक के फल्लुजा शहर में स्थित है। हैदर अल-अबादी इराक का नेता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Al Taqaddum Air Base serves the city of Fallujah, Iraq. The leader of the country is Haider al-Abadi.</lex>
+      <lex comment="" lid="Id2" lang="hi">अल तकद्दम एयर बेस इराक के फालुजा शहर में स्थित है। देश का नेता हैदर अल-अबादी है।</lex>
+      <lex comment="" lid="Id3" lang="en">Haider Al-Abadi is the leader of Iraq where the Al Taqaddum air base serves the city of Fallujah.</lex>
+      <lex comment="" lid="Id3" lang="hi">हैदर अल-अबादी इराक का नेता है जहां अल-तकद्दम हवाई अड्डा फालुजा शहर में काम करता है।</lex>
+    </entry>
+    <entry category="Airport" eid="7" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Pakistan | leaderName | Nawaz_Sharif</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+        <otriple>Pakistan | leader | Nawaz_Sharif</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+        <mtriple>Pakistan | leader | Nawaz_Sharif</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Allama Iqbal International Airport serves the city of Lahore which is in Pakistan where Nawaz Sharif is the leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डा लाहौर शहर को सेवा प्रदान करता है जो पाकिस्तान में है जहां नवाज शरीफ नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Nawaz Sharif is the leader in Pakistan where Allama Iqbal International Airport serves the city of Lahore.</lex>
+      <lex comment="" lid="Id2" lang="hi">नवाज शरीफ पाकिस्तान के उस नेता हैं जहां अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डा लाहौर शहर में सेवा प्रदान करता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Lahore, Pakistan is led by Nawaz Sharif and is served by the Allama Iqbal International Airport.</lex>
+      <lex comment="" lid="Id3" lang="hi">लाहौर, पाकिस्तान का नेतृत्व नवाज शरीफ द्वारा किया जाता है और अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डे द्वारा सेवा प्रदान की जाती है।</lex>
+    </entry>
+    <entry category="Airport" eid="8" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+        <otriple>Madrid | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+        <mtriple>Madrid | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adolfo Suárez Madrid–Barajas Airport is located in Madrid, part of the community of Madrid in Spain.</lex>
+      <lex comment="" lid="Id1" lang="hi">अडोल्फो सुलीदेस माद्रिद-बाराजास हवाई अड्डा स्पेन के मैड्रिड में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adolfo Suárez Madrid–Barajas Airport is found in Madrid which is part of the community of Madrid, Spain.</lex>
+      <lex comment="" lid="Id2" lang="hi">अडोल्फो सुलीदेस माद्रिद-बाराजास हवाई अड्डा मैड्रिड, स्पेन में स्थित है जो मैड्रिड, स्पेन के समुदाय का हिस्सा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Adolfo Suarez Madrid-Barajas airport is located in the community of Madrid, in Spain.</lex>
+      <lex comment="" lid="Id3" lang="hi">अडोल्फो सुआरेज माद्रिद-बाराजा हवाई अड्डा स्पेन के मैड्रिड में स्थित है।</lex>
+    </entry>
+    <entry category="Airport" eid="9" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Pakistan | leader | Mamnoon_Hussain</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Mamnoon_Hussain</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leader | Mamnoon_Hussain</otriple>
+        <otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Mamnoon_Hussain</otriple>
+        <otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Mamnoon_Hussain</mtriple>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Mamnoon Hussain is the leader of Pakistan, where the city of Lahore, served by Allama Iqbal International Airport, is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">मामनून हुसैन पाकिस्तान के नेता हैं, जहां अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डे द्वारा संचालित लाहौर शहर स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The city of Lahore is served by Allama Iqbal International airport, which is located in Pakistan and led by Mamnoon Hussain.</lex>
+      <lex comment="" lid="Id2" lang="hi">लाहौर शहर में अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डा है, जो पाकिस्तान में स्थित है और इसका नेतृत्व ममनून हुसैन कर रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Lahor, located in Pakistan and led by Mamnoon Hussain, is the home of the Allama Iqbal International Airport.</lex>
+      <lex comment="" lid="Id3" lang="hi">मामनून हुसैन के नेतृत्व में पाकिस्तान में स्थित लाहौर अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डे का घर है।</lex>
+    </entry>
+    <entry category="Airport" eid="10" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Pakistan | leader | Sardar_Ayaz_Sadiq</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Sardar_Ayaz_Sadiq</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Sardar_Ayaz_Sadiq</otriple>
+        <otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Sardar_Ayaz_Sadiq</mtriple>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sardar Ayaz Sadiq is the leader of Pakistan which is where the City of Lahore is. this city is served by Allama Iqbal International airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">सरदार अयाज सादिक पाकिस्तान के नेता हैं जहां लाहौर शहर है. इस शहर में अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Located in Pakistan (where Sardar Ayaz Sadiqis the leader), the city of Lahore is served by Allama Iqbal International Airport.</lex>
+      <lex comment="" lid="Id2" lang="hi">पाकिस्तान में स्थित (जहां सरदार अयाज सादिकी नेता हैं), लाहौर शहर में अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डा है।</lex>
+      <lex comment="" lid="Id3" lang="en">Allama Iqbal International airport serves the city of Lahore in Pakistan. The country is led by Sardar Ayaz Sadiq.</lex>
+      <lex comment="" lid="Id3" lang="hi">अल्लामा इकबाल अंतर्राष्ट्रीय हवाई अड्डा पाकिस्तान के लाहौर शहर में स्थित है। देश का नेतृत्व सरदार अयाज सादिक कर रहे हैं।</lex>
+    </entry>
+    <entry category="Airport" eid="11" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the class Monocotyledon, and belonging to the order Poales is Poaceae which is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id1" lang="hi">मोनोकोटिलेडन वर्ग में, और पोएल्स वर्ग से संबंधित पोएसी है जो न्यूजीलैंड के आर्डमोर हवाई अड्डे के दूसरे रनवे का सतह प्रकार है।</lex>
+      <lex comment="" lid="Id2" lang="en">Poaceae, which is of the order poales and in the class Monocotyledon, is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id2" lang="hi">Poaceae, जो poales क्रम का है और मोनोकोटाइलडन वर्ग में है, न्यूजीलैंड के आर्डमोर हवाई अड्डे के दूसरे रनवे का सतह प्रकार है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 2nd runway at New Zealand's Ardmore Airport is made of Poaceae (Order: Poales; Class: Monocotyledon).</lex>
+      <lex comment="" lid="Id3" lang="hi">न्यूजीलैंड के आर्डमोर हवाई अड्डे पर दूसरा रनवे पोएसी से बना है। पोएल्स सेल्स श्रेणीः एकबीजपत्री)।</lex>
+    </entry>
+    <entry category="Airport" eid="12" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 1st runway at Alderney Airport is made from Poaceae which belongs to the division of flowering plants and is of the class Monocotyledon.</lex>
+      <lex comment="" lid="Id1" lang="hi">एल्डरनी हवाई अड्डे पर पहला रनवे पोएसी से बना है जो फूलों के पौधों के प्रभाग से संबंधित है और मोनोकोटाइलडन वर्ग का है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 1st runway at Alderney Airport is made from Poaceae which belongs to the class Monocotyledon and belongs to the division of flowering plants.</lex>
+      <lex comment="" lid="Id2" lang="hi">एल्डरनी हवाई अड्डे पर पहला रनवे पोएसी से बना है जो मोनोकोटिलडन वर्ग से संबंधित है और फूलों के पौधों के विभाजन से संबंधित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The surface of the first runway at Alderney Airport is made of poaceae which is part of the monocotyledon class and is a division of flowering plants.</lex>
+      <lex comment="" lid="Id3" lang="hi">एल्डरनी हवाई अड्डे पर पहले रनवे की सतह पोएसिया से बनी है जो मोनोकोटिलडन वर्ग का हिस्सा है और फूलों के पौधों का एक प्रभाग है।</lex>
+    </entry>
+    <entry category="Airport" eid="13" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Poaceae, of the Commelinids order, belongs to the division of flowering plants and its the surface of the 1st runway at Alderney airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">पोआसी, Commelinids ऑर्डर का है, फूलों के पौधों के विभाजन से संबंधित है और यह एल्डर्नी हवाई अड्डे पर पहले रनवे की सतह है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 1st runway at Alderney Airport is made from Poaceae which belongs to the division of flowering plants and belongs to the order of Commelinids.</lex>
+      <lex comment="" lid="Id2" lang="hi">एल्डरनी हवाई अड्डे पर पहला रनवे पोएसी से बना है जो फूलों के पौधों के प्रभाग से संबंधित है और कमलिनिड्स के क्रम से संबंधित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The surface of the 1st runway at Alderney airport is poaceae which is of the order Commelinids, a division of flowering plants.</lex>
+      <lex comment="" lid="Id3" lang="hi">एल्डरनी हवाई अड्डे पर पहले रनवे की सतह पोएसी है जो फूलों के पौधों के एक प्रभाग, कोमेलिनिड्स ऑर्डर का है।</lex>
+    </entry>
+    <entry category="Airport" eid="14" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Poaceae | unrankedDivisio | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 1st runway at Alderney Airport is made from Poaceae which belongs to the division of flowering plants and the order poales.</lex>
+      <lex comment="" lid="Id1" lang="hi">एल्डर्नी हवाई अड्डे पर पहला रनवे पोएसी से बना है जो फूलों के पौधों और ऑर्डर पोएल्स के विभाजन से संबंधित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Poaceae belongs to the division of flowering plants order of Poales. The Alderney Airport's first runway was made of this substance.</lex>
+      <lex comment="" lid="Id2" lang="hi">पोआसी (Poaceae), पोएल्स (Poales) वर्ग के फूलों के पौधों के प्रभाग से संबंधित है। एल्डरनी एयरपोर्ट का पहला रनवे इसी पदार्थ से बना था।</lex>
+    </entry>
+    <entry category="Airport" eid="15" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+        <otriple>Poaceae | order | Poales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+        <mtriple>Poaceae | order | Poales</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Poaceae which is of the Poales order belongs to the division of flowering plants, the 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae.</lex>
+      <lex comment="" lid="Id1" lang="hi">पोएल्स क्रम का पोएसी फूलों के पौधों के विभाजन से संबंधित है, आर्डमोर हवाई अड्डे (न्यूजीलैंड) का दूसरा रनवे पोएसी से बना है।</lex>
+      <lex comment="" lid="Id2" lang="en">Poaceae is of the order Poales and in the division of flowering plants. It is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id2" lang="hi">पोआसी (Poaceae) पोएल्स (Poales) गण का एक पौधा है जो फूलों के पौधों का विभाजन करता है। यह न्यूजीलैंड के आर्डमोर हवाई अड्डे के दूसरे रनवे का सतह प्रकार है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae, which belongs to the division of flowering plants and the order Poales.</lex>
+      <lex comment="" lid="Id3" lang="hi">आर्डमोर हवाई अड्डे (न्यूजीलैंड) पर दूसरा रनवे पोएसी से बना है, जो फूलों के पौधों और पोएल्स ऑर्डर के विभाजन से संबंधित है।</lex>
+    </entry>
+    <entry category="Airport" eid="16" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae which belongs to the division of flowering plants and the order of Commelinids.</lex>
+      <lex comment="" lid="Id1" lang="hi">आर्डमोर हवाई अड्डे (न्यूजीलैंड) पर दूसरा रनवे पोएसी से बना है जो फूलों के पौधों और कमेलिनिड्स के क्रम से संबंधित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Poaceae belongs to the order of Commelinids and the division of flowering plants. It is also the surface type of the second runway at Ardmore Airport in New Zealand.</lex>
+      <lex comment="" lid="Id2" lang="hi">पोआसी (Poaceae) कमलिनिड्स (Commelinids) वर्ग और फूलों के पौधों के विभाजन से संबंधित है। यह न्यूजीलैंड में आर्डमोर हवाई अड्डे पर दूसरे रनवे का सतह प्रकार भी है।</lex>
+      <lex comment="" lid="Id3" lang="en">Poaceae, a flowering plant, belongs to the order of Commelinids, and is the surface type for the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id3" lang="hi">पोआसी (Poaceae), एक फूलों का पौधा है, जो कमेलिनिड्स के क्रम से संबंधित है, और न्यूजीलैंड के आर्डमोर हवाई अड्डे के दूसरे रनवे के लिए सतह का प्रकार है।</lex>
+    </entry>
+    <entry category="Airport" eid="17" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Adolfo Suarez Madrid- Barajas airport is located in San Sebastian de los Reyes which is in Madrid, Spain.</lex>
+      <lex comment="" lid="Id1" lang="hi">अडोल्फो सुआरेज मैड्रिड-बाराजास हवाई अड्डा स्पेन के मैड्रिड में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">San Sebastian de los Reyes, part of the Madrid Community, Spain is host to the Adolfo Suarez Madrid-Barajas airport.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्पेन के मैड्रिड समुदाय का हिस्सा सैन सेबेस्टियन डी लॉस रेयेस एडोल्फो सुआरेज माद्रिद-बाराजा हवाई अड्डे की मेजबानी करता है।</lex>
+    </entry>
+    <entry category="Airport" eid="18" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</otriple>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</mtriple>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Adolfo Suárez Madrid–Barajas Airport is located n San Sebastián de los Reyes which is led by the Peoples Party and is part of the community of Madrid.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडोल्फो सुसेरेज मैड्रिड-बाराजास हवाई अड्डा सैन सेबेस्टियन मिगेलिन डी लॉस रेयेस में स्थित है, जिसका नेतृत्व पीपुल्स पार्टी करती है और यह मैड्रिड के समुदाय का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The People's Party is the lead party of San Sebastian de los Reyes, Spain which is part of the Community of Madrid. The Adolfo Suárez Madrid–Barajas Airport is found there.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीपुल्स पार्टी सैन सेबेस्टियन डी लॉस रेयेस, स्पेन की प्रमुख पार्टी है जो मैड्रिड समुदाय का हिस्सा है। अडोल्फो सुलीनेज मैड्रिड-बाराजास हवाई अड्डा वहां पाया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Adolfo Suárez Madrid–Barajas Airport is located in San Sebastián de los Reyes,Madrid,where the People's Party is the leading political organization.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडोल्फो सुसेरेज मैड्रिड-बाराजास हवाई अड्डा मैड्रिड के सैन सेबेस्टियन मिगेलन डी लॉस रेयेस में स्थित है, जहां पीपुल्स पार्टी प्रमुख राजनीतिक संगठन है।</lex>
+    </entry>
+    <entry category="Airport" eid="19" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York, part of Harriestown, New York, United States, is served by Adirondack Regional Airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">सारानेक झील, न्यूयॉर्क, संयुक्त राज्य अमेरिका के न्यूयॉर्क के हैरीस्टाउन का हिस्सा है, जिसे एडिरोनडैक क्षेत्रीय हवाई अड्डे द्वारा सेवा प्रदान की जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, Harrietstown, New York, United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा संयुक्त राज्य अमेरिका के न्यूयॉर्क के हैरिस्टॉन में सारनेक झील के शहर को सेवा प्रदान करता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York, in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा संयुक्त राज्य अमेरिका में न्यूयॉर्क के हैरिस्टौन का हिस्सा है जो सारानाक झील के शहर को सेवा प्रदान करता है।</lex>
+    </entry>
+    <entry category="Airport" eid="20" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Harrietstown,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Harrietstown,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake is part of Harrietstown New York and has an airport called Adirondack Regional airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">सारनेक झील न्यूयॉर्क के हैरिस्टौन का हिस्सा है और इसका एक हवाई अड्डा है जिसे एडिरोनडैक क्षेत्रीय हवाई अड्डा कहा जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, Harrietstown, New York.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा न्यूयॉर्क के हैरिसटाउन के सारानाक झील शहर में स्थित है।</lex>
+    </entry>
+    <entry category="Airport" eid="21" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport serves the city of Saranac Lake which like Harrietstown and Essex County is part of new York.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा सारानाक झील शहर को सेवा प्रदान करता है जो हैरिस्टौन और एसेक्स काउंटी की तरह न्यू यॉर्क का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Saranac Lake, New York, is part of Harrietstown, Essex County, New York and is served by Adirondack Regional Airport.</lex>
+      <lex comment="" lid="Id2" lang="hi">सारानेक लेक, न्यूयॉर्क, एसेक्स काउंटी, न्यूयॉर्क के हैरिस्टॉन का एक हिस्सा है और इसे एडिरोनडैक क्षेत्रीय हवाई अड्डे द्वारा सेवा प्रदान की जाती है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown in Essex County, New York.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा न्यूयॉर्क के एसेक्स काउंटी में हेरिस्टौन का हिस्सा है जो सारानाक झील शहर को सेवा प्रदान करता है।</lex>
+    </entry>
+    <entry category="Airport" eid="22" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport is located in Saranac Lake Harrietstown, New York United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा (अंग्रेज़ीः Adirondack Regional Airport) संयुक्त राज्य अमेरिका के न्यू यॉर्क राज्य के सारनेक लेक हैरिसटाउन में स्थित एक क्षेत्रीय हवाई अड्डा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adirondack Regional Airport serves the city of Saranac Lake which is part of Harrietstown, New York, in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा संयुक्त राज्य अमेरिका में न्यूयॉर्क के हैरिस्टौन का हिस्सा है जो सारानाक झील के शहर को सेवा प्रदान करता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, which is part of Harrietstown, New York.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा सारानाक झील शहर को सेवा प्रदान करता है, जो न्यूयॉर्क के हैरिस्टौन का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="23" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport serves the city of Saranac Lake which is part of Essex County, New York, in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा संयुक्त राज्य अमेरिका के न्यूयॉर्क में एसेक्स काउंटी का हिस्सा सारानाक झील शहर को सेवा प्रदान करता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Airondack Regional Airport serves the city of Saranac Lake, Essex County, New York, the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">एयरोनडैक क्षेत्रीय हवाई अड्डा संयुक्त राज्य अमेरिका के न्यूयॉर्क में एसेक्स काउंटी के सारनेक लेक शहर में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Essex County in the U.S.A.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडिरोनडैक क्षेत्रीय हवाई अड्डा न्यूयॉर्क के सारनेक झील शहर को सेवा प्रदान करता है जो संयुक्त राज्य अमेरिका में एसेक्स काउंटी का हिस्सा है।</lex>
+    </entry>
+  </entries>
+</benchmark>

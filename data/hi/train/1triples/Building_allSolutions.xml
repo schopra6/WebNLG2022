@@ -1,0 +1,2681 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | architecturalStyle | Brutalist_architecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | architecturalStyle | Brutalist_architecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architecture style of 103 Colmore Row falls under Brutalist architecture.</lex>
+      <lex comment="" lid="Id1" lang="hi">103 कोलमोर पंक्तियों की वास्तुकला शैली ब्रुटलिस्ट वास्तुकला के अंतर्गत आती है।</lex>
+      <lex comment="" lid="Id2" lang="en">103 Colmore Row is in the architectural style &quot; Brutalist architecture&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">colmore row architectural style Brutalist architecture.</lex>
+    </entry>
+    <entry category="Building" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | buildingStartDate | &quot;1973&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | buildingStartDate | &quot;1973&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1973 was the start date for the building at 103 Colmore Row.</lex>
+      <lex comment="" lid="Id1" lang="hi">103 कोलमोर रो के भवन के निर्माण के लिए प्रारंभ तिथि 1973 थी।</lex>
+      <lex comment="" lid="Id2" lang="en">The building of 103 Colmore Row began in 1973.</lex>
+      <lex comment="" lid="Id2" lang="hi">103 कोलमोर रो के निर्माण का कार्य 1973 में शुरू हुआ।</lex>
+      <lex comment="" lid="Id3" lang="en">103 Colmore Row opened in 1973.</lex>
+      <lex comment="" lid="Id3" lang="hi">103 कोलमोर रो 1973 में खोला गया।</lex>
+    </entry>
+    <entry category="Building" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | buildingEndDate | &quot;1976&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>103_Colmore_Row | completionDate | 1976</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | completionDate | 1976</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">103 Colmore Row was completed in 1976.</lex>
+      <lex comment="" lid="Id1" lang="hi">103 कोलमोर रो 1976 में पूरी हुई।</lex>
+      <lex comment="" lid="Id2" lang="en">The building of 103 Colmore Row was completed in 1976.</lex>
+      <lex comment="" lid="Id2" lang="hi">103 कोलमोर रो का निर्माण 1976 में पूरा किया गया था।</lex>
+    </entry>
+    <entry category="Building" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | floorCount | &quot;23&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | floorCount | 23</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There are 23 floors at 103 Colmore Row.</lex>
+      <lex comment="" lid="Id1" lang="hi">103 कोलमोर रो में 23 फ्लोर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">103 Colmore Row has 23 floors.</lex>
+      <lex comment="" lid="Id2" lang="hi">103 कोलमोर रो में 23 मंजिलें हैं।</lex>
+    </entry>
+    <entry category="Building" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | location | &quot;Colmore Row, Birmingham, England&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | location | &quot;Colmore Row, Birmingham, England&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">103 Colmore Row is located on Colmore Row, Birmingham, England.</lex>
+      <lex comment="" lid="Id1" lang="hi">colmore Row colmore Row, Birmingham, England में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">103 Colmore Row is located in Colmore Row, Birmingham, England.</lex>
+      <lex comment="" lid="Id2" lang="hi">colmore Row colmore Row, Birmingham, England में है।</lex>
+      <lex comment="" lid="Id3" lang="en">103 Colmore Row is in Birmingham, England.</lex>
+      <lex comment="" lid="Id3" lang="hi">103 कोलमोर रो बर्मिंघम, इंग्लैंड में है।</lex>
+    </entry>
+    <entry category="Building" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>103_Colmore_Row | location | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>103_Colmore_Row | location | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">103 Colmore Row is located in Birmingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">103 कोलमोर रो बर्मिंघम में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | buildingStartDate | &quot;1981&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | startDate | 1981</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | buildingStartDate | 1981</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The construction of 108 St Georges Terrace began in 1981.</lex>
+      <lex comment="" lid="Id1" lang="hi">108 सेंट जॉर्ज टेरेस के निर्माण का कार्य 1981 में शुरू हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">The building of 108 St. Georges Terrace was started in 1981.</lex>
+      <lex comment="" lid="Id2" lang="hi">108St. George Terrace का निर्माण कार्य 1981 में शुरू हुआ था।</lex>
+    </entry>
+    <entry category="Building" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | completionDate | 1988</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | buildingEndDate | &quot;1988&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | completionDate | 1988</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">108 St Georges Terrace was completed in 1988.</lex>
+      <lex comment="" lid="Id1" lang="hi">108 सेंट जार्ज टेरेस 1988 में पूरी हुई।</lex>
+    </entry>
+    <entry category="Building" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | cost | &quot;A$120 million&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | cost | &quot;120 million (Australian dollars)&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">108 St Georges Terrace cost 120 million Australian dollars.</lex>
+      <lex comment="" lid="Id1" lang="hi">108 सेंट जॉर्ज टेरेस की लागत 120 मिलियन ऑस्ट्रेलियाई डॉलर है।</lex>
+      <lex comment="" lid="Id2" lang="en">108 St Georges Terrance cost 120m Australian dollars.</lex>
+      <lex comment="" lid="Id2" lang="hi">108 सेंट जॉर्ज टेरेन्स की कीमत 120 मिलियन ऑस्ट्रेलियाई डॉलर है।</lex>
+      <lex comment="" lid="Id3" lang="en">The cost of 108 St. Georges Terrace is 120 million AUD.</lex>
+      <lex comment="" lid="Id3" lang="hi">108 सेंट जॉर्ज टेरेस की लागत 120 मिलियन एयूडी है।</lex>
+    </entry>
+    <entry category="Building" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | floorArea | &quot;39500.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | Building/floorArea | &quot;39500.0&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | floorArea | 39500.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">108 St. Georges Terrace has a floor area of 39599.0 square metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">108 सेंट जॉर्ज टेरेस का फ्लोर एरिया 39599.0 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | floorCount | 50</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | floorCount | 50</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">108 St Georges Terrace has a floor count of 50.</lex>
+      <lex comment="" lid="Id1" lang="hi">108 सेंट जार्ज टेरेस में 50 फ्लोर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">There are 50 floors at 108 St Georges Terrace.</lex>
+      <lex comment="" lid="Id2" lang="hi">108 सेंट जॉर्ज टेरेस में 50 फ्लोर हैं।</lex>
+    </entry>
+    <entry category="Building" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>108_St_Georges_Terrace | location | Perth</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>108_St_Georges_Terrace | location | Perth</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 108 St. Georges Terrace is located in Perth.</lex>
+      <lex comment="" lid="Id1" lang="hi">108 सेंट जार्ज टेरेस पर्थ में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">108 St. Georges Terrace is located in Perth.</lex>
+      <lex comment="" lid="Id2" lang="hi">108सेंट जॉर्ज टेरेस पर्थ में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | architect | &quot;Helmut Jahn&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | architect | Helmut_Jahn</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect of 11 Diagonal Street is Helmut Jahn.</lex>
+      <lex comment="" lid="Id1" lang="hi">11 डायगोनल स्ट्रीट के वास्तुकार हेल्मुट जान हैं।</lex>
+    </entry>
+    <entry category="Building" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | buildingStartDate | &quot;1978&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | buildingStartDate | &quot;1978&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 11 Diagonal Street originated in 1978.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 150px | upright | 11 Diagonal Street 1978 में शुरू हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">11 Diagonal Street was built in 1978.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | 250px | upright | 1978 में निर्मित डायगोनल स्ट्रीट.</lex>
+      <lex comment="" lid="Id3" lang="en">The building at 11 Diagonal Street was started to be erected in 1978.</lex>
+      <lex comment="" lid="Id3" lang="hi">11 डायगोनल स्ट्रीट पर 1978 में निर्माण कार्य शुरू किया गया था।</lex>
+    </entry>
+    <entry category="Building" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorArea | &quot;1200.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | floorArea | 1200 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11 Diagonal Street has a floor area of 1200 square metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">11 डायगोनल स्ट्रीट का फ्लोर एरिया 1200 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | floorCount | &quot;20&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | floorCount | 20</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11 Diagonal Street has 20 floors.</lex>
+      <lex comment="" lid="Id1" lang="hi">डायगोनल स्ट्रीट में 20 मंजिलें हैं।</lex>
+    </entry>
+    <entry category="Building" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | Johannesburg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | Johannesburg</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11 Diagonal Street is in Johannesburg.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 250px | जोहान्सबर्ग की डायगोनल स्ट्रीट।</lex>
+      <lex comment="" lid="Id2" lang="en">11 Diagonal Street is located in Johannesburg.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | left | 250px | जोहान्सबर्ग में डायगोनल स्ट्रीट.</lex>
+    </entry>
+    <entry category="Building" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | owner | Redefine_Properties_Limited</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Redefine Properties Limited is the owner of 11 Diagonal Street.</lex>
+      <lex comment="" lid="Id1" lang="hi">रिडिफाइन प्रॉपर्टीज लिमिटेड 11 डायगोनल स्ट्रीट का मालिक है।</lex>
+      <lex comment="" lid="Id2" lang="en">11 Diagonal Street is owned by Redefine Properties Limited.</lex>
+      <lex comment="" lid="Id2" lang="hi">11 डायगोनल स्ट्रीट का स्वामित्व रिडिफाइन प्रॉपर्टीज लिमिटेड के पास है।</lex>
+      <lex comment="" lid="Id3" lang="en">Redefine Properties Limited is the owner of 11 Diagonal Strret.</lex>
+      <lex comment="" lid="Id3" lang="hi">रिडिफाइन प्रॉपर्टीज लिमिटेड 11 डायगोनल स्ट्रैट का मालिक है।</lex>
+    </entry>
+    <entry category="Building" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | architect | HOK_(firm)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | architect | HOK_(firm)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect of 200 Public Square is HOK.</lex>
+      <lex comment="" lid="Id1" lang="hi">200 पब्लिक स्क्वायर के वास्तुकार हॉक हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">HOK (firm) were the architects of 200 Public Square.</lex>
+      <lex comment="" lid="Id2" lang="hi">useimHOK (फर्म) 200 पब्लिक स्क्वायर के आर्किटेक्ट थे।</lex>
+    </entry>
+    <entry category="Building" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | Building/floorArea | &quot;111483.648&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | floorArea | &quot;1200000.0&quot;^^&lt;http://dbpedia.org/datatype/squareFoot&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | floorArea | 111484 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">200 Public Square has a floor area of 111484 square metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">200 पब्लिक स्क्वायर का फ्लोर एरिया 111484 वर्ग मीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">200 Public Square is 111484 square metres.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | 200px | right | 200public square is 111484 square meters.</lex>
+    </entry>
+    <entry category="Building" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There are 45 floors at 200 Public Square.</lex>
+      <lex comment="" lid="Id1" lang="hi">200 पब्लिक स्क्वायर में 45 फ्लोर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">200 Public Square has a floor count of 45.</lex>
+      <lex comment="" lid="Id2" lang="hi">200 पब्लिक स्क्वायर में 45 फ्लोर हैं।</lex>
+    </entry>
+    <entry category="Building" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | &quot;Cleveland, Ohio 44114&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | &quot;Cleveland, Ohio 44114&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">200 Public Square is located in Cleveland, Ohio 44114.</lex>
+      <lex comment="" lid="Id1" lang="hi">public square cleveland, Ohio 44114 में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">200 Public Square is located in Cleveland Ohio 44114.</lex>
+      <lex comment="" lid="Id2" lang="hi">public square cleveland Ohio 44114 में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | &quot;United States&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | &quot;United States&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">200 Public Square is located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">public square, public square, public square, public square, public square in the United States.</lex>
+    </entry>
+    <entry category="Building" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Cleveland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | Cleveland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">200 Public square is in Cleveland.</lex>
+      <lex comment="" lid="Id1" lang="hi">cleveland में 200 public square है।</lex>
+      <lex comment="" lid="Id2" lang="en">200 Public Square is located in Cleveland.</lex>
+      <lex comment="" lid="Id2" lang="hi">cleveland में public square है।</lex>
+    </entry>
+    <entry category="Building" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Public_Square,_Cleveland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | Public_Square,_Cleveland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">200 Public Square is located at Public Square, Cleveland.</lex>
+      <lex comment="" lid="Id1" lang="hi">cleveland के public square में public square है।</lex>
+      <lex comment="" lid="Id2" lang="en">200 Public Square is located in Public Square, Cleveland.</lex>
+      <lex comment="" lid="Id2" lang="hi">cleveland के public square में public square है।</lex>
+    </entry>
+    <entry category="Building" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | architect | Rafael_Viñoly</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | architect | Rafael_Viñoly</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">20 Fenchurch Street was designed by the architect Rafael Viñoly.</lex>
+      <lex comment="" lid="Id1" lang="hi">fenchurch Street का डिजाइन वास्तुकार Rafael Vieligioly ने किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Rafael Viñoly designed 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id2" lang="hi">राफेल विडायलिमोली ने 20 फेनचर्च स्ट्रीट को डिजाइन किया है।</lex>
+    </entry>
+    <entry category="Building" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | completionDate | &quot;April 2014&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | buildingEndDate | &quot;April 2014&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | completionDate | &quot;April 2014&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">20 Fenchurch Street was completed in April of 2014.</lex>
+      <lex comment="" lid="Id1" lang="hi">20 फेनचर्च स्ट्रीट का निर्माण कार्य 2014 के एप्रिलमें पूरा हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">20 Fenchurch Street was completed in April 2014.</lex>
+      <lex comment="" lid="Id2" lang="hi">20 फेनचर्च स्ट्रीट का निर्माण कार्य अप्रैल 2014 में पूरा किया गया।</lex>
+    </entry>
+    <entry category="Building" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | floorArea | &quot;62145.3&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | Building/floorArea | &quot;62145.25893504&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | floorArea | 62145.3 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">20 Fenchurch Street has a floor area of 62145.3 square metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">20 फेनचर्च स्ट्रीट का फ्लोर एरिया 62145.3 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | floorCount | 34</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | floorCount | 34</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There are 34 floors at 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id1" lang="hi">20 फेनचर्च स्ट्रीट में 34 मंजिलें हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">20 Fenchurch Street has a floor count of 34.</lex>
+      <lex comment="" lid="Id2" lang="hi">20 फेनचर्च स्ट्रीट की फ्लोर संख्या 34 है।</lex>
+    </entry>
+    <entry category="Building" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | location | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | location | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">20 Fenchurch Street is located in London.</lex>
+      <lex comment="" lid="Id1" lang="hi">fenchurch street लंदन में है।</lex>
+    </entry>
+    <entry category="Building" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | buildingStartDate | &quot;January, 2014&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | buildingStartDate | &quot;January, 2014&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The construction of 250 Delaware Avenue began in January 2014.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू का निर्माण जनवरी 2014 में शुरू हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">The start date of building 250 Delaware Avenue was January 2014.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू के निर्माण की प्रारंभ तिथि जनवरी 2014 थी।</lex>
+      <lex comment="" lid="Id3" lang="en">January 2014 is the building start date of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id3" lang="hi">जनवरी 2014 के दौरान 250 डेलावेयर एवेन्यू का निर्माण कार्य प्रारंभ हुआ।</lex>
+    </entry>
+    <entry category="Building" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | cost | &quot;1.1E8&quot;^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | cost | &quot;110 million (dollars)&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue cost 110 million dollars.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू की लागत 110 मिलियन डॉलर है।</lex>
+      <lex comment="" lid="Id2" lang="en">The cost to build 250 Delaware Avenue is &quot;110 million (dollars)&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू के निर्माण की लागत 110 मिलियन (डॉलर) है।</lex>
+    </entry>
+    <entry category="Building" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | floorArea | &quot;30843.8&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | floorArea | 30843.8 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue has a floor area of 30843.8 square metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू का फ्लोर एरिया 30843.8 वर्ग मीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue has a floor area of 30843.8 (square metres).</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू का फ्लोर एरिया 30843.8 (वर्ग मीटर) है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delawre Avenue has a floor area of 30843.8 square metres.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावर एवेन्यू का फ्लोर एरिया 30843.8 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | floorCount | 12</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | floorCount | 12</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue has 12 floors.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू में 12 मंजिलें हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">There are a total of 12 floors in 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू में कुल 12 मंजिलें हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue has a floor count of 12.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू में फ्लोर संख्या 12 है।</lex>
+    </entry>
+    <entry category="Building" eid="35" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | location | Buffalo,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | location | Buffalo,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is a location in Buffalo, New York.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | 250px | डेलावेयर एवेन्यू बफेलो, न्यूयॉर्क में एक स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in Buffalo, New York.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू न्यूयॉर्क के बफेलो में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is in Buffalo, New York.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू बफेलो, न्यूयॉर्क में है।</lex>
+    </entry>
+    <entry category="Building" eid="36" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="37" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | architect | Pickard_Chilton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | architect | Pickard_Chilton</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Pickard Chilton is the architect of 300 North LaSalle.</lex>
+      <lex comment="" lid="Id1" lang="hi">पिकार्ड चिल्टन 300 नॉर्थ लासाले के वास्तुकार हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The architect of 300 North LaSalle is Pickard Chilton.</lex>
+      <lex comment="" lid="Id2" lang="hi">300 नॉर्थ लासाले के वास्तुकार पिकार्ड चिल्टन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The architect of 300 North LaSalle was Pickard Chilton.</lex>
+      <lex comment="" lid="Id3" lang="hi">300 नॉर्थ लासाले के वास्तुकार पिकार्ड चिल्टन थे।</lex>
+    </entry>
+    <entry category="Building" eid="38" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | completionDate | 2009</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>300_North_LaSalle | buildingEndDate | &quot;2009&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | completionDate | 2009</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">300 North LaSalle was completed in 2009.</lex>
+      <lex comment="" lid="Id1" lang="hi">300 नॉर्थ लासाले को 2009 में पूरा किया गया।</lex>
+      <lex comment="" lid="Id2" lang="en">The building at 300 North LaSalle was completed in 2009.</lex>
+      <lex comment="" lid="Id2" lang="hi">300 नॉर्थ लासाले की इमारत 2009 में पूरी हुई।</lex>
+    </entry>
+    <entry category="Building" eid="39" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | Building/floorArea | &quot;120770.0&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | floorArea | 120770.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The floor area of 300 North LaSalle is 120770.0 square metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">300 नॉर्थ लासाले का फ्लोर एरिया 120770.0 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="40" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | location | Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | location | Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">300 North LaSalle is in Illinois.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 300px | इलिनोइस में नॉर्थ लासेल।</lex>
+    </entry>
+    <entry category="Building" eid="41" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | buildingEndDate | &quot;1929&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | completionDate | 1929</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | completionDate | 1929</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The construction of 320 South Boston Building was completed in 1929.</lex>
+      <lex comment="" lid="Id1" lang="hi">1929 में 320 साउथ बोस्टन बिल्डिंग का निर्माण पूरा हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">320 South Boston was completed in 1929.</lex>
+      <lex comment="" lid="Id2" lang="hi">320 दक्षिण बोस्टन परियोजना 1929 में पूरी हुई थी।</lex>
+      <lex comment="" lid="Id3" lang="en">320 South Boston Building was completed in 1929.</lex>
+      <lex comment="" lid="Id3" lang="hi">320 साउथ बोस्टन बिल्डिंग का निर्माण 1929 में पूरा हुआ था।</lex>
+    </entry>
+    <entry category="Building" eid="42" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | floorCount | 22</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | floorCount | 22</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There are 22 floors in 320 South Boston Building.</lex>
+      <lex comment="" lid="Id1" lang="hi">320 साउथ बोस्टन बिल्डिंग में 22 फ्लोर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The building at 320 South Boston Street has 22 floors.</lex>
+      <lex comment="" lid="Id2" lang="hi">320 साउथ बोस्टन स्ट्रीट स्थित इस इमारत में 22 मंजिलें हैं।</lex>
+    </entry>
+    <entry category="Building" eid="43" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | formerName | &quot;Exchange National Bank Building&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | formerName | &quot;Exchange National Bank Building&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">320 South Boston Building was formerly called the Exchange National Bank Building.</lex>
+      <lex comment="" lid="Id1" lang="hi">320 साउथ बोस्टन बिल्डिंग को पहले एक्सचेंज नेशनल बैंक बिल्डिंग कहा जाता था।</lex>
+      <lex comment="" lid="Id2" lang="en">The previous name of 320 South Boston Building was the Exchange National Bank Building.</lex>
+      <lex comment="" lid="Id2" lang="hi">320 साउथ बोस्टन बिल्डिंग का पूर्व नाम एक्सचेंज नेशनल बैंक बिल्डिंग था।</lex>
+    </entry>
+    <entry category="Building" eid="44" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>320_South_Boston_Building | height | &quot;400.0&quot;^^&lt;http://dbpedia.org/datatype/foot&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>320_South_Boston_Building | height | 121.92 (metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 320 South Boston Building is 121.92 metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">साउथ बोस्टन बिल्डिंग की लंबाई 121.92 मीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 320 South Boston Building has a height of 121.92 metres.</lex>
+      <lex comment="" lid="Id2" lang="hi">320 साउथ बोस्टन बिल्डिंग की ऊंचाई 121.92 मीटर है।</lex>
+      <lex comment="" lid="Id3" lang="en">320 South Boston Building is 121.92 metres in height.</lex>
+      <lex comment="" lid="Id3" lang="hi">320 दक्षिण बोस्टन भवन की ऊंचाई 121.92 मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="45" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | architect | Populous_(company)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | architect | Populous_(company)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect of 3Arena was the company Populous.</lex>
+      <lex comment="" lid="Id1" lang="hi">threarena का आर्किटेक्ट populous कंपनी थी।</lex>
+      <lex comment="" lid="Id2" lang="en">The company Populous were the architects who designed the 3Arena.</lex>
+      <lex comment="" lid="Id2" lang="hi">three arena को डिजाइन करने वाले आर्किटेक्ट थे populous कंपनी।</lex>
+    </entry>
+    <entry category="Building" eid="46" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | buildingType | &quot;Concert and events venue&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | buildingType | &quot;Concert and events venue&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 3Arena is a concerts and events venue type building.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | upright | 3एरिना एक संगीत कार्यक्रम और कार्यक्रम स्थल के प्रकार की इमारत है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 3Arena hosts concerts and events.</lex>
+      <lex comment="" lid="Id2" lang="hi">threatena reference concerts and events host threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reference threatena reatena reference threatena reference threatena</lex>
+    </entry>
+    <entry category="Building" eid="47" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | buildingEndDate | &quot;December 2008&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>3Arena | completionDate | &quot;December 2008&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | completionDate | &quot;December 2008&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The completion date of 3Arena is December 2008.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 2008px | 3Arena पूरा होने की तिथि दिसंबर 2008</lex>
+      <lex comment="" lid="Id2" lang="en">The 3Arena was completed in December 2008.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | upright | 3Arena 2008 डिसेंबर में पूरा हुआ।</lex>
+    </entry>
+    <entry category="Building" eid="48" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | height | &quot;28.0&quot;^^&lt;http://dbpedia.org/datatype/metre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | height | 28.0 (metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The height of 3 arena is 28 metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">3 अखाड़ों की लंबाई 28 मीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">The height of 3Arena is 28.0 metres.</lex>
+      <lex comment="" lid="Id2" lang="hi">3 एरीना की ऊंचाई 28.0 मीटर है।</lex>
+      <lex comment="" lid="Id3" lang="en">3Arena is 28.0 metres high.</lex>
+      <lex comment="" lid="Id3" lang="hi">समुद्र तल से इसकी ऊंचाई 28.0 मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="49" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | location | &quot;North Wall Quay&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | &quot;North Wall Quay&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 3Arena is located at the North Wall Quay.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | 3Arena | उत्तर दीवार क्वे पर स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 3Arena is located on North Wall Quay.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | 3Arena | upright | नॉर्थ वॉल क्वे पर स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 3Arena is located at &quot;North Wall Quay.&quot;.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | upright | 3Arena | उत्तर दीवार क्वे पर स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="50" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | location | Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | Dublin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 3Arena is located in Dublin.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | upright | 3Arena | डबलिन में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">3 Arena is located in Dublin.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | 3thumbnail | upright | डबलिन में अरीना स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">3Arena is located in Dublin.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | 3rena | डबलिन में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="51" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | location | North_Wall,_Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | North_Wall,_Dublin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">3Arena is located at North Wall, Dublin.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | 3rena | डबलिन के नॉर्थ वॉल में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 3Arena is located at North Wall, Dublin.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | 3Arena | डबलिन के उत्तर दीवार में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="52" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The owner of 3Arena is Live Nation Entertainment.</lex>
+      <lex comment="" lid="Id1" lang="hi">लाइव नेशन एंटरटेनमेंट 3 एरिना का मालिक है।</lex>
+      <lex comment="" lid="Id2" lang="en">3Arena is owned by Live Nation Entertainment.</lex>
+      <lex comment="" lid="Id2" lang="hi">3एरिना लाइव नेशन एंटरटेनमेंट के स्वामित्व में है।</lex>
+    </entry>
+    <entry category="Building" eid="53" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">3XN was the architect of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | 3XN AC Hotel Bella Sky Copenhagen के वास्तुकार</lex>
+      <lex comment="" lid="Id2" lang="en">The AC Hotel Bella Sky in Copenhagen was designed by the architects of the 3XN firm.</lex>
+      <lex comment="" lid="Id2" lang="hi">कोपेनहेगन में ए. सी. होटल बेला स्काई को 3XN फर्म के वास्तुकारों द्वारा डिजाइन किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The architect of the AC Hotel Bella Sky, Copenhagen was 3XN.</lex>
+      <lex comment="" lid="Id3" lang="hi">कोपेनहेगन के ए. सी. होटल बेला स्काई के वास्तुकार 3XN थे।</lex>
+    </entry>
+    <entry category="Building" eid="54" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | developer | Bella_Center</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The AC Hotel Bella Sky, Copenhagen was developed by the Bella Center.</lex>
+      <lex comment="" lid="Id1" lang="hi">कोपेनहेगन के बेला स्काई में वातानुकूलित होटल बेला सेंटर द्वारा विकसित किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The developer of the AC Hotel Bella Sky in Copenhagen is Bella Center.</lex>
+      <lex comment="" lid="Id2" lang="hi">कोपेनहेगन में एसी होटल बेला स्काई के डेवलपर बेला सेंटर हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Bella Center were developers of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | upright | बेला सेंटर एसी होटल बेला स्काई कोपेनहेगन के डेवलपर्स थे</lex>
+    </entry>
+    <entry category="Building" eid="55" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | &quot;23&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The AC Hotel Bella Sky Copenhagen has 23 floors.</lex>
+      <lex comment="" lid="Id1" lang="hi">होटल बेला स्काई कोपेनहेगन में 23 मंजिलें हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">There are 23 floors in the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="hi">कोपेनहेगन के एसी होटल बेला स्काई में 23 मंजिलें हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Bella Sky hotel in Copenhagen has 23 floors.</lex>
+      <lex comment="" lid="Id3" lang="hi">कोपेनहेगन के बेला स्काई होटल में 23 मंजिलें हैं।</lex>
+    </entry>
+    <entry category="Building" eid="56" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The AC Hotel Bella Sky is in Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | कोपेनहेगन में एसी होटल बेला स्काई</lex>
+      <lex comment="" lid="Id2" lang="en">AC Hotel Bella Sky Copenhagen is located in Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | upright | upright | कोपेनहेगन में कोपेनहेगन में स्थित बेला स्काई एसी होटल</lex>
+      <lex comment="" lid="Id3" lang="en">The AC Hotel , Bella Sky is located in Copenhagen.</lex>
+      <lex comment="" lid="Id3" lang="hi">कोपेनहेगन में बेला स्काई का ए. सी. होटल है।</lex>
+    </entry>
+    <entry category="Building" eid="57" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | location | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Hotel Bella Sky is in Copenhagen, Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | डेनमार्क के कोपेनहेगन में बेला स्काई एसी होटल</lex>
+      <lex comment="" lid="Id2" lang="en">AC Hotel Bella Sky Copenhagen is located in Denmark.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | डेनमार्क में बेला स्काई कोपेनहेगन स्थित ए. सी. होटल.</lex>
+    </entry>
+    <entry category="Building" eid="58" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Hotel Bella Sky Copenhagen is owned by Bella Center.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | बेला स्काई कोपेनहेगन एसी होटल बेला सेंटर के स्वामित्व में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The owner of the AC Hotel Bella Sky Copenhagen is Bella Center.</lex>
+      <lex comment="" lid="Id2" lang="hi">होटल बेला स्काई कोपेनहेगन का मालिक बेला सेंटर है।</lex>
+    </entry>
+    <entry category="Building" eid="59" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Marriott International is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="hi">मेरियोट इंटरनेशनल, ए. सी. होटल बेला स्काई कोपेनहेगन का किरायेदार है।</lex>
+      <lex comment="" lid="Id2" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International.</lex>
+      <lex comment="" lid="Id2" lang="hi">होटल बेला स्काई कोपेनहेगन का किरायेदार मारियट इंटरनेशनल है।</lex>
+      <lex comment="" lid="Id3" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel.</lex>
+      <lex comment="" lid="Id3" lang="hi">होटल बेला स्काई कोपेनहेगन के किरायेदार मेरियोट इंटरनेशनल होटल है।</lex>
+    </entry>
+    <entry category="Building" eid="60" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare | subdivisionName | Munster</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adare | isPartOf | Munster</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare | isPartOf | Munster</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare is part of Munster.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | एडारे मुन्स्टर का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="61" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | architect | Augustus_Pugin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | architect | Augustus_Pugin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect of Adare Manor is Augustus Pugin.</lex>
+      <lex comment="" lid="Id1" lang="hi">Adare Manor के वास्तुकार Augustus Pugin हैं।</lex>
+    </entry>
+    <entry category="Building" eid="62" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | architect | George_Richard_Pain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | architect | George_Richard_Pain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect of Adare Manor is George Richard Pain.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडारे मैनर के वास्तुकार जॉर्ज रिचर्ड पेन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor's architect was George Richard Pain.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | एडारे मेनर के वास्तुकार जार्ज रिचर्ड पेन थे।</lex>
+      <lex comment="" lid="Id3" lang="en">The architect of Adare Manor was George Richard Pain.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडारे मैनर के वास्तुकार जॉर्ज रिचर्ड पेन थे।</lex>
+    </entry>
+    <entry category="Building" eid="63" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | architect | James_Pain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | architect | James_Pain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect of Adare Manor was James Pain.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडारे मैनर के वास्तुकार जेम्स पेन थे।</lex>
+      <lex comment="" lid="Id2" lang="en">James Pain was the architect of the Adare Manor.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | एडारे मेनर के वास्तुकार जेम्स पेन</lex>
+    </entry>
+    <entry category="Building" eid="64" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | architect | Lewis_Nockalls_Cottingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare Manor was designed by the architect Lewis Nockalls Cottingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 250px | upright | एडारे मेनर आर्किटेक्ट लुईस नोकल्स कोटिंघम द्वारा डिजाइन किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Lewis Nockalls Cottingham is the architect of Adare Manor.</lex>
+      <lex comment="" lid="Id2" lang="hi">लुईस नॉकलस कोटिंघम एडारे मनोर के वास्तुकार हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Lewis Cottingham is the architect of Adare Manor.</lex>
+      <lex comment="" lid="Id3" lang="hi">लुईस कोटिंघम एडारे मनोर के वास्तुकार हैं।</lex>
+    </entry>
+    <entry category="Building" eid="65" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | architect | Philip_Charles_Hardwick</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | architect | Philip_Charles_Hardwick</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Philip Charles Hardwick was the architect of Adare Manor.</lex>
+      <lex comment="" lid="Id1" lang="hi">फिलिप चार्ल्स हार्डविक एडारे मनोर के वास्तुकार थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor's architect was Philip Charles Hardwick.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | एडारे मेनर के वास्तुकार फिलिप चार्ल्स हार्डविक</lex>
+      <lex comment="" lid="Id3" lang="en">The architect responsible for Adare Manor was Philip Charles Hardwick.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडारे मैनर के वास्तुकार फिलिप चार्ल्स हार्डविक थे।</lex>
+    </entry>
+    <entry category="Building" eid="66" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | completionDate | 1862</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adare_Manor | buildingEndDate | &quot;1862&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | completionDate | 1862</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The construction of Adare Manor was completed in 1862.</lex>
+      <lex comment="" lid="Id1" lang="hi">1862 में अडारे मनोर का निर्माण पूरा हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor was completed in 1862.</lex>
+      <lex comment="" lid="Id2" lang="hi">अडारे मनोर का निर्माण कार्य 1862 में पूरा हुआ।</lex>
+      <lex comment="" lid="Id3" lang="en">The completion date of Adare Manor is 1862.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडारे मनोर के पूरा होने की तिथि 1862 है।</lex>
+    </entry>
+    <entry category="Building" eid="67" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | locationTown | Adare</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adare_Manor | location | Adare</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | location | Adare</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare Manor is located in Adare.</lex>
+      <lex comment="" lid="Id1" lang="hi">अड़ारे मनोर शहर अड़ारे में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="68" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | locationTown | County_Limerick</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adare_Manor | location | County_Limerick</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | location | County_Limerick</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare Manor is located in County Limerick.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | एडारे मेनर काउंटी लिमेरिक में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor can be found in County Limerick.</lex>
+      <lex comment="" lid="Id2" lang="hi">county Limerick में पाया जा सकता है।</lex>
+    </entry>
+    <entry category="Building" eid="69" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adare_Manor | owner | J._P._McManus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adare_Manor | owner | J._P._McManus</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">J P McManus is the owner of Adare Manor.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | एडारे मनोर के मालिक जे. पी.</lex>
+      <lex comment="" lid="Id2" lang="en">J.P. McManus is the owner of Adare Manor.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | upright | एडारे मनोर के मालिक जे. पी.</lex>
+      <lex comment="" lid="Id3" lang="en">JP McManus owns Adare Manor.</lex>
+      <lex comment="" lid="Id3" lang="hi">जे. पी. मैकमानुस अदारे मनोर के मालिक हैं।</lex>
+    </entry>
+    <entry category="Building" eid="70" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa is located in Ethiopia.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा इथियोपिया में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa is in Ethiopia.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा इथियोपिया में है।</lex>
+    </entry>
+    <entry category="Building" eid="71" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa | isPartOf | Addis_Ababa_Stadium</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa Stadium is part of Addid Ababa.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा स्टेडियम आदिद अबाबा का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa Stadium is situated in Addis Ababa.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा स्टेडियम अदीस अबाबा में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Addis Ababa Stadium is part of Addis Ababa.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा स्टेडियम अदीस अबाबा का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="72" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | startDate | 1961</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | buildingStartDate | 1961</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Building started on the Addis Ababa City Hall in 1961.</lex>
+      <lex comment="" lid="Id1" lang="hi">अडिस अबाबा सिटी हॉल में 1961 में निर्माण कार्य शुरू हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">The start date for building Addis Ababa City Hall was 1961.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल के निर्माण का प्रारंभ 1961 में हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">They started to build Addis Ababa City Hall in 1961.</lex>
+      <lex comment="" lid="Id3" lang="hi">1961 में उन्होंने अदीस अबाबा सिटी हॉल का निर्माण शुरू किया।</lex>
+    </entry>
+    <entry category="Building" eid="73" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | buildingType | Seat_of_local_government</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Addis Ababa City Hall is the seat of the local government.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल स्थानीय सरकार का केंद्र है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall is the seat of Local Government.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल स्थानीय सरकार की राजधानी है।</lex>
+    </entry>
+    <entry category="Building" eid="74" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | completionDate | 1964</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | completionDate | 1964</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addid Ababa City Hall was completed in 1964.</lex>
+      <lex comment="" lid="Id1" lang="hi">आदिद अबाबा सिटी हॉल 1964 में पूरा हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall's completion date was in 1964.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल का निर्माण कार्य 1964 में पूरा हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall was completed in 1964.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल का निर्माण 1964 में पूरा हुआ।</lex>
+    </entry>
+    <entry category="Building" eid="75" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in the country of Ethiopia.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया देश में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Addis Ababa City Hall is in the country of Ethiopia.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया देश में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall is in Ethiopia.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया में है।</lex>
+    </entry>
+    <entry category="Building" eid="76" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | &quot;Government of Addis Ababa&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | &quot;Government of Addis Ababa&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Government of Addis Ababa is the current tenant of the Addis Ababa City Hall.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सरकार अदीस अबाबा सिटी हॉल की वर्तमान किराएदार है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Government of Addis Ababa is the current tenants of the Addis Ababa city hall.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सरकार अदीस अबाबा सिटी हॉल की वर्तमान किराएदार है।</lex>
+      <lex comment="" lid="Id3" lang="en">The &quot; Government of Addis Ababa&quot; are the current tenants of Addis Ababa City Hall.</lex>
+      <lex comment="" lid="Id3" lang="hi">&quot;&quot; &quot;अदीस अबाबा सरकार&quot; &quot;अदीस अबाबा सिटी हॉल के वर्तमान किराएदार हैं.&quot;</lex>
+    </entry>
+    <entry category="Building" eid="77" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | Building/floorArea | &quot;140000.0&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | floorArea | &quot;140000.0&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The floor area of Addis Ababa City Hall is 140000.0 (square metres).</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल का फ्लोर एरिया 1400.0 (वर्ग मीटर) है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall has a 140000.0 (square metres) floor area.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल का क्षेत्रफल 1400.0 वर्ग मीटर है।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall has a floor area of 140000.0 square metres.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल का फ्लोर एरिया 1400.0 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="78" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | height | &quot;42.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | height | &quot;42 m&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall has a height of 42 metres.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल की ऊंचाई 42 मीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall is 42 m high.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल 42 मीटर ऊंचा है।</lex>
+    </entry>
+    <entry category="Building" eid="79" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in Addis Ababa.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="80" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | address | &quot;St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | address | &quot;St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adisham Hall is located on St. Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex comment="" lid="Id1" lang="hi">st. benedict 's monastery, Adisham, Haputhale, Sri Lanka में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The address of Adisham Hall is St. Benedicts Monastery,Adisham,Haputhale,Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">आदिशम हॉल का पता सेंट बेनेडिक्ट्स मठ, आदिशम, हपुथाले, श्रीलंका है।</lex>
+      <lex comment="" lid="Id3" lang="en">The address of Adisham Hall is, St Benedict's Monastery, Adisham, Haputhale, Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">आदिशम हॉल का पता सेंट बेनेडिक्ट्स मठ, आदिशम, हपुथाले, श्रीलंका है।</lex>
+    </entry>
+    <entry category="Building" eid="81" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | &quot;Tudor and Jacabian&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | &quot;Tudor and Jacabian&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adisham Halls Architectural style`is Tudor and Jacabian.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | 250px | upright | अडिशम हॉल-वास्तुशिल्प शैली-ट्यूडर और जैकबियन</lex>
+      <lex comment="" lid="Id2" lang="en">The architecture style of Adisham Hall is Tudor and Jacabian.</lex>
+      <lex comment="" lid="Id2" lang="hi">आदिशम हॉल की वास्तुकला शैली ट्यूडर और जेकबियन है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adisham Hall is in the architectural style of &quot;Tudor and Jacobean&quot;.</lex>
+      <lex comment="" lid="Id3" lang="hi">आदिशम हॉल ट्यूडर और जेकोबीयन वास्तुशिल्प शैली में है।</lex>
+    </entry>
+    <entry category="Building" eid="82" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | Tudor_Revival_architecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adisham Hall has the Tudor Revival architectural style.</lex>
+      <lex comment="" lid="Id1" lang="hi">tudor revival architectural style है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adisham Hall has the architectural style 'Tudor Revival'.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | upright | 250px | upright | आदिशम हॉल में 'ट्यूडर रिवाइवल' स्थापत्य शैली है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Adisham Hall's style of architecture is Tudor Revival.</lex>
+      <lex comment="" lid="Id3" lang="hi">आदिशम हॉल की वास्तुकला शैली ट्यूडर रिवाइवल है।</lex>
+    </entry>
+    <entry category="Building" eid="83" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | buildingStartDate | &quot;1927&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | buildingStartDate | &quot;1927&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Construction of Adisham Hall began in 1927.</lex>
+      <lex comment="" lid="Id1" lang="hi">आदिशम हॉल का निर्माण 1927 में शुरू हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">Adisham Hall was begun to be built in 1927.</lex>
+      <lex comment="" lid="Id2" lang="hi">आदिशम हॉल 1927 में निर्मित होने लगा।</lex>
+    </entry>
+    <entry category="Building" eid="84" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | completionDate | 1931</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | buildingEndDate | &quot;1931&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | completionDate | 1931</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adisham Hall was completed in 1931.</lex>
+      <lex comment="" lid="Id1" lang="hi">आदिशम हॉल 1931 में पूरा हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">The construction of Adisham Hall was completed in 1931.</lex>
+      <lex comment="" lid="Id2" lang="hi">आदिशम हॉल निर्माण 1931 में पूरा हुआ।</lex>
+      <lex comment="" lid="Id3" lang="en">Adisham Hall was finished in 1931.</lex>
+      <lex comment="" lid="Id3" lang="hi">1931-ए आदिशम हालेर निर्माण कार्य समाप्त</lex>
+    </entry>
+    <entry category="Building" eid="85" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adisham Hall is located in Sri Lanka.</lex>
+      <lex comment="" lid="Id1" lang="hi">sri lanka increased Adisham Hall श्रीलंका में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adisham Hall is located in the country of Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">आदिशम हॉल श्रीलंका में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adisham Hall is in Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">right | thumb | 250px | श्रीलंकाय़ आदिशम हॉल</lex>
+    </entry>
+    <entry category="Building" eid="86" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | location | &quot;Haputale, Sri Lanka&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | location | &quot;Haputale, Sri Lanka&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Admisham Hall is located at Haputale, Sri Lanka.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदमिशाम हॉल श्रीलंका के हापुतले में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adisham Hall is located in Haputale, Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">आतिशम हॉल श्रीलंका के हापुतले में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adisham Hall is in Haputale, Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">आदिशम हॉल श्रीलंका के हापुतले में है।</lex>
+    </entry>
+    <entry category="Building" eid="87" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Adisham_Hall | location | Sri_Lanka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | location | Sri_Lanka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adisham Hall is located in Sri Lanka.</lex>
+      <lex comment="" lid="Id1" lang="hi">sri lanka increased Adisham Hall श्रीलंका में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adisham Hall is in Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">right | thumb | 250px | श्रीलंकाय़ आदिशम हॉल</lex>
+      <lex comment="" lid="Id3" lang="en">Adisham Hall is located in Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">sri lanka increased Adisham Hall श्रीलंका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="88" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ahmedabad | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmedabad | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ahmedabad is in India.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदाबाद भारत में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ahmedabad is located in India.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदाबाद भारत में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="89" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita,_Akita | country | Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita,_Akita | country | Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akita Akita is found in the country of Japan.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान देश में अकिता नामक पुस्तक पाई जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Akita is located in Japan.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता जापान में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="90" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita,_Akita | isPartOf | Akita_Prefecture</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akita, Akita is part of Akita Prefecture.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता, अकिता, अकिता प्रीफेक्चर का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="91" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | address | &quot;1-4-2 Nakadori&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | address | &quot;1-4-2 Nakadori&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The address of Akita Museum of Art is &quot;1-4-2 Nakadori&quot;.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता म्यूजियम ऑफ आर्ट का पता 1-4-2 नकडोरी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The address of Akita Musuem of Art is 142 Nakadori.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता म्यूजियम ऑफ आर्ट का पता 142 नाकाडोरी है।</lex>
+    </entry>
+    <entry category="Building" eid="92" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | architect | Tadao_Ando</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | architect | Tadao_Ando</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tadao Ando is the architect who designed the Akita Museum of Art.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता कला संग्रहालय को डिजाइन करने वाले वास्तुकार तादाओ एंडो हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Tadao Ando is the architect of the Akita Museum of Art.</lex>
+      <lex comment="" lid="Id2" lang="hi">tadao ando is the architect of the Akita Museum of Art.</lex>
+      <lex comment="" lid="Id3" lang="en">Tadao Ando is the architect of Akita Museum.</lex>
+      <lex comment="" lid="Id3" lang="hi">अकिता संग्रहालय के वास्तुकार तादाओ एंडो हैं।</lex>
+    </entry>
+    <entry category="Building" eid="93" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | floorArea | &quot;3746.66&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | Building/floorArea | &quot;3746.66&quot;^^&lt;http://dbpedia.org/datatype/squareMetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | floorArea | 3746.66 (square metres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Akita Museum of Art has a floor area of 3746.66 (square metres).</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता कला संग्रहालय का क्षेत्रफल 3746.66 वर्ग मीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">The floor area of the Akita Museum of Art is 3746.66 square metres.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता म्यूजियम ऑफ आर्ट का फ्लोर एरिया 3746.66 वर्ग मीटर है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Akita Museum of Art has a floor area of 3746.66 square metres.</lex>
+      <lex comment="" lid="Id3" lang="hi">अकिता कला संग्रहालय का क्षेत्रफल 3746.66 वर्ग मीटर है।</lex>
+    </entry>
+    <entry category="Building" eid="94" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | floorCount | &quot;3&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | floorCount | 3</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Akita Museum of Art has 3 floors.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता कला संग्रहालय में तीन मंजिलें हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Akita Museum of Art 3 floors.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता म्यूज़ियम ऑफ आर्ट की तीसरी मंजिल.</lex>
+    </entry>
+    <entry category="Building" eid="95" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita,_Akita</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akita Museum of Art is an art museum in the city of Akita.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता कला संग्रहालय अकिता शहर में एक कला संग्रहालय है।</lex>
+      <lex comment="" lid="Id2" lang="en">Akita Museum of Art is located in Akita, Akita.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिटा संग्रहालय अकिटा, अकिटा में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Akita Museum of Art is located in Akita, Akita.</lex>
+      <lex comment="" lid="Id3" lang="hi">अकिता कला संग्रहालय अकिता, अकिता में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="96" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | location | Akita_Prefecture</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akita Museum of Art is located in Akita Prefecture.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता कला संग्रहालय अकिता प्रांत में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Akita Museum of Art is located in Akita Prefecture.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता कला संग्रहालय अकिता प्रांत में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="97" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akita_Prefecture | country | Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akita_Prefecture | country | Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Akita Prefecture is located in Japan.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता प्रीफेक्चर जापान में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Akita Prefecture is part of the country of Japan.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता प्रीफेक्चर जापान देश का हिस्सा है।</lex>
+      <lex comment="" lid="Id3" lang="en">Akita Prefecture is located in Japan.</lex>
+      <lex comment="" lid="Id3" lang="hi">अकिता प्रशासनिक क्षेत्र जापान में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="98" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | address | &quot;101 Ukrop Way&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | address | &quot;101 Ukrop Way&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The address of Alan B. Miller Hall is &quot;101 Ukrop Way&quot;.</lex>
+      <lex comment="" lid="Id1" lang="hi">मिलर हॉल का पता 101 यूक्रॉप वे है।</lex>
+      <lex comment="" lid="Id2" lang="en">The address of Alan B. Miller Hall is 101 Ukrop Way.</lex>
+      <lex comment="" lid="Id2" lang="hi">मिलर हॉल का पता 101 यूक्रॉप वे है।</lex>
+    </entry>
+    <entry category="Building" eid="99" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Robert A.M. Stern is the architect for Alan B. Miller Hall.</lex>
+      <lex comment="" lid="Id1" lang="hi">रॉबर्ट ए. एम. स्टर्न एलन बी. मिलर हॉल के वास्तुकार हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The architect of Alan B Miller Hall is Robert A M Stern.</lex>
+      <lex comment="" lid="Id2" lang="hi">Alan B Miller Hall के वास्तुकार Robert A M Stern हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan B. Miller Hall was designed by Robert A.M. Stern.</lex>
+      <lex comment="" lid="Id3" lang="hi">मिलर हॉल को रॉबर्ट ए. एम. स्टर्न द्वारा डिजाइन किया गया था।</lex>
+    </entry>
+    <entry category="Building" eid="100" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architectural style of the Alan B. Miller Hall is Georgian.</lex>
+      <lex comment="" lid="Id1" lang="hi">एलन बी मिलर हॉल की वास्तुकला शैली जॉर्जियाई है।</lex>
+      <lex comment="" lid="Id2" lang="en">The architectural style of the Alan B Miller Hall is Georgian.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बी मिलर हॉल की वास्तुकला शैली जॉर्जियाई है।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan B Miller Hall was built in the Georgian architecture style.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | upright | एलन बी मिलर हॉल जॉर्जियाई वास्तुकला शैली में बनाया गया है।</lex>
+    </entry>
+    <entry category="Building" eid="101" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | startDate | &quot;2007-03-30&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | buildingStartDate | &quot;30 March 2007&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | buildingStartDate | &quot;30 March 2007&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan B. Miller Hall's building start date was in 30th March 2007.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 280px | upright | 280px | 280px | लेमन एलन बी. मिलर सभागार का निर्माण कार्य 30 मार्च 2007 को प्रारम्भ हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">They started to build Alan B Miller Hall on 30 March, 2007.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | 300px | 300px | 30 मार्च 2007 को अलान बी मिलर हॉल का निर्माण</lex>
+    </entry>
+    <entry category="Building" eid="102" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | buildingEndDate | &quot;1 June 2009&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | completionDate | &quot;2009-06-01&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | completionDate | 2009-06-01</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan B. Miller Hall was completed on June 1st, 2009.</lex>
+      <lex comment="" lid="Id1" lang="hi">miller hall) का निर्माण कार्य 1 जून 2009 को सम्पन्न हुआ।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan B. Miller Hall was completed on &quot;1 June 2009&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">miller hall) 1 June 2009 को पूर्ण किया गया।</lex>
+      <lex comment="" lid="Id3" lang="en">The Alan B. Millar Hall was completed on 1st June 2009.</lex>
+      <lex comment="" lid="Id3" lang="hi">मिलर हॉल का निर्माण कार्य 1 जून 2009 को पूरा किया गया था।</lex>
+    </entry>
+    <entry category="Building" eid="103" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | cost | &quot;7.5E7&quot;^^&lt;http://dbpedia.org/datatype/usDollar&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | cost | &quot;75.0 million (dollars)&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Alan B Miller Hall cost 75 million dollars.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बी मिलर हॉल की लागत 75 मिलियन डॉलर थी।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan B. Miller Hall cost 75 million dollars.</lex>
+      <lex comment="" lid="Id2" lang="hi">मिलर हॉल की लागत 75 मिलियन डॉलर थी।</lex>
+    </entry>
+    <entry category="Building" eid="104" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | openingDate | &quot;2009-10-02&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | inaugurationDate | &quot;2009-10-02&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | inaugurationDate | &quot;2009-10-02&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan B. Miller Hall was in augurated on 2009-10-02.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 2009/10-02 पर alan B. Miller Hall का निर्माण</lex>
+      <lex comment="" lid="Id2" lang="en">Alan B. Miller Hall was inaugurated on &quot;2009-10-02&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">मिलर हॉल का उद्घाटन 2009-10-02 को किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The inauguration date of the Alan B. Miller Hall was 2nd October, 2009.</lex>
+      <lex comment="" lid="Id3" lang="hi">मिलर हॉल के उद्घाटन की तारीख 2 अक्तूबर, 2009 थी।</lex>
+    </entry>
+    <entry category="Building" eid="105" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | location | Virginia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | location | Virginia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan B Miller Hall is located in Virginia.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बी मिलर हॉल वर्जीनिया में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan B. Miller Hall is situated in Virginia.</lex>
+      <lex comment="" lid="Id2" lang="hi">वर्जीनिया में अलान बी मिलर हॉल स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="106" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Alan B. Miller Hall is in Williamsburg, Virginia.</lex>
+      <lex comment="" lid="Id1" lang="hi">वर्जीनिया के विलियम्सबर्ग में अलान बी मिलर हॉल का निर्माण किया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Alan B Miller Hall's location is Williamsburg, Virginia.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | 250px | वर्जीनिया के विलियम्सबर्ग में अलान बी मिलर हॉल</lex>
+      <lex comment="" lid="Id3" lang="en">The Alan B Miller Hall is located in Williamsburg, Virginia.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बी मिलर हॉल वर्जीनिया के विलियम्सबर्ग में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="107" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | tenant | Mason_School_of_Business</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | tenant | Mason_School_of_Business</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Mason School of Business is a tenant of the Alan B. Miller Hall.</lex>
+      <lex comment="" lid="Id1" lang="hi">mason School of Business, Alan B. Miller Hall का किरायेदार है।</lex>
+    </entry>
+    <entry category="Building" eid="108" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alfred_Giles_(architect) | birthPlace | England</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Giles_(architect) | placeOfBirth | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Giles_(architect) | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect Alfred Giles was born in England.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | वास्तुकार अल्फ्रेड जाइल्स इंग्लैंड में पैदा हुए थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Architect, Alfred Giles was born in England.</lex>
+      <lex comment="" lid="Id2" lang="hi">आर्किटेक्ट अल्फ्रेड जाइल्स का जन्म इंग्लैंड में हुआ था।</lex>
+    </entry>
+    <entry category="Building" eid="109" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alfred_Giles_(architect) | placeOfDeath | Kendall_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Giles_(architect) | deathPlace | Kendall_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The architect Alfred Giles died in Kendall County, Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">वास्तुकार अल्फ्रेड जाइल्स का निधन टेक्सास के केंडल काउंटी में हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">The architect Alfred Giles died in Kendall County Texas.</lex>
+      <lex comment="" lid="Id2" lang="hi">वास्तुकार अल्फ्रेड जाइल्स की केंडल काउंटी टेक्सास में मृत्यु हो गई।</lex>
+    </entry>
+    <entry category="Building" eid="110" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | buildingEndDate | &quot;1995&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | completionDate | 1995</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | completionDate | 1995</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa was completed in 1995.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | 200px | अमदाबाद में गुफा का निर्माण कार्य 1995 में पूरा</lex>
+    </entry>
+    <entry category="Building" eid="111" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | country | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in India.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदाबाद की गुफा भारत में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="112" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Ahmedabad</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The location of Amdavad ni Gufa is Ahmedabad.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदाबाद में ही अहमदाबाद की राजधानी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Ahmedabad.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदाबाद में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="113" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in Gujarat.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदाबाद की गुफा गुजरात में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="114" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | bedCount | &quot;476&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ampara_Hospital | beds | 476</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | bedCount | 476</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The bed count of Ampara Hospital is 476.</lex>
+      <lex comment="" lid="Id1" lang="hi">अंपारा अस्पताल में कुल बिस्तरों की संख्या 476 है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ampara Hospital has 476 beds.</lex>
+      <lex comment="" lid="Id2" lang="hi">अंपारा अस्पताल में 476 बिस्तर हैं।</lex>
+    </entry>
+    <entry category="Building" eid="115" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | location | Ampara</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | location | Ampara</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Ampara Hospital is in Ampara.</lex>
+      <lex comment="" lid="Id1" lang="hi">अम्पारा अस्पताल अम्पारा में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ampara Hospital is located in Ampara.</lex>
+      <lex comment="" lid="Id2" lang="hi">अम्पारा अस्पताल अम्पारा में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="116" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | region | Ampara_District</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | region | Ampara_District</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ampara Hospital is located in the region of Ampara District.</lex>
+      <lex comment="" lid="Id1" lang="hi">अम्पारा अस्पताल अम्पारा जिले के क्षेत्र में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ampara hospital is located in Ampara district.</lex>
+      <lex comment="" lid="Id2" lang="hi">अम्पारा अस्पताल अम्पारा जिले में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="117" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | state | Eastern_Province,_Sri_Lanka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ampara Hospital is in Eastern Province, Sri Lanka.</lex>
+      <lex comment="" lid="Id1" lang="hi">अंपारा अस्पताल श्रीलंका के पूर्वी प्रांत में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ampara Hospital is in the Eastern Province, Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">अंपारा अस्पताल श्रीलंका के पूर्वी प्रांत में है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Ampara Hospital is situated in the Eastern Province state of Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">अंपारा अस्पताल श्रीलंका के पूर्वी प्रांत राज्य में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="118" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | website | &lt;http://www.ghampara.gov.lk/&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | website | &lt;http://www.ghampara.gov.lk/&gt;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ampara Hospital has a website: http://www.ghampara.gov.lk/.</lex>
+      <lex comment="" lid="Id1" lang="hi">अम्पारा अस्पताल की वेबसाइट है: http:// twitter. htm / www. ghampara. gov. lk/.</lex>
+    </entry>
+    <entry category="Building" eid="119" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alfred Giles was the architect of Asher and Mary Isabelle Richardson House.</lex>
+      <lex comment="" lid="Id1" lang="hi">अल्फ्रेड जाइल्स एशर और मेरी इसाबेल रिचर्डसन हाउस के वास्तुकार थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Asher and Mary Isabelle Richardson House was designed by architect Alfred Giles.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | 150px | upright | मेरी इसाबेल रिचर्डसन हाउस का डिजाइन आर्किटेक्ट अल्फ्रेड गिल्स ने तैयार किया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The architect of Asher and Mary Isabelle Richardson House was Alfred Giles.</lex>
+      <lex comment="" lid="Id3" lang="hi">एशर और मेरी इसाबेल रिचर्डसन हाउस के वास्तुकार अल्फ्रेड जाइल्स थे।</lex>
+    </entry>
+    <entry category="Building" eid="120" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | &quot;.Asherton, Texas&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asher and Mary Isabelle Richardson House is located in Asherton, Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | टेक्सास के अशर्टन में स्थित एशर एंड मेरी इसाबेल रिचर्डसन हाउस.</lex>
+    </entry>
+    <entry category="Building" eid="121" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asher and Mary Isabelle Richardson House is located at U.S. Route 83.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | एशर एंड मेरी इसाबेल रिचर्डसन हाउस यू. एस. रूट 83 पर स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Asher and Mary Isabelle Richardson House is located on U.S. Route 83.</lex>
+      <lex comment="" lid="Id2" lang="hi">एशर एंड मेरी इसाबेल रिचर्डसन हाउस यू. एस. रूट 83 पर स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="122" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | built | 1911</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | &quot;1911&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asher and Mary Isabelle Richardson House was built in 1911.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | 250px | 1911 में एशर एंड मेरी इसाबेल रिचर्डसन हाउस का निर्माण</lex>
+      <lex comment="" lid="Id2" lang="en">Asher and Mary Isabelle Richardson House was constructed in 1911.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | 250px | आशेर एंड मेरी इसाबेल रिचर्डसन हाउस 1911 में निर्मित</lex>
+    </entry>
+    <entry category="Building" eid="123" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asherton,_Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asherton,_Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asherton Texas is in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">pic. twitter. com/Asherton</lex>
+      <lex comment="" lid="Id2" lang="en">Asherton is situated in Texas,United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | 150px | upright | टेक्सास राज्य में अशरटन शहर।</lex>
+      <lex comment="" lid="Id3" lang="en">Asherton , Texas is in the country of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | टेक्सास के अशर्टन शहर में टेक्सास के राजदूत</lex>
+    </entry>
+    <entry category="Building" eid="124" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asherton,_Texas | subdivisionName | Dimmit_County,_Texas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asherton,_Texas | isPartOf | Dimmit_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asherton, Texas is part of Dimmit County, Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | टेक्सास के डिम्मिट काउंटी के अन्तर्गत आशेरटन शहर।</lex>
+      <lex comment="" lid="Id2" lang="en">Asherton is part of Dimmit County, Texas.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | 150px | टेक्सास के डिम्मिट काउंटी के अन्तर्गत एक शहर है।</lex>
+    </entry>
+    <entry category="Building" eid="125" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asherton,_Texas | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asherton,_Texas | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asherton, Texas is part of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | टेक्सास के एशरटन शहर का मूल निवासी है।</lex>
+    </entry>
+    <entry category="Building" eid="126" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | &quot;87000823&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | &quot;87000823&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asilomar Conference Grounds has the reference number 87000823 in the National Register of Historic Places.</lex>
+      <lex comment="" lid="Id1" lang="hi">Asilomar Conference Grounds का Reference Number 87000823 National Register of Historic Places है।</lex>
+      <lex comment="" lid="Id2" lang="en">The reference number in the the National Register of Historic Places for Asilomar Conference Grounds is 87000823.</lex>
+      <lex comment="" lid="Id2" lang="hi">आसिलोमर कांफ्रेंस ग्रौंड्स् के लिए ऐतिहासिक स्थानों के राष्ट्रीय रजिस्टर में संदर्भ संख्या 87000823 है.</lex>
+      <lex comment="" lid="Id3" lang="en">&quot;87000823&quot; is Asilomar Conference Grounds' reference number in the National Register of Historic Places.</lex>
+      <lex comment="" lid="Id3" lang="hi">&quot;87000823&quot; &quot;ऐतिहासिक स्थानों के राष्ट्रीय रजिस्टर में असिलोमार कॉन्फ्रेंस ग्राउंड्स का संदर्भ नंबर है।&quot;</lex>
+    </entry>
+    <entry category="Building" eid="127" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | added | &quot;1987-02-27&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | &quot;1987-02-27&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asilomar Conference Grounds were added to the National Register of Historic Places on 27 February 1987.</lex>
+      <lex comment="" lid="Id1" lang="hi">27 फरवरी, 1987 को ऐतिहासिक स्थलों के राष्ट्रीय रजिस्टर में असिलोमार सम्मेलन स्थल को शामिल किया गया।</lex>
+      <lex comment="" lid="Id2" lang="en">Asilomar Conference Grounds was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="" lid="Id2" lang="hi">27 फरवरी, 1987 को ऐतिहासिक स्थलों के राष्ट्रीय रजिस्टर में असिलोमार सम्मेलन स्थल को शामिल किया गया।</lex>
+    </entry>
+    <entry category="Building" eid="128" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | American_Craftsman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asilomar Conference Grounds have the architectural style of American Craftsman.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 200px | आसिलोमर कान्फ्रेंस ग्राउंड्स में अमेरिकी शिल्पकार की स्थापत्य शैली</lex>
+    </entry>
+    <entry category="Building" eid="129" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | architecturalStyle | Arts_and_Crafts_movement</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asilomar Conference Grounds has the architectural style of the Arts and Crafts Movement.</lex>
+      <lex comment="" lid="Id1" lang="hi">Asilomar Conference Grounds: आसिलोमर कान्फरेन्स ग्राउंड्स में कला और शिल्प आंदोलन की स्थापत्य शैली है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Asilomar Conference Grounds has an Arts and Crafts movement style architecture.</lex>
+      <lex comment="" lid="Id2" lang="hi">Asilomar Conference Grounds (Asilomar Conference Grounds) एक कला और शिल्प आंदोलन शैली वास्तुकला है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Asilomar Conference Grounds are in the architectural style of the Arts and Crafts Movement.</lex>
+      <lex comment="" lid="Id3" lang="hi">आसिलोमर सम्मेलन स्थल कला और शिल्प आंदोलन की वास्तुशिल्प शैली में हैं।</lex>
+    </entry>
+    <entry category="Building" eid="130" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | &quot;Asilomar Blvd., Pacific Grove, California&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | &quot;Asilomar Blvd., Pacific Grove, California&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asilomar Conference Grouns is located at Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="" lid="Id1" lang="hi">Asilomar Conference Grouns, Asilomar Blvd, Pacific Grove, California में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asilomar Conference Grounds is located on Asilomar Blvd, Pacific Grove, California.</lex>
+      <lex comment="" lid="Id2" lang="hi">केलिफोर्निया में पैसिफिक ग्रोव के असिलोमार ब्लावीड में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The location of Asilomar Conference Grounds is Asilomar Blvd., Pacific Grove, California.</lex>
+      <lex comment="" lid="Id3" lang="hi">आसिलोमर कांफ्रेंस ग्राउंड, आसिलोमर ब्लावड, पैसिफिक ग्रोव, कैलिफोर्निया में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="131" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asilomar Conference Grounds is located at Pacific Grove, California.</lex>
+      <lex comment="" lid="Id1" lang="hi">california के Pacific Grove में Asilomar Conference Grounds है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asilomar Conference Grounds are located in Pacific Grove, California.</lex>
+      <lex comment="" lid="Id2" lang="hi">california के Pacific Grove में Asilomar Conference Grounds हैं।</lex>
+    </entry>
+    <entry category="Building" eid="132" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | nrhpReferenceNumber | &quot;80002709&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | &quot;80002709&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths has the reference number 80002709 in the National Register of Historic Places.</lex>
+      <lex comment="" lid="Id1" lang="hi">Asser Levy Public Baths का Reference Number National Register of Historic Places में 80002709 है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Reference Number in the National Register of Historic Places of Asser Levy Public Baths is 80002709.</lex>
+      <lex comment="" lid="Id2" lang="hi">अस्सेर लेवी सार्वजनिक स्नान के ऐतिहासिक स्थानों के राष्ट्रीय रजिस्टर में संदर्भ संख्या 80002709 है।</lex>
+      <lex comment="" lid="Id3" lang="en">Asser Levy Public Baths' reference number is 80002709 in the National Register of Historic Places.</lex>
+      <lex comment="" lid="Id3" lang="hi">Asser Levy Public Baths 'Reference Number 80002709 in National Register of Historic Places.</lex>
+    </entry>
+    <entry category="Building" eid="133" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | added | &quot;1980-04-23&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | &quot;1980-04-23&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths was added to the National Register of Historic Places on 1980-04-23.</lex>
+      <lex comment="" lid="Id1" lang="hi">अस्सेर लेवी सार्वजनिक स्नानघर 1980-04-23 को ऐतिहासिक स्थलों के राष्ट्रीय रजिस्टर में शामिल किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths was added to the National Register of Historic Places on &quot;1980-04-23&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">1980-04-23 को अस्सेर लेवी सार्वजनिक स्नानघर को ऐतिहासिक स्थलों के राष्ट्रीय रजिस्टर में शामिल किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Asser Levy Public Baths was added to the National Register of Historic Places on 23rd April 1980.</lex>
+      <lex comment="" lid="Id3" lang="hi">23 अप्रैल, 1980 को अस्सेर लेवी पब्लिक बाथ को ऐतिहासिक स्थलों के राष्ट्रीय रजिस्टर में शामिल किया गया था।</lex>
+    </entry>
+    <entry category="Building" eid="134" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | architecturalStyle | Romanesque_Revival_architecture</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asser Levy Public Baths have the Romanesque Revival style of architecture.</lex>
+      <lex comment="" lid="Id1" lang="hi">Asser Levy Public Baths में Romanesque Revival Style of Architecture का उपयोग किया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths architectural style is that of Romanesque Revival.</lex>
+      <lex comment="" lid="Id2" lang="hi">Asser Levy Public Bath’s Architecture Style is the Romanesque Revival.</lex>
+      <lex comment="" lid="Id3" lang="en">The Asser Levy Public Baths are in the architectural sytle of Romanesque Revival architecture.</lex>
+      <lex comment="" lid="Id3" lang="hi">अस्सेर लेवी पब्लिक बाथ रोमानेस्क्यू रिवाइवल आर्किटेक्चर की स्थापत्य शैली में बनाए गए हैं।</lex>
+    </entry>
+    <entry category="Building" eid="135" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | &quot;Asser Levy Place and East 23rd Street&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | &quot;Asser Levy Place and East 23rd Street&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asser Levy Public Baths is in Asser Levy Place and East 23rd Street.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसेयर लेवी पब्लिक बाथ एसेयर लेवी प्लेस और ईस्ट 23 स्ट्रीट में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are located on Asser Levy Place and East 23rd Street.</lex>
+      <lex comment="" lid="Id2" lang="hi">Asser Levy Public Baths Asser Levy Place और East 23 Street पर स्थित हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Asser Levy Public Baths are located in Asser Levy Place , East 23rd Street.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसेयर लेवी पब्लिक बाथ ईस्ट 23 स्ट्रीट के एसेयर लेवी प्लेस में स्थित हैं।</lex>
+    </entry>
+    <entry category="Building" eid="136" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located at 23rd Street (Manhattan).</lex>
+      <lex comment="" lid="Id1" lang="hi">Asser Levy Public Baths) 23th Street (Manhattan) पर स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths is located on 23rd Street, Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="hi">अस्सेर लेवी पब्लिक बाथ 23 स्ट्रीट, मैनहट्टन में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="137" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located in Avenue A, Manhattan.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसेर लेवी पब्लिक बाथ मैनहट्टन के एवेन्यू ए में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="138" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located in Manhattan.</lex>
+      <lex comment="" lid="Id1" lang="hi">asser Levy Public Baths in Manhattan में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="139" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Augustus_Pugin | birthPlace | Bloomsbury</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Augustus_Pugin | birthPlace | Bloomsbury</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The birth place of Augustus Pugin is Bloomsbury.</lex>
+      <lex comment="" lid="Id1" lang="hi">अगस्तस पुगिन का जन्म स्थान ब्लूम्सबरी था।</lex>
+      <lex comment="" lid="Id2" lang="en">Augustus Pugin's birthplace is Bloomsbury.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | आगस्टस पुगिन का जन्मस्थान ब्लूम्सबरी है।</lex>
+    </entry>
+    <entry category="Building" eid="140" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Augustus_Pugin | significantBuildings | Palace_of_Westminster</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Augustus_Pugin | significantBuilding | Palace_of_Westminster</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the significant buildings designed by Augustus Pugin is the Palace Of Westminster.</lex>
+      <lex comment="" lid="Id1" lang="hi">आगस्टस पुगिन द्वारा डिजाइन की गई महत्वपूर्ण इमारतों में से एक पैलेस ऑफ वेस्टमिंस्टर है।</lex>
+    </entry>
+    <entry category="Building" eid="141" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | governingBody | Birmingham_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | governingBody | Birmingham_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Birmingham's governing body is Birmingham City Council.</lex>
+      <lex comment="" lid="Id1" lang="hi">बर्मिंघम का प्रशासन बर्मिंघम सिटी काउंसिल के हाथ में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Birmingham City Council is the governing body of Birmingham.</lex>
+      <lex comment="" lid="Id2" lang="hi">बर्मिंघम सिटी काउंसिल बर्मिंघम की गवर्निंग बॉडी है।</lex>
+      <lex comment="" lid="Id3" lang="en">The governing body of Birmingham is Birmingham City Council.</lex>
+      <lex comment="" lid="Id3" lang="hi">बर्मिंघम की शासी निकाय बर्मिंघम सिटी काउंसिल है।</lex>
+    </entry>
+    <entry category="Building" eid="142" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Andrew_Mitchell</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Andrew_Mitchell</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Andrew Mitchell is the leader of Birmingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">Andrew Mitchell बर्मिंघम के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Birmingham's leader is Andrew Mitchell.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | बर्मिंघम के नेता एंड्रयू मिचेल</lex>
+    </entry>
+    <entry category="Building" eid="143" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Conservative_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Conservative_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Birmingham is the Conservative Party (UK).</lex>
+      <lex comment="" lid="Id1" lang="hi">बर्मिंघम के नेता कंजर्वेटिव पार्टी (यूके) हैं।</lex>
+    </entry>
+    <entry category="Building" eid="144" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | John_Clancy_(Labour_politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | John_Clancy_(Labour_politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Labour politician, John Clancy is the leader of Birmingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | left | upright | लेबर पार्टी के नेता जॉन क्लेन्सी बर्मिंघम के नेता</lex>
+    </entry>
+    <entry category="Building" eid="145" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Khalid_Mahmood_(British_politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Khalid_Mahmood_(British_politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Khalid Mahmood (British politician) is one of the leaders of Birmingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">खालिद महमूद (ब्रिटिश राजनीतिज्ञ) बर्मिंघम के नेताओं में से एक हैं।</lex>
+    </entry>
+    <entry category="Building" eid="146" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Labour_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Labour_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Birmingham Council is led by the Labour Party (UK).</lex>
+      <lex comment="" lid="Id1" lang="hi">बर्मिंघम परिषद का नेतृत्व लेबर पार्टी (यूके) कर रही है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Labour Party leads Birmingham.</lex>
+      <lex comment="" lid="Id2" lang="hi">लेबर पार्टी बर्मिंघम का नेतृत्व कर रही है।</lex>
+    </entry>
+    <entry category="Building" eid="147" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Liberal_Democrats</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Liberal_Democrats</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Liberal Democrats are the leaders of Birmingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">लिबरल डेमोक्रेट्स बर्मिंघम के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Birmingham are the Liberal Democrats.</lex>
+      <lex comment="" lid="Id2" lang="hi">बर्मिंघम के नेता लिबरल डेमोक्रेट्स हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Liberal Democrats are leaders of Birmingham.</lex>
+      <lex comment="" lid="Id3" lang="hi">लिबरल डेमोक्रेट्स बर्मिंघम के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="148" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buffalo,_New_York | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buffalo,_New_York | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buffalo New York is part of New York.</lex>
+      <lex comment="" lid="Id1" lang="hi">buffalo New York बफ़ेलो New York का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="149" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Chicago | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chicago | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Chicago is located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">शिकागो शहर अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Chicago is located in the U.S.</lex>
+      <lex comment="" lid="Id2" lang="hi">शिकागो शहर अमेरिका के शिकागो में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Chicago is in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">शिकागो शहर अमेरिका में है।</lex>
+    </entry>
+    <entry category="Building" eid="150" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Chicago | isPartOf | Cook_County,_Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chicago | isPartOf | Cook_County,_Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Chicago is part of Cook County, Illinois.</lex>
+      <lex comment="" lid="Id1" lang="hi">शिकागो इलिनोइस के कुक काउंटी का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Chicago is in Cook County, Illinois.</lex>
+      <lex comment="" lid="Id2" lang="hi">शिकागो इलिनोइस के कुक काउंटी में है।</lex>
+    </entry>
+    <entry category="Building" eid="151" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Chicago | isPartOf | Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chicago | isPartOf | Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Chicago is part of Illinois.</lex>
+      <lex comment="" lid="Id1" lang="hi">शिकागो इलिनोइस का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Chicago is part of the State of Illinois.</lex>
+      <lex comment="" lid="Id2" lang="hi">शिकागो इलिनोइस राज्य का हिस्सा है।</lex>
+      <lex comment="" lid="Id3" lang="en">the city of Chicago is part of the state of Illinois.</lex>
+      <lex comment="" lid="Id3" lang="hi">शिकागो शहर इलिनोइस राज्य का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="152" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Chicago | leaderName | Rahm_Emanuel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chicago | leader | Rahm_Emanuel</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rahm Emanuel is a leader in Chicago.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | 250px | सैमसंग रहम इमानुएल शिकागो में नेता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Chicago's leader is called Rahm Emanuel.</lex>
+      <lex comment="" lid="Id2" lang="hi">शिकागो शहर के नेता का नाम रहम इमानुएल है।</lex>
+      <lex comment="" lid="Id3" lang="en">Rahm Emanuel is the leader of Chicago.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | 150px | left | upright | रेहम इमानुएल शिकागो के नेता</lex>
+    </entry>
+    <entry category="Building" eid="153" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Chicago | leaderName | Susana_Mendoza</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chicago | leader | Susana_Mendoza</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Susana Mendoza is the leader of Chicago.</lex>
+      <lex comment="" lid="Id1" lang="hi">susana mendoza) शिकागो की नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Chicago is Susana Mendoza.</lex>
+      <lex comment="" lid="Id2" lang="hi">शिकागो की नेता सुसाना मेंडोजा थीं।</lex>
+      <lex comment="" lid="Id3" lang="en">Susana Mendoza is a leader in Chicago.</lex>
+      <lex comment="" lid="Id3" lang="hi">susana mendoza) शिकागो की एक नेता है।</lex>
+    </entry>
+    <entry category="Building" eid="154" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Cleveland | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Cleveland is located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">क्लीवलैंड अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Cleveland is in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">क्लीवलैंड अमेरिका में है।</lex>
+    </entry>
+    <entry category="Building" eid="155" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Cleveland | governingBody | Cleveland_City_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | governingBody | Cleveland_City_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Cleveland's governing body is Cleveland City Council.</lex>
+      <lex comment="" lid="Id1" lang="hi">क्लीवलैंड का प्रशासनिक निकाय क्लीवलैंड सिटी काउंसिल है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Cleveland City Council is the governing body of Cleveland.</lex>
+      <lex comment="" lid="Id2" lang="hi">क्लीवलैंड सिटी काउंसिल क्लीवलैंड की गवर्निंग बॉडी है।</lex>
+      <lex comment="" lid="Id3" lang="en">The governing body of Cleveland is Cleveland City Council.</lex>
+      <lex comment="" lid="Id3" lang="hi">क्लीवलैंड का शासी निकाय क्लीवलैंड सिटी काउंसिल है।</lex>
+    </entry>
+    <entry category="Building" eid="156" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Cleveland | subdivisionName | Cuyahoga_County,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | isPartOf | Cuyahoga_County,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Cleveland is part of Cuyahoga County, Ohio.</lex>
+      <lex comment="" lid="Id1" lang="hi">क्लीवलैंड ओहायो के कुयाहोगा काउंटी का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Cleveland is part of the Cuyahoga County in Ohio.</lex>
+      <lex comment="" lid="Id2" lang="hi">क्लीवलैंड ओहायो में कुयाहोगा काउंटी का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="157" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Cleveland | isPartOf | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | isPartOf | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Cleveland is located within Ohio,.</lex>
+      <lex comment="" lid="Id1" lang="hi">क्लीवलैंड ओहायो में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Cleveland is part of Ohio.</lex>
+      <lex comment="" lid="Id2" lang="hi">क्लीवलैंड ओहायो का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="158" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Cleveland | leaderName | Frank_G._Jackson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Cleveland | leader | Frank_G._Jackson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank G Jackson is a leader in Cleveland.</lex>
+      <lex comment="" lid="Id1" lang="hi">left | thumb | left | left | क्लीवलैंड के नेता फ्रैंक जी. जैक्सन</lex>
+      <lex comment="" lid="Id2" lang="en">the leader in Cleveland is Frank G Jackson.</lex>
+      <lex comment="" lid="Id2" lang="hi">leveland में leader frank G Jackson हैं।</lex>
+    </entry>
+    <entry category="Building" eid="159" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>College_of_William_&amp;_Mary | chancellor | Robert_Gates</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>College_of_William_&amp;_Mary | chancellor | Robert_Gates</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Robert Gates is the chancellor of the College of William &amp; Mary.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | upright | गेट्स विलियम और मेरी कॉलेज के चांसलर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Chancellor of the College of William and Mary is Robert Gates.</lex>
+      <lex comment="" lid="Id2" lang="hi">College of William and Mary के Chancellor Robert Gates हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Robert Gates served as chancellor of the College of William and Mary.</lex>
+      <lex comment="" lid="Id3" lang="hi">राबर्ट गेट्स ने कॉलेज ऑफ विलियम्स एंड मैरी के चांसलर के रूप में कार्य किया।</lex>
+    </entry>
+    <entry category="Building" eid="160" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>County_Limerick | governmentType | Limerick_City_and_County_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>County_Limerick | governmentType | Limerick_City_and_County_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">County Limerick is governed by the Limerick City and County Council.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | काउंटी लिमरिक का प्रशासन लिमरिक सिटी और काउंटी काउंसिल द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Limerick City and County Council governs County Limerick.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | 250px | लिमरिक सिटी और काउंटी काउंसिल द्वारा काउंटी लिमरिक का संचालन</lex>
+    </entry>
+    <entry category="Building" eid="161" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | capital | Copenhagen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | capital | Copenhagen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Copenhagen is the capital of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">कोपेनहेगन डेनमार्क की राजधानी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of Denmark is Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनमार्क की राजधानी कोपेनहेगन है।</lex>
+    </entry>
+    <entry category="Building" eid="162" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | language | Faroese_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | language | Faroese_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Faroese Language is spoken in Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">farois language faroise language faroise language faroise language faroise language faroise language faroise language denmark.</lex>
+      <lex comment="" lid="Id2" lang="en">The language Faroese is spoken in Denmark.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | 200px | डेनमार्क में बोली जाने वाली फारोस भाषा</lex>
+    </entry>
+    <entry category="Building" eid="163" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | language | German_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | language | German_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the languages in Denmark is the German.</lex>
+      <lex comment="" lid="Id1" lang="hi">डेनमार्क की भाषाओं में से एक जर्मन है।</lex>
+      <lex comment="" lid="Id2" lang="en">One of the languages used in Denmark is the German language.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनमार्क में उपयोग की जाने वाली भाषाओं में से एक जर्मन भाषा है।</lex>
+    </entry>
+    <entry category="Building" eid="164" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | language | Greenlandic_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | language | Greenlandic_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Greenlandic is one of the languages of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">ग्रीनलैंडिक भाषा डेनमार्क की प्रमुख भाषाओं में से एक है।</lex>
+    </entry>
+    <entry category="Building" eid="165" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lars Lokke Rasmussen is Denmark's leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">लार्स लोक्के रासमुसेन डेनमार्क के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Denmark is Lars Løkke Rasmussen.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनमार्क के नेता लार्स लिलियके रासमुसेन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Lars Løkke Rasmussen is the prime minister of Denmark.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | लार्स लिलङ्कके रासमुसेन डेनमार्क के प्रधान मंत्री</lex>
+    </entry>
+    <entry category="Building" eid="166" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Margrethe_II_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Margrethe_II_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Margrethe II of Denmark is the leader of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | 2nd margreet of Denmark is leader of Denmark.</lex>
+      <lex comment="" lid="Id2" lang="en">Margrethe II of Denmark is the name of Denmark's leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | डेनमार्क के नेता का नाम मार्गारेट II.</lex>
+    </entry>
+    <entry category="Building" eid="167" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dublin | subdivisionName | Republic_of_Ireland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | isPartOf | Republic_of_Ireland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dublin is part of the Republic of Ireland.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | डबलिन आयरलैंड गणराज्य का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Dublin is a part of the Republic of Ireland.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | डबलिन आयरलैंड गणराज्य का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="168" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dublin | leaderTitle | Dáil_Éireann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | leaderTitle | Dáil_Éireann</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dáil Éireann is a leader in Dublin.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | डबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यूडबल्यू</lex>
+    </entry>
+    <entry category="Building" eid="169" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dublin | leaderTitle | European_Parliament</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | leaderTitle | European_Parliament</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dublin is led by the European Parliament.</lex>
+      <lex comment="" lid="Id1" lang="hi">डबलिन का नेतृत्व यूरोपीय संसद कर रही है।</lex>
+      <lex comment="" lid="Id2" lang="en">European Parliament is the title of the leader of Dublin.</lex>
+      <lex comment="" lid="Id2" lang="hi">European Parliament European Parliament is title of the leader of Dublin.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of the government in Dublin is the European Parliament.</lex>
+      <lex comment="" lid="Id3" lang="hi">डब्लिन में सरकार का नेता यूरोपीय संसद है।</lex>
+    </entry>
+    <entry category="Building" eid="170" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Eastern_Province,_Sri_Lanka | governingBody | Eastern_Provincial_Council</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The governing body of the Eastern Province Sri Lanka is the Eastern Provincial Council.</lex>
+      <lex comment="" lid="Id1" lang="hi">पूर्वी प्रांत श्रीलंका का शासी निकाय पूर्वी प्रांतीय परिषद है।</lex>
+      <lex comment="" lid="Id2" lang="en">Eastern Provincial Council is the governing body of Eastern Province in Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">ईस्टर्न प्रोविन्सियल काउंसिल (Eastern Provincial Council) श्रीलंका के ईस्टर्न प्रोविन्स की गवर्निंग बॉडी है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Eastern Provincial Council is the governing body of Eastern Province, Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">ईस्टर्न प्रोविन्सियल काउंसिल (Eastern Provincial Council) श्रीलंका के ईस्टर्न प्रोविन्स की गवर्निंग बॉडी है।</lex>
+    </entry>
+    <entry category="Building" eid="171" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Eastern_Province,_Sri_Lanka | leaderName | Austin_Fernando</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Eastern_Province,_Sri_Lanka | leader | Austin_Fernando</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the Eastern Province, Sri Lanka is Austin Fernando.</lex>
+      <lex comment="" lid="Id1" lang="hi">श्रीलंका के पूर्वी प्रांत के नेता ऑस्टिन फर्नांडो हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Austin Fernando is the leader of the Eastern Province of Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">आस्टिन फर्नांडो श्रीलंका के पूर्वी प्रांत के नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Austin Fernando is the name of the leader in the Eastern Province of Sri Lanka.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | upright | श्रीलंका के पूर्वी प्रांत के नेता का नाम ऑस्टिन फर्नांडो है।</lex>
+    </entry>
+    <entry category="Building" eid="172" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ethiopia | currency | Ethiopian_birr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | currency | Ethiopian_birr</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ethiopia's currency is the Ethiopian Birr.</lex>
+      <lex comment="" lid="Id1" lang="hi">इथियोपिया की मुद्रा इथियोपिया की बिरर है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Ethiopian birr is the money used in Ethiopia.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | 250px | इथियोपिया में इस्तेमाल होने वाला पैसा इथियोपिया बीयर।</lex>
+      <lex comment="" lid="Id3" lang="en">The currency of Ethiopia is the Ethiopian birr.</lex>
+      <lex comment="" lid="Id3" lang="hi">इथियोपिया की मुद्रा इथियोपिया बिरर है।</lex>
+    </entry>
+    <entry category="Building" eid="173" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amharic is a language found in Ethiopia.</lex>
+      <lex comment="" lid="Id1" lang="hi">इथोपिया में पाई जाने वाली अम्हारिक भाषा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The language spoken in Ethiopia is Amharic.</lex>
+      <lex comment="" lid="Id2" lang="hi">इथियोपिया में बोली जाने वाली भाषा अम्हारिक है।</lex>
+      <lex comment="" lid="Id3" lang="en">Amharic is the language of Ethiopia.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | upright | इथियोपिया की अम्हारिक भाषा का आधिकारिक नाम अम्हारिक है।</lex>
+    </entry>
+    <entry category="Building" eid="174" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Ethiopia is Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id1" lang="hi">इथियोपिया के नेता हैलेमरियम देसालेन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Hailemariam Desalegn is the leader of Ethiopia.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | upright | इथियोपिया के नेता हेलेमेरियम देसालेन</lex>
+    </entry>
+    <entry category="Building" eid="175" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>George_Winkler | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>George_Winkler | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">George Winkler is from the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | upright | upright | upright | upright | जार्ज विंकलर अमरीका से हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">George Winkler is from the United States of America.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | upright | जार्ज विंकलर संयुक्त राज्य अमेरिका से हैं।</lex>
+    </entry>
+    <entry category="Building" eid="176" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leader | Anandiben_Patel</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Anandiben Patel is the leader of Gujarat.</lex>
+      <lex comment="" lid="Id1" lang="hi">आनंदीबेन पटेल गुजरात की नेता थीं।</lex>
+      <lex comment="" lid="Id2" lang="en">Anandiben Patel was the leader of Gujurat.</lex>
+      <lex comment="" lid="Id2" lang="hi">आनंदीबेन पटेल गुजराट की नेता थीं।</lex>
+    </entry>
+    <entry category="Building" eid="177" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leaderTitle | Gujarat_Legislative_Assembly</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gujarat's leader is known as the Gujarat Legislative Assembly.</lex>
+      <lex comment="" lid="Id1" lang="hi">गुजरात के नेता को गुजरात विधान सभा के रूप में जाना जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="178" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Illinois | capital | Springfield,_Illinois</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Illinois | capital | Springfield,_Illinois</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The capital of Illinois is Springfield, Illinois.</lex>
+      <lex comment="" lid="Id1" lang="hi">इलिनोइस की राजधानी स्प्रिंगफील्ड है।</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of Illinois is Springfield.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलिनोइस की राजधानी स्प्रिंगफील्ड है।</lex>
+    </entry>
+    <entry category="Building" eid="179" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Illinois | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Illinois | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Illinois is in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">इलिनोइस अमरीका में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Illinois state is in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलिनोइस राज्य अमरीका में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Illinois is situated in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">इलिनोइस अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="180" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Illinois | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Illinois | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The English language is spoken in Illinois.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | इलिनोइस में बोली जाने वाली अंग्रेजी भाषा</lex>
+      <lex comment="" lid="Id2" lang="en">The language of Illinois is the English language.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलिनोइस की भाषा इंगलिश है।</lex>
+    </entry>
+    <entry category="Building" eid="181" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | Narendra_Modi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Narendra Modi leads India.</lex>
+      <lex comment="" lid="Id1" lang="hi">नरेंद्र मोदी भारत का नेतृत्व कर रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of India is Narendra Modi.</lex>
+      <lex comment="" lid="Id2" lang="hi">नरेंद्र मोदी भारत के नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Narendra Modi is the prime minister of India.</lex>
+      <lex comment="" lid="Id3" lang="hi">नरेन्द्र मोदी भारत के प्रधानमंत्री हैं।</lex>
+    </entry>
+    <entry category="Building" eid="182" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur is a leader in India.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | upright | TS Thakur is a leader in India.</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of India is called T S Thakur.</lex>
+      <lex comment="" lid="Id2" lang="hi">भारत के सर्वोच्च नेता का नाम टी. एस. ठाकुर है।</lex>
+      <lex comment="" lid="Id3" lang="en">T. S. Thakur was an Indian leader.</lex>
+      <lex comment="" lid="Id3" lang="hi">के. टी. एस. ठाकुर एक भारतीय नेता थे।</lex>
+    </entry>
+    <entry category="Building" eid="183" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Chinese_people_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Chinese_people_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There is an ethnic group of Chinese people in Japan.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | जापान में चीनी लोगों का एक जातीय समूह है।</lex>
+      <lex comment="" lid="Id2" lang="en">In Japan there is an ethnic group of Chinese people.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | जापान में चीनी लोगों का एक जातीय समूह है।</lex>
+    </entry>
+    <entry category="Building" eid="184" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the ethnic groups in Japan is the Filipinos.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान में फिलिपिनो जाति के लोग भी रहते हैं।</lex>
+    </entry>
+    <entry category="Building" eid="185" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Japanese_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Japanese_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The main ethnic group in Japan is the Japanese.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान का मुख्य जातीय समूह जापानी है।</lex>
+    </entry>
+    <entry category="Building" eid="186" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Koreans_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Koreans_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Japan has an ethnic group called Koreans in Japan.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान कोरियन (Korean) नामक एक जाति जापान में बसती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Japan has an ethnic group of Koreans.</lex>
+      <lex comment="" lid="Id2" lang="hi">जापान कोरियाई मूल के लोगों का देश है।</lex>
+    </entry>
+    <entry category="Building" eid="187" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Vietnamese_people_in_Japan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There is an ethnic group of Vietnamese people in Japan.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान में वियतनामी लोगों का एक जातीय समूह है।</lex>
+      <lex comment="" lid="Id2" lang="en">Vietnamese people in Japan are an ethnic group from Japan.</lex>
+      <lex comment="" lid="Id2" lang="hi">vietnamese people in Japan-vietnamese-vietnamese-vietnamese people in Japan-vietnamese-vietnamese people in Japan-vietnamese-vietnamese people in Japan-vietnamese-vietnamese people in Japan-vietnamese-vietnamese-vietnamese-vietnamese-vietnamese-vietnamese-vietnamese-vietnamese-vietnamese-vietnamese.</lex>
+    </entry>
+    <entry category="Building" eid="188" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | leader | Akihito</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | leader | Akihito</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Japan is called Akihito.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान के नेता को अकिहितो कहा जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Japan is Akihito.</lex>
+      <lex comment="" lid="Id2" lang="hi">जापान के नेता अकिहितो हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Emperor of Japan is Akihito.</lex>
+      <lex comment="" lid="Id3" lang="hi">जापान के सम्राट अकिहितो</lex>
+    </entry>
+    <entry category="Building" eid="189" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Japan | leader | Shinzō_Abe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | leader | Shinzō_Abe</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Japan is Shinzō Abe.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 200px | जापान के नेता शिंजो आबे</lex>
+      <lex comment="" lid="Id2" lang="en">Shinzo Abe is the leader of Japan.</lex>
+      <lex comment="" lid="Id2" lang="hi">Sinzo Abe) जापान के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="190" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_Madin | birthPlace | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John Madin was born in Birmingham.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | जॉन मदीन बर्मिंघम में पैदा हुए थे।</lex>
+    </entry>
+    <entry category="Building" eid="191" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Madin | origin | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Birmingham is the home town of John Madin.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | जॉन मदीन का गृह नगर बर्मिंघम</lex>
+      <lex comment="" lid="Id2" lang="en">The hometown of Joh Madin is Birmingham.</lex>
+      <lex comment="" lid="Id2" lang="hi">जोह्मदीन का गृहनगर बर्मिंघम है।</lex>
+    </entry>
+    <entry category="Building" eid="192" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Julia_Morgan | birthPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | birthPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The birth place of Julia Morgan is California.</lex>
+      <lex comment="" lid="Id1" lang="hi">जूलिया मोर्गन का जन्म स्थान कैलिफोर्निया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Julia Morgan was born in California.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुलिया मोर्गन का जन्म कैलिफोर्निया में हुआ था।</lex>
+    </entry>
+    <entry category="Building" eid="193" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Julia_Morgan | birthPlace | San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | birthPlace | San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Julia Morgan was born in San Francisco.</lex>
+      <lex comment="" lid="Id1" lang="hi">जुलिया मॉर्गन सैन फ्रांसिस्को में पैदा हुई।</lex>
+    </entry>
+    <entry category="Building" eid="194" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuildings | Asilomar_State_Beach</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Asilomar_State_Beach</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the significant buildings designed by Julia Morgan is the Asilomar State Beach.</lex>
+      <lex comment="" lid="Id1" lang="hi">जूलिया मोर्गन द्वारा डिजाइन की गई महत्वपूर्ण इमारतों में से एक असिलोमार स्टेट बीच है।</lex>
+    </entry>
+    <entry category="Building" eid="195" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Chinatown,_San_Francisco</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Julie Morgan designed significant buildings in Chinatown, San Francisco.</lex>
+      <lex comment="" lid="Id1" lang="hi">जूली मोर्गन ने चाईनाटाउन, सैन फ्रांसिस्को में महत्वपूर्ण इमारतों को डिजाइन किया।</lex>
+      <lex comment="" lid="Id2" lang="en">Julia Morgan is the architect behind Chinatown in San Francisco.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुलिया मॉर्गन सैन फ्रांसिस्को में चाइनाटाउन के पीछे आर्किटेक्ट है।</lex>
+    </entry>
+    <entry category="Building" eid="196" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantBuildings | Riverside_Art_Museum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantBuilding | Riverside_Art_Museum</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Riverside Art Musuem is one of Julia Morgan's significant buildings.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | upright | जूलिया मोर्गन की महत्वपूर्ण इमारतों में से एक रिवरसाइड आर्ट म्यूजियम</lex>
+    </entry>
+    <entry category="Building" eid="197" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Julia_Morgan | significantProject | Hearst_Castle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Julia_Morgan | significantProject | Hearst_Castle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Hearst Castle was a significant project of Julia Morgan.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | जुलिया मॉर्गन की एक महत्वपूर्ण परियोजना थी।</lex>
+      <lex comment="" lid="Id2" lang="en">Julia Morgan was the architect of the landmark Hearst Castle.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | जूलिया मोर्गन ऐतिहासिक हर्स्ट कासल की वास्तुकार थीं।</lex>
+      <lex comment="" lid="Id3" lang="en">Hearst Castle was a significant project for Julia Morgan.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुलिया मॉर्गन के लिए एक महत्वपूर्ण परियोजना थी 'significate hearst castle'.</lex>
+    </entry>
+    <entry category="Building" eid="198" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leader | Boris_Johnson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Boris Johnson is the leader in London.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | बोरिस जॉनसन के नेतृत्व वाली ब्रिटेन की सरकार</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of London is called Boris Johnson.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | लंडन के नेता बोरिस जॉनसन</lex>
+    </entry>
+    <entry category="Building" eid="199" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>London | leaderTitle | European_Parliament</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | European_Parliament</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">London is lead via the European Parliament.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | यूरोपियन पार्लियामेंट के माध्यम से लंदन का नेतृत्व</lex>
+    </entry>
+    <entry category="Building" eid="200" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Parliament of the United Kingdom is the leader of London.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 200px | ब्रिटेनेर संसद लंडन का नेता</lex>
+    </entry>
+    <entry category="Building" eid="201" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Manhattan | leader | Cyrus_Vance,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Manhattan is Cyrus Vance Jr.</lex>
+      <lex comment="" lid="Id1" lang="hi">मैनहट्टन के नेता साइरस वेन्स जूनियर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Cyrus Vance Jr. is one of the leaders of Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | 200px | सैरस् वेन्स जूनियर मैनहट्टन के नेताओं में से एक हैं।</lex>
+    </entry>
+    <entry category="Building" eid="202" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Manhattan | leader | Gale_Brewer</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Manhattan is Gale Brewer.</lex>
+      <lex comment="" lid="Id1" lang="hi">मैनहट्टन के नेता गेल ब्रेवर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Gale Brewer is the leader of Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="hi">intelligence Gale Brewer is leader of the Manhattan.</lex>
+    </entry>
+    <entry category="Building" eid="203" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Marriott International was founded in Washington, D.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | मेरियट इंटरनेशनल की स्थापना वाशिंगटन डी. सी.</lex>
+    </entry>
+    <entry category="Building" eid="204" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Marriott International is based in Bethesda, Maryland.</lex>
+      <lex comment="" lid="Id1" lang="hi">मेरिलैंड के बेथेस्दा में स्थित मेरिलैंड की कंपनी मेरिलैंड इंटरनेशनल।</lex>
+      <lex comment="" lid="Id2" lang="en">Marriott International is located in Bethesda Maryland.</lex>
+      <lex comment="" lid="Id2" lang="hi">bethesda Maryland में bethesda Marriott International है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Marriott International is located in Bethseda, Maryland.</lex>
+      <lex comment="" lid="Id3" lang="hi">मेरियोट इंटरनेशनल, मेरिलैंड के बेथसेडा में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="205" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Mason School of Business is located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">मेसन स्कूल ऑफ बिजनेस (Mason School of Business) अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="206" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>New_York_City | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">New York city is located in the U.S.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | 250px | न्यूयार्क शहर अमरीका में</lex>
+      <lex comment="" lid="Id2" lang="en">New York City is in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | upright | न्यूयार्क शहर अमरीका में है।</lex>
+      <lex comment="" lid="Id3" lang="en">New York City is located in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | upright | न्यूयार्क शहर अमरीका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="207" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>New_York_City | subdivisionName | Brooklyn</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>New_York_City | isPartOf | Brooklyn</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | isPartOf | Brooklyn</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Brooklyn is part of New York City.</lex>
+      <lex comment="" lid="Id1" lang="hi">ब्रुकलिन न्यूयॉर्क शहर का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Brooklyn is a part of New York City.</lex>
+      <lex comment="" lid="Id2" lang="hi">ब्रुकलिन न्यूयॉर्क शहर का हिस्सा है।</lex>
+    </entry>
+  </entries>
+</benchmark>

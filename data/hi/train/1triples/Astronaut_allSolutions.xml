@@ -1,0 +1,1002 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Alma Mater of Alan Bean is UT Austin, B.S. 1955.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलन बीन की अल्मा मेटर यूटी ऑस्टिन, बीएस 1955 है।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean graduated in 1955 from UT Austin with a B.S.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन 1955 में यूटी ऑस्टिन से बी. एस.</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean graduated from UT Austin in 1955 with a B.S.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन 1955 में यूटी ऑस्टिन से बी. एस.</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Bean graduated from UT Austin in 1955 with a Bachelor of Science degree.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान बीन ने 1955 में यूटी ऑस्टिन से स्नातक की डिग्री प्राप्त की।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Bean received a Bachelor of Science degree at the University of Texas at Austin in 1955.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान बीन ने 1955 में ऑस्टिन स्थित टेक्सास विश्वविद्यालय से विज्ञान स्नातक की डिग्री प्राप्त की थी।</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthDate | &quot;1932-03-15&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthDate | &quot;1932-03-15&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean was born on the 15th of March 1932.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बीन का जन्म 15 मार्च 1932 को हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean was born on Mar 15, 1932.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन का जन्म 15 मार्च 1932 को हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean was born on March 15, 1932.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन का जन्म 15 मार्च 1932 को हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthName | &quot;Alan LaVern Bean&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthName | &quot;Alan LaVern Bean&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean's full name was &quot;Alan LaVern Bean&quot;.</lex>
+      <lex comment="" lid="Id1" lang="hi">alan Bean का पूरा नाम Alan Lavern Bean था।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean was born Alan LaVern Bean.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन का जन्म एलन लवर्न बीन के रूप में हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean's birth name was Alan LaVern Bean.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन का जन्म नाम एलन लवर्न बीन था।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Bean's birth name is Alan LaVern Bean.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान बीन का जन्म नाम एलन लवर्न बीन था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean was born in Wheeler, Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बीन का जन्म टेक्सास के व्हीलर में हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean's birthplace is Wheeler,, Texas.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन की जन्मस्थली व्हीलर, टेक्सास में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean's birth place is Wheeler, Texas.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन का जन्म स्थान व्हीलर, टेक्सास में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | dateOfRet | &quot;June 1981&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | dateOfRetirement | &quot;June 1981&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean retired on June 1981.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बीन जून 1981 में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean retired in June of 1981.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन 1981 के जून में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean retired in June 1981.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन जून 1981 में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Bean's retirement was in June 1981.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान बीन की सेवानिवृत्ति जून 1981 में हुई।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Bean retired in June, 1981.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान बीन जून, 1981 में सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean was a test pilot.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बीन एक टेस्ट पायलट थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean served as a test pilot.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन ने एक टेस्ट पायलट के रूप में काम किया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean performed as a test pilot.</lex>
+      <lex comment="" lid="Id3" lang="hi">टेस्ट पायलट के रूप में प्रदर्शन किया।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Bean performs as a test pilot.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान बीन ने एक टेस्ट पायलट के रूप में काम किया है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean is retired.</lex>
+      <lex comment="" lid="Id1" lang="hi">teamalan Bean रिटायर हो चुके हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean has retired.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन सेवानिवृत्त हो गए हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean is now retired.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन अब रिटायर हो चुके हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean spent 100305.0 minutes in Space.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलन बीन ने अंतरिक्ष में 100-305.0 मिनट बिताए।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean spent 100305 minutes in space.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलन बीन ने अंतरिक्ष में 100-305 मिनट बिताए।</lex>
+      <lex comment="" lid="Id3" lang="en">100305.0 minutes is the time Alan Bean spent in Space.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलन बीन ने अंतरिक्ष में 100-305.0 मिनट का समय बिताया।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Bean was in space 100305 minutes.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलन बीन अंतरिक्ष में 100,305 मिनट थे।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Bean spent over 69 days in space, 100305 minutes to be exact!</lex>
+      <lex comment="" lid="Id5" lang="hi">अलन बीन ने 69 दिन अंतरिक्ष में बिताए, 100305 मिनट!</lex>
+      <lex comment="" lid="Id6" lang="en">Alan Bean's time in space was 100305.0 minutes.</lex>
+      <lex comment="" lid="Id6" lang="hi">thumbnail | upright | अंतरिक्ष में अलान बीन का समय 100305.0 मिनट था।</lex>
+      <lex comment="" lid="Id7" lang="en">Alan Bean spend a total of 100305 minutes in space.</lex>
+      <lex comment="" lid="Id7" lang="hi">अलान बीन ने कुल 100305 मिनट अंतरिक्ष में बिताए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean was a part of the crew of Apollo 12.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान बीन अपोलो 12 के क्रू मेंबर थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean served as a crew member of Apollo 12.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान बीन ने अपोलो 12 के चालक दल के सदस्य के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean was a member of the Apollo 12 crew.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन अपोलो 12 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Bean was a crew member aboard Apollo 12.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान बीन अपोलो 12 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Bean was on the crew of Apollo 12.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान बीन अपोलो 12 के चालक दल में शामिल थे।</lex>
+      <lex comment="" lid="Id6" lang="en">Alan Bean was a crew member of Apollo 12.</lex>
+      <lex comment="" lid="Id6" lang="hi">अलान बीन अपोलो 12 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id7" lang="en">Alan Bean was a crew member on the Apollo 12 flight mission.</lex>
+      <lex comment="" lid="Id7" lang="hi">अलन बीन अपोलो 12 मिशन में क्रू मेंबर थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Bean was selected by Nasa in 1963.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 200px | upright | 1963 में नासा द्वारा अलान बीन को चुना गया।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Bean was chosen by NASA in 1963.</lex>
+      <lex comment="" lid="Id2" lang="hi">1963 में नासा द्वारा अलान बीन को चुना गया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Bean was hired by NASA in 1963.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान बीन 1963 में नासा द्वारा नियुक्त किया गया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard graduated from NWC with a M.A. in 1957.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड 1957 में एनडब्ल्यूसी से एम. ए. की डिग्री प्राप्त की।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard graduated from NWC in 1957 with a M.A.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड 1957 में एनडब्ल्यूसी से एम. ए. की डिग्री प्राप्त की।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard went to school at NWC and graduated with an MA in 1957.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान शेपर्ड एनडब्ल्यूसी में स्कूल गए और 1957 में एमए के साथ स्नातक की डिग्री प्राप्त की।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard graduated from NWC, M.A. in 1957.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड ने 1957 में एनडब्ल्यूसी, एमए से स्नातक की उपाधि प्राप्त की।</lex>
+    </entry>
+    <entry category="Astronaut" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | birthDate | &quot;1923-11-18&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | birthDate | &quot;1923-11-18&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard was born November 18th, 1923.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड का जन्म 18 नवम्बर 1923 को हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard was born on November 18, 1923.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड का जन्म 18 नवम्बर 1923 को हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard was born on Nov 18, 1923.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान शेपर्ड 1923 नवंबर् 18-न् जन्मिंचारु.</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard was born on 1923-11-18.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड का जन्म 1923-11-18 को हुआ था।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard was born on the 18th of November 1923.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान शेपर्ड का जन्म 18 नवम्बर 1923 को हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard's birth place was New Hampshire.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | एलन शेपर्ड का जन्म स्थान न्यू हैम्पशायर था।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard was born in New Hampshire.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड का जन्म न्यू हैम्पशायर में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | dateOfRet | &quot;1974-08-01&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | dateOfRetirement | &quot;1974-08-01&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard retired on 1974-08-01.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड 1974-08-01 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard retired August 1st, 1974.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड 1 अगस्त 1974 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard retired 1st of August 1974.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान शेपर्ड 1 अगस्त 1974 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard retired on August 1, 1974.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड 1 अगस्त, 1974 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard retired on Aug 1, 1974.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान शेपर्ड 1 अगस्त, 1974 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id6" lang="en">Alan Shepard retired 1974-08-01.</lex>
+      <lex comment="" lid="Id6" lang="hi">अलान शेपर्ड 1974-08-01 से सेवानिवृत्त हुए.</lex>
+      <lex comment="" lid="Id7" lang="en">Alan Separd retired on 1st August 1974.</lex>
+      <lex comment="" lid="Id7" lang="hi">अलान सेपरेड 1 अगस्त, 1974 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | deathDate | &quot;1998-07-21&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | deathDate | &quot;1998-07-21&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard died on the 21st of July, 1998.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलन शेपर्ड का निधन 21 जुलाई, 1998 को हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard died July 21st, 1998.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड का 21 जुलाई 1998 को निधन हो गया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard died on July 21, 1998.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान शेपर्ड का 21 जुलाई 1998 को निधन हो गया।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard died on 1998-07-21.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलन शेपर्ड 1998-07-21 को निधन हो गया।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard died 1998-07-21.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलन शेपर्ड का निधन 1998-07-21 को हुआ।</lex>
+    </entry>
+    <entry category="Astronaut" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The nationality of Alan Shepard is United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">(क) एलन शेपर्ड की राष्ट्रीयता संयुक्त राज्य अमेरिका है.</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard's nationality is the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">(क) अलान शेपर्ड की नागरिकता संयुक्त राज्य अमेरिका है.</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard is an American.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान शेपर्ड एक अमेरिकी हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard is from the United States.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड अमेरिका से हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard was from the United States.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान शेपर्ड अमरीका से थे।</lex>
+      <lex comment="" lid="Id6" lang="en">Alan Shepard was American.</lex>
+      <lex comment="" lid="Id6" lang="hi">thumb | left | upright | upright | एलन शेपर्ड अमरीकी थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard's occupation was a test pilot.</lex>
+      <lex comment="" lid="Id1" lang="hi">including Alan Shepard 's occupation was a test pilot...............</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard served as a Test pilot.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलेंन शेपर्ड टेस्ट पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard was a test pilot.</lex>
+      <lex comment="" lid="Id3" lang="hi">शैपर्ड एक टेस्ट पायलट थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | years | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | servedAsChiefOfTheAstronautOfficeIn | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard was the Chief of the Astronaut Office in 1963.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड 1963 में अंतरिक्ष यात्री कार्यालय के प्रमुख थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard served as Chief of the Astronaut Office in 1963.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलन शेपर्ड 1963 में अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | status | &quot;Deceased&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | status | &quot;Deceased&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard is dead.</lex>
+      <lex comment="" lid="Id1" lang="hi">&quot;&quot; &quot;---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard is deceased.</lex>
+      <lex comment="" lid="Id2" lang="hi">&quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;</lex>
+    </entry>
+    <entry category="Astronaut" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | timeInSpace | &quot;13017.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | timeInSpace | &quot;13017.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard's time in space amounted to 13017.0 minutes.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड ने अंतरिक्ष में 13017.0 मिनट का समय बिताया।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard spent 13017 minutes in space.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड ने अंतरिक्ष में 13017 मिनट बिताए।</lex>
+      <lex comment="" lid="Id3" lang="en">13017,0 minutes is the time Alan Shepard spent in space.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | 150px | left | एलन शेपर्ड ने अंतरिक्ष में 13017,0 मिनट बिताए।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard spent 130017 minutes in space.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड ने अंतरिक्ष में 130017 मिनट बिताए।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard spent just over 9 days in space.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान शेपर्ड ने अंतरिक्ष में केवल 9 दिन बिताए।</lex>
+      <lex comment="" lid="Id6" lang="en">Alan Shepard's time in space is 13017 minutes.</lex>
+      <lex comment="" lid="Id6" lang="hi">thumb | left | 300px | अंतरिक्ष में अलान शेपर्ड का कुल समय 13017 मिनट है।</lex>
+      <lex comment="" lid="Id7" lang="en">Alan Shepard spent 13017.0 minutes in space.</lex>
+      <lex comment="" lid="Id7" lang="hi">अलान शेपर्ड ने अंतरिक्ष में 13017.0 मिनट बिताए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | title | Chief_of_the_Astronaut_Office</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | title | Chief_of_the_Astronaut_Office</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard was the Chief of the Astronaut Office.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलन शेपर्ड अंतरिक्ष यात्री कार्यालय के प्रमुख थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard served as the Chief of the Astronaut Office.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलन शेपर्ड ने अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard performed as the Chief of the Astronaut Office.</lex>
+      <lex comment="" lid="Id3" lang="hi">श्री शेपर्ड ने अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard was a crew member of Apollo 14.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड अपोलो 14 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard served as a crew member of Apollo 14.</lex>
+      <lex comment="" lid="Id2" lang="hi">अपोलो 14 के क्रू मेंबर के रूप में सेवारत रहे अलान शेपर्ड.</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard was a member of the Apollo 14 crew.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलन शेपर्ड अपोलो 14 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard was a crew member aboard Apollo 14.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड अपोलो-14 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard was on the crew of Apollo 14.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान शेपर्ड अपोलो-14 के क्रू मेंबर थे।</lex>
+      <lex comment="" lid="Id6" lang="en">Alan Shepard was a member of the crew of Apollo 14.</lex>
+      <lex comment="" lid="Id6" lang="hi">अलान शेपर्ड अपोलो-14 के क्रू मेम्बर थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | ribbon | &quot;American Defense Service ribbon.svg&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | ribbonAward | &quot;American Defense Service ribbon.svg&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Shepard was awarded the american defence service ribbon.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलान शेपर्ड को अमेरिकी रक्षा सेवा रिबन से सम्मानित किया गया।</lex>
+      <lex comment="" lid="Id2" lang="en">Alan Shepard was awarded American Defense Service ribbon.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान शेपर्ड को अमेरिकन डिफेन्स सर्विस रिबन से सम्मानित किया गया।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard was awarded the American Defense Service Ribbon.</lex>
+      <lex comment="" lid="Id3" lang="hi">अलान शेपर्ड को अमेरिकन डिफेन्स सर्विस रिबन से सम्मानित किया गया।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard won the American Defense Service ribbon.</lex>
+      <lex comment="" lid="Id4" lang="hi">अलान शेपर्ड ने अमेरिकन डिफेन्स सर्विस रिबन जीता।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard was awarded with the American Defense Service ribbon.</lex>
+      <lex comment="" lid="Id5" lang="hi">अलान शेपर्ड को अमेरिकन डिफेन्स सर्विस रिबन से सम्मानित किया गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Alan_Shepard | selection | 1959</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">NASA selected Alan Shepard in 1959.</lex>
+      <lex comment="" lid="Id1" lang="hi">नासा ने 1959 में अलान शेपर्ड को चुना।</lex>
+      <lex comment="" lid="Id2" lang="en">In 1959, Alan Shepard was selected by NASA.</lex>
+      <lex comment="" lid="Id2" lang="hi">1959-अलन शेपर्ड (Alan Shepard) NASA द्वारा चुने गए।</lex>
+      <lex comment="" lid="Id3" lang="en">Alan Shepard was selected by NASA in 1959.</lex>
+      <lex comment="" lid="Id3" lang="hi">1959-अलान शेपर्डके नासा (NASA) द्वारा चुना गया।</lex>
+      <lex comment="" lid="Id4" lang="en">Alan Shepard was chosen by NASA in 1959.</lex>
+      <lex comment="" lid="Id4" lang="hi">1959 साले नासा द्वारा अलान शेपर्ड को चुना गया।</lex>
+      <lex comment="" lid="Id5" lang="en">Alan Shepard was hired by NASA in 1959.</lex>
+      <lex comment="" lid="Id5" lang="hi">1959 में अलान शेपर्डके नासा ने हायर किया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Apollo_11 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_11 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Apollo 11 was operated by NASA.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | अपोलो 11 को नासा द्वारा संचालित किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The Apollo 11 program was organized by NASA.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | upright | अपोलो 11 कार्यक्रम का आयोजन नासा द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alfred Worden was a backup pilot of Apollo 12.</lex>
+      <lex comment="" lid="Id1" lang="hi">अल्फ्रेड वार्डन अपोलो 12 के बैकअप पायलट थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Apollo 12's backup pilot was Alfred Worden.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | अपोलो 12 के बैकअप पायलट अल्फ्रेड वार्डन थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Alfred Worden was the backup pilot of Apollo 12.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | upright | upright | upright | अपोलो 12 के बैकअप पायलट अल्फ्रेड वार्डन</lex>
+    </entry>
+    <entry category="Astronaut" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew1Up | David_Scott</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | commander | David_Scott</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Apollo 12 was commanded by David Scott.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | अपोलो 12 की कमान डेविड स्कॉट के हाथों में थी।</lex>
+      <lex comment="" lid="Id2" lang="en">David Scott was the commander of Apollo 12.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | upright | upright | upright | अपोलो 12 के कमान्डर डेविड स्कॉट</lex>
+    </entry>
+    <entry category="Astronaut" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The operator of Apollo 12 was NASA.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | अपोलो 12 का ऑपरेटर नासा था</lex>
+      <lex comment="" lid="Id2" lang="en">The Apollo 12 operator is NASA.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | upright | upright | अपोलो 12 के ऑपरेटर का नाम नासा है</lex>
+      <lex comment="" lid="Id3" lang="en">NASA operated Apollo 12.</lex>
+      <lex comment="" lid="Id3" lang="hi">नासा ने अपोलो 12 का संचालन किया।</lex>
+      <lex comment="" lid="Id4" lang="en">The Apollo 12 mission was operated by NASA.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumbnail | upright | upright | अपोलो 12 मिशन को नासा द्वारा संचालित किया गया था।</lex>
+      <lex comment="" lid="Id5" lang="en">Apollo 12 is operated by NASA.</lex>
+      <lex comment="" lid="Id5" lang="hi">thumbnail | upright | upright | upright | अपोलो 12 का संचालन नासा द्वारा किया जा रहा है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_8 | commander | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank Borman was an Apollo 8 Commander.</lex>
+      <lex comment="" lid="Id1" lang="hi">फ्रैंक बोर्मन अपोलो 8 के कमांडर थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Frank Borman was the Apollo 8 commander.</lex>
+      <lex comment="" lid="Id2" lang="hi">फ्रैंक बोर्मन अपोलो 8 के कमांडर थे।</lex>
+      <lex comment="" lid="Id3" lang="en">The Apollo 8 commander was Frank Borman.</lex>
+      <lex comment="" lid="Id3" lang="hi">frank borman था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank Borman was a member of the crew on Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="hi">फ्रैंक बोर्मन अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Frank Borman was a crew member of Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="hi">frank borman अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Apollo 8 crew members included Frank Borman.</lex>
+      <lex comment="" lid="Id3" lang="hi">अपोलो 8 के चालक दल के सदस्यों में फ्रैंक बोर्मन भी शामिल थे।</lex>
+      <lex comment="" lid="Id4" lang="en">Frank Borman was a crewman aboard Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="hi">frank borman अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id5" lang="en">Frank Borman was a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id5" lang="hi">frank borman) अपोलो 8 के चालक दल के एक सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>British_Hong_Kong | representative | Chris_Patten</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>British_Hong_Kong | representative | Chris_Patten</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Chris Patten served as a representative of British Hong Kong.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | upright | upright | क्रिस पैटन ने ब्रिटिश हांगकांग के प्रतिनिधि के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id2" lang="en">Chris Patten represented British Hong Kong.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | upright | हांगकांग के क्रिस पैटन ने हांगकांग का प्रतिनिधित्व किया।</lex>
+      <lex comment="" lid="Id3" lang="en">Chris Patten is a representative of British Hong Kong.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | upright | upright | क्रिस पैटन ब्रिटिश हांगकांग के प्रतिनिधि हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">The British Hong Kong representative is Chris Patten.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | right | हांगकांग के ब्रिटिश प्रतिनिधि क्रिस पैटन</lex>
+    </entry>
+    <entry category="Astronaut" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | alternativeNames | &quot;Edwin E. Aldrin, Jr.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | alternativeName | &quot;Edwin E. Aldrin, Jr.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Edwin E. Aldrin, Jr. was commonly known as Buzz Aldrin.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडविन एल्ड्रिन, जूनियर को आमतौर पर बज़ एल्ड्रिन के नाम से जाना जाता था।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin's real name was Edwin E. Aldrin, Jr.</lex>
+      <lex comment="" lid="Id2" lang="hi">बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (buzz Aldrin) – बज़ आल्ड्रिन (edwin E.</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin is also called Edwin E. Aldrin Jr.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin को Edwin E. Aldrin Junior भी कहा जाता है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | awards | 20</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | awards | 20</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The number of Buzz Aldrin's awards are 20.</lex>
+      <lex comment="" lid="Id1" lang="hi">buzz Aldrin 's awards की संख्या 20 है।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin won 20 awards.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz आल्ड्रिन ने 20 पुरस्कार जीते।</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin received 20 awards.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin ने 20 पुरस्कार जीते।</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin has won 20 awards.</lex>
+      <lex comment="" lid="Id4" lang="hi">buzz Aldrin ने 20 पुरस्कार जीते हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">Buzz Aldrin had 20 awards.</lex>
+      <lex comment="" lid="Id5" lang="hi">buzz Aldrin ने 20 पुरस्कार जीते।</lex>
+    </entry>
+    <entry category="Astronaut" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin's birth date was 1930 01 20.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | बज् आल्ड्रिन का जन्म 1930 01 20.</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin was born January 20, 1930.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz Aldrin 1930 जनवरि 20 न् जन्मिंचारु.</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin was born on 1930-01-20.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin 1930-01-20 में पैदा हुए थे।</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin's birth date is January 20, 1930.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | upright | 250px | बज् आल्ड्रिन (Buzz Aldrin) 20th January 1930.</lex>
+      <lex comment="" lid="Id5" lang="en">Buzz Aldrin was born on January 20th, 1930.</lex>
+      <lex comment="" lid="Id5" lang="hi">buzz Aldrin born on January 20,1930. buzz Aldrin born on January 20,1930. buzz Aldrin birthday buzz Aldrin birthday by January 20,1930. buzz aldrin birthday buzz aldrin birthday buzz aldrin birthday by January 20,1930. buzz aldrin birthday buzz aldrin birthday buzz aldrin birthday buzz. buzz aldrin birthday buzz. buzz. buzz aldrin</lex>
+      <lex comment="" lid="Id6" lang="en">Buzz Aldrin was born on the 20th of January 1930.</lex>
+      <lex comment="" lid="Id6" lang="hi">buzz Aldrin born on the 20 January 1930. buzz Aldrin was born on the 20 January 1930. buzz Aldrin. buzz Aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz aldrin. buzz. buzz. bu</lex>
+      <lex comment="" lid="Id7" lang="en">Buzz Aldrin was born on January 20,1930.</lex>
+      <lex comment="" lid="Id7" lang="hi">buzz Aldrin born on January 20,1930. buzz Aldrin born on January 20,1930. buzz Aldrin birthday buzz Aldrin birthday by January 20,1930. buzz aldrin birthday buzz aldrin birthday buzz aldrin birthday buzz aldrin birthday buzz aldrin birthday buzz aldrin birthday buzz aldrin buzz buzz buzz buzz buzz buzz buzz buzz buzz bu</lex>
+    </entry>
+    <entry category="Astronaut" eid="35" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthName | &quot;Edwin Eugene Aldrin Jr.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthName | &quot;Edwin Eugene Aldrin Jr.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin's birth name is Edwin Eugene Aldrin Jr.</lex>
+      <lex comment="" lid="Id1" lang="hi">बज़ आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin was born as Edwin Eugene Aldrin Jr.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाज आल्ड्रिन का जन्म एडविन यूजीन आल्ड्रिन जूनियर के रूप में हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin was born Edwin Eugene Aldrin Jr.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin Jr. buzz Aldrin was born Edwin Eugene Aldrin Jr. buzz Aldrin Jr. buzz Aldrin was born in Edwin Eugene Aldrin Jr.</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin's birth name was Edwin Eugene Aldrin Jr.</lex>
+      <lex comment="" lid="Id4" lang="hi">बज़ आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)-आल्ड्रिन (Buzz Aldrin)</lex>
+      <lex comment="" lid="Id5" lang="en">Buzz Aldrin was born with the name Edwin Eugene Aldrin Jr.</lex>
+      <lex comment="" lid="Id5" lang="hi">buzz Aldrin was born with the name of Edwin Eugene Aldrin Jr. buzz Aldrin was born with the name of Edwin Eugene Aldrin Jr. buzz Aldrin Jr. buzz Aldrin Jr. buzz Aldrin was born with the name of Edwin Eugene Aldrin Jr. buzz Aldrin Jr. buzz Aldrin Jr. buzz Aldrin born with the name of Edwin Eugene Aldrin Jr.</lex>
+    </entry>
+    <entry category="Astronaut" eid="36" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin was born in Glen Ridge, New Jersey.</lex>
+      <lex comment="" lid="Id1" lang="hi">buzz Aldrin was born in Glen Ridge, New Jersey. buzz Aldrin was born in the Glen Ridge, New Jersey. buzz Aldrin was born in the Glen Ridge, New Jersey. buzz Aldrin was born in the Glen Ridge, New Jersey. buzz Aldrin was born in at the Glen Ridge, New Jersey. buzz Aldrin, born. buzz Aldrin, born. buzz Aldrin, born. buzz. buzz. b</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin was born in Glen Ridge New Jersey.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz.</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin's birth place was Glen Ridge, New Jersey.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin का जन्म स्थान न्यू जर्सी के ग्लेन रिज में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="37" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | dateOfRet | &quot;1971-07-01&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | dateOfRetirement | &quot;1971-07-01&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin retired on the 7th of January 1971.</lex>
+      <lex comment="" lid="Id1" lang="hi">buzz Aldrin 1971 की 7 जनवरी को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin date of retirement was 1971/07/01.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz Aldrin के सेवानिवृत्त होने की तिथि 1971/07/01 थी।</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin's retirement date is &quot;1971-07-01&quot;.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin 's retirement date 1971-07-01.</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin retired on July 1st, 1971.</lex>
+      <lex comment="" lid="Id4" lang="hi">buzz Aldrin 1 July 1971 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id5" lang="en">Buzz Aldrin retired on July 1, 1971.</lex>
+      <lex comment="" lid="Id5" lang="hi">buzz Aldrin 1 जुलाई 1971 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id6" lang="en">Buzz Aldrin retired on the 1st of July 1971.</lex>
+      <lex comment="" lid="Id6" lang="hi">buzz Aldrin) 1 जुलाई 1971 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id7" lang="en">Buzz Aldrin retired on 1971-07-01.</lex>
+      <lex comment="" lid="Id7" lang="hi">buzz Aldrin 1971-07-01 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id8" lang="en">Buzz Aldrin retired on Jul 1, 1971.</lex>
+      <lex comment="" lid="Id8" lang="hi">buzz Aldrin 1 जुलाई 1971 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="38" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin was a fighter pilot.</lex>
+      <lex comment="" lid="Id1" lang="hi">बज़ आल्ड्रिन एक फाइटर पायलट थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin served as a Fighter pilot.</lex>
+      <lex comment="" lid="Id2" lang="hi">बज़ आल्ड्रिन ने फाइटर पायलट के रूप में काम किया।</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin's occupation was a fighter pilot.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz आल्ड्रिन का कब्जा एक फाइटर पायलट था।</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin performed as a fighter pilot.</lex>
+      <lex comment="" lid="Id4" lang="hi">बज़ आल्ड्रिन ने एक लड़ाकू पायलट के रूप में प्रदर्शन किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="39" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin is retired.</lex>
+      <lex comment="" lid="Id1" lang="hi">buzz Aldrin रिटायर हो चुके हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin is now retired.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz. buzz. aldrin. buzz. buzz. buzz. aldrin. buzz. buzz. aldrin. buzz. buzz. buzz. aldrin. buzz. buzz. aldrin. buzz. buzz. aldrin. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. buzz. aldrin. buzz. buzz. buzz. buzz. buzz. buzz. buzz.</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin has retired.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin रिटायर हो गए हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="40" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | timeInSpace | &quot;52.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | timeInSpace | &quot;52.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin was in space for 52 minutes.</lex>
+      <lex comment="" lid="Id1" lang="hi">buzz Aldrin अंतरिक्ष में 52 मिनट के लिए था।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin spent a total of 52.0 minutes in space.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz Aldrin ने अंतरिक्ष में कुल 52.0 मिनट बिताए।</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin spent 52.0 minutes in Space.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz आल्ड्रिन ने अंतरिक्ष में 52.0 मिनट बिताए।</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin spent 52 minutes in space.</lex>
+      <lex comment="" lid="Id4" lang="hi">buzz Aldrin ने अंतरिक्ष में 52 मिनट बिताए।</lex>
+      <lex comment="" lid="Id5" lang="en">Buzz Aldrin walked in space 52.0 minutes.</lex>
+      <lex comment="" lid="Id5" lang="hi">buzz Aldrin space 52.0 minute में चला गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="41" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | ribbon | &quot;Legion of Merit ribbon.svg&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | ribbonAward | &quot;Legion of Merit ribbon.svg&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Buzz Aldrin was awarded the Legion of Merit ribbon.</lex>
+      <lex comment="" lid="Id1" lang="hi">buzz Aldrin को Legion of Merit ribbbon से सम्मानित किया गया।</lex>
+      <lex comment="" lid="Id2" lang="en">Buzz Aldrin was awarded with Legion of Merit ribbon.</lex>
+      <lex comment="" lid="Id2" lang="hi">buzz Aldrin को Legion of Merit ribbbon से सम्मानित किया गया।</lex>
+      <lex comment="" lid="Id3" lang="en">Buzz Aldrin won the Legion of Merit ribbon.</lex>
+      <lex comment="" lid="Id3" lang="hi">buzz Aldrin ने Legion of Merit ribbbon जीता।</lex>
+      <lex comment="" lid="Id4" lang="en">Buzz Aldrin was awarded the &quot;Legion of Merit&quot; ribbon.</lex>
+      <lex comment="" lid="Id4" lang="hi">buzz Aldrin को Legion of Merit रिबन से सम्मानित किया गया।</lex>
+      <lex comment="" lid="Id5" lang="en">Buzz Aldrin was awarded the 'Legion of Merit' ribbon.</lex>
+      <lex comment="" lid="Id5" lang="hi">buzz Aldrin को 'Legion of Merit' ribbon से सम्मानित किया गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="42" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>California | fossil | Smilodon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>California | fossil | Smilodon</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Smilodon is a fossil from California.</lex>
+      <lex comment="" lid="Id1" lang="hi">smilodon is a fossil from California.-smilodon is a fossil from California.</lex>
+      <lex comment="" lid="Id2" lang="en">California have fossils of the Smilodon.</lex>
+      <lex comment="" lid="Id2" lang="hi">कैलिफोर्निया में स्मिलोडोन के जीवाश्म हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">A Smilodon is a fossil from California.</lex>
+      <lex comment="" lid="Id3" lang="hi">smilodon california का एक जीवाश्म है।</lex>
+      <lex comment="" lid="Id4" lang="en">The Smilodon fossil was found in California.</lex>
+      <lex comment="" lid="Id4" lang="hi">smilodon fossil california में पाया गया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="43" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>California | senators | Dianne_Feinstein</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>California | senators | Dianne_Feinstein</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Senator representing California was Dianne Feinstein.</lex>
+      <lex comment="" lid="Id1" lang="hi">कैलिफोर्निया का प्रतिनिधित्व करने वाले सीनेटर डायने फीनस्टीन थे।</lex>
+      <lex comment="" lid="Id2" lang="en">One of California's senators is Dianne Feinstein.</lex>
+      <lex comment="" lid="Id2" lang="hi">Dianne Feinstein कैलिफोर्निया की सीनेटर हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Dianne Feinstein is a senator in California.</lex>
+      <lex comment="" lid="Id3" lang="hi">Dianne Feinstein कैलिफोर्निया में एक सीनेटर है।</lex>
+      <lex comment="" lid="Id4" lang="en">Dianne Feinstein is a senator in the State of California.</lex>
+      <lex comment="" lid="Id4" lang="hi">Dianne Feinstein) कैलिफोर्निया राज्य में एक सीनेटर हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="44" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dallas | part | Collin_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dallas | part | Collin_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dallas is in Collin County, Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">डलास टेक्सास के कोलिन काउंटी में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Dallas is located in the Collin County in Texas.</lex>
+      <lex comment="" lid="Id2" lang="hi">डलास टेक्सास के कोलिन काउंटी में स्थित है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="45" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dallas is a county in Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">डलास टेक्सास का एक काउंटी है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="46" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">the Distinguished service medal from the Navy is higher than the department of commerce gold medal.</lex>
+      <lex comment="" lid="Id1" lang="hi">नौसेना का विशिष्ट सेवा पदक वाणिज्य विभाग के स्वर्ण पदक से अधिक है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Distinguished Service Medal of the United States Navy is higher than the Department of Commerce Gold Medal.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमरीकी नौसेना का विशिष्ट सेवा पदक वाणिज्य विभाग के स्वर्ण पदक से अधिक है।</lex>
+      <lex comment="" lid="Id3" lang="en">Distinguished Service Medal from United States Navy ranks higher than Department of Commerce Gold Medal.</lex>
+      <lex comment="" lid="Id3" lang="hi">विशिष्ट सेवा पदक (Distinguished Service Medal) अमेरिका की नौसेना से वाणिज्य विभाग के स्वर्ण पदक (Department of Commerce Gold Medal) से अधिक रैंक पर है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="47" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Elliot See was a student at University of Texas at Austin.</lex>
+      <lex comment="" lid="Id1" lang="hi">इलियट सी ऑस्टिन में टेक्सास विश्वविद्यालय के छात्र थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Elliot See attended the University of Texas at Austin.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलियट सी ने ऑस्टिन में टेक्सास विश्वविद्यालय में भाग लिया।</lex>
+      <lex comment="" lid="Id3" lang="en">Elliot See graduated from the University of Texas at Austin.</lex>
+      <lex comment="" lid="Id3" lang="hi">इलियट सी ने टेक्सास विश्वविद्यालय, ऑस्टिन से स्नातक की उपाधि प्राप्त की।</lex>
+    </entry>
+    <entry category="Astronaut" eid="48" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Elliot_See | birthDate | &quot;1927-07-23&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | birthDate | &quot;1927-07-23&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Elliot was born on the 23rd of July 1927.</lex>
+      <lex comment="" lid="Id1" lang="hi">इलियट का जन्म 23 जुलाई 1927 को हुआ था।</lex>
+      <lex comment="" lid="Id2" lang="en">Elliot See was born on July 23, 1927.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलियट सी का जन्म 23 जुलाई 1927 को हुआ था।</lex>
+      <lex comment="" lid="Id3" lang="en">Elliot See was born on July 23rd, 1927.</lex>
+      <lex comment="" lid="Id3" lang="hi">इलियट सी का जन्म 23 जुलाई 1927 को हुआ था।</lex>
+      <lex comment="" lid="Id4" lang="en">Elliot See was born on 23rd July 1927.</lex>
+      <lex comment="" lid="Id4" lang="hi">इलियट सी का जन्म 23 जुलाई 1927 को हुआ था।</lex>
+      <lex comment="" lid="Id5" lang="en">Elliot See was born on 07/23/1927.</lex>
+      <lex comment="" lid="Id5" lang="hi">ईलियट सी का जन्म 07-23-1927 को हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="49" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Elliot See was born in Dallas.</lex>
+      <lex comment="" lid="Id1" lang="hi">इलियट सी का जन्म डलास में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="50" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Elliot_See | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The nationality of Elliot See is United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">इलियट सी (Elliot See) की नागरिकता अमेरिका है।</lex>
+      <lex comment="" lid="Id2" lang="en">Elliot See had a nationality that was of the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलियट सी के पास अमेरिका की नागरिकता थी।</lex>
+      <lex comment="" lid="Id3" lang="en">Elliot See is from the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | upright | इलियट सी अमेरिका से हैं</lex>
+      <lex comment="" lid="Id4" lang="en">Elliot See is a United States national.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | left | upright | एलियाट सी एक अमेरिकी नागरिक है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="51" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Elliot_See | selection | 1962</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | selectedByNasa | 1962</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">NASA selected Elliot See in 1962.</lex>
+      <lex comment="" lid="Id1" lang="hi">नासा ने 1962 में इलियट सी को चुना।</lex>
+      <lex comment="" lid="Id2" lang="en">Elliot See joined NASA in 1962.</lex>
+      <lex comment="" lid="Id2" lang="hi">1962 में इलियट सी नासा में शामिल हुए।</lex>
+      <lex comment="" lid="Id3" lang="en">Elliot See was selected by NASA in 1962.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | 200px | upright | 1962 में नासा द्वारा इलियट सी को चुना गया।</lex>
+      <lex comment="" lid="Id4" lang="en">Elliot See worked for NASA beginning in 1962,.</lex>
+      <lex comment="" lid="Id4" lang="hi">इलियट सी ने 1962 में नासा के लिए काम किया था।</lex>
+      <lex comment="" lid="Id5" lang="en">Elliot See was chosen by NASA in 1962.</lex>
+      <lex comment="" lid="Id5" lang="hi">1962 में नासा द्वारा इलियट सी को चुना गया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="52" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Glen Ridge is in the Essex County in New Jersey.</lex>
+      <lex comment="" lid="Id1" lang="hi">ग्लेन रिज न्यू जर्सी के एसेक्स काउंटी में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Glen Ridge is located in the Essex County in New Jersey.</lex>
+      <lex comment="" lid="Id2" lang="hi">ग्लेन रिज न्यू जर्सी के एसेक्स काउंटी में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Glen Ridge, New Jersey is situated in the Essex County.</lex>
+      <lex comment="" lid="Id3" lang="hi">ग्लेन रिज, न्यू जर्सी एसेक्स काउंटी में स्थित है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="53" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>New_Hampshire | bird | Purple_finch</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_Hampshire | bird | Purple_finch</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The purple finch is a native bird to New Hampshire.</lex>
+      <lex comment="" lid="Id1" lang="hi">पर्पल फिंच (purple finch) न्यू हैम्पशायर का एक देशी पक्षी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Purple finch is a bird found in New Hampshire.</lex>
+      <lex comment="" lid="Id2" lang="hi">purple finch न्यू हैम्पशायर में पाया जाने वाला एक पक्षी है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Purple Finch is a New Hampshire bird.</lex>
+      <lex comment="" lid="Id3" lang="hi">purple finch न्यू हैम्पशायर का पक्षी है।</lex>
+      <lex comment="" lid="Id4" lang="en">The Purple Finch is a bird living in New Hampshire.</lex>
+      <lex comment="" lid="Id4" lang="hi">purple finch न्यू हैम्पशायर में रहने वाला एक पक्षी है।</lex>
+      <lex comment="" lid="Id5" lang="en">The New Hampshire state bird is the purple finch.</lex>
+      <lex comment="" lid="Id5" lang="hi">thumbnail | upright | न्यू हैम्पशायर राज्य पक्षी पर्पल फिंच है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="54" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>St._Louis | isPartOf | Kingdom_of_France</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St. Louis was situated in the Kingdom of France.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | सेंट लुई शहर फ्रांस में स्थित था।</lex>
+      <lex comment="" lid="Id2" lang="en">St. Louis was part of the Kingdom of France.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | सेंट लुई फ्रांस साम्राज्य का हिस्सा था।</lex>
+      <lex comment="" lid="Id3" lang="en">St. Louis is part of the Kingdom of France.</lex>
+      <lex comment="" lid="Id3" lang="hi">st. Louis is is part of France.</lex>
+      <lex comment="" lid="Id4" lang="en">St. Louis was a part of the kingdom of France.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | right | upright | सेंट लुई फ्रांस साम्राज्य का हिस्सा था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="55" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>St._Louis | leaderName | Francis_G._Slay</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Louis | leader | Francis_G._Slay</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The name of St Louis' leader is Francis G. Slay.</lex>
+      <lex comment="" lid="Id1" lang="hi">सेंट लुई के नेता का नाम फ्रांसिस जी. स्ले है।</lex>
+      <lex comment="" lid="Id2" lang="en">Francis G Slay is the Mayor of St Louis.</lex>
+      <lex comment="" lid="Id2" lang="hi">फ्रांसिस जी. स्ले (Francis G. Slay) सेंट लुई के मेयर हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="56" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joe Biden is the United States leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">जो बाइडेन अमेरिका के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Joe Biden is a United States leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">जो बाइडेन अमेरिका के नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Joe Biden was a representative of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">जो बिडेन (Joe Biden)-जो बिडेन (Joe Biden)</lex>
+      <lex comment="" lid="Id4" lang="en">Joe Biden is a leader of the United States.</lex>
+      <lex comment="" lid="Id4" lang="hi">जो बिडेन अमेरिका के नेता हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">The United States leader was called Joe Biden.</lex>
+      <lex comment="" lid="Id5" lang="hi">thumb | left | 200px | जो बिडेन (Joe Biden)</lex>
+      <lex comment="" lid="Id6" lang="en">Joe Biden served as United State's vice president.</lex>
+      <lex comment="" lid="Id6" lang="hi">जो बाइडेन अमेरिका के उपराष्ट्रपति रह चुके हैं।</lex>
+      <lex comment="" lid="Id7" lang="en">Joe Biden is a United States leader.</lex>
+      <lex comment="" lid="Id7" lang="hi">जो बाइडेन अमेरिका के नेता हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="57" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">University of Texas at Austin is affiliated with University of Texas System.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | टेक्सास विश्वविद्यालय ऑस्टिन में टेक्सास विश्वविद्यालय प्रणाली विश्वविद्यालय से सम्बद्ध है।</lex>
+      <lex comment="" lid="Id2" lang="en">The University of Texas, Austin, is affiliated with the University of Texas System.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | टेक्सास विश्वविद्यालय, ऑस्टिन, टेक्सास प्रणाली विश्वविद्यालय से संबद्ध है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="58" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The University of Texas at Austin is competing in the Big 12 Conference.</lex>
+      <lex comment="" lid="Id1" lang="hi">texas university of texas at austin is competition in the big 12 conference.</lex>
+      <lex comment="" lid="Id2" lang="en">The University of Texas, Austin, will compete in the Big 12 Conference.</lex>
+      <lex comment="" lid="Id2" lang="hi">texas university of texas, austin big 12 conference में compete करेगा।</lex>
+      <lex comment="" lid="Id3" lang="en">The University of Texas competed in the Big 12 Conference in Austin.</lex>
+      <lex comment="" lid="Id3" lang="hi">texas university of texas competition in the big 12 conference in Austin. टेक्सास विश्वविद्यालय ने ऑस्टिन में बिग 12 सम्मेलन में भाग लिया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="59" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gregory L. Fenves is the President of University of Texas at Austin.</lex>
+      <lex comment="" lid="Id1" lang="hi">फेन्वेस ऑस्टिन स्थित टेक्सास विश्वविद्यालय के अध्यक्ष हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Gregory L. Fenves is the appointed president of the University of Texas at Austin.</lex>
+      <lex comment="" lid="Id2" lang="hi">फेन्वेस ऑस्टिन स्थित टेक्सास विश्वविद्यालय के नियुक्त अध्यक्ष हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Gregory L. Fenves was appointed as the president of the University of Texas at Ausitin.</lex>
+      <lex comment="" lid="Id3" lang="hi">फेनवेस को ऑस्टिन स्थित टेक्सास विश्वविद्यालय का अध्यक्ष नियुक्त किया गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="60" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In 1962, William Anders received a M.S. from his alma Mater, AFIT.</lex>
+      <lex comment="" lid="Id1" lang="hi">1962 में, विलियम एंडर्स ने अपने अल्मा मेटर, एएफआईटी से एम. एस. प्राप्त किया।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders graduated, with an M.S., from AFIT in 1962.</lex>
+      <lex comment="" lid="Id2" lang="hi">1962 में ए. एफ. आई. टी. से एम. एस.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders graduated from AFIT in 1962 with an M.S.</lex>
+      <lex comment="" lid="Id3" lang="hi">1962 में ए. एफ. आई. टी. से एम. एस.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders graduated from AFIT, M.S. in 1962.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | left | 200px | upright | 1962 में विलियम एंडर्स ने ए. एफ. आई. टी., एम. एस. से स्नातक किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="61" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born on October 17th, 1933.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | 17अक्तूबर 1933 को जन्मे विल्यम एंडर्स</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was born October 17th 1933.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | 17th October 1933-William Anders born-17 October 1933.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was born on October 17, 1933.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | 17अक्तूबर 1933 को जन्मे विल्यम एंडर्स</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders was born 1933-10-17.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | left | upright | 1933-10-17 में पैदा हुए विल्यम एंडर्स</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders was born on the 17th of October 1933.</lex>
+      <lex comment="" lid="Id5" lang="hi">thumb | right | upright | 17अक्तूबर 1933 को जन्मे विल्यम एंडर्स</lex>
+    </entry>
+    <entry category="Astronaut" eid="62" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born in British Hong Kong.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | विलियम्स एंडर्स का जन्म ब्रिटिश हांगकांग में हुआ था।</lex>
+    </entry>
+  </entries>
+</benchmark>

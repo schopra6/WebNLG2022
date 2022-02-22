@@ -1,0 +1,1048 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;@en</otriple>
+        <otriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;</mtriple>
+        <mtriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;(minutes)</mtriple>
+        <mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean, who graduated in 1955 from UT Austin with a B.S. and was selected by NASA in 1963, spent 100305.0 minutes in space.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन बीन, जिन्होंने 1955 में यूटी ऑस्टिन से बीएस के साथ स्नातक किया था और 1963 में नासा द्वारा चुने गए थे, ने अंतरिक्ष में 100305.0 मिनट बिताए।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean went to UT Austin, B.S. 1955. He was selected by NASA in 1963 and spent 100305.0&quot;(minutes) in space.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन यूटी ऑस्टिन, बीएस 1955 गए। उन्हें 1963 में नासा द्वारा चुना गया था और उन्होंने अंतरिक्ष में 100305.0 (मिनट) बिताया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;@en</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | dateOfRet | &quot;June 1981&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;</mtriple>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | dateOfRetirement | &quot;June 1981&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean, who received a Bachelor of Science degree at the University of Texas at Austin in 1955 and was a crew member on the Apollo 12 flight mission, retired in June 1981.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन बीन, जिन्होंने 1955 में ऑस्टिन में टेक्सास विश्वविद्यालय से बैचलर ऑफ साइंस की डिग्री प्राप्त की थी और अपोलो 12 उड़ान मिशन पर चालक दल के सदस्य थे, जून 1981 में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean received a Bachelor of Science degree at the University of Texas at Austin in 1955 was a crew member on the Apollo 12 flight mission and retired in June of 1981.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन ने 1955 में ऑस्टिन में टेक्सास विश्वविद्यालय से विज्ञान में स्नातक की डिग्री प्राप्त की, वह अपोलो 12 उड़ान मिशन पर चालक दल के सदस्य थे और 1981 के जून में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean graduated from UT Austin, B.S. 1955 and was a crew member of Apollo 12 before retiring on June 1981.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन बीन यूटी ऑस्टिन, बीएस 1955 से स्नातक हुए और जून 1981 में सेवानिवृत्त होने से पहले अपोलो 12 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthDate | &quot;1932-03-15&quot;^^xsd:date</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthDate | &quot;1932-03-15&quot;</mtriple>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean, born March 15, 1932, spent over 69 days (or 100305 minutes!) in space as a member of the Apollo 12 crew.</lex>
+      <lex comment="" lang="hi" lid="Id1">15 मार्च, 1932 को जन्मे एलन बीन ने अपोलो 12 के चालक दल के सदस्य के रूप में 69 दिन (या 100305 मिनट) अंतरिक्ष में बिताए।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean, born on the 15th of March 1932, was in space for 100305 minutes as part of the crew of Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id2">15 मार्च 1932 को जन्मे एलन बीन अपोलो 12 के चालक दल के हिस्से के रूप में 100,305 मिनट के लिए अंतरिक्ष में थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean (born on 1932-03-15) was a crew member of Apollo 12 and spent 100305.0&quot;(minutes) in space!</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन बीन (जन्म 1932-03-15) अपोलो 12 के चालक दल के सदस्य थे और उन्होंने अंतरिक्ष में 100305.0 (मिनट) बिताए!</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | birthDate | &quot;1932-03-15&quot;^^xsd:date</otriple>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+        <otriple>Alan_Bean | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | birthDate | &quot;1932-03-15&quot;</mtriple>
+        <mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+        <mtriple>Alan_Bean | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Now retired, Alan Bean was born on Mar 15, 1932 and hired by NASA in 1963.</lex>
+      <lex comment="" lang="hi" lid="Id1">अब सेवानिवृत्त हो चुके एलन बीन का जन्म 15 मार्च, 1932 को हुआ था और 1963 में नासा ने उन्हें काम पर रखा था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean, who was born on 15th of March 1932 and selected by NASA in 1963, is now retired.</lex>
+      <lex comment="" lang="hi" lid="Id2">15 मार्च, 1932 को जन्मे और 1963 में नासा द्वारा चुने गए एलन बीन अब सेवानिवृत्त हो चुके हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean (born on 1932-03-15) was selected by NASA in 1963 and is now retired.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन बीन (जन्म 1932-03-15) को नासा द्वारा 1963 में चुना गया था और अब सेवानिवृत्त हो चुका है।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Bean(born on 1932-03-15) was selected by NASA in 1963 and now is retired.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन बीन (जन्म 1932-03-15) को नासा द्वारा 1963 में चुना गया था और अब सेवानिवृत्त है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | nationality | United_States</otriple>
+        <otriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;@en</otriple>
+        <otriple>Alan_Bean | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | nationality | United_States</mtriple>
+        <mtriple>Alan_Bean | almaMater | &quot;UT Austin, B.S. 1955&quot;</mtriple>
+        <mtriple>Alan_Bean | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean, a US National who graduated from UT Austin in 1955 with a B.S., is now retired.</lex>
+      <lex comment="" lang="hi" lid="Id1">1955 में यूटी ऑस्टिन से बीएस के साथ स्नातक करने वाले एक अमेरिकी नागरिक एलन बीन अब सेवानिवृत्त हो चुके हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean who was born in the USA and graduated from UT Austin in 1955 with a BS degree, is now retired.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन का जन्म अमेरिका में हुआ था और उन्होंने 1955 में यूटी ऑस्टिन से बीएस की डिग्री हासिल की थी।</lex>
+      <lex comment="" lang="en" lid="Id3">United States citizen Alan Bean graduated from UT Austin, B.S. in 1955 and is now retired.</lex>
+      <lex comment="" lang="hi" lid="Id3">संयुक्त राज्य अमेरिका के नागरिक एलन बीन ने 1955 में यूटी ऑस्टिन, बीएस से स्नातक किया और अब सेवानिवृत्त हो गए हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | nationality | United_States</otriple>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | nationality | United_States</mtriple>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Test pilot Alan Bean was born in Wheeler, Texas, USA.</lex>
+      <lex comment="" lang="hi" lid="Id1">टेस्ट पायलट एलन बीन का जन्म व्हीलर, टेक्सास, अमेरिका में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean was born in Wheeler, Texas, US and was a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन का जन्म व्हीलर, टेक्सास, अमेरिका में हुआ था और वह एक टेस्ट पायलट थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean, a US national whose birth place is Wheeler, Texas, served as a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id3">अमेरिकी नागरिक एलन बीन, जिनका जन्म स्थान व्हीलर, टेक्सास है, ने एक परीक्षण पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Bean was born in Wheeler, Texas, United States and served as a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन बीन का जन्म व्हीलर, टेक्सास, संयुक्त राज्य अमेरिका में हुआ था और उन्होंने एक परीक्षण पायलट के रूप में कार्य किया था।</lex>
+      <lex comment="" lang="en" lid="Id5">Alan Bean (born in Wheeler, Texas of the United States served as a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id5">एलन बीन (अमेरिका के व्हीलर, टेक्सास में पैदा हुए) ने एक परीक्षण पायलट के रूप में कार्य किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | nationality | United_States</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | nationality | United_States</mtriple>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Allan Bean, was one of the Americans hired by NASA in 1963 to crew Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन बीन, 1963 में नासा द्वारा अपोलो 12 के चालक दल के लिए नियुक्त किए गए अमेरिकियों में से एक थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean, born in the United States, was selected by NASA in 1963 and served as a crew member of Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id2">अमेरिका में जन्मे एलन बीन को 1963 में नासा द्वारा चुना गया था और उन्होंने अपोलो 12 के चालक दल के सदस्य के रूप में कार्य किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean, a US national, was selected by Nasa in 1963 and served as a crew member of Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id3">अमेरिकी नागरिक एलन बीन को नासा ने 1963 में चुना था और उन्होंने अपोलो 12 के चालक दल के सदस्य के रूप में काम किया था।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Bean was an American astronaut who NASA picked in 1963 to fly with Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन बीन एक अमेरिकी अंतरिक्ष यात्री थे, जिन्हें नासा ने 1963 में अपोलो 12 के साथ उड़ान भरने के लिए चुना था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | occupation | Test_pilot</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+        <otriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+        <mtriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The test pilot Alan Bean, who spent 100305 minutes in space, was born in Wheeler, Texas.</lex>
+      <lex comment="" lang="hi" lid="Id1">टेस्ट पायलट एलन बीन, जिन्होंने अंतरिक्ष में 100-305 मिनट बिताए, उनका जन्म व्हीलर, टेक्सास में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+        <otriple>Alan_Bean | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+        <mtriple>Alan_Bean | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean has retired, having been born in Wheeler, Texas and serving on the crew of Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन बीन का जन्म व्हीलर, टेक्सास में हुआ था और वह अपोलो 12 के चालक दल में शामिल थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean has retired, having been born in Wheeler, Texas and serving as a crew member on the Apollo 12 flight mission.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन का जन्म व्हीलर, टेक्सास में हुआ था और वह अपोलो 12 उड़ान मिशन में चालक दल के सदस्य के रूप में सेवा कर रहे थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean, born in Wheeler, Texas, was on the crew of Apollo 12 but has since retired.</lex>
+      <lex comment="" lang="hi" lid="Id3">टेक्सास के व्हीलर में जन्मे एलन बीन अपोलो 12 के चालक दल में थे, लेकिन बाद में सेवानिवृत्त हो गए।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Bean, born in Wheeler, Texas, is a retired astronaut who was a member of the crew of Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id4">टेक्सास के व्हीलर में जन्मे एलन बीन एक सेवानिवृत्त अंतरिक्ष यात्री हैं जो अपोलो 12 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | nationality | United_States</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | nationality | United_States</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">U.S. born Alan Bean was on the crew of NASA operated Apollo 12.</lex>
+      <lex comment="" lang="hi" lid="Id1">अमेरिका में जन्मे एलन बीन नासा द्वारा संचालित अपोलो 12 के चालक दल में शामिल थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean was a member of the Apollo 12 crew, his nationality is United States and the operator of Apollo 12 was NASA.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन अपोलो 12 के चालक दल के सदस्य थे, उनकी राष्ट्रीयता संयुक्त राज्य अमेरिका थी और अपोलो 12 का ऑपरेटर नासा था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+        <otriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+        <mtriple>Alan_Bean | timeInSpace | &quot;100305.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean was a crew member on the Apollo 12 flight mission operated by NASA and spent 100305.0 minutes in Space.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन बीन नासा द्वारा संचालित अपोलो 12 उड़ान मिशन पर चालक दल के सदस्य थे और उन्होंने अंतरिक्ष में 100-305.0 मिनट बिताए।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean was on the crew of the NASA operated Apollo 12 and spent 100305 minutes in space.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन नासा के अपोलो 12 के चालक दल में थे और उन्होंने अंतरिक्ष में 100305 मिनट बिताए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;@en</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | dateOfRet | &quot;1974-08-01&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | dateOfRetirement | &quot;1974-08-01&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard went to school at NWC and graduated with an MA in 1957, was born in New Hampshire and retired 1st of August 1974.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन शेपर्ड एनडब्ल्यूसी में स्कूल गए और 1957 में एमए के साथ स्नातक किया, उनका जन्म न्यू हैम्पशायर में हुआ और 1 अगस्त 1974 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepherd, who was born in New Hampshire, retired on 1 August 1974, having graduated from NWC with an MA in 1957.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेफर्ड, जिनका जन्म न्यू हैम्पशायर में हुआ था, 1 अगस्त 1974 को सेवानिवृत्त हुए और 1957 में एनडब्ल्यूसी से एमए के साथ स्नातक हुए।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard graduated from NWS in 1957,which born in New Hampshire and died on 1974-08-01.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड ने 1957 में एनडब्ल्यूएस से स्नातक किया, जो न्यू हैम्पशायर में पैदा हुआ और 1974-08-01 को उसकी मृत्यु हो गई।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard was born in New Hampshire and got his M.A. in 1957 at NWC and retired on August 1st, 1974.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड का जन्म न्यू हैम्पशायर में हुआ था और उन्होंने 1957 में एनडब्ल्यूसी से एम. ए. किया और 1 अगस्त, 1974 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id5">Alan Shepard, born in New Hampshire and a 1957 graduate of NWC, retired on August 1, 1974.</lex>
+      <lex comment="" lang="hi" lid="Id5">न्यू हैम्पशायर में जन्मे और एनडब्ल्यूसी से 1957 में स्नातक एलन शेपर्ड 1 अगस्त, 1974 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;@en</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepherd was born in New Hampshire, graduated from NWC in 1957, and died in California.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन शेफर्ड का जन्म न्यू हैम्पशायर में हुआ था, 1957 में एनडब्ल्यूसी से स्नातक और कैलिफोर्निया में उनकी मृत्यु हो गई।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepherd who died in California, was born in New Hampshire and graduated from NWC with an MA in 1957.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेफर्ड का जन्म न्यू हैम्पशायर में हुआ था और उन्होंने 1957 में एनडब्ल्यूसी से एमए के साथ स्नातक की उपाधि प्राप्त की।</lex>
+    </entry>
+    <entry category="Astronaut" eid="14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;@en</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | deathDate | &quot;1998-07-21&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | almaMater | &quot;NWC, M.A. 1957&quot;</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | deathDate | &quot;1998-07-21&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard, who graduated from NWC with a M.A. in 1957, died on July 21st 1998 in California.</lex>
+      <lex comment="" lang="hi" lid="Id1">1957 में एनडब्ल्यूसी से एम. ए. करने वाले एलन शेपर्ड का 21 जुलाई, 1998 को कैलिफोर्निया में निधन हो गया।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepard graduated from NWC, M.A. in 1957, he died in California on 1998-07-21.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेपर्ड ने एनडब्ल्यूसी, एमए से 1957 में स्नातक की उपाधि प्राप्त की और 1998-07-21 को कैलिफोर्निया में उनका निधन हो गया।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard (died on 1998-07-21 in California) graduated from NWC in 1957.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड (कैलिफोर्निया में 1998-07-21 को निधन हो गया) ने 1957 में एनडब्ल्यूसी से स्नातक की उपाधि प्राप्त की।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard, who attended NWC, M.A. in 1957, died in California on July 21, 1998.</lex>
+      <lex comment="" lang="hi" lid="Id4">1957 में एनडब्ल्यूसी, एमए में भाग लेने वाले एलन शेपर्ड का 21 जुलाई, 1998 को कैलिफोर्निया में निधन हो गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="15" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | selection | 1959</otriple>
+        <otriple>Alan_Shepard | birthDate | &quot;1923-11-18&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+        <mtriple>Alan_Shepard | birthDate | &quot;1923-11-18&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard who was born on Nov 18, 1923 in New Hampshire was selected by NASA in 1959.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन शेपर्ड का जन्म 18 नवंबर, 1923 को न्यू हैम्पशायर में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepard was born on November 18th, 1923 in New Hampshire and was selected by NASA in 1959.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेपर्ड का जन्म 18 नवंबर, 1923 को न्यू हैम्पशायर में हुआ था और उन्हें 1959 में नासा द्वारा चुना गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard was born in New Hampshire, chosen by NASA in 1959 and was born on the 18th of November 1923.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड का जन्म 1959 में न्यू हैम्पशायर में हुआ था, जिसे नासा ने चुना था और उनका जन्म 18 नवंबर 1923 को हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard was born in New Hampshire on November 18th, 1923 and in 1959 NASA chose him as part of the space program.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड का जन्म 18 नवंबर, 1923 को न्यू हैम्पशायर में हुआ था और 1959 में नासा ने उन्हें अंतरिक्ष कार्यक्रम के हिस्से के रूप में चुना था।</lex>
+      <lex comment="" lang="en" lid="Id5">Alan Shepard, born in New Hampshire on November 18, 1923, was selected by NASA in 1959.</lex>
+      <lex comment="" lang="hi" lid="Id5">18 नवंबर, 1923 को न्यू हैम्पशायर में जन्मे एलन शेपर्ड को 1959 में नासा द्वारा चुना गया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | selection | 1959</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | selectedByNasa | 1959</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard who died in California was born in New Hampshire and was selected by NASA in 1959.</lex>
+      <lex comment="" lang="hi" lid="Id1">कैलिफोर्निया में मरने वाले एलन शेपर्ड का जन्म न्यू हैम्पशायर में हुआ था और 1959 में नासा द्वारा उनका चयन किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepard, born in New Hampshire, but died in California, was hired by NASA in 1959.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेपर्ड, न्यू हैम्पशायर में पैदा हुए, लेकिन कैलिफोर्निया में उनकी मृत्यु हो गई, उन्हें 1959 में नासा द्वारा काम पर रखा गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard, who was born in New Hampshire and in 1959 selected by NASA, died in California.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड, जिनका जन्म न्यू हैम्पशायर में हुआ था और जिनका चयन 1959 में नासा द्वारा किया गया था, की कैलिफोर्निया में मृत्यु हो गई।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard (born in New Hampshire) was selected by NASA in 1959 and passed away in California.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड (जन्म न्यू हैम्पशायर में) को 1959 में नासा द्वारा चुना गया था और कैलिफोर्निया में उनका निधन हो गया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="17" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | birthDate | &quot;1923-11-18&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | birthDate | &quot;1923-11-18&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Test pilot Alan Shepard was born in New Hampshire on November 18, 1923.</lex>
+      <lex comment="" lang="hi" lid="Id1">टेस्ट पायलट एलन शेपर्ड का जन्म 18 नवंबर, 1923 को न्यू हैम्पशायर में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Test Pilot Alan Shepard was born November 18th, 1923 in New Hampshire.</lex>
+      <lex comment="" lang="hi" lid="Id2">टेस्ट पायलट एलन शेपर्ड का जन्म 18 नवंबर 1923 को न्यू हैम्पशायर में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard, who served as a Test pilot, was born in New Hampshire on the 18th of November 1923.</lex>
+      <lex comment="" lang="hi" lid="Id3">टेस्ट पायलट के रूप में काम करने वाले एलन शेपर्ड का जन्म 18 नवंबर 1923 को न्यू हैम्पशायर में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard (born on 1923-11-18 in New Hampshire) served as a Test Pilot.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड (1923-11-18 को न्यू हैम्पशायर में पैदा हुए) ने टेस्ट पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id5">Alan Shepard was a test pilot who was born in New Hampshire on November 18th, 1923.</lex>
+      <lex comment="" lang="hi" lid="Id5">एलन शेपर्ड एक टेस्ट पायलट थे जिनका जन्म 18 नवंबर, 1923 को न्यू हैम्पशायर में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | years | 1963</otriple>
+        <otriple>Alan_Shepard | ribbon | &quot;American Defense Service ribbon.svg&quot;@en</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | servedAsChiefOfTheAstronautOfficeIn | 1963</mtriple>
+        <mtriple>Alan_Shepard | ribbonAward | &quot;American Defense Service ribbon.svg&quot;</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard, who was born in New Hampshire and was the Chief of the Astronaut Office in 1963, was awarded with the American Defense Service ribbon.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन शेपर्ड, जिनका जन्म न्यू हैम्पशायर में हुआ था और 1963 में अंतरिक्ष यात्री कार्यालय के प्रमुख थे, को अमेरिकी रक्षा सेवा रिबन से सम्मानित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepherd was born in New Hampshire, awarded the American Defense Service Ribbon, and was the Chief of the Astronaut Office in 1963.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेफर्ड का जन्म न्यू हैम्पशायर में हुआ था, उन्हें अमेरिकी रक्षा सेवा रिबन से सम्मानित किया गया था, और 1963 में अंतरिक्ष यात्री कार्यालय के प्रमुख थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard was born in New Hampshire and served as Chief of the Astronaut Office in 1963, being awarded the American Defense Service ribbon.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड का जन्म न्यू हैम्पशायर में हुआ था और उन्होंने 1963 में अमेरिकी रक्षा सेवा रिबन से सम्मानित अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया था।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard (born in New Hampshire) served as Chief of the Astronaut Office in 1963 and was awarded an American Defense Service ribbon.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड (जन्म न्यू हैम्पशायर में) ने 1963 में अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया और उन्हें अमेरिकी रक्षा सेवा रिबन से सम्मानित किया गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | status | &quot;Deceased&quot;@en</otriple>
+        <otriple>Alan_Shepard | occupation | Test_pilot</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | status | &quot;Deceased&quot;</mtriple>
+        <mtriple>Alan_Shepard | occupation | Test_pilot</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard was born in New Hampshire, served as a test pilot and is dead.</lex>
+      <lex comment="" lang="hi" lid="Id1">एलन शेपर्ड का जन्म न्यू हैम्पशायर में हुआ था, उन्होंने एक टेस्ट पायलट के रूप में काम किया और उनकी मृत्यु हो गई।</lex>
+      <lex comment="" lang="en" lid="Id2">The test pilot Alan Shepard, who is now deceased, was born in New Hampshire.</lex>
+      <lex comment="" lang="hi" lid="Id2">टेस्ट पायलट एलन शेपर्ड, जो अब मृत हैं, का जन्म न्यू हैम्पशायर में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard, who was born in New Hampshire and served as a test pilot, is deceased.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड, जिनका जन्म न्यू हैम्पशायर में हुआ था और जिन्होंने एक टेस्ट पायलट के रूप में काम किया था, उनका निधन हो गया है।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard, now deceased, was born in New Hampshire and served as a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड, जो अब मृत हैं, का जन्म न्यू हैम्पशायर में हुआ था और उन्होंने एक टेस्ट पायलट के रूप में कार्य किया था।</lex>
+      <lex comment="" lang="en" lid="Id5">Alan Shepard (born in New Hampshire) served as a test pilot but is now deceased.</lex>
+      <lex comment="" lang="hi" lid="Id5">एलन शेपर्ड (न्यू हैम्पशायर में पैदा हुए) ने एक टेस्ट पायलट के रूप में काम किया, लेकिन अब उनकी मृत्यु हो चुकी है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | timeInSpace | &quot;13017.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | timeInSpace | &quot;13017.0&quot;(minutes)</mtriple>
+        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard's time in space is 13017 minutes, he was on the crew of Apollo 14 and his birth place was New Hampshire.</lex>
+      <lex comment="" lang="hi" lid="Id1">अंतरिक्ष में एलन शेपर्ड का समय 13017 मिनट है, वह अपोलो 14 के चालक दल में थे और उनका जन्म स्थान न्यू हैम्पशायर था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepard, who was born in New Hampshire, was a crew member aboard Apollo 14 and spent a total of 13017 minutes in space.</lex>
+      <lex comment="" lang="hi" lid="Id2">न्यू हैम्पशायर में जन्मे एलन शेपर्ड अपोलो 14 में चालक दल के सदस्य थे और उन्होंने अंतरिक्ष में कुल 13017 मिनट बिताए।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard (born in New Hampshire) was a crew member of Apollo 14 and spent 13017.0 (minutes) in space.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड (न्यू हैम्पशायर में पैदा हुए) अपोलो 14 के चालक दल के सदस्य थे और उन्होंने अंतरिक्ष में 13017.0 (मिनट) बिताए।</lex>
+      <lex comment="" lang="en" lid="Id4">Alan Shepard was born in New Hampshire, was a crew member of Apollo 14 and spent 13017.0 minutes in space.</lex>
+      <lex comment="" lang="hi" lid="Id4">एलन शेपर्ड का जन्म न्यू हैम्पशायर में हुआ था, वह अपोलो 14 के चालक दल के सदस्य थे और उन्होंने अंतरिक्ष में 13017.0 मिनट बिताए थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="21" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alan_Shepard | mission | Apollo_14</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Apollo_14 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | mission | Apollo_14</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Apollo_14 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Born in New Hampshire, Alan Shepard was a crew member on NASA's Apollo 14 mission.</lex>
+      <lex comment="" lang="hi" lid="Id1">न्यू हैम्पशायर में जन्मे एलन शेपर्ड नासा के अपोलो 14 मिशन के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepherd, born in New Hampshire, served as a crew member of the NASA operated Apollo 14.</lex>
+      <lex comment="" lang="hi" lid="Id2">न्यू हैम्पशायर में जन्मे एलन शेफर्ड ने नासा द्वारा संचालित अपोलो 14 के चालक दल के सदस्य के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard, born in New Hampshire, was a member of NASA's Apollo 14 crew.</lex>
+      <lex comment="" lang="hi" lid="Id3">न्यू हैम्पशायर में जन्मे एलन शेपर्ड नासा के अपोलो 14 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="22" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Alan_Bean | birthPlace | Wheeler,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Alan_Bean | birthPlace | Wheeler,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Bean, born in Wheeler, Texas, was a crew member of Apollo 12 where Alfred Worden served as the backup pilot.</lex>
+      <lex comment="" lang="hi" lid="Id1">टेक्सास के व्हीलर में जन्मे एलन बीन अपोलो 12 के चालक दल के सदस्य थे, जहां अल्फ्रेड वार्डन ने बैकअप पायलट के रूप में काम किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean, born in Wheeler, Texas, was part of the crew of Apollo 12 where Alfred Worden served as backup pilot.</lex>
+      <lex comment="" lang="hi" lid="Id2">टेक्सास के व्हीलर में जन्मे एलन बीन अपोलो 12 के चालक दल का हिस्सा थे, जहां अल्फ्रेड वार्डन ने बैकअप पायलट के रूप में काम किया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="23" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Apollo_12 | crew2Up | Alfred_Worden</otriple>
+        <otriple>Alan_Bean | mission | Apollo_12</otriple>
+        <otriple>Apollo_12 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_12 | backupPilot | Alfred_Worden</mtriple>
+        <mtriple>Alan_Bean | mission | Apollo_12</mtriple>
+        <mtriple>Apollo_12 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alfred Worden was a backup pilot on the NASA operated Apollo 12 where Alan Bean served as a crew member.</lex>
+      <lex comment="" lang="hi" lid="Id1">अल्फ्रेड वार्डन नासा द्वारा संचालित अपोलो 12 में बैकअप पायलट थे, जहां एलन बीन ने चालक दल के सदस्य के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Bean was on the crew of Apollo 12 operated by NASA, with Alfred Warren as a backup pilot .</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन बीन नासा द्वारा संचालित अपोलो 12 के चालक दल में थे, जिसमें एक बैकअप पायलट के रूप में अल्फ्रेड वारेन थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Bean crewed the Apollo 12 operated by NASA, with Alfred Worden as the backup pilot.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन बीन ने नासा द्वारा संचालित अपोलो 12 का चालक दल बनाया, जिसमें बैकअप पायलट के रूप में अल्फ्रेड वार्डन थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_8 | commander | Frank_Borman</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Crew member William Anders and backup pilot Buzz Aldrin served under commander Frank Borman on Apollo 8.</lex>
+      <lex comment="" lang="hi" lid="Id1">क्रू सदस्य विलियम एंडर्स और बैकअप पायलट बज़ आल्ड्रिन ने अपोलो 8 पर कमांडर फ्रैंक बोर्मन के तहत काम किया।</lex>
+      <lex comment="" lang="en" lid="Id2">Frank Borman was a Commander with William Anders as crew member and Buzz Aldrin as the backup pilot on the Apollo 8 mission.</lex>
+      <lex comment="" lang="hi" lid="Id2">फ्रैंक बोरमैन एक कमांडर थे, विलियम एंडर्स चालक दल के सदस्य और बज़ एल्ड्रिन अपोलो 8 मिशन पर बैकअप पायलट के रूप में थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | awards | 20</otriple>
+        <otriple>Buzz_Aldrin | almaMater | &quot;Massachusetts Institute of Technology, Sc.D. 1963&quot;@en</otriple>
+        <otriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | awards | 20</mtriple>
+        <mtriple>Buzz_Aldrin | almaMater | &quot;Massachusetts Institute of Technology, Sc.D. 1963&quot;</mtriple>
+        <mtriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin won 20 awards, graduated from Massachusetts Institute of Technology with a Sc.D in 1963 and was born on 1930-01-20.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ एल्ड्रिन ने 20 पुरस्कार जीते, 1963 में मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी से स्नातक किया और 1930-01-20 को पैदा हुए।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin, born January 20, 1930, graduated in 1963 from MIT with a Sc.D. with 20 awards.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ आल्ड्रिन का जन्म 20 जनवरी, 1930 को हुआ था और उन्होंने 1963 में एमआईटी से 20 पुरस्कारों के साथ स्नातक की उपाधि प्राप्त की थी।</lex>
+      <lex comment="" lang="en" lid="Id3">Born on the twentieth of January, 1930, 1963 Massachusetts Institute of Technology, Sc.D. graduate Buzz Aldrin has won 20 awards.</lex>
+      <lex comment="" lang="hi" lid="Id3">20 जनवरी, 1930,1963 को जन्मे मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी, एससी. डी. स्नातक बज़ एल्ड्रिन ने 20 पुरस्कार जीते हैं।</lex>
+      <lex comment="" lang="en" lid="Id4">Graduating from Massachusetts Institute of Technology in 1963, Buzz Aldrin (born 1930-01-20) received 20 awards.</lex>
+      <lex comment="" lang="hi" lid="Id4">1963 में मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी से स्नातक, बज़ एल्ड्रिन (जन्म 1930-01-20) ने 20 पुरस्कार प्राप्त किए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>Buzz_Aldrin | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+        <mtriple>Buzz_Aldrin | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Retired American Buzz Aldrin was born in Glen Ridge, NJ.</lex>
+      <lex comment="" lang="hi" lid="Id1">सेवानिवृत्त अमेरिकी बज़ एल्ड्रिन का जन्म ग्लेन रिज, एनजे में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin, now retired, is a US national, being born in Glen Ridge, New Jersey.</lex>
+      <lex comment="" lang="hi" lid="Id2">अब सेवानिवृत्त हो चुके बज़ एल्ड्रिन एक अमेरिकी नागरिक हैं और उनका जन्म न्यू जर्सी के ग्लेन रिज में हुआ है।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin, born in Glen Ridge, New Jersey, in the USA, is now retired.</lex>
+      <lex comment="" lang="hi" lid="Id3">अमेरिका के न्यू जर्सी के ग्लेन रिज में जन्मे बज़ एल्ड्रिन अब सेवानिवृत्त हो चुके हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin, a member of the Apollo 11 crew was born in Glen Ridge, New Jersey, US.</lex>
+      <lex comment="" lang="hi" lid="Id1">अपोलो 11 के चालक दल के सदस्य बज़ एल्ड्रिन का जन्म अमेरिका के न्यू जर्सी के ग्लेन रिज में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was an American crew member on Apollo 11, having been born in Glen Ridge, New Jersey.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ आल्ड्रिन अपोलो 11 में एक अमेरिकी चालक दल के सदस्य थे, जिनका जन्म न्यू जर्सी के ग्लेन रिज में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin was a US national, being born in Glen Ridge, New Jersey and was a member of the Apollo 11 crew.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ आल्ड्रिन का जन्म न्यू जर्सी के ग्लेन रिज में हुआ था और वह अपोलो 11 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lang="en" lid="Id4">Buzz Aldrin (born at Glen Ridge in New Jersey,USA) was a crew member of Apollo 11.</lex>
+      <lex comment="" lang="hi" lid="Id4">बज़ एल्ड्रिन (जन्म अमेरिका के न्यू जर्सी में ग्लेन रिज में हुआ) अपोलो 11 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lang="en" lid="Id5">Buzz Aldrin is an American who was born in Glen Ridge, New Jersey and part of the Apollo 11 flight crew.</lex>
+      <lex comment="" lang="hi" lid="Id5">बज़ एल्ड्रिन एक अमेरिकी हैं जिनका जन्म ग्लेन रिज, न्यू जर्सी में हुआ था और वे अपोलो 11 के विमान चालक दल का हिस्सा थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="28" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+        <mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin was a United States national born in Glen Ridge, New Jersey, in the Essex County.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ आल्ड्रिन एक अमेरिकी नागरिक थे, जो एसेक्स काउंटी में न्यू जर्सी के ग्लेन रिज में पैदा हुए थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge located in the Essex County in New Jersey and is a US national.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ एल्ड्रिन का जन्म न्यू जर्सी के एसेक्स काउंटी में स्थित ग्लेन रिज में हुआ था और वह एक अमेरिकी नागरिक हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin was born in Glen Ridge, Essex County, New Jersey, USA.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ एल्ड्रिन का जन्म ग्लेन रिज, एसेक्स काउंटी, न्यू जर्सी, अमेरिका में हुआ था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="29" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buss Aldrin is an American born in Glen Ridge, New Jersey in the United States of which Joe Biden is a leader.</lex>
+      <lex comment="" lang="hi" lid="Id1">बस आल्ड्रिन एक अमेरिकी हैं जिनका जन्म अमेरिका के न्यू जर्सी के ग्लेन रिज में हुआ है।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey as a United States national where Joe Biden is the leader.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ एल्ड्रिन का जन्म ग्लेन रिज, न्यू जर्सी में एक अमेरिकी नागरिक के रूप में हुआ था, जहां जो बिडेन नेता हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin was born in Glen Ridge, New Jersey and was a United States national where Joe Biden is the leader.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ आल्ड्रिन का जन्म न्यू जर्सी के ग्लेन रिज में हुआ था और वह एक अमेरिकी नागरिक थे जहां जो बिडेन नेता हैं।</lex>
+      <lex comment="" lang="en" lid="Id4">Buzz Aldrin was born in Glen Ridge, New Jersey, USA (the leader of which was Joe Biden).</lex>
+      <lex comment="" lang="hi" lid="Id4">बज़ एल्ड्रिन का जन्म ग्लेन रिज, न्यू जर्सी, यूएसए में हुआ था (जिसके नेता जो बिडेन थे)।</lex>
+    </entry>
+    <entry category="Astronaut" eid="30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+        <otriple>Buzz_Aldrin | almaMater | &quot;Massachusetts Institute of Technology, Sc.D. 1963&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+        <mtriple>Buzz_Aldrin | almaMater | &quot;Massachusetts Institute of Technology, Sc.D. 1963&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin who was born in Glen Ridge, New Jersey and graduated in 1963 from MIT with a Sc. D, served as a fighter pilot.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ एल्ड्रिन का जन्म न्यू जर्सी के ग्लेन रिज में हुआ था और उन्होंने 1963 में एमआईटी से स्नातक की डिग्री प्राप्त की। डी. ने एक लड़ाकू पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge, New Jersey and graduated with a Sc.D from MIT in 1963 before becoming a fighter pilot.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ एल्ड्रिन का जन्म ग्लेन रिज, न्यू जर्सी में हुआ था और उन्होंने फाइटर पायलट बनने से पहले 1963 में एमआईटी से एससीडी के साथ स्नातक किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin, who was born in Glen Ridge, New Jersey graduated from MIT in 1963 with a Sc D and served as a fighter pilot.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ आल्ड्रिन का जन्म न्यू जर्सी के ग्लेन रिज में हुआ था। उन्होंने 1963 में एमआईटी से स्नातक की उपाधि प्राप्त की और एक लड़ाकू पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id4">Buzz Aldrin (born in Glen Ridge New Jersey) was a fighter pilot and went to the Massachusetts Institute of Technology, Sc.D. 1963.</lex>
+      <lex comment="" lang="hi" lid="Id4">बज़ एल्ड्रिन (जन्म ग्लेन रिज न्यू जर्सी में) एक फाइटर पायलट थे और मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी, एससी. डी. 1963 में गए थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+        <otriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+        <mtriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Born on January 2 1930 in Glen Ridge, NJ, Buzz Aldrin was a fighter pilot.</lex>
+      <lex comment="" lang="hi" lid="Id1">एनजे के ग्लेन रिज में 2 जनवरी, 1930 को जन्मे एल्ड्रिन एक लड़ाकू पायलट थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin, who was born in Glen Ridge, New Jersey on 20 January 1930 served as a fighter pilot.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ आल्ड्रिन, जिनका जन्म 20 जनवरी 1930 को न्यू जर्सी के ग्लेन रिज में हुआ था, ने एक फाइटर पायलट के रूप में कार्य किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="32" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</otriple>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | birthPlace | Glen_Ridge,_New_Jersey</mtriple>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Glen_Ridge,_New_Jersey | isPartOf | Essex_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin, a crew member of Apollo 11, was born in the Essex County of Glen Ridge, New Jersey.</lex>
+      <lex comment="" lang="hi" lid="Id1">अपोलो 11 के चालक दल के सदस्य बज़ आल्ड्रिन का जन्म न्यू जर्सी के ग्लेन रिज के एसेक्स काउंटी में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was born in Glen Ridge New Jersey situated in the Essex County, he was a crew member of Apollo 11.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ एल्ड्रिन का जन्म एसेक्स काउंटी में स्थित ग्लेन रिज न्यू जर्सी में हुआ था, वह अपोलो 11 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="33" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Apollo_11 | crew2Up | William_Anders</otriple>
+        <otriple>Apollo_11 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Apollo_11 | backup pilot | William_Anders</mtriple>
+        <mtriple>Apollo_11 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin was a crew member of Apollo 11 where William Anders was a backup pilot and the mission was operated by NASA.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ आल्ड्रिन अपोलो 11 के चालक दल के सदस्य थे, जहां विलियम एंडर्स एक बैकअप पायलट थे और मिशन का संचालन नासा द्वारा किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin served as a crew member on the NASA organised Apollo 11 program, where William Anders was a backup pilot.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ आल्ड्रिन ने नासा द्वारा आयोजित अपोलो 11 कार्यक्रम में चालक दल के सदस्य के रूप में कार्य किया, जहां विलियम एंडर्स एक बैकअप पायलट थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin was a member of Nasa's Apollo 11 crew alongside William Anders the backup pilot.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ आल्ड्रिन बैकअप पायलट विलियम एंडर्स के साथ नासा के अपोलो 11 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="34" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+        <otriple>Apollo_11 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+        <mtriple>Apollo_11 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin, a US national, was a crew member on Apollo 11 operated by NASA.</lex>
+      <lex comment="" lang="hi" lid="Id1">अमेरिकी नागरिक बज़ एल्ड्रिन नासा द्वारा संचालित अपोलो 11 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was a US national who served as a crew member of the NASA operated Apollo 11.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ एल्ड्रिन एक अमेरिकी नागरिक थे जिन्होंने नासा द्वारा संचालित अपोलो 11 के चालक दल के सदस्य के रूप में कार्य किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin, born in the USA, was a crew member of the NASA operated Apollo 11.</lex>
+      <lex comment="" lang="hi" lid="Id3">अमेरिका में जन्मे बज़ एल्ड्रिन नासा द्वारा संचालित अपोलो 11 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Buzz_Aldrin | occupation | Fighter_pilot</otriple>
+        <otriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Buzz_Aldrin | occupation | Fighter_pilot</mtriple>
+        <mtriple>Buzz_Aldrin | birthDate | &quot;1930-01-20&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin was a crew member on Apollo 11, performed as a fighter pilot and his birth date was 1930 01 20.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ आल्ड्रिन अपोलो 11 के चालक दल के सदस्य थे, जिन्होंने एक लड़ाकू पायलट के रूप में प्रदर्शन किया और उनकी जन्म तिथि 1930 01 20 थी।</lex>
+      <lex comment="" lang="en" lid="Id2">Fighter pilot Buzz Aldrin, who was born on January 20 1930, was a member of Apollo 11's crew.</lex>
+      <lex comment="" lang="hi" lid="Id2">फाइटर पायलट बज़ एल्ड्रिन, जिनका जन्म 20 जनवरी 1930 को हुआ था, अपोलो 11 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin was both a fighter pilot and a flight member of Apollo 11 who was born on January 20th, 1930.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ आल्ड्रिन एक लड़ाकू पायलट और अपोलो 11 के एक उड़ान सदस्य दोनों थे जिनका जन्म 20 जनवरी, 1930 को हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id4">Buzz Aldrin was born on 1930-01-20, was a crew member of Apollo 11 and his main occupation was as a Fighter pilot.</lex>
+      <lex comment="" lang="hi" lid="Id4">बज़ आल्ड्रिन का जन्म 1930-01-20 को हुआ था, वह अपोलो 11 के चालक दल के सदस्य थे और उनका मुख्य व्यवसाय एक फाइटर पायलट के रूप में था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="36" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Buzz_Aldrin | timeInSpace | &quot;52.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        <otriple>Apollo_11 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Buzz_Aldrin | timeInSpace | &quot;52.0&quot;(minutes)</mtriple>
+        <mtriple>Apollo_11 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin, as part of the NASA operated Apollo 11 program, spent 52 minutes in space.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ आल्ड्रिन ने नासा द्वारा संचालित अपोलो 11 कार्यक्रम के एक हिस्से के रूप में अंतरिक्ष में 52 मिनट बिताए।</lex>
+      <lex comment="" lang="en" lid="Id2">On the NASA operated Apollo 11 program, crew member Buzz Aldrin spent 52.0 minutes in space.</lex>
+      <lex comment="" lang="hi" lid="Id2">नासा द्वारा संचालित अपोलो 11 कार्यक्रम में चालक दल के सदस्य बज़ आल्ड्रिन ने अंतरिक्ष में 52.0 मिनट बिताए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Buzz_Aldrin | selection | 1963</otriple>
+        <otriple>Apollo_11 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Buzz_Aldrin | selectedByNasa | 1963</mtriple>
+        <mtriple>Apollo_11 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin was hired by NASA in 1963 for the Apollo 11 mission.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ एल्ड्रिन को 1963 में नासा ने अपोलो 11 मिशन के लिए काम पर रखा था।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin was hired by NASA in 1963 to take part in Apollo 11.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ एल्ड्रिन को 1963 में नासा ने अपोलो 11 में भाग लेने के लिए काम पर रखा था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="38" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | selection | 1963</otriple>
+        <otriple>Buzz_Aldrin | mission | Apollo_11</otriple>
+        <otriple>Buzz_Aldrin | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | selectedByNasa | 1963</mtriple>
+        <mtriple>Buzz_Aldrin | mission | Apollo_11</mtriple>
+        <mtriple>Buzz_Aldrin | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Buzz Aldrin was hired by NASA in 1963, was a member of the Apollo 11 crew and is retired.</lex>
+      <lex comment="" lang="hi" lid="Id1">बज़ एल्ड्रिन को 1963 में नासा द्वारा नियुक्त किया गया था, वह अपोलो 11 के चालक दल के सदस्य थे और सेवानिवृत्त हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Buzz Aldrin, who is now retired, was selected by NASA in 1963 and served as a crew member of Apollo 11.</lex>
+      <lex comment="" lang="hi" lid="Id2">बज़ आल्ड्रिन, जो अब सेवानिवृत्त हो चुके हैं, को 1963 में नासा द्वारा चुना गया था और अपोलो 11 के चालक दल के सदस्य के रूप में कार्य किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Buzz Aldrin was hired by NASA in 1963, was a crew member on Apollo 11 and is retired.</lex>
+      <lex comment="" lang="hi" lid="Id3">बज़ एल्ड्रिन को 1963 में नासा द्वारा नियुक्त किया गया था, वह अपोलो 11 के चालक दल के सदस्य थे और सेवानिवृत्त हो चुके हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="39" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>California | gemstone | Benitoite</otriple>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+        <otriple>California | senators | Dianne_Feinstein</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>California | gemstone | Benitoite</mtriple>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+        <mtriple>California | senators | Dianne_Feinstein</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Dianne Feinstein is senator in California, the same place Benitoite was found and Alan Shepard died.</lex>
+      <lex comment="" lang="hi" lid="Id1">डायने फेंस्टीन कैलिफोर्निया में सीनेटर हैं, वही जगह जहां बेनिटोइट पाया गया था और एलन शेपर्ड की मृत्यु हो गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepard died in California. California's senator was Dianne Feinstein and Benitoite is the gemstone.</lex>
+      <lex comment="" lang="hi" lid="Id2">एलन शेपर्ड का कैलिफोर्निया में निधन हो गया। कैलिफोर्निया की सीनेटर डायने फेंस्टीन थीं और बेनिटोइट रत्न हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard died in California where senator is Dianne Feinstein and gemstone is Benitoite.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन शेपर्ड का कैलिफोर्निया में निधन हो गया, जहां सीनेटर डायने फेंस्टीन हैं और रत्न बेनिटोइट हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Dallas | part | Collin_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Dallas | part | Collin_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See was born in Dallas, Collin County, Texas.</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी का जन्म डलास, कॉलिन काउंटी, टेक्सास में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See was born in Dallas, located in the Collin County in Texas.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी का जन्म डलास में हुआ था, जो टेक्सास के कॉलिन काउंटी में स्थित है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</otriple>
+        <otriple>Alan_Shepard | birthPlace | New_Hampshire</otriple>
+        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Distinguished_Service_Medal_(United_States_Navy) | higher | Department_of_Commerce_Gold_Medal</mtriple>
+        <mtriple>Alan_Shepard | birthPlace | New_Hampshire</mtriple>
+        <mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Alan Shepard, born in New Hampshire, was awarded the Distinguished Service Medal (a higher award than the Department of Commerce Gold Medal) by the United States Navy.</lex>
+      <lex comment="" lang="hi" lid="Id1">न्यू हैम्पशायर में जन्मे एलन शेपर्ड को संयुक्त राज्य अमेरिका की नौसेना द्वारा विशिष्ट सेवा पदक (वाणिज्य विभाग के स्वर्ण पदक से एक उच्च पुरस्कार) से सम्मानित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Alan Shepard, born in New Hampshire, was awarded the United States Navy Distinguished Service Medal which ranks higher than Department of Commerce Gold Medal.</lex>
+      <lex comment="" lang="hi" lid="Id2">न्यू हैम्पशायर में जन्मे एलन शेपर्ड को संयुक्त राज्य अमेरिका नौसेना विशिष्ट सेवा पदक से सम्मानित किया गया, जो वाणिज्य विभाग के स्वर्ण पदक से अधिक है।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Shepard, who was born in New Hampshire, was awarded the United States Navy Distinguished Service Medal, which is higher than the department of commerce gold medal.</lex>
+      <lex comment="" lang="hi" lid="Id3">न्यू हैम्पशायर में जन्मे एलन शेपर्ड को यूनाइटेड स्टेट्स नेवी डिस्टिंग्विश्ड सर्विस मेडल से सम्मानित किया गया, जो वाणिज्य विभाग के स्वर्ण पदक से अधिक है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="42" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>Elliot_See | deathDate | &quot;1966-02-28&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>Elliot_See | deathDate | &quot;1966-02-28&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See, who graduated from the University of Texas at Austin, died in St Louis on 28 February 1966.</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी, जिन्होंने ऑस्टिन में टेक्सास विश्वविद्यालय से स्नातक किया था, का 28 फरवरी 1966 को सेंट लुइस में निधन हो गया।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See, a student from the University of Texas in Austin, died in St Louis on the 28th of February 1966.</lex>
+      <lex comment="" lang="hi" lid="Id2">ऑस्टिन में टेक्सास विश्वविद्यालय के एक छात्र इलियट सी की 28 फरवरी 1966 को सेंट लुइस में मृत्यु हो गई।</lex>
+      <lex comment="" lang="en" lid="Id3">Elliot See went to University of Texas at Austin and died in St. Louis on 1966-02-08.</lex>
+      <lex comment="" lang="hi" lid="Id3">इलियट सी ऑस्टिन में टेक्सास विश्वविद्यालय गए और 1966-02-08 को सेंट लुइस में उनका निधन हो गया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>Elliot_See | status | &quot;Deceased&quot;@en</otriple>
+        <otriple>Elliot_See | occupation | Test_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>Elliot_See | status | &quot;Deceased&quot;</mtriple>
+        <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See who was a student of the University of Texas at Austin and served as a test pilot, has died.</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी जो ऑस्टिन में टेक्सास विश्वविद्यालय के छात्र थे और एक टेस्ट पायलट के रूप में काम किया था, उनका निधन हो गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See, a student at the University of Texas in Austin who was also a test pilot, has died.</lex>
+      <lex comment="" lang="hi" lid="Id2">ऑस्टिन में टेक्सास विश्वविद्यालय के एक छात्र इलियट सी, जो एक टेस्ट पायलट भी थे, की मृत्यु हो गई है।</lex>
+      <lex comment="" lang="en" lid="Id3">Elliot See went to the University of Texas at Austin and served as a test pilot and is now deceased.</lex>
+      <lex comment="" lang="hi" lid="Id3">इलियट सी ऑस्टिन में टेक्सास विश्वविद्यालय गए और एक टेस्ट पायलट के रूप में काम किया और अब उनकी मृत्यु हो चुकी है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="44" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</otriple>
+        <otriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>University_of_Texas_at_Austin | affiliation | University_of_Texas_System</mtriple>
+        <mtriple>University_of_Texas_at_Austin | president | Gregory_L._Fenves</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The University of Texas at Austin, where Elliot See was a student and Gregory L. Fenves is president, is affiliated with the University of Texas System.</lex>
+      <lex comment="" lang="hi" lid="Id1">ऑस्टिन में टेक्सास विश्वविद्यालय, जहां इलियट सी एक छात्र थे और ग्रेगरी एल. फेन्वेस अध्यक्ष हैं, टेक्सास विश्वविद्यालय प्रणाली से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id2">The University of Texas, the president of which is Gregory L. Fences, is affiliated with the University of Texas System, and was previously attended by Elliot See.</lex>
+      <lex comment="" lang="hi" lid="Id2">टेक्सास विश्वविद्यालय, जिसके अध्यक्ष ग्रेगरी एल. फेंसेस हैं, टेक्सास विश्वविद्यालय प्रणाली से संबद्ध है और पहले इलियट सी ने भाग लिया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Gregory L Fenves is the appointed president of the University of Texas at Austin (affiliated with University of Texas System) from which Elliot See graduated.</lex>
+      <lex comment="" lang="hi" lid="Id3">ग्रेगरी एल फेनवेस ऑस्टिन में टेक्सास विश्वविद्यालय (टेक्सास विश्वविद्यालय प्रणाली से संबद्ध) के अध्यक्ष हैं, जहां से इलियट सी ने स्नातक की उपाधि प्राप्त की है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="45" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</otriple>
+        <otriple>University_of_Texas_at_Austin | athletics | Big_12_Conference</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>University_of_Texas_at_Austin | affiliations | University_of_Texas_System</mtriple>
+        <mtriple>University_of_Texas_at_Austin | competeIn | Big_12_Conference</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The university of Texas at Austin, where Elliot See was a student, is affiliated to the university of Texas system and is competing in the Big 12 Conference.</lex>
+      <lex comment="" lang="hi" lid="Id1">ऑस्टिन में टेक्सास विश्वविद्यालय, जहां इलियट सी एक छात्र था, टेक्सास विश्वविद्यालय प्रणाली से संबद्ध है और बिग 12 सम्मेलन में प्रतिस्पर्धा कर रहा है।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See was a student at University of Texas Austin, which is affiliated to the University of Texas system, and which will compete in the Big 12 conference.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी टेक्सास ऑस्टिन विश्वविद्यालय के छात्र थे, जो टेक्सास विश्वविद्यालय प्रणाली से संबद्ध है और जो बिग 12 सम्मेलन में प्रतिस्पर्धा करेगा।</lex>
+      <lex comment="" lang="en" lid="Id3">Elliot See's attended University of Texas at Austin which competed in Big 12 Conference and is affiliated with the University of Texas system.</lex>
+      <lex comment="" lang="hi" lid="Id3">इलियट सी ने ऑस्टिन में टेक्सास विश्वविद्यालय में भाग लिया, जिसने बिग 12 सम्मेलन में भाग लिया और टेक्सास विश्वविद्यालय प्रणाली से संबद्ध है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="46" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | almaMater | University_of_Texas_at_Austin</otriple>
+        <otriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | almaMater | University_of_Texas_at_Austin</mtriple>
+        <mtriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See, who was born in Dallas, attended the University of Texas at Austin (whose mascot is Hook'em).</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी, जिनका जन्म डलास में हुआ था, उन्होंने ऑस्टिन में टेक्सास विश्वविद्यालय (जिसका शुभंकर हुक 'एम है) में भाग लिया।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See was born in Dallas, and graduated from the University of Texas at Austin where Hook 'em is the mascot.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी का जन्म डलास में हुआ था और उन्होंने ऑस्टिन में टेक्सास विश्वविद्यालय से स्नातक किया, जहां हुक 'एम शुभंकर है।</lex>
+      <lex comment="" lang="en" lid="Id3">The mascot of the University of Texas at Austin, which Elliot See (born Dallas) attended is Hook'em.</lex>
+      <lex comment="" lang="hi" lid="Id3">ऑस्टिन में टेक्सास विश्वविद्यालय का शुभंकर, जिसमें इलियट सी (जन्म डलास) ने भाग लिया था, हुक 'एम है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Elliot_See | occupation | Test_pilot</otriple>
+        <otriple>Elliot_See | selection | 1962</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+        <mtriple>Elliot_See | selectedByNasa | 1962</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See, who was born in Dallas and flew as a test pilot, was selected by NASA in 1962.</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी, जिनका जन्म डलास में हुआ था और उन्होंने एक टेस्ट पायलट के रूप में उड़ान भरी थी, उनका चयन 1962 में नासा द्वारा किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See, who was chosen by NASA in 1962 to serve as a test pilot, was born in Dallas.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी, जिन्हें 1962 में नासा द्वारा एक टेस्ट पायलट के रूप में सेवा के लिए चुना गया था, का जन्म डलास में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id3">Born in Dallas, Elliot See served as a test pilot before being selected by NASA in 1962.</lex>
+      <lex comment="" lang="hi" lid="Id3">डलास में जन्मे इलियट सी ने 1962 में नासा द्वारा चुने जाने से पहले एक टेस्ट पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lang="en" lid="Id4">Elliot See was born in Dallas and became a test pilot who was chosen by NASA in 1962.</lex>
+      <lex comment="" lang="hi" lid="Id4">इलियट सी का जन्म डलास में हुआ था और वह एक टेस्ट पायलट बन गए जिन्हें 1962 में नासा द्वारा चुना गया था।</lex>
+      <lex comment="" lang="en" lid="Id5">Elliot See was born in Dallas and worked as a Test pilot before being selected by NASA in 1962.</lex>
+      <lex comment="" lang="hi" lid="Id5">इलियट सी का जन्म डलास में हुआ था और उन्होंने 1962 में नासा द्वारा चुने जाने से पहले एक टेस्ट पायलट के रूप में काम किया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="48" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Elliot_See | status | &quot;Deceased&quot;@en</otriple>
+        <otriple>Dallas | part | Collin_County,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Elliot_See | status | &quot;Deceased&quot;</mtriple>
+        <mtriple>Dallas | part | Collin_County,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The late Elliot See was born in Dallas, which is located in the Collin County in Texas.</lex>
+      <lex comment="" lang="hi" lid="Id1">स्वर्गीय इलियट सी का जन्म डलास में हुआ था, जो टेक्सास के कॉलिन काउंटी में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The deceased Elliot See was born in Dallas, Collin County, Texas.</lex>
+      <lex comment="" lang="hi" lid="Id2">मृतक इलियट सी का जन्म डलास, कॉलिन काउंटी, टेक्सास में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id3">Elliot See, who was born in Dallas (Collin County, Texas), has died.</lex>
+      <lex comment="" lang="hi" lid="Id3">इलियट सी, जिनका जन्म डलास (कॉलिन काउंटी, टेक्सास) में हुआ था, की मृत्यु हो गई है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>Elliot_See | birthDate | &quot;1927-07-23&quot;^^xsd:date</otriple>
+        <otriple>Elliot_See | occupation | Test_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>Elliot_See | birthDate | &quot;1927-07-23&quot;</mtriple>
+        <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See was born on July 23rd, 1927 served as a test pilot and died in St Louis..</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी का जन्म 23 जुलाई, 1927 को हुआ था और उन्होंने एक टेस्ट पायलट के रूप में सेवा की और सेंट लुइस में उनका निधन हो गया।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See was a test pilot who was born on 23 July 1027 and died in St Louis.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी एक टेस्ट पायलट थे जिनका जन्म 23 जुलाई 1027 को सेंट लुई में हुआ था और उनकी मृत्यु हो गई थी।</lex>
+      <lex comment="" lang="en" lid="Id3">Elliot See died in St. Louis, was born on the 23rd of July 1927 and performed as a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id3">इलियट सी का निधन सेंट लुई में हुआ था, उनका जन्म 23 जुलाई 1927 को हुआ था और उन्होंने एक टेस्ट पायलट के रूप में प्रदर्शन किया था।</lex>
+      <lex comment="" lang="en" lid="Id4">Elliot See was a test pilot who was born on July 23rd, 1927 and died in St. Louis.</lex>
+      <lex comment="" lang="hi" lid="Id4">इलियट सी एक टेस्ट पायलट थे जिनका जन्म 23 जुलाई, 1927 को हुआ था और उनकी मृत्यु सेंट लुई में हुई थी।</lex>
+    </entry>
+    <entry category="Astronaut" eid="50" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+        <otriple>Elliot_See | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+        <mtriple>Elliot_See | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">American Elliot See was born in Dallas and died in St. Louis.</lex>
+      <lex comment="" lang="hi" lid="Id1">अमेरिकन इलियट सी का जन्म डलास में हुआ था और उनकी मृत्यु सेंट लुई में हुई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See was born in Dallas, US and died in St Louis.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी का जन्म डलास, अमेरिका में हुआ था और उनकी मृत्यु सेंट लुई में हुई थी।</lex>
+      <lex comment="" lang="en" lid="Id3">Elliot See died in St Louis, was born in Dallas and his nationality is United States.</lex>
+      <lex comment="" lang="hi" lid="Id3">इलियट सी की मृत्यु सेंट लुई में हुई, उनका जन्म डलास में हुआ और उनकी राष्ट्रीयता संयुक्त राज्य अमेरिका है।</lex>
+      <lex comment="" lang="en" lid="Id4">Elliot See was born in Dallas in the United States and later died in St. Louis.</lex>
+      <lex comment="" lang="hi" lid="Id4">इलियट सी का जन्म संयुक्त राज्य अमेरिका के डलास में हुआ था और बाद में सेंट लुई में उनकी मृत्यु हो गई थी।</lex>
+    </entry>
+    <entry category="Astronaut" eid="51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Elliot_See | occupation | Test_pilot</otriple>
+        <otriple>Dallas | partsType | List_of_counties_in_Texas</otriple>
+        <otriple>Elliot_See | birthPlace | Dallas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+        <mtriple>Dallas | partsType | List_of_counties_in_Texas</mtriple>
+        <mtriple>Elliot_See | birthPlace | Dallas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See was a test pilot originating from Dallas, Texas.</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी एक टेस्ट पायलट थे जो डलास, टेक्सास से थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See, who was born in Dallas, Texas, performed as a test pilot.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी, जिनका जन्म डलास, टेक्सास में हुआ था, ने एक टेस्ट पायलट के रूप में प्रदर्शन किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="52" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>St._Louis | leaderName | Francis_G._Slay</otriple>
+        <otriple>Elliot_See | deathPlace | St._Louis</otriple>
+        <otriple>St._Louis | isPartOf | Kingdom_of_France</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Louis | leader | Francis_G._Slay</mtriple>
+        <mtriple>Elliot_See | deathPlace | St._Louis</mtriple>
+        <mtriple>St._Louis | isPartOf | Kingdom_of_France</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Elliot See died in St. Louis that used to be a part of the kingdom of France and is headed by Francis G. Slay.</lex>
+      <lex comment="" lang="hi" lid="Id1">इलियट सी की सेंट लुई में मृत्यु हो गई जो फ्रांस साम्राज्य का एक हिस्सा हुआ करता था और इसका नेतृत्व फ्रांसिस जी. स्ले कर रहे थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Elliot See died in St Louis in France where the mayor is Francis G Slay.</lex>
+      <lex comment="" lang="hi" lid="Id2">इलियट सी का फ्रांस के सेंट लुई में निधन हो गया, जहां के मेयर फ्रांसिस जी स्ले हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">St Louis, which is also a place in France, is where Elliot See died and whose mayor is Francis G Slay.</lex>
+      <lex comment="" lang="hi" lid="Id3">सेंट लुई, जो फ्रांस में भी एक जगह है, वह वही जगह है जहां इलियट सी की मृत्यु हो गई थी और जिसके मेयर फ्रांसिस जी स्ले हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="53" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>British_Hong_Kong | representative | Chris_Patten</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>British_Hong_Kong | representative | Chris_Patten</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Represented by Chris Patten, British Hong Kong is known as the birth place of William Anders, who retired on September 1st, 1969.</lex>
+      <lex comment="" lang="hi" lid="Id1">क्रिस पैटन द्वारा प्रतिनिधित्व किया गया, ब्रिटिश हांगकांग विलियम एंडर्स के जन्म स्थान के रूप में जाना जाता है, जो 1 सितंबर, 1969 को सेवानिवृत्त हुए थे।</lex>
+      <lex comment="" lang="en" lid="Id2">William Anders, who retired on the 1st of September 1969, was born in British Hong Kong where Chris Patten served as a representative.</lex>
+      <lex comment="" lang="hi" lid="Id2">विलियम एंडर्स, जो 1 सितंबर 1969 को सेवानिवृत्त हुए, का जन्म ब्रिटिश हांगकांग में हुआ था जहां क्रिस पैटन ने एक प्रतिनिधि के रूप में कार्य किया था।</lex>
+    </entry>
+    <entry category="Astronaut" eid="54" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">William Anders retired on 1 September 1969, having been born on 17 October 1933 in British Hong Kong.</lex>
+      <lex comment="" lang="hi" lid="Id1">विलियम एंडर्स 1 सितंबर 1969 को सेवानिवृत्त हुए, उनका जन्म 17 अक्टूबर 1933 को ब्रिटिश हांगकांग में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">William Anders, who was born in British Hong Kong on October 17th, 1933 retired 1969-09-01.</lex>
+      <lex comment="" lang="hi" lid="Id2">विलियम एंडर्स, जिनका जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था, 1969-09-01 से सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id3">William Anders, born in British Hong Kong on the 17th of October 1933, retired on the 1st of September 1969.</lex>
+      <lex comment="" lang="hi" lid="Id3">17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में जन्मे विलियम एंडर्स 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id4">William Anders was born on 1933-10-17 in British Hong Kong and retired on 1969-09-01.</lex>
+      <lex comment="" lang="hi" lid="Id4">विलियम एंडर्स का जन्म 1933-10-17 में ब्रिटिश हांगकांग में हुआ था और 1969-09-01 को सेवानिवृत्त हुए थे।</lex>
+      <lex comment="" lang="en" lid="Id5">William Anders( born on 1933-10-17 in British Hong Kong) retired on 1969-09-01 date.</lex>
+      <lex comment="" lang="hi" lid="Id5">विलियम एंडर्स (जन्म 1933-10-17 ब्रिटिश हांगकांग में) 1969-09-01 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="55" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Fighter Pilot William Anders was born in British Hong Kong and retired on 1st September 1969.</lex>
+      <lex comment="" lang="hi" lid="Id1">फाइटर पायलट विलियम एंडर्स का जन्म ब्रिटिश हांगकांग में हुआ था और वे 1 सितंबर 1969 को सेवानिवृत्त हुए थे।</lex>
+      <lex comment="" lang="en" lid="Id2">The fighter pilot William Anders, born in British Hong Kong, retired Sept 1st 1969.</lex>
+      <lex comment="" lang="hi" lid="Id2">ब्रिटिश हांगकांग में जन्मे फाइटर पायलट विलियम एंडर्स 1 सितंबर 1969 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id3">William Anders, a fighter pilot from British Hong Kong, retired on September 1, 1969.</lex>
+      <lex comment="" lang="hi" lid="Id3">ब्रिटिश हांगकांग के एक लड़ाकू पायलट विलियम एंडर्स 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="56" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">William Anders, who graduated, with an M.S., from AFIT in 1962 and served as a crew member on Apollo 8, retired 1969-09-01.</lex>
+      <lex comment="" lang="hi" lid="Id1">विलियम एंडर्स, जिन्होंने 1962 में एएफआईटी से एम. एस. की डिग्री प्राप्त की और अपोलो 8 में चालक दल के सदस्य के रूप में कार्य किया, 1969-09-01 से सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id2">William Anders retired on the 1st of September 1969, was a member of the Apollo 8 crew and in 1962 received a M.S. from his alma Mater, AFIT.</lex>
+      <lex comment="" lang="hi" lid="Id2">विलियम एंडर्स 1 सितंबर, 1969 को सेवानिवृत्त हुए थे और वे अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lang="en" lid="Id3">William Anders, who graduated from AFIT, M.S. in 1962 and crewed Apollo 8, retired on September 1, 1969.</lex>
+      <lex comment="" lang="hi" lid="Id3">विलियम एंडर्स, जिन्होंने 1962 में एएफआईटी, एमएस से स्नातक किया और अपोलो 8 के चालक दल के सदस्य थे, 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lang="en" lid="Id4">William Anders graduated with a M.S. in 1962 from AFIT, became a member of the Apollo 8 team and retired on September 1st, 1969.</lex>
+      <lex comment="" lang="hi" lid="Id4">विलियम एंडर्स एएफआईटी से 1962 में एम. एस. के साथ स्नातक हुए और अपोलो 8 टीम के सदस्य बने और 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+    </entry>
+  </entries>
+</benchmark>

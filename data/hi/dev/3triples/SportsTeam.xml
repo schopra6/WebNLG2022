@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome.</lex>
+      <lex comment="" lid="Id1" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां पिएत्रो ग्रासो नेता हैं और राजधानी रोम है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. whose leader is Pietro Grasso and capital is Rome.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जिसका नेता पिएत्रो ग्रासो है और राजधानी रोम है।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and it's leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id3" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जिसकी राजधानी रोम है और इसका नेता पीत्रो ग्रासो है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader of the Italians.</lex>
+      <lex comment="" lid="Id1" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है जहां पिएत्रो ग्रासो इटली के लोगों के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, the country of Italians where the leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. एस. गुब्बियो 1910 का मैदान इटली में स्थित है, जो इटली का देश है, जहां नेता पीट्रो ग्रासो हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Italy (led by Pietro Grasso) is home to the Italian people and A.S. Gubbio 1910.</lex>
+      <lex comment="" lid="Id3" lang="hi">इटली (पिएट्रो ग्रासो के नेतृत्व में) इतालवी लोगों और ए. एस. गुब्बियो 1910 का घर है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Pietro Grasso and Sergio Mattarella are leaders in Italy where the ground of AS Gubbio 1910 is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">पिएत्रो ग्रासो और सर्जियो मट्टारेला इटली के लीडर हैं जहां एएस गुब्बियो 1910 का ग्राउंड स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. The leader of Italy is Pietro Grasso and/or Sergio Mattarella.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएस गुब्बियो 1910 का मैदान इटली में स्थित है। इटली के नेता पिएत्रो ग्रासो और/या सर्जियो मट्टारेला हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where Sergio Mattarella and Pietro Grasso are leaders.</lex>
+      <lex comment="" lid="Id3" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां सर्जियो मट्टारेला और पिएत्रो ग्रासो नेता हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language.</lex>
+      <lex comment="" lid="Id1" lang="hi">ए. एस. गुब्बियो 1910 का मैदान इटली में स्थित है जहां नेता सर्जियो मट्टारेला हैं और इतालवी बोली जाने वाली भाषा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, who's leader is Sergio Mattarella and where they speak Italian.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जिसके नेता सर्जियो मट्टारेला हैं और जहां वे इतालवी बोलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. The country's leader is Sergio Mattarella and there they speak Italian.</lex>
+      <lex comment="" lid="Id3" lang="hi">एएस गुब्बियो 1910 का मैदान इटली में स्थित है। देश के नेता सर्जियो मट्टारेला हैं और वहां वे इतालवी बोलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | clubs | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | clubs | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti played for Empoli F.C. and Virtus Entella. He has also been manager of AS Roma.</lex>
+      <lex comment="" lid="Id1" lang="hi">लुसियानो स्पेल्लैटी ने एमपोली एफ. सी. और वर्टस एंटेला के लिए खेला। वह एएस रोमा के प्रबंधक भी रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti is a manager for the AS Roma club and plays for Empoli F. C. as well as Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="hi">लुसियानो स्पेलेटी एएस रोमा क्लब के प्रबंधक हैं और एम्पोली एफ. सी. के साथ-साथ वर्टस एन्टेला के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti plays for Empoli F.C. and Virtus Entella while managing A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="hi">एएस रोमा का प्रबंधन करते हुए लुसियानो स्पेलेटी एमपोली एफसी और वर्टस एन्तेला के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of AS Roma, Luciano Spalletti, plays for Udinese Calcio and was at the club Virtus Entella.</lex>
+      <lex comment="" lid="Id1" lang="hi">एएस रोमा के प्रबंधक, लुसियानो स्पेलेटी, उडिनीज कैलसियो के लिए खेलते हैं और वर्टस एन्टेला क्लब में थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti manages AS Roma and also plays for Udinese Calcio and Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="hi">लुसियानो स्पेल्लैटी एएस रोमा का प्रबंधन करता है और उडिनीज कैल्सियो और वर्टस एन्टेला के लिए भी खेलता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti played for Udinese Calcio. He now manages A.S. Roma and plays for Virtus Entella.</lex>
+      <lex comment="" lid="Id3" lang="hi">लुसियानो स्पेलेटी ने उडिनीज कैलसियो के लिए खेला। वह अब ए. एस. रोमा का प्रबंधन करते हैं और वर्टस एन्टेला के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | S.S._Chieti_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | A.S.D._S.S._Nola_1925</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S._Chieti_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | A.S.D._S.S._Nola_1925</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago has been the manager of A C Cesena whose club is the S.S. Chieti Calcio. and played for A.S.D. S.S. Nola 1925.</lex>
+      <lex comment="" lid="Id1" lang="hi">मासिमो ड्रागो एसी सीसेना के प्रबंधक रहे हैं जिनका क्लब एस. एस. चेटी कालसियो है. और 1925 ए. एस. डी. एस. नोला के लिए खेले हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago has been the manager of A C Cesena and plays for both S.S. Chieti Calcio and A.S.D. S.S. Nola 1925.</lex>
+      <lex comment="" lid="Id2" lang="hi">मासिमो ड्रागो ए सी सेसेना के प्रबंधक रहे हैं और एस एस चेटी कालसियो और ए एस डी एस एस नोला 1925 दोनों के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago played for. A.S.D. S.S. Nola 1925, he now plays for S.S. Chieti Calcio and manages A.C. Cesana.</lex>
+      <lex comment="" lid="Id3" lang="hi">मासिमो ड्रागो इसके लिए खेला करते थे। ए. एस. डी. एस. एस. नोला 1925, वह अब एस. एस. चेती कालसियो के लिए खेलते हैं और ए. सी. सीसाना का प्रबंधन करते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | clubs | A.S.D._Licata_1931</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licita 1931 but he currently plays for U.S Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id1" lang="hi">मासिमो ड्रागो एसी सेसेना के प्रबंधक रहे हैं और क्लब एएसडी लिसिता 1931 में थे, लेकिन वर्तमान में वह यू. एस. कास्ट्रोविलेरी कालसियो के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago was once a player for US Castrovillari Calcio and has been the manager of A C Cesena. He was also at the club ASD Licita 1931.</lex>
+      <lex comment="" lid="Id2" lang="hi">मासिमो ड्रागो कभी यूएस कास्ट्रोविल्लारी कालसियो के लिए एक खिलाड़ी थे और ए सी सेसेना के प्रबंधक रहे हैं। वह क्लब एएसडी लिसिटा 1931 में भी थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago was at the club ASD Licita 1931. He currently plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id3" lang="hi">मासिमो ड्रागो एएसडी लिसिता 1931 क्लब में थे। वह वर्तमान में यू. एस. कास्त्रो-विल्लारी कालसियो के लिए खेलते हैं और ए. सी. सेसेना का प्रबंधन करते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago's club was Calcio Catania and he played for US Castrovillari Calcio. He is now the manager of A.C. Cesena.</lex>
+      <lex comment="" lid="Id1" lang="hi">मासिमो ड्रागो का क्लब कैल्सियो कातानिया था और वह यूएस कैस्ट्रोविलेरी कैल्सियो के लिए खेला करता था। वह अब ए. सी. सेसेना के प्रबंधक हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago once played for US Castrovillari Calcio, is in the club Calcio Catania and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="hi">मासिमो ड्रागो एक बार यूएस कास्त्रो विल्लारी कैल्सियो के लिए खेले थे, वे क्लब कैल्सियो कैटानिया में हैं और ए. सी. सेसेना का प्रबंधन करते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | Delfino_Pescara_1936</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | Delfino_Pescara_1936</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Cesena's manager Massimo Drago was once a player for US Castrovillari Calcio and is now attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id1" lang="hi">सी. ए. सी. सेसेना के प्रबंधक मासिमो ड्रागो कभी यूएस कास्ट्रोविल्लारी कालसियो के लिए एक खिलाड़ी थे और अब क्लब डेल्फिनो पेसकारा 1936 से जुड़े हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena. He is also attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id2" lang="hi">मासिमो ड्रागो यू. एस. कास्ट्रोविल्लारी कालसियो के लिए खेलते हैं और ए. सी. सेसेना का प्रबंधन करते हैं। वह डेल्फिनो पेसकारा 1936 क्लब से भी जुड़े हुए हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago plays for U.S Castrovillari Calcio; he has been the manager of A C Cesena and is attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id3" lang="hi">मासिमो ड्रागो यू. एस. कास्त्रो विल्लारी काल्चियो पेन्सिलियस के लिए खेलते हैं वह एसी सेसेना के प्रबंधक रहे हैं और डेल्फिनो पेसकारा 1936 क्लब से जुड़े हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | clubs | S.S.D._Potenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | S.S.D._Potenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago manages A.C. Cesena and is a former player of Vigor Lamezia and S.S.D. Potenza Calcio.</lex>
+      <lex comment="" lid="Id1" lang="hi">मासिमो ड्रागो ए. सी. सेसेना का प्रबंधन करते हैं और विगोर लामेज़िया और एस. एस. डी. पोटेंज़ा कालसियो के पूर्व खिलाड़ी हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Attached to the club Vigor Lamezia, Massimo Drago manages A.C. Cesena and once played for the club SSD Potenza Calcio.</lex>
+      <lex comment="" lid="Id2" lang="hi">क्लब विगोर लामेज़िया से जुड़े, मासिमो ड्रागो ए. सी. सेसेना का प्रबंधन करते हैं और एक बार क्लब एसएसडी पोटेंज़ा कालसियो के लिए खेले थे।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 FC Koln. He also plays for FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेलगेर एससी वीनर न्यूस्टेड क्लब से संबद्ध है और 1 एफसी कोलोन का प्रबंधन करता है। वह एफसी एडमिरा वैकर मॉडलिंग के लिए भी खेलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Kolin and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेलगेर एफसी एडमिरा वैकर मैमिल्यिस डलिंग में एक खिलाड़ी हैं। वह एफसी कोलिन के प्रबंधक भी हैं और एससी वीनर न्यूस्टाट क्लब से संबद्ध हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger is the manager of 1. FC Koln, his club is the FC Admira Wacker Mödling and he is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टेम्बलर 1 के प्रबंधक हैं। एफसी कोलोन, उनका क्लब एफसी एडमिरा वैकर मैमलाइज डलिंग है और वह एससी वीनर न्यूस्टाड क्लब से संबद्ध है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">PeterStöger, manager of FC Kolin plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id1" lang="hi">कोलिन के प्रबंधक पीटर स्टेंजर एसके रैपिड वीन और एससी वीनर न्यूस्टाड दोनों के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger, previously of SK Rapid Wien, is affiliated with the SC Wiener Neustadt club and manages 1. FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेलगेर, जो पहले एसके रैपिड वीन के थे, एससी वीनर न्यूस्टाड क्लब से संबद्ध हैं और 1 का प्रबंधन करते हैं। एफसी कोलोन।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of 1. FC Koln is Peter Stoger who played football for SK Vorwärts Steyr and is attached to the club First Vienna FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">1 का प्रबंधक। एफसी कोलोन पीटर स्टोगर हैं जो एसके वोर्वफ्रेंजेस स्टीयर के लिए फुटबॉल खेलते हैं और क्लब फर्स्ट वियना एफसी से जुड़े हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger (football), First Vienna FC, now a manager of 1. FC Koln, played for SK Vorwarts Steyr.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर (फुटबॉल), फर्स्ट वियना एफसी, अब 1. एफसी कोलोन, एसके वोरवर्ट्स स्टीयर के लिए खेले।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of 1. FC Koln is Peter Stoger, he has played for SC Wiener Neustadt and is in the SK Vorwärts Steyr club.</lex>
+      <lex comment="" lid="Id1" lang="hi">1 का प्रबंधक। एफसी कोलन पीटर स्टोगर हैं, उन्होंने एससी वीनर न्यूस्टाड के लिए खेला है और एसके वोर्वफाइल्स आर्ट्स स्टीयर क्लब में हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is in the SK Vorwärts Steyr club, is manager of 1. FC Köln and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेम्बलर एसके वोर्सथेनियर्स स्टेयर क्लब में हैं, जो 1 के प्रबंधक हैं। एफसी क्लाइनेल और एससी वीनर न्यूस्टाट क्लब से संबद्ध है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | &quot;Verona, Italy&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | &quot;Verona, Italy&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Verona, Italy is the home to A.C. Chievo Verona who played in Serie A where the champions were Juventus F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">इटली के वेरोना में ए. सी. चीवो वेरोना का घर है, जो सेरी ए में खेले थे, जहां चैंपियन जुवेंटस एफ. सी. थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Verona, Italy is the home to A.C. Chievo Verona who is in the league, Juventus FC have been Serie A champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">इटली के वेरोना में ए. सी. चीवो वेरोना का घर है, जो लीग में हैं, जुवेंटस एफसी सीरी ए चैंपियन रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Verona, Italy is home to A.C. Chievo Verona who play in Serie A. Juventus FC have previously been champions of Serie A.</lex>
+      <lex comment="" lid="Id3" lang="hi">इटली के वेरोना में ए. सी. चिएवो वेरोना रहते हैं जो सेरी ए. जुवेंटस एफसी में खेलते हैं और इससे पहले सेरी ए के चैंपियन रह चुके हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Chievo Verona's home ground is Stadio Marc Antonio Bentegodi. They play in the Serie A league of which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसी चीवो वेरोना का घरेलू मैदान स्टेडियो मार्क एंटोनियो बेंटेगोडी है। वे सीरी ए लीग में खेलते हैं जिसमें जुवेंटस एफसी चैंपियन रहा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi. They play in the Serie A league, which was won by Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. सी. चीवो वेरोना का घरेलू मैदान स्टेडियो मार्क एंटोनियो बेन्टेगोडी है। वे सीरी ए लीग में खेलते हैं, जिसे जुवेंटस एफ. सी. ने जीता था।</lex>
+      <lex comment="" lid="Id3" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, they are in the Serie A league, of which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसी चीवो वेरोना का घरेलू मैदान स्टेडियो मार्क एंटोनियो बेंतेगोडी है, वे सीरी ए लीग में हैं, जिसमें जुवेंटस एफसी चैंपियन रहा है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | Verona</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">With grounds in Verona, AC Chievo Verona play in the Serie A league, of which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">वेरोना में मैदान के साथ, एसी चीवो वेरोना सीरी ए लीग में खेलते हैं, जिसमें जुवेंटस एफसी चैंपियन रहा है।</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Chievo Verona's playing ground is at Verona and they play in Serie A, where Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. सी. चीवो वेरोना का खेल मैदान वेरोना में है और वे सीरी ए में खेलते हैं, जहां जुवेंटस एफसी चैंपियन रहा है।</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus F.C. are former champions of Serie A. A.C. Chievo Verona is in that league now and play in Verona.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुवेंटस एफ. सी. सीरी ए. सी. के पूर्व चैंपियन हैं और वेरोना में खेल रहे हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | &quot;Rome, Italy&quot;@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | &quot;Rome, Italy&quot;</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Roma plays in the Serie A league in Rome, Italy but the Serie A champions are Juventus F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोमा इटली के रोम में सीरी ए लीग में खेलते हैं लेकिन सीरी ए के चैंपियन जुवेंटस एफ सी हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">A.S.Roma's ground is in Rome, Italy and they played in Serie A where the champions were Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. एस. रोमा का मैदान रोम, इटली में है और वे सेरी ए में खेले जहां चैंपियन जुवेंटस एफ. सी. थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus F.C. are former champions of Serie A. AS Roma also play in the same league, their ground is in Rome, Italy.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुवेंटस एफ. सी. सीरी ए. ए. एस. रोमा के पूर्व चैंपियन हैं और इसी लीग में खेलते हैं, उनका मैदान रोम, इटली में है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma, who have a ground in Rome, play in Serie A alongside Juventus FC who are former champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोम में एएस रोमा सीरी ए में जुवेंटस एफसी के साथ खेलते हैं जो पूर्व चैंपियन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">A.S.Roma play their home games in Serie A in Rome, the current champions are Juventus.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. एस. रोमा रोम में सीरी ए में अपने घरेलू खेल खेलते हैं, वर्तमान चैंपियन जुवेंटस हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">With grounds in Rome, A.S. Roma play in Serie A. Juventus FC have been champions of that league.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोम के मैदानों के साथ, एएस रोमा सेरी ए जुवेंटस एफसी में खेलते हैं और उस लीग के चैंपियन रहे हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma, whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">एएस रोमा सीरी ए लीग में खेलते हैं जिसमें जुवेंटस एफसी पूर्व चैंपियन है।</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus FC have been Serie A champions. A.S. Roma, who's ground is Stadio Olimpico also play in the same league.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुवेंटस एफसी सीरी ए चैंपियन रह चुका है। ए. एस. रोमा, जिसका मैदान स्टेडियो ओलिम्पिको है, भी इसी लीग में खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Serie A champions are Juventus F.C. A.S Roma also play in the same league and their ground is Stadio Olimpico.</lex>
+      <lex comment="" lid="Id3" lang="hi">सीरी ए चैंपियन जुवेंटस एफ. सी. ए. एस. रोमा भी इसी लीग में खेलते हैं और उनका मैदान स्टेडियो ओलिम्पिको है।</lex>
+    </entry>
+  </entries>
+</benchmark>

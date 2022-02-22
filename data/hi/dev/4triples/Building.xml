@@ -1,0 +1,525 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Ethiopia | language | Amharic</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Ethiopia | language | Amharic</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is in Addis Ababa, Ethiopia. Amharic is the national language, and their leader is Malatu Teshome.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा, इथोपिया में है। अमहरिक राष्ट्रीय भाषा है, और उनके नेता मलातू टेशोम हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Malatu Teshome is the leader of Ethiopia which has the Amharic language. Addis Ababa City Hall is located in Addis Ababa in the country.</lex>
+      <lex comment="" lid="Id2" lang="hi">मलातु तेशोम इथोपिया का नेता है जिसमें अमहारिक भाषा है। अदीस अबाबा सिटी हॉल देश के अदीस अबाबा में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Ethiopia is led by Mulatu Teshome and has the spoken language of Amharic, and is the location of Addis Ababa City Hall, which can be found in Addis Ababa.</lex>
+      <lex comment="" lid="Id3" lang="hi">इथियोपिया मुलातु टेशोम के नेतृत्व में है और इसमें अमहरिक की बोली जाने वाली भाषा है, और यह अदीस अबाबा सिटी हॉल का स्थान है, जो अदीस अबाबा में पाया जा सकता है।</lex>
+    </entry>
+    <entry category="Building" eid="2" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in Addis Ababa, Ethiopia, where main leaders are Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा, इथियोपिया में स्थित है, जहां मुख्य नेता मलातू टेशोम और हेलेमरियम देसालेन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall can be found in Addis Ababa, Ethiopia, a country led by Mulatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा, इथियोपिया में पाया जा सकता है, जो मुलातु टेशोम और हेलेमरियम देसालेन के नेतृत्व में एक देश है।</lex>
+    </entry>
+    <entry category="Building" eid="3" size="4" shape="(X (X (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Hailemariam Desalegn is the leader of Ethiopia along with Mulatu Teshome. Addis Ababa City Hall is located in the country in the city of Addis Ababa.</lex>
+      <lex comment="" lid="Id1" lang="hi">हेलेमेरियम देसालेन मुलातू टेशोम के साथ इथियोपिया के नेता हैं। अदीस अबाबा सिटी हॉल देश के अदीस अबाबा शहर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Leaders in Ethiopia are Malatu Teshome and Hailemariam Desalegn. Addis City Hall, Ethiopia is in Addis Ababa.</lex>
+      <lex comment="" lid="Id2" lang="hi">इथियोपिया के नेता मलातु टेशोम और हेलेमारियम देसालेन हैं। अदीस सिटी हॉल, इथोपिया अदीस अबाबा में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall is located in Addis Ababa, Ethiopia which is led by Malatu Teshome and Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा, इथियोपिया में स्थित है जिसका नेतृत्व मलातु टेशोम और हेलेमारियम देसालेन द्वारा किया जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="4" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leader | Anandiben_Patel</mtriple>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Led by Anandiben Patel, Amdavad ni Gufa can be found in Gujarat, India, where India is led by T S Thakur.</lex>
+      <lex comment="" lid="Id1" lang="hi">आनंदीबेन पटेल के नेतृत्व में, अहमदाबाद नी गुफा गुजरात, भारत में पाया जा सकता है, जहां भारत का नेतृत्व टी एस ठाकुर कर रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat, India. The leader of Gujarat is Anandiben Patel and T.S. Thakur was an Indian leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदाबाद नी गुफा गुजरात, भारत में स्थित है। गुजरात की नेता आनंदीबेन पटेल और टी. एस. ठाकुर एक भारतीय नेता थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in Gujarat India. Anandiben Patel is leader in Gujarat whilst TS Thakur is leader in India.</lex>
+      <lex comment="" lid="Id3" lang="hi">अहमदाबाद नी गुफा गुजरात भारत में स्थित है। आनंदीबेन पटेल गुजरात में नेता हैं जबकि टीएस ठाकुर भारत में नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="5" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Two of India's leaders are Narendra Modi and T S Thakur. Amdavad ni Gufa is located in Ahmedabad in the country.</lex>
+      <lex comment="" lid="Id1" lang="hi">भारत के दो नेता नरेंद्र मोदी और टीएस ठाकुर हैं। देश के अहमदाबाद में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Ahmedabad, India. Two leaders of the country are T S Thakur and Narendra Modi.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदाबाद नी गुफा भारत के अहमदाबाद में स्थित है। देश के दो नेता टीएस ठाकुर और नरेंद्र मोदी हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in Ahmedabad, India, a country which has the leaders T S Thakur and Narendra Modi.</lex>
+      <lex comment="" lid="Id3" lang="hi">अहमदाबाद भारत के अहमदाबाद में स्थित है, एक ऐसा देश जिसमें नेता टी एस ठाकुर और नरेंद्र मोदी हैं।</lex>
+    </entry>
+    <entry category="Building" eid="6" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in Ahmedabad, India, a country which prevously had the leader T. S. Thakur and now has leader Sumitra Mahajan.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदवाद नी गुफा अहमदाबाद, भारत में स्थित है, एक ऐसा देश जहां टी. एस. ठाकुर को नेता बनाया गया था और अब नेता सुमित्रा महाजन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of India is called T S Thakur and another leader there is Sumitra Mahajan. Amdavad ni Gufa is located in Ahmedabad in India.</lex>
+      <lex comment="" lid="Id2" lang="hi">भारत के नेता को टी एस ठाकुर कहा जाता है और वहां एक अन्य नेता सुमित्रा महाजन हैं। भारत के अहमदाबाद में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in Ahmedabad, in India, the country where T S Thakur and Sumitra Mahajan are leaders.</lex>
+      <lex comment="" lid="Id3" lang="hi">भारत के अहमदाबाद में स्थित है, जहां टी. एस. ठाकुर और सुमित्रा महाजन नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="7" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in Gujarat, India. T. S. Thakur and Sumitra Mahajan have been leaders of India.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदाबाद नी गुफा गुजरात, भारत में स्थित है। ठाकुर और सुमित्रा महाजन भारत के नेता रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat India. Both T S Thakur and Sumitra Mahajan have been leaders in India.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदाबाद नी गुफा गुजरात भारत में स्थित है। ठाकुर और सुमित्रा महाजन दोनों ही भारत में नेता रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">T S Thakur and Sumitra Mahajan are leaders in India. Amdavad ni Gufa is located in Gujarat, India.</lex>
+      <lex comment="" lid="Id3" lang="hi">ठाकुर और सुमित्रा महाजन भारत के नेता हैं। अहमदाबाद नी गुफा गुजरात, भारत में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="8" size="4" shape="(X (X) (X (X (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
+        <otriple>Akita,_Akita | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
+        <mtriple>Akita,_Akita | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Japan, home to many Brazilians, is also home to the Akita Museum of Art, founded and located in Akita Prefecture.</lex>
+      <lex comment="" lid="Id1" lang="hi">जापान, कई ब्राजील वासियों का घर है, अकिता कला संग्रहालय का भी घर है, जिसे अकिता प्रांत में स्थापित और स्थित किया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Akita Museum of Art is located in Akita Prefecture, in Akita, Akita, Japan, a country with the ethnic group the Brazilians.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता कला संग्रहालय अकिता प्रीफेक्चर, अकिता, अकिता, जापान में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Brazilians are One of the ethnic groups in Japan the country where the Akita Museum of Art is located in Akita, Akita, in Akita Prefecture.</lex>
+      <lex comment="" lid="Id3" lang="hi">ब्राजील के लोग जापान के उन जातीय समूहों में से एक हैं जहां अकिता कला संग्रहालय अकिता, अकिता प्रांत में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="9" size="4" shape="(X (X) (X (X (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Japan | ethnicGroup | Filipinos_in_Japan</otriple>
+        <otriple>Akita_Prefecture | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | locationTown | Akita_Prefecture</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | ethnicGroup | Filipinos_in_Japan</mtriple>
+        <mtriple>Akita_Prefecture | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita_Prefecture</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Akita Museum of Art is located in Akita Prefecture, in Akita, Japan, which has an ethnic group called Filipinos.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकिता कला संग्रहालय जापान के अकिता प्रांत में स्थित है, जिसमें फिलिपिनो नामक एक जातीय समूह है।</lex>
+      <lex comment="" lid="Id2" lang="en">Akita Museum of Art is an art museum in the city of Akita, part of the Akita Prefecture which is in Japan. One of the ethnic groups in Japan is the Filipinos.</lex>
+      <lex comment="" lid="Id2" lang="hi">अकिता कला संग्रहालय जापान के अकिता प्रांत के अकिता शहर में स्थित एक कला संग्रहालय है। जापान के जातीय समूहों में से एक फिलिपिनो हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Filipinos are one of the ethnic groups in Japan which is the location of the Akita Museum of Art in Akita, Akita Prefecture.</lex>
+      <lex comment="" lid="Id3" lang="hi">फिलिपिनो जापान के जातीय समूहों में से एक हैं जो अकिता, अकिता प्रांत में अकिता कला संग्रहालय का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="10" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>Marriott_International | keyPerson | Bill_Marriott</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>Marriott_International | keyPeople | Bill_Marriott</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>Marriott_International | keyPerson | Bill_Marriott</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+        <mtriple>Marriott_International | keyPerson | Bill_Marriott</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bill Marriot is the key person at Marriott International which was founded in Washington D.C. and is now located in Bethesda Maryland as well as being the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="hi">बिल मैरियट मैरियट इंटरनेशनल के प्रमुख व्यक्ति हैं, जिसकी स्थापना वाशिंगटन डी. सी. में हुई थी और अब यह बेथेस्दा मैरीलैंड में स्थित है और साथ ही साथ एसी होटल बेला स्काई कोपेनहेगन का किरायेदार भी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Mariott International, led by Bill Marriott and founded in Washington D.C., is located in Bethesda Maryland and is a key tenant of AC Hotel Bella Sky Corporation.</lex>
+      <lex comment="" lid="Id2" lang="hi">मैरियट इंटरनेशनल, बिल मैरियट के नेतृत्व में और वाशिंगटन डीसी में स्थापित, बेथेस्दा मैरीलैंड में स्थित है और एसी होटल बेला स्काई कॉरपोरेशन का एक प्रमुख किरायेदार है।</lex>
+    </entry>
+    <entry category="Building" eid="11" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare Manor is located in the Republic of Ireland, where the leader is Enda Kenny, the currency is the Euro and English is the primary language.</lex>
+      <lex comment="" lid="Id1" lang="hi">अडेयर मैनर आयरलैंड गणराज्य में स्थित है, जहां नेता एंडा केनी है, मुद्रा यूरो है और अंग्रेजी प्राथमिक भाषा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor is located in the Republic of Ireland, which is led by Enda Kenny, uses the Euro, and speaks English.</lex>
+      <lex comment="" lid="Id2" lang="hi">अडेयर मैनर आयरलैंड गणराज्य में स्थित है, जिसका नेतृत्व एंडा केनी करते हैं, यूरो का उपयोग करते हैं और अंग्रेजी बोलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">In the Republic of Ireland the currency is the euro, the language English, and the leader is Enda Kenny. It is the location of Adare Manor.</lex>
+      <lex comment="" lid="Id3" lang="hi">आयरलैंड गणराज्य में मुद्रा यूरो है, अंग्रेजी भाषा है और नेता एंडा केनी है। यह अदारे मनोर का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="12" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | demonym | Irish_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare Manor is located in the Republic of Ireland which is led by Enda Kenny. The language of the republic is English and the native people are known as Irish.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडारे मैनर आयरलैंड गणराज्य में स्थित है, जिसका नेतृत्व एंडा केनी कर रही हैं। गणराज्य की भाषा अंग्रेजी है और मूल लोगों को आयरिश के रूप में जाना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor is located in the Republic of Ireland, where the leader is Enda Kenny, the currency is the Euro and English is the primary language.</lex>
+      <lex comment="" lid="Id2" lang="hi">अडेयर मैनर आयरलैंड गणराज्य में स्थित है, जहां नेता एंडा केनी है, मुद्रा यूरो है और अंग्रेजी प्राथमिक भाषा है।</lex>
+    </entry>
+    <entry category="Building" eid="13" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Washington D.C. is the capital of the USA which is led by President Barack Obama. The US is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="hi">वाशिंगटन डीसी अमेरिका की राजधानी है जिसका नेतृत्व राष्ट्रपति बराक ओबामा करते हैं। अमेरिका 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">Washington D.C. is the capital of the USA where the leader is President Barack Obama. 250 Delaware Avenue is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">वाशिंगटन डीसी अमेरिका की राजधानी है जहां राष्ट्रपति बराक ओबामा हैं। 250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="14" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the United States, where both the capital Washington D.C. and 250 Delaware Avenue are located, is the President, Joe Biden.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका में, जहां राजधानी वाशिंगटन डी. सी. और 250 डेलावेयर एवेन्यू दोनों स्थित हैं, राष्ट्रपति, जो बाइडेन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Washington DC is the capital of the United States where the leader is known as the President. One of the leaders in the United States is Joe Biden. 250 Delaware Avenue is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">वाशिंगटन डीसी संयुक्त राज्य अमेरिका की राजधानी है जहां नेता को राष्ट्रपति के रूप में जाना जाता है। अमेरिका के नेताओं में से एक जो बाइडेन हैं। 250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="15" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John Roberts is the Chief Justice in America where the leader is known as the President of the United States and the capital is Washington DC. The US is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="hi">जॉन रॉबर्ट्स अमेरिका के मुख्य न्यायाधीश हैं, जहां उन्हें संयुक्त राज्य अमेरिका के राष्ट्रपति के रूप में जाना जाता है और उनकी राजधानी वाशिंगटन डीसी है। अमेरिका 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="16" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, the leader of which was President Barack Obama, a member of the African American ethnic group.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसके नेता अफ्रीकी-अमेरिकी जातीय समूह के सदस्य राष्ट्रपति बराक ओबामा थे।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States where Barack Obama is the leader and his title is President of the United States. One of the ethnic groups of the United States are the African Americans.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जहां बराक ओबामा नेता हैं और उनका शीर्षक संयुक्त राज्य अमेरिका का राष्ट्रपति है। संयुक्त राज्य अमेरिका के जातीय समूहों में से एक अफ्रीकी अमेरिकी हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Led by President Barack Obama, the United States has one ethnic group called African Americans and is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id3" lang="hi">राष्ट्रपति बराक ओबामा के नेतृत्व में, संयुक्त राज्य अमेरिका में अफ्रीकी-अमेरिकी नामक एक जातीय समूह है और यह 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="17" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">English is the language of the United States, where the leader is President Barack Obama. 250 Delaware Avenue is an address located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">अंग्रेजी संयुक्त राज्य अमेरिका की भाषा है, जहां नेता राष्ट्रपति बराक ओबामा हैं। 250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित एक पता है।</lex>
+    </entry>
+    <entry category="Building" eid="18" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the United States is titled President and the language spoken is English. The country, where John Roberts is a leader, is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका के नेता का शीर्षक राष्ट्रपति है और बोली जाने वाली भाषा अंग्रेजी है। वह देश, जहां जॉन रॉबर्ट्स एक नेता हैं, 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of the United States has the title of president. John Roberts is a leader in the US and the country's language is English. 250 Delaware Avenue is in the US.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका के नेता को राष्ट्रपति का खिताब दिया जाता है। जॉन रॉबर्ट्स अमेरिका में एक नेता हैं और देश की भाषा अंग्रेजी है। 250 डेलावेयर एवेन्यू अमेरिका में है।</lex>
+    </entry>
+    <entry category="Building" eid="19" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, where English is the main language, and Paul Ryan is a leader alongside the President of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जहां अंग्रेजी मुख्य भाषा है, और पॉल रयान संयुक्त राज्य अमेरिका के राष्ट्रपति के साथ एक नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Paul Ryan is the leader of the United States where the title of the leader is President. The English language is spoken in the US and it is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="hi">पॉल रयान संयुक्त राज्य अमेरिका के नेता हैं जहां नेता की उपाधि राष्ट्रपति है। अंग्रेजी भाषा अमेरिका में बोली जाती है और यह 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="20" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States (with an important ethnic group being Asian Americans), led by the President of the United States and also with Joe Biden in a leadership role.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है (एक महत्वपूर्ण जातीय समूह एशियाई अमेरिकी हैं), संयुक्त राज्य अमेरिका के राष्ट्रपति के नेतृत्व में और जो बाइडेन के साथ भी एक नेतृत्व की भूमिका निभाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, home to a substantial population of Asian origin and led by the President (and vice president Joe Biden).</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जो एशियाई मूल के लोगों का घर है और इसका नेतृत्व राष्ट्रपति (और उपराष्ट्रपति जो बाइडेन) कर रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Vice president Joe Biden is leader of the United States, located at 250 Delaware Avenue, where ethnic group of Asians reside.</lex>
+      <lex comment="" lid="Id3" lang="hi">उपराष्ट्रपति जो बाइडेन संयुक्त राज्य अमेरिका के नेता हैं, जो 250 डेलावेयर एवेन्यू में स्थित हैं, जहां एशियाई लोगों का जातीय समूह रहता है।</lex>
+    </entry>
+    <entry category="Building" eid="21" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">White Americans are an ethnic group in the U.S. which is led by the President. Joe Biden is a leader in that country. 250 Delaware Ave. is in the U.S.</lex>
+      <lex comment="" lid="Id1" lang="hi">श्वेत अमेरिकी अमेरिका में एक जातीय समूह है जिसका नेतृत्व राष्ट्रपति करते हैं। जो बाइडेन उस देश के नेता हैं। 250 डेलावेयर एव अमेरिका में है।</lex>
+    </entry>
+    <entry category="Building" eid="22" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joe Biden and Paul Ryan are leaders of the United States which is led by a President. The country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="hi">जो बाइडेन और पॉल रयान अमेरिका के नेता हैं, जिनका नेतृत्व राष्ट्रपति करते हैं। देश 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is in the United States which is led by the President. Paul Ryan and Joe Biden are leaders in the country.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में है जिसका नेतृत्व राष्ट्रपति करते हैं। पॉल रयान और जो बाइडेन देश के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="23" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United States, which is led by a President is the location of 250 Delaware Avenue. Joe Biden is a leader in the country and John Roberts is the Chief Justice.</lex>
+      <lex comment="" lid="Id1" lang="hi">राष्ट्रपति के नेतृत्व में संयुक्त राज्य अमेरिका 250 डेलावेयर एवेन्यू का स्थान है। जो बाइडेन देश के नेता हैं और जॉन रॉबर्ट्स मुख्य न्यायाधीश हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of the United States, Joe Biden is known as the President. The Chief Justice is John Roberts an 250 Delaware Avenue is also located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिका के पूर्व राष्ट्रपति जो बाइडेन को राष्ट्रपति के रूप में जाना जाता है। मुख्य न्यायाधीश जॉन रॉबर्ट्स हैं 250 डेलावेयर एवेन्यू भी संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="24" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the United States where the leader is known as the President of the United States, John Roberts is the Chief Justice, one of the leaders is Paul Ryan and it is where 200 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका में जहां नेता को संयुक्त राज्य अमेरिका के राष्ट्रपति के रूप में जाना जाता है, जॉन रॉबर्ट्स मुख्य न्यायाधीश हैं, नेताओं में से एक पॉल रयान हैं और यह वह जगह है जहां 200 डेलावेयर एवेन्यू स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of the US is known as the President and two of the leaders are John Roberts and Paul Ryan. The country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिका के नेता को राष्ट्रपति के रूप में जाना जाता है और इनमें से दो नेता जॉन रॉबर्ट्स और पॉल रयान हैं। देश 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="25" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is the leader and President Of the United States. An example of a street name in the United States is Delaware Avenue and an example of an ethic group is White Americans.</lex>
+      <lex comment="" lid="Id1" lang="hi">पॉल रयान अमेरिका के नेता और राष्ट्रपति हैं। संयुक्त राज्य अमेरिका में एक सड़क नाम का एक उदाहरण डेलावेयर एवेन्यू है और एक नैतिक समूह का एक उदाहरण श्वेत अमेरिकी है।</lex>
+      <lex comment="" lid="Id2" lang="en">In the United States, the leader of the country is called the President of the United States. One of the country's leaders is Paul Ryan and one of the ethic groups is White Americans. also located in the U.S. is 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका में देश के नेता को संयुक्त राज्य अमेरिका का राष्ट्रपति कहा जाता है। देश के नेताओं में से एक पॉल रयान हैं और एक नैतिक समूह व्हाइट अमेरिकन है. यह भी अमेरिका में 250 डेलावेयर एवेन्यू स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="26" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the United States is Paul Ryan. The leader of the United States is President Barack Obama. 205 Delaware Avenue is an address in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरिका के नेता पॉल रयान हैं। अमेरिका के राष्ट्रपति बराक ओबामा हैं। 205 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में एक पता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The United States is led by President Barack Obama along with Paul Ryan, and is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका का नेतृत्व राष्ट्रपति बराक ओबामा ने पॉल रयान के साथ किया है और यह 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+    </entry>
+  </entries>
+</benchmark>

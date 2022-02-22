@@ -1,0 +1,503 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Punjab, Pakistan, is led by the Provincial Assembly of the Punjab.</lex>
+      <lex comment="" lid="Id1" lang="hi">पंजाब, पाकिस्तान, का नेतृत्व पंजाब की प्रांतीय असेम्बली द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Punjab, Pakistan is led by the Provincial Assembly of the Punjab.</lex>
+      <lex comment="" lid="Id2" lang="hi">पंजाब, पाकिस्तान का नेतृत्व पंजाब की प्रांतीय विधानसभा द्वारा किया जाता है।</lex>
+    </entry>
+    <entry category="Airport" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">San Sebastian de los Reyes is part of the Community of Madrid.</lex>
+      <lex comment="" lid="Id1" lang="hi">सैन सेबेस्टियन डी लॉस रेयेस मैड्रिड के समुदाय का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">San Sebastián de los Reyes is part of the Community of Madrid.</lex>
+      <lex comment="" lid="Id2" lang="hi">सैन सेबेस्टियन द लॉस रेयेस मैड्रिड के समुदाय का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The People's Party is the lead party of San Sebastian de los Reyes, Spain.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीपुल्स पार्टी सैन सेबेस्टियन डी लॉस रेयेस, स्पेन की प्रमुख पार्टी है।</lex>
+    </entry>
+    <entry category="Airport" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York is located in the U.S.</lex>
+      <lex comment="" lid="Id1" lang="hi">सरनेक झील, न्यूयॉर्क अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Saranac Lake New York is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">सारानेक झील न्यूयॉर्क संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Saranac Lake, New York is located in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">सारानेक झील, न्यूयॉर्क संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Airport" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York is part of Essex County, New York.</lex>
+      <lex comment="" lid="Id1" lang="hi">सारानाक झील, न्यूयॉर्क एसेक्स काउंटी, न्यूयॉर्क का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York is part of Harrietstown, New York.</lex>
+      <lex comment="" lid="Id1" lang="hi">सारानाक झील, न्यूयॉर्क, न्यूयॉर्क हैरिटस्टाउन, न्यूयॉर्क का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Saranac Lake, New York, is part of Harrietstown, New York.</lex>
+      <lex comment="" lid="Id2" lang="hi">सारानाक झील, न्यूयॉर्क, हैरिटस्टाउन, न्यूयॉर्क का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">South Jersey Transportation Authority's leader name is Stephen Dilts.</lex>
+      <lex comment="" lid="Id1" lang="hi">साउथ जर्सी ट्रांसपोर्टेशन अथॉरिटी के लीडर का नाम स्टीफन डिल्ट है।</lex>
+      <lex comment="" lid="Id2" lang="en">Stephen Dilts is the head of the South Jersey Transportation Authority.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टीफन डिल्ट साउथ जर्सी ट्रांसपोर्टेशन अथॉरिटी के प्रमुख हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Stephen Dilts is the leader of the South Jersey Transportation Authority.</lex>
+      <lex comment="" lid="Id3" lang="hi">स्टीफन डिल्ट साउथ जर्सी ट्रांसपोर्टेशन अथॉरिटी के लीडर हैं।</lex>
+    </entry>
+    <entry category="Airport" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | isPartOf | Paraná_(state)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | subdivisionName | Paraná_(state)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>São_José_dos_Pinhais | isPartOf | Paraná_(state)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">São José dos Pinhais is part Of Paraná (state).</lex>
+      <lex comment="" lid="Id1" lang="hi">&quot;&quot; &quot;&quot; &quot;&quot; &quot;स्लीवओ जोसेलेनदोस&quot; &quot;&quot; &quot;पिनहाइस&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;</lex>
+      <lex comment="" lid="Id2" lang="en">São José dos Pinhais is part of the state of Paraná.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्लीवओ जोसेलेम्सडोस पिनहैस पैरन पेनिनहैस राज्य का एक हिस्सा है।</lex>
+      <lex comment="" lid="Id3" lang="en">Sao Jose dos Pinhais is part of Parana.</lex>
+      <lex comment="" lid="Id3" lang="hi">साओ जोस डस पिनहास पराना का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | isPartOf | South_Region,_Brazil</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | subdivisionName | South_Region,_Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>São_José_dos_Pinhais | isPartOf | South_Region,_Brazil</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">São José dos Pinhais is part of the south region of Brazil.</lex>
+      <lex comment="" lid="Id1" lang="hi">यह ब्राजील के दक्षिण क्षेत्र का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Sao Jose dos Pinhais is part of the South Region, Brazil.</lex>
+      <lex comment="" lid="Id2" lang="hi">साओ जोस दोस पिनहास ब्राजील के दक्षिण क्षेत्र का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Austin is the capital of Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">ऑस्टिन टेक्सास की राजधानी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of Texas is Austin.</lex>
+      <lex comment="" lid="Id2" lang="hi">टेक्सास की राजधानी ऑस्टिन है।</lex>
+    </entry>
+    <entry category="Airport" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Texas is in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">टेक्सास संयुक्त राज्य अमेरिका में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Texas is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">टेक्सास अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Airport" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | demonym | Tejano</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | demonym | Tejano</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Texas demonym is Tejano.</lex>
+      <lex comment="" lid="Id1" lang="hi">Texas demonym is Tejano.</lex>
+      <lex comment="" lid="Id2" lang="en">The inhabitants of Texas have the demonym of Tejano.</lex>
+      <lex comment="" lid="Id2" lang="hi">टेक्सास के निवासियों में तेजानो का भूत है।</lex>
+      <lex comment="" lid="Id3" lang="en">A Tejano is a demonym term used in Texas.</lex>
+      <lex comment="" lid="Id3" lang="hi">एक तेजानो टेक्सास में इस्तेमाल किया जाने वाला एक पैशाचिक शब्द है।</lex>
+    </entry>
+    <entry category="Airport" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | demonym | Texan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | demonym | Texan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The people of Texas are known as Texans.</lex>
+      <lex comment="" lid="Id1" lang="hi">टेक्सास के लोग टेक्सास के नाम से जाने जाते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The inhabitants of Texas have the demonym Texan.</lex>
+      <lex comment="" lid="Id2" lang="hi">टेक्सास के निवासियों में Demonym Texan है।</lex>
+      <lex comment="" lid="Id3" lang="en">The people of Texas are called Texans.</lex>
+      <lex comment="" lid="Id3" lang="hi">टेक्सास के लोगों को टेक्सन कहा जाता है।</lex>
+    </entry>
+    <entry category="Airport" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">English is spoken in Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">टेक्सास में अंग्रेजी बोली जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language of Texas.</lex>
+      <lex comment="" lid="Id2" lang="hi">अंग्रेजी टेक्सास की भाषा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The language spoken in Texas is English.</lex>
+      <lex comment="" lid="Id3" lang="hi">टेक्सास में बोली जाने वाली भाषा अंग्रेजी है।</lex>
+    </entry>
+    <entry category="Airport" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spanish is spoken in Texas.</lex>
+      <lex comment="" lid="Id1" lang="hi">टेक्सास में स्पैनिश बोली जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Spanish is a language spoken in Texas.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्पेनिश टेक्सास में बोली जाने वाली एक भाषा है।</lex>
+    </entry>
+    <entry category="Airport" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tirstrup | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tirstrup is located in the country of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">टिस्रूप डेनमार्क देश में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Tirstrup is in the country of Denmark.</lex>
+      <lex comment="" lid="Id2" lang="hi">टिस्रूप डेनमार्क देश में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Tirstrup is in Denmark.</lex>
+      <lex comment="" lid="Id3" lang="hi">Tirstrup डेनमार्क में है।</lex>
+    </entry>
+    <entry category="Airport" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tirstrup | isPartOf | Central_Denmark_Region</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Tirstrup | subdivisionName | Central_Denmark_Region</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tirstrup is part of the Central Denmark region.</lex>
+      <lex comment="" lid="Id1" lang="hi">तिर्सट्रूप मध्य डेनमार्क क्षेत्र का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tirstrup | subdivisionName | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | isPartOf | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tirstrup is part of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">टिस्रूप डेनमार्क का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The headquarters of Turkmenistan Airlines are located in Ashgabat.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्कमेनिस्तान एयरलाइंस का मुख्यालय अश्गाबात में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The headquarters of Turkmenistan Airlines are in Ashgabat.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्कमेनिस्तान एयरलाइंस का मुख्यालय अश्गाबात में है।</lex>
+    </entry>
+    <entry category="Airport" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The headquarters of Turkmenistan Airlines are located in Turkmenistan.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्कमेनिस्तान एयरलाइंस का मुख्यालय तुर्कमेनिस्तान में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The headquarters of Turkmenistan Airlines are in Turkmenistan.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्कमेनिस्तान एयरलाइंस का मुख्यालय तुर्कमेनिस्तान में है।</lex>
+    </entry>
+    <entry category="Airport" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubs | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The hub airport for Turkmenistan airlines is Ashgabat International airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्कमेनिस्तान एयरलाइंस के लिए हब हवाई अड्डा अश्गाबात अंतर्राष्ट्रीय हवाई अड्डा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Turkmenistan Airlines utilizes the Ashgabat International Airport as its hub.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्कमेनिस्तान एयरलाइंस अपने केंद्र के रूप में अश्गाबात अंतर्राष्ट्रीय हवाई अड्डे का उपयोग करती है।</lex>
+    </entry>
+    <entry category="Airport" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenabat_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The hub airport for Turkmenistan Airlines is Turkmenabat Airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्कमेनिस्तान एयरलाइंस का हब हवाई अड्डा तुर्कमेनाबत हवाई अड्डा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Turkmenabat airport is the hub for Turkmenistan airlines.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्कमेनिस्तान हवाई अड्डा तुर्कमेनिस्तान एयरलाइंस का केंद्र है।</lex>
+    </entry>
+    <entry category="Airport" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenbashi_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenbashi_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The hub airport for Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्कमेनिस्तान एयरलाइंस के लिए हब हवाई अड्डा तुर्कमेनबाशी अंतर्राष्ट्रीय हवाई अड्डा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The hub Airport of Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्कमेनिस्तान एयरलाइंस का हब हवाई अड्डा तुर्कमेनबाशी अंतर्राष्ट्रीय हवाई अड्डा है।</lex>
+    </entry>
+    <entry category="Airport" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">United States Air FOrce aircraft fighter is General Dynamics F-16 Fighting Falcon.</lex>
+      <lex comment="" lid="Id1" lang="hi">यूनाइटेड स्टेट्स एयर फोर्स एयरक्राफ्ट फाइटर जनरल डायनामिक्स एफ-16 फाइटिंग फाल्कन है।</lex>
+      <lex comment="" lid="Id2" lang="en">The General Dynamics F-16 Fighting Falcon is an aircraft fighter in the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="hi">जनरल डायनामिक्स एफ-16 फाइटिंग फाल्कन अमेरिकी वायु सेना में एक विमान लड़ाकू विमान है।</lex>
+    </entry>
+    <entry category="Airport" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">United States Air Force's aircraft fighter is called McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरिकी वायु सेना के लड़ाकू विमान को मैक्डोनेल डगलस एफ-15 ईगल कहा जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The McDonnell Douglas F-15 Eagle is an aircraft fighter in the U.S. Air Force.</lex>
+      <lex comment="" lid="Id2" lang="hi">मैकडोनेल डगलस एफ-15 ईगल अमेरिकी वायु सेना में एक विमान लड़ाकू विमान है।</lex>
+      <lex comment="" lid="Id3" lang="en">McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.</lex>
+      <lex comment="" lid="Id3" lang="hi">मैकडोनेल डगलस एफ-15 ईगल अमेरिकी वायु सेना का एक लड़ाकू विमान था।</lex>
+    </entry>
+    <entry category="Airport" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Lockheed AC-130 can be found on USAF aircraft carriers.</lex>
+      <lex comment="" lid="Id1" lang="hi">लॉकहीड एसी-130 को यूएसएएफ विमान वाहकों पर पाया जा सकता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Lockheed AC-130 is an attack aircraft of the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="hi">लॉकहीड एसी-130 अमेरिकी वायु सेना का एक लड़ाकू विमान है।</lex>
+    </entry>
+    <entry category="Airport" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Invasion_of_Grenada</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Invasion_of_Grenada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Invasion_of_Grenada</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the noted United States Air Force battles was the Invasion of Grenada.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका की वायु सेना की प्रमुख लड़ाइयों में से एक ग्रेनेडा का आक्रमण था।</lex>
+      <lex comment="" lid="Id2" lang="en">The United States Air Force was involved in battles at the Invasion of Grenada.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका की वायु सेना ग्रेनेडा के आक्रमण में शामिल थी।</lex>
+      <lex comment="" lid="Id3" lang="en">The United States Air Force battled in the Invasion of Grenada.</lex>
+      <lex comment="" lid="Id3" lang="hi">संयुक्त राज्य अमेरिका की वायु सेना ने ग्रेनेडा के आक्रमण में लड़ाई लड़ी।</lex>
+    </entry>
+    <entry category="Airport" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Korean_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Korean_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Korean_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United States Air Force fought battles in the Korean war.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका की वायु सेना ने कोरियाई युद्ध में लड़ाई लड़ी।</lex>
+      <lex comment="" lid="Id2" lang="en">The United States Air Force has fought in the Korean War.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिकी वायु सेना ने कोरियाई युद्ध में लड़ाई लड़ी है।</lex>
+    </entry>
+    <entry category="Airport" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Operation Enduring Freedom is one of the battles of the United States Air Force.</lex>
+      <lex comment="" lid="Id1" lang="hi">ऑपरेशन एन्ड्यूरिंग फ्रीडम संयुक्त राज्य वायु सेना की लड़ाइयों में से एक है।</lex>
+      <lex comment="" lid="Id2" lang="en">Operation Enduring Freedom was a battle involving the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="hi">ऑपरेशन एन्ड्यूरिंग फ्रीडम एक युद्ध था जिसमें संयुक्त राज्य अमेरिका की वायु सेना शामिल थी।</lex>
+    </entry>
+    <entry category="Airport" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The USAF was involved in the Invasion of Panama.</lex>
+      <lex comment="" lid="Id1" lang="hi">यूएसएएफ पनामा के आक्रमण में शामिल था।</lex>
+      <lex comment="" lid="Id2" lang="en">The United States invasion of Panama was a battle involving the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="hi">पनामा पर संयुक्त राज्य अमेरिका का आक्रमण एक युद्ध था जिसमें संयुक्त राज्य की वायु सेना शामिल थी।</lex>
+    </entry>
+    <entry category="Airport" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftTransport | Lockheed_C-130_Hercules</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lockheed C-130 Hercules is a transport aircraft in the United States Air Force.</lex>
+      <lex comment="" lid="Id1" lang="hi">लॉकहीड सी-130 हरक्यूलिस संयुक्त राज्य अमेरिका की वायु सेना में एक परिवहन विमान है।</lex>
+      <lex comment="" lid="Id2" lang="en">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिकी वायु सेना के लिए परिवहन विमान लॉकहीड सी-130 हरक्यूलिस है।</lex>
+    </entry>
+    <entry category="Airport" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | isPartOf | Awadh</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | isPartOf | Awadh</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Uttar Pradesh is part of Awadh.</lex>
+      <lex comment="" lid="Id1" lang="hi">उत्तर प्रदेश अवध का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Uttar Pradesh is part of Bundelkhand.</lex>
+      <lex comment="" lid="Id1" lang="hi">उत्तर प्रदेश बुंदेलखंड का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | leaderName | Ram_Naik</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | leader | Ram_Naik</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ram Naik is the leader in Uttar Pradesh.</lex>
+      <lex comment="" lid="Id1" lang="hi">राम नाईक उत्तर प्रदेश में नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader name of Uttar Pradesh is Ram Naik.</lex>
+      <lex comment="" lid="Id2" lang="hi">उत्तर प्रदेश के नेता का नाम राम नाईक है।</lex>
+    </entry>
+    <entry category="Airport" eid="35" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Wilson Township, in Alpena County, Michigan is in the U.S.A.</lex>
+      <lex comment="" lid="Id1" lang="hi">विल्सन टाउनशिप, मिशिगन की अल्पेना काउंटी, अमरीका में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">विल्सन टाउनशिप, अल्पेना काउंटी, मिशिगन संयुक्त राज्य अमेरिका में है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">विल्सन टाउनशिप, अल्पेना काउंटी, मिशिगन संयुक्त राज्य अमेरिका में है।</lex>
+    </entry>
+    <entry category="Airport" eid="36" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Wilson Township, Alpena County, Michigan is part of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">विल्सन टाउनशिप, अल्पेना काउंटी, मिशिगन संयुक्त राज्य अमेरिका का हिस्सा है।</lex>
+    </entry>
+    <entry category="Airport" eid="37" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ícolo e Bengo is in Angola.</lex>
+      <lex comment="" lid="Id1" lang="hi">bango अंगोला में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ícolo e Bengo is located in Angola.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | upright | अंगोला में स्थित है।</lex>
+    </entry>
+    <entry category="Airport" eid="38" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | subdivisionName | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ícolo e Bengo is in the Luanda Province.</lex>
+      <lex comment="" lid="Id1" lang="hi">बेनगो लुआंडा प्रांत में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ícolo e bengo is part of Luanda Province.</lex>
+      <lex comment="" lid="Id2" lang="hi">कोलंबो ए बेंगो लुआंडा प्रांत का हिस्सा है।</lex>
+    </entry>
+  </entries>
+</benchmark>

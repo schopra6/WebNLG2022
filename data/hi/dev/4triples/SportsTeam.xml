@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | league | Superleague_Greece</otriple>
+        <otriple>Superleague_Greece | champions | Olympiacos_F.C.</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | league | Superleague_Greece</mtriple>
+        <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Previous Greece Superleague champions AEK Athens FC play their home games at The Olympic Stadium, Athens.</lex>
+      <lex comment="" lid="Id1" lang="hi">पूर्व ग्रीस सुपरलीग चैंपियन एईके एथेंस एफसी अपने घरेलू खेल ओलंपिक स्टेडियम, एथेंस में खेलता है।</lex>
+      <lex comment="" lid="Id2" lang="en">AEK Athens F.C. have there home ground at the Olympic Stadium (Athens) which is located in Athens. They currently play in the Superleague of Greece whose current champions are Olympiacos F.C..</lex>
+      <lex comment="" lid="Id2" lang="hi">एईके एथेंस एफ. सी. का ओलंपिक स्टेडियम (एथेंस) में घरेलू मैदान है जो एथेंस में स्थित है। वे वर्तमान में ग्रीस के सुपर लीग में खेलते हैं जिसके वर्तमान चैंपियन ओलंपियाकोस एफ. सी. हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+        <otriple>Gus_Poyet | team | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+        <mtriple>Gus_Poyet | club | Chelsea_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium, in Athens, is the home ground of AEK Athens FC. the manager of which, is Gus Poyet, who played for Chelsea F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">एथेंस में ओलंपिक स्टेडियम एईके एथेंस एफसी का घरेलू मैदान है. जिसके प्रबंधक गुस पोएट हैं, जो चेल्सी एफ. सी. के लिए खेले थे।</lex>
+      <lex comment="" lid="Id2" lang="en">The Olympic Stadium (Athens) is the home ground of AEK Athens F.C. whose manager is Gus Poyet. He played for Chelsea F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">ओलंपिक स्टेडियम (एथेंस) एईके एथेंस एफ. सी. का घरेलू मैदान है जिसके प्रबंधक गुस पोएट हैं। वह चेल्सी एफ. सी. के लिए खेले।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+        <otriple>Gus_Poyet | team | Real_Zaragoza</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+        <mtriple>Gus_Poyet | club | Real_Zaragoza</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Located in Athens, the Olympic Stadium, is the ground for AEK Athens FC. The manager of which, used to be Gus Poyet, who, is in the Real Zaragoza club.</lex>
+      <lex comment="" lid="Id1" lang="hi">एथेंस में स्थित ओलंपिक स्टेडियम एथेंस एफसी का मैदान है। जिसका प्रबंधक गुस पोएट था, जो रियल जारागोजा क्लब में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Olympic Stadium in Athens is the home of AEK Athens FC. The football club's manager used to be Gus Poyet, who played for Real Zaragoza in the past.</lex>
+      <lex comment="" lid="Id2" lang="hi">एथेंस में ओलंपिक स्टेडियम एईके एथेंस एफसी का घर है। फुटबॉल क्लब के प्रबंधक गुस पोएट थे, जो अतीत में रियल जारागोजा के लिए खेलते थे।</lex>
+      <lex comment="" lid="Id3" lang="en">The Olympic Stadium (Athens) is the home ground of AEK Athens F.C. whose manager is Gus Poyet. His club is Real Zaragoza.</lex>
+      <lex comment="" lid="Id3" lang="hi">ओलंपिक स्टेडियम (एथेंस) एईके एथेंस एफ. सी. का घरेलू मैदान है जिसके प्रबंधक गुस पोएट हैं। उनका क्लब रियल ज़ारागोज़ा है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | clubs | Favoritner_AC</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger, manager for the FC Koln, was also a part of FC Admira Wacker Modling and Favoritner AC as well as the FK Austria Wien Soccer Club.</lex>
+      <lex comment="" lid="Id1" lang="hi">एफसी कोलोन के प्रबंधक पीटर स्टोगर भी एफसी एडमिरा वैकर मॉडलिंग और फेवरिटनर एसी के साथ-साथ एफके ऑस्ट्रिया वीन सॉकर क्लब का हिस्सा थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is a player in FC Admira Wacker Mödling and Favoritner AC. He also manages 1. FC Köln and is at the FK Austria Wien club.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेंगेर एफसी एडमिरा वैकर मेमनेस डेलिंग और फेवरिटनर एसी में एक खिलाड़ी हैं। वह 1 का प्रबंधन भी करता है। एफके ऑस्ट्रिया वीन क्लब में शामिल हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger's club is the FC Admira Wacker Mödling. He is also manager of 1. FC Köln, a player for Favoritner AC and a member of the FK Austria Wien soccer club.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टेलगेर का क्लब एफसी एडमिरा वैकर मैमिल्यिस डलिंग है। वह 1 के प्रबंधक भी हैं। एफके ऑस्ट्रिया वीन फुटबॉल क्लब के सदस्य और फेवरिटनर एसी के खिलाड़ी श्री एफ. सी.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger is the manager of 1. FC Köln and plays for FC Admira Wacker Mödling. He is affiliated with SC Wiener Neustadt club and previously played for the club LASK Linz.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेम्बलर 1 के प्रबंधक हैं। एफ. सी. किन्गलस लिन और एफ. सी. ऐडमिरा वाकर मैमिलस डलिंग के लिए खेलते हैं। वह एससी वीनर न्यूस्टाट क्लब से संबद्ध हैं और पहले क्लब एलएएसके लिंज़ के लिए खेलते थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger plays for both LASK Linz and FC Admira Wacker Modling. He previously played for SC Wiener Neustadt but is now the manager of FC Kolin.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर एलएएसके लिंज़ और एफसी एडमिरा वैकर मॉडलिंग दोनों के लिए खेलते हैं। वह पहले एससी वीनर न्यूस्टाड के लिए खेले थे लेकिन अब वह एफसी कोलिन के प्रबंधक हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger, who plays for FC Admira Wacker Modling is also the manager of FC Kolin. He is affiliated with the SC Wiener Neustadt club and previously played for the club LASK Linz.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टोगर, जो एफसी एडमिरा वैकर मॉडलिंग के लिए खेलते हैं, वे एफसी कोलिन के प्रबंधक भी हैं। वह एससी वीनर न्यूस्टाट क्लब से संबद्ध हैं और पहले क्लब एलएएसके लिंज़ के लिए खेलते थे।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | clubs | FK_Austria_Wien</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger is attached to First Vienna FC and is also in FK Austria Wien Club and SK Vorwarts Steyr. He is currently manager of 1FC Koln.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टोगर फर्स्ट वियना एफसी से जुड़े हैं और एफके ऑस्ट्रिया वीन क्लब और एसके वोरवर्ट्स स्टीयर में भी हैं। वह वर्तमान में 1 एफसी कोलोन के प्रबंधक हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is in the SK Vorwarts Steyr club and attached to the club First Vienna F.C.. He is additionally at the FK Austria Wien club while managing FC Kolin.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर एसके वोरवर्ट्स स्टीयर क्लब में हैं और फर्स्ट वियना एफसी से जुड़े हैं। वह एफसी कोलिन के प्रबंधन के साथ-साथ एफके ऑस्ट्रिया वीन क्लब में भी हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | team | Favoritner_AC</otriple>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger is the manager of FC Kolin and has played for the following clubs: SK Vorwärts Steyr, Favoritner AC and FK Austria Wien.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेम्बलर एफसी कोलिन के प्रबंधक हैं और निम्नलिखित क्लबों के लिए खेले हैंः एसके वोर्वडायनेमिअस आरटीएस स्टीयर, फेवरिटनर एसी और एफके ऑस्ट्रिया वीन।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger previously played football for SK Vorwarts Steyr and now plays for Favoritner AC. In addition he is a member of FK Austria Wien coccer club and the manager or 1.FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर पहले एसके वोरवर्ट्स स्टीयर के लिए फुटबॉल खेलते थे और अब पसंदीदा एसी के लिए खेलते हैं। इसके अलावा वह एफके ऑस्ट्रिया वीन कॉकर क्लब और प्रबंधक या 1. एफसी कोलन के सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger has played for FC Admira Wacker Modling, has managed FC Kolin and also worked for SK Vorwärts Steyr and First Vienna FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेलगेर एफसी एडमिरा वैकर मॉडलिंग के लिए खेल चुके हैं, उन्होंने एफसी कोलिन का प्रबंधन किया है और एसके वोर्व और फर्स्ट वियना एफसी के लिए भी काम किया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is attached to First Vienna FC and is in SK Vorwarts Steyr club. He plays for FC Admira Wacker Modling and is the manager of 1 FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर फर्स्ट वियना एफसी से जुड़े हैं और एसके वोरवर्ट्स स्टीयर क्लब में शामिल हैं। वह एफसी एडमिरा वैकर मॉडलिंग के लिए खेलते हैं और 1 एफसी कोलोन के प्रबंधक हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Soger has previously played football for SK Vorwarts Steyr and his club now is FC Admira Wacker Modling. He is currently attached to the club First Vienna FC and manages FC Kolin.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर सोगर पहले एसके वोरवर्ट्स स्टीयर के लिए फुटबॉल खेल चुके हैं और अब उनका क्लब एफसी एडमिरा वैकर मॉडलिंग है। वह वर्तमान में फर्स्ट वियना एफसी से जुड़े हुए हैं और एफसी कोलिन का प्रबंधन करते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger, previously a player for SC Wiener Neustadt, is now in the SK Vorwärts Steyr club and managing 1. FC Köln. His club is the FC Admira Wacker Mödling.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेम्बलगर, जो पहले एससी वीनर न्यूस्टाड के लिए एक खिलाड़ी थे, अब एसके वोर्व मेलेनियर्स स्टेयर क्लब में हैं और 1 का प्रबंधन कर रहे हैं। एफसी क्लाइनेल। उनका क्लब एफसी एडमिरा वाकर मैमिल्यिस डलिंग है।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is in the SK Vorwarts Steyr club and is affiliated with the SC Wiener Neustadt club. He is currently a player in FC Admira Wacker Modling while being a manager at 1.FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर एसके वोरवर्ट्स स्टीयर क्लब में हैं और एससी वीनर न्यूस्टेड क्लब से संबद्ध हैं। वह वर्तमान में 1. एफसी कोलोन में प्रबंधक होने के दौरान एफसी एडमिरा वैकर मॉडलिंग में एक खिलाड़ी हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger is manager of FC Kolin, as well as playing for SC Wiener Neustadt. He is also in the SK Vorwärts Steyr and FC Admira Wacker Mödling clubs.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टेलगेर एफसी कोलिन के प्रबंधक हैं, साथ ही एससी वीनर न्यूस्टाड के लिए भी खेलते हैं। वह एसके वोर्व-डायनेमिअर आरटीएस स्टेयर और एफसी एडमिरा वाकर मलाइंग क्लबों में भी शामिल हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger, the manager of FC Kolin is also a part of the SK Vorwärts Steyr club, the SK Rapid Wien Club and SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id1" lang="hi">एफसी कोलिन के प्रबंधक पीटर स्टेम्बलर भी एसके वोर्वमेनियर्स स्टीयर क्लब, एसके रैपिड वीन क्लब और एससी वीनर न्यूस्टाड का हिस्सा हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger played for both SC Wiener Neustadt and SK Vorwarts Steyr. He is now manager of 1 FC Koln and plays for SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर ने एससी वीनर न्यूस्टाड और एसके वोरवर्ट्स स्टीयर दोनों के लिए खेला। वह अब 1 एफसी कोलन के प्रबंधक हैं और एसके रैपिड वीन क्लब के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger is the manager of FC Koln. In his career so far, he has played for SK Vorwärts Steyr and SK Rapid Wien, and managed at SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टेम्बलर एफसी कोलोन के प्रबंधक हैं। अपने करियर में, वह एसके वोर्वप्रोलिजेंस स्टीयर और एसके रैपिड वीन के लिए खेल चुके हैं, और एससी वीनर न्यूस्टाड क्लब में प्रबंधित हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | fullname | &quot;Associazione Sportiva Roma S.p.A.&quot;@en</otriple>
+        <otriple>A.S._Roma | ground | &quot;Rome, Italy&quot;@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | fullName | &quot;Associazione Sportiva Roma S.p.A.&quot;</mtriple>
+        <mtriple>A.S._Roma | ground | &quot;Rome, Italy&quot;</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Juventus F.C, former champions of Serie A, compete with A.S. Roma, known under the full name Associazione Sportiva Roma S.p.A., based in Rome, Italy, playing in Serie A.</lex>
+      <lex comment="" lid="Id1" lang="hi">सीरी ए के पूर्व चैंपियन जुवेंटस एफ. सी. इटली के रोम में स्थित एएस रोमा के साथ प्रतिस्पर्धा करता है, जिसे पूर्ण नाम एसोसिएजियोन स्पोर्तिवा रोमा एस. पी. ए. के तहत जाना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus FC are champions of Serie A in which AS Roma also play. Their full name is &quot;Associazione Sportiva Roma S.p.A.&quot; and they have a ground in Rome, Italy.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुवेंटस एफसी सीरी ए का चैंपियन है जिसमें एएस रोमा भी खेलते हैं। उनका पूरा नाम एसोसिएजियोन स्पोर्तिवा रोमा एस. पी. ए. है और उनका रोम, इटली में एक मैदान है।</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus FC have been champions of Serie A in which AS Roma also play. AS Roma's full name is Associazione Sportiva Roma S.p.A. and their ground is in Rome, Italy.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुवेंटस एफसी सीरी ए का चैंपियन रहा है जिसमें एएस रोमा भी खेलते हैं। ए. एस. रोमा का पूरा नाम एसोसिएजियोन स्पोर्तिवा रोमा एस. पी. ए. है और उनका ग्राउंड रोम, इटली में है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | fullname | &quot;Associazione Sportiva Roma S.p.A.&quot;@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | fullName | &quot;Associazione Sportiva Roma S.p.A.&quot;</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Associazione Sportiva Roma S.p.A. is the full name A.S. Roma. They have a ground in Rome and play in the Serie A league. the former champions of this league are Juventus F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">असोसिएज़ियोन स्पोर्तिवा रोमा का पूरा नाम ए. एस. रोमा है। उनके पास रोम में एक मैदान है और वे सीरी ए लीग में खेलते हैं. इस लीग के पूर्व चैंपियन जुवेंटस एफ. सी. हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Previous champions of Serie A have been Juventus FC. A S Roma also play in Serie A and their home ground is in Rome and their full name is Associazione Sportiva Roma S.p.A.</lex>
+      <lex comment="" lid="Id2" lang="hi">सीरी ए के पूर्व चैंपियन जुवेंटस एफसी रहे हैं। ए एस रोमा भी सेरी ए में खेलते हैं और उनका घरेलू मैदान रोम में है और उनका पूरा नाम एसोसिएजियोन स्पोर्तिवा रोमा एस पी ए है।</lex>
+      <lex comment="" lid="Id3" lang="en">Serie A league former champions are Juventus FC. AS Roma ( fullname Associazione Sportiva Roma S.p.A.) who have a ground in Rome also play in the league.</lex>
+      <lex comment="" lid="Id3" lang="hi">सीरी ए लीग के पूर्व चैंपियन जुवेंटस एफसी हैं। ए. एस. रोमा (पूर्ण नाम एसोसिएजियोन स्पोर्तिवा रोमा एस. पी. ए.) जिनका रोम में एक मैदान है, वे भी लीग में खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | capacity | 70634</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Roma's ground in Rome holds 70634 fans. The club play in Serie A, the champions of which are Juventus F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोम में ए. ए. एस. रोमा के मैदान में 70,634 प्रशंसक हैं। क्लब सीरी ए में खेलता है, जिसके चैंपियन जुवेंटस एफ. सी. हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">AS Roma have a ground in Rome and have 70634 members. They play in the Serie A league which was previously won by Juventus FC.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोम में एएस रोमा का एक मैदान है और इसके 70634 सदस्य हैं। वे सीरी ए लीग में खेलते हैं जिसे पहले जुवेंटस एफसी ने जीता था।</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Roma play in Serie A, of which the current champions are Juventus F.C. Their home ground is in Rome and they have 70634 members.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोमा सीरी ए में खेलते हैं, जिनमें से वर्तमान चैंपियन जुवेंटस एफ. सी. हैं। उनका घरेलू मैदान रोम में है और उनके 70,634 सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | season | 2014</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | season | 2014</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">With a ground in Rome, A.S. Roma, competed in the 2014 season. They play in Serie A, the champions of which have been Juventus FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोम में एक मैदान के साथ, एएस रोमा ने 2014 के सीजन में प्रतिस्पर्धा की। वे सीरी ए में खेलते हैं, जिसके चैंपियन जुवेंटस एफसी रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">AS Roma 's home ground is in Rome. They played in the 2014 season in Serie A which has Juventus FC as former champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोमा का घर रोम में है। वे 2014 के सीजन में सीरी ए में खेले थे जिसमें जुवेंटस एफसी पूर्व चैंपियन है।</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus FC are previous champions of Serie A in which AS Roma also play. AS Roma played in the 2014 season and have a ground in Rome.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुवेंटस एफसी सीरी ए के पिछले चैंपियन हैं जिसमें एएस रोमा भी खेलते हैं। एएस रोमा ने 2014 के सीजन में खेला था और रोम में उनका एक मैदान है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | clubs | Virtus_Entella</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti plays for Virtus Entella and manages AS Roma who play in the Serie A league. Juventus FC are the champions of the league.</lex>
+      <lex comment="" lid="Id1" lang="hi">लुसियानो स्पेलेटी वर्टस एंटेला के लिए खेलते हैं और एएस रोमा का प्रबंधन करते हैं जो सेरी ए लीग में खेलते हैं। जुवेंटस एफसी इस लीग का चैंपियन है।</lex>
+      <lex comment="" lid="Id2" lang="en">AS Roma's manager is Luciano Spalletti ( who was also at Virtus Entella) and they play in the Serie A league. The Champions of that league are Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएस रोमा के प्रबंधक लुसियानो स्पेलेटी (जो वर्टस एन्टेला में भी थे) हैं और वे सीरी ए लीग में खेलते हैं। उस लीग के चैंपियन जुवेंटस एफ. सी. हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Roma is managed by Luciano Spalletti, who was formerly involved with Virtus Entella. Serie A, the league that A.S. Roma play in, has Juventus F.C. as past champions.</lex>
+      <lex comment="" lid="Id3" lang="hi">ए. ए. एस. रोमा का प्रबंधन लुसियानो स्पैलेटी द्वारा किया जाता है, जो पहले वर्टस एन्टेला के साथ शामिल थे। एएस रोमा जिस लीग में खेलते हैं, उसमें जुवेंटस एफसी पूर्व चैंपियन है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | capacity | 70634</otriple>
+        <otriple>A.S._Roma | ground | &quot;Rome, Italy&quot;@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+        <mtriple>A.S._Roma | ground | &quot;Rome, Italy&quot;</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma play in Serie A which have Juventus FC as previous champions. AS Roma's ground is in Rome, Italy and they have 70634 members.</lex>
+      <lex comment="" lid="Id1" lang="hi">एएस रोमा सीरी ए में खेलते हैं जिसमें जुवेंटस एफसी पिछले चैंपियन हैं। एएस रोमा का मैदान रोम, इटली में है और उनके 70,634 सदस्य हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">AS Roma's ground is located in Rome, Italy and they have 70634 members. They play in Serie A which has Juventus FC as former champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएस रोमा का ग्राउंड रोम, इटली में स्थित है और इसके 70634 सदस्य हैं। वे सीरी ए में खेलते हैं जिसमें जुवेंटस एफसी पूर्व चैंपियन है।</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Roma of Rome Italy, has 70634 members and plays in Serie A where Juventus F. C. are champions.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोम के ए. एस. रोमा के 70,634 सदस्य हैं और वे सीरी ए में खेलते हैं जहां जुवेंटस एफ. सी. चैंपियन हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | capacity | 70634</otriple>
+        <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+        <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Juventus FC and AS Roma are former Serie A champions, where Roma has 70634 members, its headquarters is the Olimpico stadium.</lex>
+      <lex comment="" lid="Id1" lang="hi">जुवेंटस एफसी और एएस रोमा पूर्व सीरी ए चैंपियन हैं, जहां रोमा के 70,634 सदस्य हैं, इसका मुख्यालय ओलिम्पिको स्टेडियम है।</lex>
+      <lex comment="" lid="Id2" lang="en">AS Roma 's ground is Stadio Olimpico and they have 70634 members. They play in the Serie A league of which Juventus FC have previously been champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. एस. रोमा का मैदान स्टेडियो ओलिम्पिको है और उनके 70634 सदस्य हैं। वे सीरी ए लीग में खेलते हैं जिसमें जुवेंटस एफसी पहले चैंपियन रह चुका है।</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus FC are champions of Serie A in which AS Roma also play. The AS Roma ground is Stadio Olimpico and they have 70634 members.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुवेंटस एफसी सीरी ए का चैंपियन है जिसमें एएस रोमा भी खेलते हैं। एएस रोमा ग्राउंड स्टेडियो ओलिम्पिको है और उनके 70634 सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | clubs | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | managerClub | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti manages A.S. Roma and plays for Empoli F.C.. A.S. Roma play in Serie A of which Juventus F.C. are champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">लुसियानो स्पेलेटी एएस रोमा का प्रबंधन करते हैं और एम्पोली एफ. सी. के लिए खेलते हैं। सेरी ए में ए. ए. एस. रोमा खेलते हैं, जिनमें से जुवेंटस एफ. सी. चैंपियन हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti, who has been associated with Udinese Calcio, manages A.S. Roma who play in Serie A. Juventus FC have been Serie A champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">जुवेंटस एफसी में खेलने वाले एएस रोमा का प्रबंधन करने वाले लुसियानो स्पेलेटी, जो उडिनेस कालसियो से जुड़े रहे हैं, सीरी ए चैंपियन रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">AS Roma play in the Serie A league where Juventus FC are the champions. Their manager is Luciano Spalletti who has been associated with Udinese Calcio.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएस रोमा सीरी ए लीग में खेलते हैं जहां जुवेंटस एफसी चैंपियन है। उनके प्रबंधक लुसियानो स्पैलेटी हैं जो उडिनीज कैलसियो के साथ जुड़े रहे हैं।</lex>
+    </entry>
+  </entries>
+</benchmark>

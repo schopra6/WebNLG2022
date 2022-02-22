@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="1" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | religion | Church_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is located in the country of Denmark which has the religion The Church of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज डेनमार्क देश में स्थित है जिसका धर्म डेनमार्क का चर्च है।</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University in Denmark is also where the Church of Denmark is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनमार्क में आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में भी चर्च ऑफ डेनमार्क स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University is in Denmark as well as the Church of Denmark.</lex>
+      <lex comment="" lid="Id3" lang="hi">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज डेनमार्क के साथ-साथ चर्च ऑफ डेनमार्क में भी है।</lex>
+    </entry>
+    <entry category="University" eid="2" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | &quot;Thomas Pallesen&quot;@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | &quot;737&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | &quot;Thomas Pallesen&quot;</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Thomas Pallesen is dean of the School of Business and Social Sciences at the Aarhus University where there is an academic staff of 737.</lex>
+      <lex comment="" lid="Id1" lang="hi">थॉमस पल्लेसेन आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज के डीन हैं, जहां 737 का एक शैक्षणिक कर्मचारी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University, which has an academic staff size of 737, has Thomas Pallesen as its Dean.</lex>
+      <lex comment="" lid="Id2" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज के डीन थॉमस पैलेसन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 and the dean is Thomas Pallesen.</lex>
+      <lex comment="" lid="Id3" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 737 अकादमिक कर्मचारी हैं और डीन थॉमस पैलेसन हैं।</lex>
+    </entry>
+    <entry category="University" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | &quot;Universitas Aarhusiensis&quot;@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | &quot;Universitas Aarhusiensis&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | &quot;Universitas Aarhusiensis&quot;</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Universitas Aarhusiensis is the latin name of the School of Business and Social Sciences at the Aarhus University which is affiliated to the European University Association.</lex>
+      <lex comment="" lid="Id1" lang="hi">आरहुसियेंसिस विश्वविद्यालय का लैटिन नाम है जो यूरोपीय विश्वविद्यालय संघ से संबद्ध है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Latin name for the School of Business and Social Sciences at Aarhus University, which is affiliated with the European University Association, is &quot;Universitas Aarhusiensis&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">&quot;यूरोपीय विश्वविद्यालय संघ से संबद्ध आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज का लैटिन नाम&quot; &quot;यूनिवर्सिटास आरहुसींसिस&quot; &quot;है।&quot;</lex>
+      <lex comment="" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and its called Universitas Aarhusiensis in latin.</lex>
+      <lex comment="" lid="Id3" lang="hi">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपीय विश्वविद्यालय संघ से संबद्ध है और इसे लैटिन में यूनिवर्सिटीज आरहुसिएंसिस कहा जाता है।</lex>
+    </entry>
+    <entry category="University" eid="4" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at Aarhus University takes 16000 students and is affiliated to the European University Association.</lex>
+      <lex comment="" lid="Id1" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 16000 छात्र पढ़ते हैं और यह यूरोपीय विश्वविद्यालय संघ से संबद्ध है।</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University has 16,000 students and is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id2" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 16,000 छात्र हैं और यह यूरोपीय विश्वविद्यालय संघ से संबद्ध है।</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University has 16000 students and is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id3" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 16000 छात्र हैं और यह यूरोपीय विश्वविद्यालय संघ से संबद्ध है।</lex>
+    </entry>
+    <entry category="University" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University has 16000 students and is located in Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 16000 छात्र हैं और यह डेनमार्क में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University in Denmark has 16,000 students.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनमार्क में आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 16,000 छात्र हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University in Denmark has 16000 students.</lex>
+      <lex comment="" lid="Id3" lang="hi">डेनमार्क में आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 16000 छात्र हैं।</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,625 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="7" shape="(X (X) (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is located at Seminary Ridge in Adams County in the municipality of Gettysburg Pennsylvania (United States). It was established in the year 2000 and is categorised as a contributing property.</lex>
+      <lex comment="" lid="Id1" lang="hi">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग पेंसिल्वेनिया (संयुक्त राज्य अमेरिका) की नगरपालिका में एडम्स काउंटी के सेमिनरी रिज में स्थित है। इसकी स्थापना वर्ष 2000 में की गई थी और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 11th Mississippi Infantry Monument (completed in 2000) is a contributing property found at Seminary Ridge, Adams County, in the municipality of Gettysburg in the American state of Pennsylvania.</lex>
+      <lex comment="" lid="Id2" lang="hi">11वां मिसिसिपी इन्फैंट्री स्मारक (2000 में पूरा हुआ) अमेरिकी राज्य पेन्सिलवेनिया के गेटिसबर्ग नगरपालिका में सेमिनरी रिज, एडम्स काउंटी में पाया गया एक योगदान संपत्ति है।</lex>
+      <lex comment="" lid="Id3" lang="en">Seminary Ridge in Gettysburg is located in Adams County, Pennsylvania and is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">गेटिसबर्ग में सेमिनरी रिज एडम्स काउंटी, पेन्सिलवेनिया में स्थित है और यह 11 वें मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में स्थापित किया गया था और संयुक्त राज्य अमेरिका के भीतर योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="7" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11th Mississippi Infantry Monument has been established in 2000 and is categorised as a contributing property. It is located in Adams County, Pennsylvania (United States). Carroll County Maryland is southeast of Adams county Pennsylvania and Pennsylvania's Cumberland County is to the north of the Adams County.</lex>
+      <lex comment="" lid="Id1" lang="hi">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। यह एडम्स काउंटी, पेन्सिलवेनिया (संयुक्त राज्य अमेरिका) में स्थित है। कैरोल काउंटी मैरीलैंड एडम्स काउंटी पेंसिल्वेनिया के दक्षिण-पूर्व में स्थित है और पेंसिल्वेनिया की कंबरलैंड काउंटी एडम्स काउंटी के उत्तर में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania and is categorised as a contributing property of the United States. Adams County is located south of Cumberland County and Carroll County in Maryland lie to the southeast.</lex>
+      <lex comment="" lid="Id2" lang="hi">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में एडम्स काउंटी, पेन्सिलवेनिया में स्थापित किया गया था और इसे संयुक्त राज्य अमेरिका की योगदान संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी मैरीलैंड में कंबरलैंड काउंटी और कैरोल काउंटी के दक्षिण में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 11th Mississippi Infantry Monument was established in 2000 and is categorised as a contributing property. It is located in Adams County, Pennsylvania state (in the US). Adams County, Pennsylvania has Carroll County, Maryland to its southeast and Pennsylvania's Cumberland County is to the north of the Adams County.</lex>
+      <lex comment="" lid="Id3" lang="hi">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। यह एडम्स काउंटी, पेन्सिलवेनिया राज्य (अमेरिका) में स्थित है। एडम्स काउंटी, पेंसिल्वेनिया के दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड और एडम्स काउंटी के उत्तर में पेंसिल्वेनिया की कंबरलैंड काउंटी है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is categorized as a Contributing property, and is found in Adams County, Pennsylvania, in the US. Adams County is to the east of Franklin County, Pennsylvania, and it has Carroll County Maryland to its southeast, Pennsylvania's Cumberland County to its north, and Maryland's Frederick County to its southwest.</lex>
+      <lex comment="" lid="Id1" lang="hi">11वीं मिसिसिपी इन्फैंट्री स्मारक को योगदानकारी संपत्ति के रूप में वर्गीकृत किया गया है और यह अमेरिका में एडम्स काउंटी, पेन्सिलवेनिया में पाया जाता है। एडम्स काउंटी फ्रेंकलिन काउंटी, पेंसिल्वेनिया के पूर्व में स्थित है और इसके दक्षिण-पूर्व में कैरोल काउंटी मैरीलैंड, उत्तर में पेंसिल्वेनिया का कम्बरलैंड काउंटी और दक्षिण-पश्चिम में मैरीलैंड का फ्रेडरिक काउंटी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adams County is located in Pennsylvania, United States to the south of Cumberland County and to the east of Franklin County. Frederick County, Maryland is to the southwest and Carroll County, Maryland to the southeast. Adams County is the location of the 11th Mississippi Infantry monument which is categorised as a contributing property.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडम्स काउंटी संयुक्त राज्य अमेरिका के पेन्सिलवेनिया में कंबरलैंड काउंटी के दक्षिण में और फ्रैंकलिन काउंटी के पूर्व में स्थित है। फ्रेडरिक काउंटी, मैरीलैंड दक्षिण-पश्चिम में और कैरोल काउंटी, मैरीलैंड दक्षिण-पूर्व में स्थित है। एडम्स काउंटी 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adams County, Pennsylvania which lies east of Franklin County, south of Cumberland County, northwest of Carroll County, Maryland and northeast of Frederick County, is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडम्स काउंटी, पेंसिल्वेनिया जो फ्रैंकलिन काउंटी के पूर्व में, कंबरलैंड काउंटी के दक्षिण में, कैरोल काउंटी के उत्तर-पश्चिम में, मैरीलैंड और फ्रेडरिक काउंटी के उत्तर-पूर्व में स्थित है, वह 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में स्थापित किया गया था और संयुक्त राज्य अमेरिका के भीतर योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="4" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frederick County Maryland is to the south west of Adams County, Pennsylvania. To the south of Adams County is Cumberland County and to the northwest Carroll County, Maryland. Adams County is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">फ्रेडरिक काउंटी मैरीलैंड एडम्स काउंटी, पेन्सिलवेनिया के दक्षिण पश्चिम में स्थित है। एडम्स काउंटी के दक्षिण में कंबरलैंड काउंटी और उत्तर-पश्चिम में कैरोल काउंटी, मैरीलैंड है। एडम्स काउंटी 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में स्थापित किया गया था और संयुक्त राज्य अमेरिका के भीतर एक योगदान संपत्ति के रूप में वर्गीकृत किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The 11th Mississippi Infantry monument, established in 2000, is categorised as a contributing property and located in Adams County, Pennsylvania which is north of Cumberland County. The County is northwest of Maryland's Carroll County and northeast of Frederick County, Maryland.</lex>
+      <lex comment="" lid="Id2" lang="hi">वर्ष 2000 में स्थापित 11वीं मिसिसिपी इन्फैंट्री स्मारक को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है और यह कंबरलैंड काउंटी के उत्तर में एडम्स काउंटी, पेंसिल्वेनिया में स्थित है। काउंटी मैरीलैंड के कैरोल काउंटी के उत्तर-पश्चिम में और फ्रेडरिक काउंटी, मैरीलैंड के उत्तर-पूर्व में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Adams County in Pennsylvania is located south of Cumberland County. Frederick County, Maryland is to the southwest and Carroll County, Maryland is to the southeast. The County is the location of the 11th Mississippi Infantry monument which was established in 2000 and is categorised as a contributing property.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडम्स काउंटी पेन्सिलवेनिया में कंबरलैंड काउंटी के दक्षिण में स्थित है। फ्रेडरिक काउंटी, मैरीलैंड दक्षिण-पश्चिम में और कैरोल काउंटी, मैरीलैंड दक्षिण-पूर्व में है। काउंटी 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="5" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gettysburg is located in Adams County, Pennsylvania which lies to the south of Cumberland County, east of Franklin County and to the northwest of Carroll County, Maryland. It is the location of the 11th Mississippi Infantry monument which was established in 2000 and categorised as a contributing property within the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">गेटिसबर्ग एडम्स काउंटी, पेन्सिलवेनिया में स्थित है जो कंबरलैंड काउंटी के दक्षिण में, फ्रैंकलिन काउंटी के पूर्व में और कैरोल काउंटी, मैरीलैंड के उत्तर-पश्चिम में स्थित है। यह 11 वें मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में स्थापित किया गया था और संयुक्त राज्य अमेरिका के भीतर एक योगदान संपत्ति के रूप में वर्गीकृत किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The 11th Mississippi Infantry monument is located in the municipality of Gettysburg, Adams County which was established in 2000 and categorised as a contributing property. Adams County in Pennsylvania is located to the east of Franklin County and south of Cumberland County. To the north west is Carroll County, Maryland.</lex>
+      <lex comment="" lid="Id2" lang="hi">11वीं मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी की नगरपालिका में स्थित है, जिसे 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया था। एडम्स काउंटी (अंग्रेज़ीः Adams County) पेन्सिलवेनिया में फ्रैंकलिन काउंटी के पूर्व में और कम्बरलैंड काउंटी के दक्षिण में स्थित है। उत्तर पश्चिम में कैरोल काउंटी, मैरीलैंड है।</lex>
+    </entry>
+    <entry category="Monument" eid="6" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adams County lies to the east of Franklin County and south of Cumberland County, Pennsylvania. Carroll County in Maryland lies to the southeast and Frederick County, Maryland to the southwest. The 11th Mississippi Infantry monument which was completed in 2000 is located in Adams County and categorised as contributing property.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडम्स काउंटी फ्रैंकलिन काउंटी के पूर्व में और कंबरलैंड काउंटी, पेन्सिलवेनिया के दक्षिण में स्थित है। मैरीलैंड में कैरोल काउंटी दक्षिण-पूर्व में और मैरीलैंड के दक्षिण-पश्चिम में फ्रेडरिक काउंटी स्थित है। 11वां मिसिसिपी इन्फैंट्री स्मारक जो 2000 में पूरा हुआ था, एडम्स काउंटी में स्थित है और इसे संपत्ति योगदान के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adams County Pennsylvania is East of Franklin County, Pennsylvania. To the southeast is Carroll County, Maryland. Adams County has Cumberland County to its north and Frederick County, Maryland to its southwest. The 11th Mississippi Infantry Monument is in this county and was completed in 2000. This Monument is categorized as a Contributing Property.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडम्स काउंटी पेंसिल्वेनिया फ्रैंकलिन काउंटी, पेंसिल्वेनिया के पूर्व में स्थित है। दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड है। एडम्स काउंटी के उत्तर में कंबरलैंड काउंटी और दक्षिण-पश्चिम में मैरीलैंड का फ्रेडरिक काउंटी है। 11वां मिसिसिपी इन्फैंट्री स्मारक इस काउंटी में है और इसे 2000 में पूरा किया गया था। इस स्मारक को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania and is categorised as a contributing property. Adams County is located east of Franklin County and south of Cumberland County. Carroll County and Frederick County in Maryland lie to the southeast and southwest respectively.</lex>
+      <lex comment="" lid="Id3" lang="hi">11वीं मिसिसिपी इन्फैंट्री स्मारक की स्थापना 2000 में एडम्स काउंटी, पेन्सिलवेनिया में की गई थी और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी फ्रैंकलिन काउंटी के पूर्व और कंबरलैंड काउंटी के दक्षिण में स्थित है। मैरीलैंड में कैरोल काउंटी और फ्रेडरिक काउंटी क्रमशः दक्षिण-पूर्व और दक्षिण-पश्चिम में स्थित हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="7" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 11th Mississippi Infantry Monument falls under the category of Contributing property, and is located in the municipality of Gettysburg in Adams County, Pennsylvania. This county is to the east of Franklin County, and has Cumberland County to its north and Carroll County (Maryland) to its southeast.</lex>
+      <lex comment="" lid="Id1" lang="hi">11वां मिसिसिपी इन्फैंट्री स्मारक कंट्रीब्यूटिंग प्रॉपर्टी की श्रेणी में आता है और एडम्स काउंटी, पेंसिल्वेनिया में गेटिसबर्ग की नगरपालिका में स्थित है। यह काउंटी फ्रैंकलिन काउंटी के पूर्व में है, और इसके उत्तर में कंबरलैंड काउंटी और दक्षिण-पूर्व में कैरोल काउंटी (मैरीलैंड) है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 11th Mississippi Infantry Monument was established in 2000 in Gettysburg, Adams County, Pennsylvania and is categorised as a contributing property. Adams County is located east of Franklin County and south of Cumberland County. Carroll County and Frederick County in Maryland lie to the southeast and southwest respectively.</lex>
+      <lex comment="" lid="Id2" lang="hi">11वीं मिसिसिपी इन्फैंट्री स्मारक की स्थापना 2000 में गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में की गई थी और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी फ्रैंकलिन काउंटी के पूर्व और कंबरलैंड काउंटी के दक्षिण में स्थित है। मैरीलैंड में कैरोल काउंटी और फ्रेडरिक काउंटी क्रमशः दक्षिण-पूर्व और दक्षिण-पश्चिम में स्थित हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Adams County in Pennsylvania is located east of Franklin County and south of Cumberland County. Southeast is Carroll County, Maryland and Frederick County, Maryland is to the southwest. The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg, Adams County and is categorised as a contributing property.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडम्स काउंटी (अंग्रेज़ीः Adams County) पेन्सिलवेनिया में फ्रैंकलिन काउंटी के पूर्व और कंबरलैंड काउंटी के दक्षिण में स्थित है। दक्षिण-पूर्व कैरोल काउंटी, मैरीलैंड और फ्रेडरिक काउंटी है, मैरीलैंड दक्षिण-पश्चिम में है। 11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी की नगरपालिका में स्थित है और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="8" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Azerbaijan is called the Prime Minister of Azerbaijan. The capital of Azerbaijan is Baku. In Baku is the Baku Turkish Martyrs's Memorial located which was designed by Huseyin Butuner and Hilmi Guner. Turk Sehitler Aniti is the native name for the Baku Turkish Martyr's Memorial, which is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The source of legislature in Azerbaijan is the National Assembly.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजरबैजान के नेता को अजरबैजान का प्रधानमंत्री कहा जाता है। अज़रबैजान की राजधानी बाकू है। बाकू में बाकू तुर्की शहीदों का स्मारक स्थित है जिसे हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था। तुर्क सेहितलर अनीती बाकू तुर्की शहीद स्मारक का मूल नाम है, जो बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। अजरबैजान में विधायिका का स्रोत नेशनल असेंबली है।</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of Baku is Azerbaijan with its leader called the Prime Minister and its legislative branch called the National Assembly. The Baku Turkish Martyrs Memorial was designed by Huseyin Butuner and Hilmi Guner and is found in Azerbaijan. It is dedicated to soldiers killed in the Battle of Baku. The Memorial is known locally as Türk Şehitleri Anıtı.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाकू की राजधानी अज़रबैजान है जिसके नेता को प्रधानमंत्री कहा जाता है और इसकी विधायी शाखा को नेशनल असेंबली कहा जाता है। बाकू तुर्की शहीदों का स्मारक हुसैन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था और यह अजरबैजान में पाया जाता है। यह बाकू की लड़ाई में मारे गए सैनिकों को समर्पित है। इस स्मारक को स्थानीय रूप से त्चीलेरो रुक सीलेहित्लेरी एन सीलेहितिलेरी के सीलेहितिलेरी के रूप में जाना जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Azerbijan leader is the Prime Minister of Azerbaijan and it has a legislature called the Azerbaijan National Assembly. Baku is the capital of Azerbaijan. In Baku is a Martyrs Memorial dedicated to the soldiers killed in the Battle of Baku. The native name is Turk Sehitleri Aniti. The Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex comment="" lid="Id3" lang="hi">अजरबिजान के नेता अजरबैजान के प्रधानमंत्री हैं और उनकी एक विधायिका है जिसे अजरबैजान नेशनल असेंबली कहा जाता है। बाकू अजरबैजान की राजधानी है। बाकू में बाकू की लड़ाई में मारे गए सैनिकों को समर्पित एक शहीद स्मारक है। इसका मूल नाम तुर्क सेहत्लेरी अनीती है। इस स्मारक का डिजाइन हिलेनियन बाइनसिन बाइनटेनर और हिल्मी गनर ने तैयार किया है।</lex>
+    </entry>
+    <entry category="Monument" eid="9" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Azerbaijan is Prime Minister Artur Rasizade and the legislature is the National Assembly. The Turk Sehitleri Aniti, usually known as the Baku Turkish Martyr's Memorial is located in the country, where the capital city is Baku. It was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="" lid="Id1" lang="hi">अज़रबैजान के नेता प्रधानमंत्री आर्तुर रसीज़ादे हैं और विधायिका नेशनल असेंबली है। तुर्की सेहतलेरी अनीती, जिसे आमतौर पर बाकू तुर्की शहीद स्मारक के रूप में जाना जाता है, देश में स्थित है, जहां राजधानी बाकू है। इसे हुसेइन बुटुनर और हिल्मी गुनर ने डिजाइन किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Prime Minister Artur Rasizade is the leader of Azerbaijan which has Baku as it's capital city and the National Assembly is the official legislature. The country is the location of the Baku Turkish Martyrs memorial which is known locally as Turk Sehitleri Aniti and was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="" lid="Id2" lang="hi">प्रधानमंत्री आर्तूर रसीज़ादे अजरबैजान के नेता हैं जिसकी राजधानी बाकू है और नेशनल असेंबली आधिकारिक विधायिका है। देश बाकू तुर्की शहीदों के स्मारक का स्थान है जिसे स्थानीय रूप से तुर्क सेहतलेरी अनीती के रूप में जाना जाता है और इसका डिजाइन हुसेइन बुटुनर और हिल्मी गुनर द्वारा तैयार किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Baku is the capital city of Azerbaijan where the leader is Prime Minister Artur Rasizade and the legislature is the National Assembly. The country is the location of the Baku Turkish Martyrs memorial, also known as the Turk Sehitleri Aniti, designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="" lid="Id3" lang="hi">बाकू अजरबैजान की राजधानी शहर है जहां नेता प्रधानमंत्री आर्तूर रसीज़ादे हैं और विधायिका नेशनल असेंबली है। यह देश बाकू तुर्की शहीदों के स्मारक का स्थान है, जिसे तुर्क सेहत्लेरी अनीती के रूप में भी जाना जाता है, जिसे हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="10" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Azerbaijan is Artur Rasizade. It has a legislature known as the National Assembly. Baku is the capital of Azerbaijan. The Baku Turkish Martyrs' Memorial is in Azerbaijan and is in dedication to the Ottoman Army Soldiers killed at the Battle of Baku. It was designed by Huseyin Butuner and Hilmi Guner. The native name of the Memorial is Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजरबैजान के नेता आर्तूर रसीज़ादे हैं। इसकी एक विधायिका है जिसे नेशनल असेंबली के रूप में जाना जाता है। बाकू अजरबैजान की राजधानी है। बाकू तुर्की शहीदों का स्मारक अजरबैजान में है और बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। इसे हुसेइन बुटुनर और हिल्मी गुनर ने डिजाइन किया था। स्मारक का मूल नाम तुर्क सेहतलेरी अनीति है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Azerbaijan is Artur Rasizade , the capital city is Baku and the legislature is the National Assembly. The city is the location of the Baku Turkish Martyrs memorial designed by Huseyin Butuner and Hilmi Guner. It is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku and has the local name of Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id2" lang="hi">अज़रबैजान के नेता आर्तुर रसीज़ादे हैं, राजधानी शहर बाकू है और विधायिका नेशनल असेंबली है। यह शहर बाकू तुर्की शहीदों के स्मारक का स्थान है जिसे हुसेइन बुतुनेर और हिल्मी गुनेर ने डिजाइन किया था। यह बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है और इसका स्थानीय नाम तुर्क सहैतलेरी अनीती है।</lex>
+      <lex comment="" lid="Id3" lang="en">Azerbaijan leader's name is Artur Rasizade and its capital is in Baku with the legislature in Azerbaijan called The National Assembly. Baku has the Turkish Martyr's Memorial, designed by Huseyin Butuner and Hilmi Guner, and dedicated to the Ottoman Army Soldiers killed in the Battle of Baku The Native name of the Memorial is &quot;Türk Sehitleri Aniti&quot;.</lex>
+      <lex comment="" lid="Id3" lang="hi">अजरबैजान के नेता का नाम आर्तूर रसीज़ादे है और इसकी राजधानी बाकू में है, जिसे अजरबैजान में नेशनल असेंबली कहा जाता है। बाकू में तुर्की शहीदों का स्मारक है, जिसे हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया है और बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित किया गया है। स्मारक का मूल नाम टाइलस्क सेहितलेरी अनीती है।</lex>
+    </entry>
+    <entry category="Monument" eid="11" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Huseyin Butuner and Hilmi Guner designed the red granite and white marble Baku Turkish Martyrs memorial which is located in Azerbaijan and dedicated to the Ottoman army soldiers killed in the Battle of Baku, the capital city. Prime Minister Artur Rasizade is the current leader of the country.</lex>
+      <lex comment="" lid="Id1" lang="hi">हुसैन बुटुनर और हिल्मी गुनर ने लाल ग्रेनाइट और सफेद संगमरमर वाले बाकू तुर्की शहीद स्मारक का डिजाइन तैयार किया है जो अजरबैजान में स्थित है और राजधानी शहर बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। प्रधानमंत्री आर्तूर रसीज़ादे देश के वर्तमान नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Baku is the capital of Azerbaijan which is led by Prime Minister Artur Rasizade. The city is the location of the Baku Turkish Martyr's memorial designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The memorial is dedicated to the soldiers of the Ottoman army who were killed at the Battle of Baku.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाकू अजरबैजान की राजधानी है जिसका नेतृत्व प्रधानमंत्री आर्तूर रसीज़ादे कर रहे हैं। यह शहर बाकू तुर्की के शहीद स्मारक का स्थान है जिसे लाल ग्रेनाइट और सफेद संगमरमर से हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया है। यह स्मारक तुर्क सेना के उन सैनिकों को समर्पित है जो बाकू की लड़ाई में मारे गए थे।</lex>
+      <lex comment="" lid="Id3" lang="en">The Baku Turkish Martyrs' Memorial was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner, and it is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is found in Baku, the capital of Azerbaijan, a country led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
+      <lex comment="" lid="Id3" lang="hi">बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर में हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया था, और यह बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह अजरबैजान की राजधानी बाकू में पाया जाता है, जो अजरबैजान के प्रधानमंत्री, आर्तूर रसीज़ादे के नेतृत्व में एक देश है।</lex>
+    </entry>
+    <entry category="Monument" eid="12" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Baku Turkish Martyrs' Memorial is a monument created in red granite and white marble by its designers Huseyin Butuner and Hilmi Guner, and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is found in Baku, the capital of Azerbaijan, a country led by Artur Rasizade, and with the National Assembly as its source of legislature.</lex>
+      <lex comment="" lid="Id1" lang="hi">बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर से निर्मित एक स्मारक है, जिसे इसके डिजाइनर हुसेइन बुटुनर और हिल्मी गुनर ने डिजाइन किया है और यह बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह अजरबैजान की राजधानी बाकू में पाया जाता है, जो कि आर्तूर रसीज़ादे के नेतृत्व में एक देश है, और नेशनल असेंबली के साथ विधायिका के स्रोत के रूप में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Baku is the capital city of Azerbaijan where the legislature is the National Assembly and the leader is Artur Rasizade. The city is the location of the Baku Turkish Martyr's memorial designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial commemorates the soldiers of the Ottoman army who were killed in the Battle of Baku.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाकू अजरबैजान की राजधानी है जहां विधायिका नेशनल असेंबली है और नेता आर्तुर रसीज़ादे हैं। यह शहर बाकू तुर्की के शहीद स्मारक का स्थान है जिसे लाल ग्रेनाइट और सफेद संगमरमर में हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया है। यह स्मारक बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों की याद में बनाया गया है।</lex>
+      <lex comment="" lid="Id3" lang="en">Baku is the capital city of Azerbaijan where the leader is Artur Rasizade and the legislature is the National Assembly. It is the location of the red granite and white marble Baku Turkish Martyrs memorial designed by Hilmi Guner and Huseyin Butuner and dedicated to the soldiers of the Ottoman army who lost their lives at the Battle of Baku.</lex>
+      <lex comment="" lid="Id3" lang="hi">बाकू अजरबैजान की राजधानी है जहां नेता आर्तूर रसीज़ादे हैं और विधायिका नेशनल असेंबली है। यह लाल ग्रेनाइट और सफेद संगमरमर वाले बाकू तुर्की शहीद स्मारक का स्थान है जिसे हिल्मी गुनेर और हुसेइन बुटुनर द्वारा डिजाइन किया गया था और बाकू की लड़ाई में जान गंवाने वाले तुर्क सेना के सैनिकों को समर्पित किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="13" size="7" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Artur Rasizade is the leader of Azerbaijan where the Baku Turkish Martyrs Memorial dedicated to the soldiers of the Ottoman army who died at the Battle of Baku. The memorial was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner and is known locally as Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id1" lang="hi">आर्तूर रसीज़ादे अजरबैजान के नेता हैं, जहां बाकू तुर्की शहीद स्मारक बाकू की लड़ाई में शहीद हुए तुर्क सेना के सैनिकों को समर्पित है। स्मारक को लाल ग्रेनाइट और सफेद संगमरमर में हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था और इसे स्थानीय रूप से तुर्क सहैतलेरी अनीती के रूप में जाना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Artur Rasizade is the leader of Azerbaijan where the capital city is Baku. The country is the location of the Baku Turkish Martyrs Memorial which commemorates the soldiers of the Ottoman army who were killed in the Battle of Baku. The memorial has been designed in red granite and white marble by Huseyin Butuner and Hilmi Guner and has the local name of Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id2" lang="hi">आर्तूर रसीज़ादे अज़रबैजान के नेता हैं, जिसकी राजधानी बाकू है। यह देश बाकू तुर्की शहीद स्मारक का स्थान है जो बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों की याद में बनाया गया है। स्मारक को लाल ग्रेनाइट और सफेद संगमरमर से हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया है और इसका स्थानीय नाम तुर्क सहैतलेरी अनीती है।</lex>
+      <lex comment="" lid="Id3" lang="en">Baku is the capital of Azerbaijan where Artur Rasizade is the leader. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku. The memorial has the local name of Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id3" lang="hi">बाकू अजरबैजान की राजधानी है जहां आर्तुर रसीजादे नेता हैं। यह शहर बाकू तुर्की शहीदों के स्मारक का स्थान है जिसे लाल ग्रेनाइट और सफेद संगमरमर में हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था। यह स्मारक बाकू की लड़ाई में शहीद हुए तुर्क सेना के सैनिकों को समर्पित है। स्मारक का स्थानीय नाम तुर्क सेहतलेरी अनीति है।</lex>
+    </entry>
+    <entry category="Monument" eid="14" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is located in Baku, the capital of Azerbaijan, a country led by Artur Rasizade, the Prime Minister of Azerbaijan.</lex>
+      <lex comment="" lid="Id1" lang="hi">बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर में हुसैन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था और बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह अजरबैजान की राजधानी बाकू में स्थित है, जो अजरबैजान के प्रधानमंत्री आर्तूर रसीज़ादे के नेतृत्व में एक देश है।</lex>
+      <lex comment="" lid="Id2" lang="en">Baku is the capital of Azerbaijan where Prime Minister Artur Rasizade is the leader. The city is the location of the Baku Turkish Martyrs memorial which was designed by Huseyin Butuner and Hilmi Guner in red granite and white marble. The memorial is dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाकू अजरबैजान की राजधानी है जहां प्रधानमंत्री आर्तूर रसीजादे नेता हैं। यह शहर बाकू तुर्की शहीदों के स्मारक का स्थान है जिसे लाल ग्रेनाइट और सफेद संगमरमर में हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था। यह स्मारक बाकू की लड़ाई में शहीद हुए तुर्क सेना के सैनिकों को समर्पित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Baku Turkish Martyrs' Memorial is located in Azerbaijan's capital, Baku. The monument is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It was designed by Hüseyin Bütüner and Hilmi Güner, and constructed from red granite and white marble. Azerbaijan's leader, the Prime Minister of Azerbaijan, is Artur Rasizade.</lex>
+      <lex comment="" lid="Id3" lang="hi">बाकू तुर्की शहीदों का स्मारक अजरबैजान की राजधानी बाकू में स्थित है। यह स्मारक बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। इसका डिजाइन बाइनसिन बाइनसिन टेनर और हिल्मी गेनर ने तैयार किया था और इसका निर्माण लाल ग्रेनाइट और सफेद संगमरमर से किया गया था। अज़रबैजान के नेता, अज़रबैजान के प्रधानमंत्री, आर्तूर रसीज़ादे हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="15" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Azerbaijan legislature is the National Assembly and the leader of the country is Prime Minister Artur Rasizade. The capital city is Baku and is the location of the red granite and white marble Baku Turkish Martyrs memorial which has the local name of Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजरबैजान की विधायिका नेशनल असेंबली है और देश के नेता प्रधानमंत्री आर्तूर रसीज़ादे हैं। राजधानी शहर बाकू है और लाल ग्रेनाइट और सफेद संगमरमर बाकू तुर्की शहीद स्मारक का स्थान है, जिसका स्थानीय नाम तुर्क सेहतलेरी अनीती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Prime Minister Artur Rasizade is the leader of Azerbaijan where the source of legislature is the National Assembly. Baku is the capital city and is the location of the red granite and white marble Baku Turkish Martyrs memorial , locally known as Turk Sehitleri Aniti.</lex>
+      <lex comment="" lid="Id2" lang="hi">प्रधानमंत्री आर्तूर रसीज़ादे अजरबैजान के नेता हैं, जहां विधायिका का स्रोत नेशनल असेंबली है। बाकू राजधानी शहर है और लाल ग्रेनाइट और सफेद संगमरमर बाकू तुर्की शहीद स्मारक का स्थान है, जिसे स्थानीय रूप से तुर्क सेहतलेरी अनीती के रूप में जाना जाता है।</lex>
+    </entry>
+    <entry category="Monument" eid="16" size="7" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baku Turkish Martyrs' Memorial, made from red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, Azerbaijan. The memorial (native name &quot;Türk Sehitleri Aniti&quot;) was designed by Huseyin Butuner and Hilmi Guner. Artur Rasizade is the leader (official title President) of Azerbaijan.</lex>
+      <lex comment="" lid="Id1" lang="hi">लाल ग्रेनाइट और सफेद संगमरमर से बना बाकू तुर्की शहीदों का स्मारक, अजरबैजान के बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। स्मारक (स्थानीय नाम टीसील्क सेहितलेरी अनीती) हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया था। आर्तूर रसीज़ादे अजरबैजान के नेता (आधिकारिक शीर्षक राष्ट्रपति) हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Baku Turkish Martyrs' Memorial (known as Turk Sehitleri Aniti in the local language) is a red granite and white marble monument, designed by Huseyin Butuner and Hilmi Guner, and dedicated to Ottoman Army soldiers killed in the Battle of Baku. It is located in Azerbaijan, a country led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाकू तुर्की शहीदों का स्मारक (स्थानीय भाषा में तुर्क सेहितलेरी अनीती के रूप में जाना जाता है) एक लाल ग्रेनाइट और सफेद संगमरमर स्मारक है, जिसे हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया है, और बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह अजरबैजान में स्थित है, जो अजरबैजान के प्रधानमंत्री, आर्तूर रसीज़ादे के नेतृत्व में एक देश है।</lex>
+      <lex comment="" lid="Id3" lang="en">Artur Rasizade is is the Prime Minister and the leader of Azerbaijan. Here we can find Baku Turkish Martyrs' Memorial, that is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The native name of the Baku Turkish Martyrs' Memorial is Turk Sehitleri Aniti. Its designer was Hüseyin Bütüner and Hilmi Güner and it is made from red granite and white marble.</lex>
+      <lex comment="" lid="Id3" lang="hi">आर्तूर रसीज़ादे अजरबैजान के प्रधानमंत्री और नेता हैं। यहां हम बाकू तुर्की शहीदों का स्मारक देख सकते हैं, जो बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। बाकू तुर्की शहीदों के स्मारक का मूल नाम तुर्क सेहितलेरी अनीती है। इसके डिजाइनर हैगनसिन बाइनसेइन बाइनसेइनर और हिल्मी गनर थे और इसे लाल ग्रेनाइट और सफेद संगमरमर से बनाया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="17" size="7" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Baku Turkish Martyrs' Memorial (known as Turk Sehitleri Aniti) was designed by Hüseyin Bütüner and Hilmi Güner in red granite and white marble, and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. It is located in Azerbaijan, where the leader is Artur Rasizade, and the National Assembly is the legislative branch of government.</lex>
+      <lex comment="" lid="Id1" lang="hi">बाकू तुर्की शहीदों का स्मारक (तुर्क सेहत्लेरी अनीती के रूप में जाना जाता है) को लाल ग्रेनाइट और सफेद संगमरमर में हिल्मी गनीनर और हिल्मिन बासिन द्वारा डिजाइन किया गया था, और यह बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह अजरबैजान में स्थित है, जहां नेता आर्तुर रसीज़ादे हैं, और नेशनल असेंबली सरकार की विधायी शाखा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Baku Turkish Martyrs memorial, dedicated to the soldiers of the Ottoman army who died at the Battle of Baku was designed in red granite and white marble by Huseyin Butuner and Hilmi Guner. The native name for the memorial which is located in the city of Baku is Turk Sehitleri Aniti. Turkey is led by Artur Rasizade and the National Assembly is the legislature within the country.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाकू के युद्ध में शहीद हुए तुर्क सैनिकों को समर्पित बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर से हुसेइन बुटुनर और हिल्मी गुनेर द्वारा डिजाइन किया गया था। बाकू शहर में स्थित इस स्मारक का मूल नाम तुर्क सेहतलेरी अनीती है। तुर्की का नेतृत्व आर्तुर रसीज़ादे कर रहे हैं और नेशनल असेंबली देश के भीतर विधायिका है।</lex>
+    </entry>
+    <entry category="Monument" eid="18" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dead Mans Plack is a rock formation found in England and dedicated to Aethelwald, Ealdorman of East Anglia. One of the ethnic groups of the country are the British Arabs, and the Church of England is the official religion. The Cornish language is still spoken in parts of the country.</lex>
+      <lex comment="" lid="Id1" lang="hi">डेड मैन्स प्लैक एक चट्टान का निर्माण है जो इंग्लैंड में पाया जाता है और पूर्वी एंग्लिया के इएल्डोरमेन एथेलवाल्ड को समर्पित है। देश के जातीय समूहों में से एक ब्रिटिश अरब हैं, और चर्च ऑफ इंग्लैंड आधिकारिक धर्म है। कॉर्निश भाषा अभी भी देश के कुछ हिस्सों में बोली जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Dead Man's Plack is located in England, made from stone, and dedicated to AEthelwald, Ealdorman of East Anglia. England's established religion is The Church of England, and the capital city is London. The Cornish language is spoken there, and the British Arabs are an English ethnic group.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेड मैन का प्लैक इंग्लैंड में स्थित है, जो पत्थर से बना है और पूर्वी एंग्लिया के एथेलवाल्ड, एल्डरमेन को समर्पित है। इंग्लैंड का स्थापित धर्म चर्च ऑफ इंग्लैंड है और इसकी राजधानी लंदन है। कॉर्निश भाषा वहां बोली जाती है, और ब्रिटिश अरब एक अंग्रेजी जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The capital of England is London where we can find the Dead Man's Plack which is made of stone. The Plack is dedicated to Æthelwald, Ealdorman of East Anglia. Cornish language is spoken in England and it has an established religion called the Church of England. One of the ethnic groups found in that country is the British Arabs.</lex>
+      <lex comment="" lid="Id3" lang="hi">इंग्लैंड की राजधानी लंदन है, जहां हमें पत्थर से बना मृत व्यक्ति का तख्ता मिल सकता है। यह प्लैक पूर्वी एंग्लिया के एल्डरमेन, एथेलवाल्ड को समर्पित है। कॉर्निश भाषा इंग्लैंड में बोली जाती है और इसका एक स्थापित धर्म है जिसे चर्च ऑफ इंग्लैंड कहा जाता है। उस देश में पाए जाने वाले जातीय समूहों में से एक ब्रिटिश अरब है।</lex>
+    </entry>
+    <entry category="Monument" eid="19" size="7" shape="(X (X) (X) (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield, Frederick County, Maryland. Located near to the city of Frederick, the monument was established on 11th July 1907, is owned by the National Park Service and belongs to the category of Historic districts in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक काउंटी के मोनोकेसी नेशनल बैटलफील्ड में पाया जाता है। फ्रेडरिक शहर के निकट स्थित यह स्मारक 11 जुलाई, 1907 को स्थापित किया गया था। इसका स्वामित्व राष्ट्रीय उद्यान सेवा के पास है और यह संयुक्त राज्य अमेरिका के ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Frederick, Maryland is the nearest city to the 14th New Jersey Volunteer Infantry Monument which was established on 11 July 1907 at the Monocacy National Battlefield in Frederick, Maryland. The monument is categorised as a historic district in the US and is owned by the National Park Service.</lex>
+      <lex comment="" lid="Id2" lang="hi">फ्रेडरिक, मैरीलैंड 14वें न्यू जर्सी वालंटियर इन्फैंट्री स्मारक का निकटतम शहर है, जिसे 11 जुलाई 1907 को फ्रेडरिक, मैरीलैंड में मोनोकेसी नेशनल बैटलफील्ड में स्थापित किया गया था। इस स्मारक को अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है और यह राष्ट्रीय उद्यान सेवा के स्वामित्व में है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is owned by The National Park Service. It was established on July 11th, 1907 and is categorized as a historic district in the United States and is found in the Monocacy National Battlefield, the city nearest to this is Frederick, Maryland.</lex>
+      <lex comment="" lid="Id3" lang="hi">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक राष्ट्रीय उद्यान सेवा के स्वामित्व में है। यह 11 जुलाई, 1907 को स्थापित किया गया था और इसे संयुक्त राज्य अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है और यह मोनोकेसी नेशनल बैटलफील्ड में पाया जाता है, इसके निकटतम शहर फ्रेडरिक, मैरीलैंड है।</lex>
+    </entry>
+    <entry category="Monument" eid="20" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument in İzmir is a bronze monument designed by Pietro Canonica, and inaugurated on July 27th, 1932. It is located in Turkey, where the capital city is Ankara, the currency is the Turkish lira, and the leader is named Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id1" lang="hi">अटाट परसेनिक स्मारक एक कांस्य स्मारक है जिसे पीएट्रो कैनोनिका ने डिजाइन किया है और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। यह तुर्की में स्थित है, जहां राजधानी अंकारा है, मुद्रा तुर्की लीरा है, और नेता का नाम अहमत दावुतो गुग्लू है।</lex>
+      <lex comment="" lid="Id2" lang="en">Pietro Canonica designed the bronze Ataturk monument which was inaugurated in Turkey on 27 July 1932 in Izmir. The leader of the country is Ahmet Davutoglu and the currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीएट्रो कैनोनिका ने कांस्य अतातुर्क स्मारक डिजाइन किया था जिसका उद्घाटन 27 जुलाई 1932 को इजमिर में तुर्की में किया गया था। देश के नेता अहमद दावुतोग्लू हैं और मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The lira is the currency of Turkey where Ahmet Davutoglu is the leader and the capital city is Ankara. The country is the site of the Ataturk monument at Izmir which was designed by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex comment="" lid="Id3" lang="hi">लीरा तुर्की की मुद्रा है जहां अहमद दावुतोग्लू नेता है और राजधानी अंकारा है। देश इजमिर में अतातुर्क स्मारक का स्थल है जिसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था और 27 जुलाई 1932 को इसका उद्घाटन किया गया था।</lex>
+      <lex comment="" lid="Id4" lang="en">Ankara is the capital of Turkey where the currency is the Turkish lira and the leader is Ahmet Davutoglu. Izmir is located in the country and is the site of the bronze Ataturk Monument which was inaugurated in Izmir on 27 July 1932, having been designed by Pietro Canonica.</lex>
+      <lex comment="" lid="Id4" lang="hi">अंकारा तुर्की की राजधानी है जहां मुद्रा लीरा है और इसका नेता अहमत दावुतोग्लू है। इजमिर देश में स्थित है और यह कांस्य अतातुर्क स्मारक का स्थल है जिसका उद्घाटन 27 जुलाई 1932 को इजमिर में किया गया था, जिसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था।</lex>
+      <lex comment="" lid="Id5" lang="en">The Atatürk Monument is located in İzmir, in the country of Turkey, whose leader is Ahmet Davutoğlu. The monument is made of bronze, was designed by Pietro Canonica and was inaugurated on the 27th of July, 1932. Turkey's capital city is Ankara and the currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id5" lang="hi">अतातपरशुरूक स्मारक तुर्की देश के फेंजमीर में स्थित है, जिसके नेता अहमत दावुतोगिलुलू हैं। इस स्मारक को पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। तुर्की की राजधानी अंकारा है और मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id6" lang="en">The Turkish lira is the currency of Turkey where Ahmet Davutoglu is the leader and Ankara is the capital. The Ataturk Monument designed in bronze by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lid="Id6" lang="hi">तुर्की लीरा तुर्की की मुद्रा है जहां अहमद दावुतोग्लू नेता है और अंकारा राजधानी है। पीएट्रो कैनोनिका द्वारा कांस्य में डिजाइन किया गया अतातुर्क स्मारक इजमिर में स्थित है और इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="21" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The largest city in Turkey is Istanbul, although the capital city is Ankara. The country is led by Ahmet Davutoglu and is the location of the bronze Ataturk Monument designed by Pietro Canonica which was inaugurated on 27 July 1932 and is located in Izmir.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की का सबसे बड़ा शहर इस्तांबुल है, हालांकि इसकी राजधानी अंकारा है। देश का नेतृत्व अहमत दावुतोग्लू द्वारा किया जाता है और यह पीएट्रो कैनोनिका द्वारा डिजाइन किए गए कांस्य अतातुर्क स्मारक का स्थान है जिसका उद्घाटन 27 जुलाई 1932 को किया गया था और यह इजमिर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Turkish leader is Ahmet Davutoglu and although the largest city is Istanbul, the capital is Ankara. Izmir is the location of the Ataturk monument designed by Pietro Canonica in bronze and inaugurated on 27 July 1932.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्की के नेता अहमद दावुतोग्लू हैं और हालांकि सबसे बड़ा शहर इस्तांबुल है, लेकिन इसकी राजधानी अंकारा है। इजमिर पीएट्रो कैनोनिका द्वारा कांस्य में डिजाइन किए गए अतातुर्क स्मारक का स्थान है और इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The largest city in Turkey is Istanbul, and the capital city is Ankara. The country is led by Ahmet Davutoglu and is the location of the bronze Ataturk monument which was designed by Pietro Canonica and inaugurated in Izmir on 27 July 1932.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की का सबसे बड़ा शहर इस्तांबुल है और इसकी राजधानी अंकारा है। देश का नेतृत्व अहमद दावुतोग्लू द्वारा किया जाता है और यह कांस्य अतातुर्क स्मारक का स्थान है जिसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था और 27 जुलाई 1932 को इजमिर में उद्घाटन किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="22" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument (İzmir), found in Turkey, is made of bronze and was designed by Pietro Canonica. The monument was established on the 27th of July, 1932. Turkey's capital is Ankara and its largest city is Istanbul. The leader's official title is the President of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की में पाया जाने वाला अटाट परसेनिक स्मारक (अटाट परसेनिक) कांस्य से बना है और इसका डिजाइन पिएत्रो कैनोनिका द्वारा तैयार किया गया था। यह स्मारक 27 जुलाई, 1932 को स्थापित किया गया था। तुर्की की राजधानी अंकारा और सबसे बड़ा शहर इस्तांबुल है। इस नेता का आधिकारिक शीर्षक तुर्की का राष्ट्रपति है।</lex>
+      <lex comment="" lid="Id2" lang="en">The official leader of Turkey is called the President. It's capital is located in Ankara and its largest city is Istanbul. It has a monument called the Ataturk. The Ataturk Monument was designed by Pietro Canonica and was founded on July 27, 1982. It is made of bronze.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्की के आधिकारिक नेता को राष्ट्रपति कहा जाता है। इसकी राजधानी अंकारा और सबसे बड़ा शहर इस्तांबुल है। इसमें अतातुर्क नामक एक स्मारक है। अतातुर्क स्मारक को पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था और इसकी स्थापना 27 जुलाई, 1982 को की गई थी। यह कांसे का बना होता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Ataturk Monument (Izmir) is located in Turkey, a country led by the country's president. Istanbul is the largest city, and Ankara is the capital. The monument was designed by Pietro Canonica, made of bronze, and inaugurated on the 27th of July, 1932.</lex>
+      <lex comment="" lid="Id3" lang="hi">अतातुर्क स्मारक (इजमिर) तुर्की में स्थित है, जो देश के राष्ट्रपति के नेतृत्व में है। इस्तांबुल सबसे बड़ा शहर है और अंकारा इसकी राजधानी है। इस स्मारक को पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था, जो कांस्य से बना था और 27 जुलाई, 1932 को इसका उद्घाटन किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="23" size="7" shape="(X (X) (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Ataturk Monument (Izmir) was designed by Pietro Canonica, and made of bronze. It is located in Izmir, Turkey, and was inaugurated July 27th, 1932. The country is led by President Ahmet Davutoglu, and the capital city is Ankara.</lex>
+      <lex comment="" lid="Id1" lang="hi">अतातुर्क स्मारक (इजमिर) को पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था, और कांस्य से बनाया गया था। यह तुर्की के इजमिर में स्थित है और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। इस देश का नेतृत्व राष्ट्रपति अहमत दावुतोग्लू कर रहे हैं और इसकी राजधानी अंकारा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Ataturk Monument (Izmir) is a bronze monument designed by Pietro Canonica, and inaugurated on 27th July, 1932. It is located in Turkey, where the capital is Ankara, and the leader (the President of Turkey) is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id2" lang="hi">अतातुर्क स्मारक (इजमिर) पीएट्रो कैनोनिका द्वारा डिजाइन किया गया एक कांस्य स्मारक है और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। यह तुर्की में स्थित है, जहां की राजधानी अंकारा है, और नेता (तुर्की के राष्ट्रपति) अहमद दावुतोग्लू हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Ataturk Monument is a bronze monument designed by Pietro Canonica, and inaugurated on July 27th, 1932. It is located in Izmir, in Turkey, a country where the capital is Ankara, and the leader is the President of Turkey, Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id3" lang="hi">अतातुर्क स्मारक पीएट्रो कैनोनिका द्वारा डिजाइन किया गया एक कांस्य स्मारक है और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। यह तुर्की के इजमिर में स्थित है, एक देश जिसकी राजधानी अंकारा है, और नेता तुर्की के राष्ट्रपति, अहमत दावुतोग्लू हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">President Ahmet Davutoglu is the Turkish leader where the capital city is Ankara. The bronze Ataturk Monument which was designed by Pietro Canonica is located in Izmir and was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lid="Id4" lang="hi">राष्ट्रपति अहमत दावुतोग्लू तुर्की के नेता हैं जिनकी राजधानी अंकारा है। पीएट्रो कैनोनिका द्वारा डिजाइन किया गया कांस्य अतातुर्क स्मारक इजमिर में स्थित है और इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lid="Id5" lang="en">The Ataturk Monument (Izmir) was designed by Pietro Canonica, made of bronze, and was inaugurated on July 27, 1932. It is located in Turkey, who's capital city is Ankara, and official leader is President Ahmet Davutoglu,.</lex>
+      <lex comment="" lid="Id5" lang="hi">अतातुर्क स्मारक (इजमिर) को पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था, जो कांस्य से बना था और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था। यह तुर्की में स्थित है, जिसकी राजधानी अंकारा है, और आधिकारिक नेता राष्ट्रपति अहमद दावुतोग्लू हैं।</lex>
+    </entry>
+  </entries>
+</benchmark>

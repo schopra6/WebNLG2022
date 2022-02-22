@@ -1,0 +1,392 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Manhattan is part of New York City.</lex>
+      <lex comment="" lid="Id1" lang="hi">मैनहटन न्यूयॉर्क शहर का हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">New York City is part of Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="hi">न्यूयॉर्क शहर मैनहट्टन का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">New York City is part of New York.</lex>
+      <lex comment="" lid="Id1" lang="hi">न्यूयॉर्क शहर न्यूयॉर्क का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Pacific_Grove,_California | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pacific_Grove,_California | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Pacific Grove, California is in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">पैसिफिक ग्रोव, कैलिफोर्निया संयुक्त राज्य अमेरिका में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Pacific Grove, California is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">पैसिफिक ग्रोव, कैलिफोर्निया संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Perth | country | Australia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Perth | country | Australia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Perth is located in Australia.</lex>
+      <lex comment="" lid="Id1" lang="hi">पर्थ ऑस्ट्रेलिया में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Perth is in Australia.</lex>
+      <lex comment="" lid="Id2" lang="hi">पर्थ ऑस्ट्रेलिया में है।</lex>
+    </entry>
+    <entry category="Building" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The currency of the Republic of Ireland is the euro.</lex>
+      <lex comment="" lid="Id1" lang="hi">आयरलैंड गणराज्य की मुद्रा यूरो है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Republic of Ireland's currency is the Euro.</lex>
+      <lex comment="" lid="Id2" lang="hi">आयरलैंड गणराज्य की मुद्रा यूरो है।</lex>
+    </entry>
+    <entry category="Building" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | demonym | Irish_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Irish people are the inhabitants of the Republic of Ireland.</lex>
+      <lex comment="" lid="Id1" lang="hi">आयरिश लोग आयरलैंड गणराज्य के निवासी हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Irish people inhabit the Republic of Ireland.</lex>
+      <lex comment="" lid="Id2" lang="hi">आयरलैंड गणराज्य में आयरलैंड के लोग रहते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The demonym of natives of the Republic of Ireland is Irish people.</lex>
+      <lex comment="" lid="Id3" lang="hi">आयरलैंड गणराज्य के मूल निवासी आयरलैंड के लोग हैं।</lex>
+    </entry>
+    <entry category="Building" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | languages | Irish_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | Irish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | Irish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the Republic of Ireland they speak Irish.</lex>
+      <lex comment="" lid="Id1" lang="hi">आयरलैंड गणराज्य में वे आयरिश बोलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Irish is one of the official language in the Republic of Ireland.</lex>
+      <lex comment="" lid="Id2" lang="hi">आयरिश आयरलैंड गणराज्य की आधिकारिक भाषाओं में से एक है।</lex>
+      <lex comment="" lid="Id3" lang="en">Irish is the official language of the Republic of Ireland.</lex>
+      <lex comment="" lid="Id3" lang="hi">आयरिश आयरलैंड गणराज्य की आधिकारिक भाषा है।</lex>
+    </entry>
+    <entry category="Building" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the Republic of Ireland is Enda Kenny.</lex>
+      <lex comment="" lid="Id1" lang="hi">आयरलैंड गणराज्य के नेता एंडा केनी हैं।</lex>
+    </entry>
+    <entry category="Building" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Africa | demonym | South_Africa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | demonym | South_Africa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">People from South Africa can say they are from South Africa.</lex>
+      <lex comment="" lid="Id1" lang="hi">दक्षिण अफ्रीका के लोग कह सकते हैं कि वे दक्षिण अफ्रीका से हैं।</lex>
+    </entry>
+    <entry category="Building" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | Asian_South_Africans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | Asian_South_Africans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In South Africa there is an ethnic group of Asian South Africans.</lex>
+      <lex comment="" lid="Id1" lang="hi">दक्षिण अफ्रीका में एशियाई दक्षिण अफ्रीकियों का एक जातीय समूह है।</lex>
+      <lex comment="" lid="Id2" lang="en">One of the ethnic groups within South Africa is Asian South Africans.</lex>
+      <lex comment="" lid="Id2" lang="hi">दक्षिण अफ्रीका के भीतर जातीय समूहों में से एक एशियाई दक्षिण अफ्रीकी हैं।</lex>
+    </entry>
+    <entry category="Building" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of South Africa's ethnic groups are the Coloured.</lex>
+      <lex comment="" lid="Id1" lang="hi">दक्षिण अफ्रीका के जातीय समूहों में से एक रंगीन है।</lex>
+      <lex comment="" lid="Id2" lang="en">Coloured people are an ethnic group in South Africa.</lex>
+      <lex comment="" lid="Id2" lang="hi">रंगीन लोग दक्षिण अफ्रीका में एक जातीय समूह हैं।</lex>
+    </entry>
+    <entry category="Building" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Cyril_Ramaphosa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leader | Cyril_Ramaphosa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Cyril Ramaphosa is the leader of South Africa.</lex>
+      <lex comment="" lid="Id1" lang="hi">सिरिल रामाफोसा दक्षिण अफ्रीका के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Cyril Ramaphosa is one of the leaders of South Africa.</lex>
+      <lex comment="" lid="Id2" lang="hi">सिरिल रामाफोसा दक्षिण अफ्रीका के नेताओं में से एक हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of South Africa is called Cyril Ramaphosa.</lex>
+      <lex comment="" lid="Id3" lang="hi">दक्षिण अफ्रीका के नेता को सिरिल रामाफोसा कहा जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Africa | leader | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>South_Africa | leaderName | Jacob_Zuma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Africa | leader | Jacob_Zuma</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">South Africa's leader is called Jacob Zuma.</lex>
+      <lex comment="" lid="Id1" lang="hi">दक्षिण अफ्रीका के नेता को जैकब जुमा कहा जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of South Africa is Jacob Zuma.</lex>
+      <lex comment="" lid="Id2" lang="hi">दक्षिण अफ्रीका के नेता जैकब जुमा हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Jacob Zuma is a leader in South Africa.</lex>
+      <lex comment="" lid="Id3" lang="hi">जैकब जुमा दक्षिण अफ्रीका के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The capital of Sri Lanka is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="" lid="Id1" lang="hi">श्रीलंका की राजधानी श्री जयवर्धनेपुरा कोट्टे है।</lex>
+      <lex comment="" lid="Id2" lang="en">Sri Jayawardenepura Kotte is the capital of Sri Lanka.</lex>
+      <lex comment="" lid="Id2" lang="hi">श्री जयवर्धनेपुरा कोट्टे श्रीलंका की राजधानी है।</lex>
+    </entry>
+    <entry category="Building" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sri_Lanka | currency | Sri_Lankan_rupee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | currency | Sri_Lankan_rupee</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ski Lanka's currency is the Ski Lankan rupee.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्की लंका की मुद्रा स्की लंका रुपया है।</lex>
+      <lex comment="" lid="Id2" lang="en">The currency of Sri Lanka is the Sri Lankan rupee.</lex>
+      <lex comment="" lid="Id2" lang="hi">श्रीलंका की मुद्रा श्रीलंकाई रुपया है।</lex>
+    </entry>
+    <entry category="Building" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The language of Sri Lanka is the Tamil language.</lex>
+      <lex comment="" lid="Id1" lang="hi">श्रीलंका की भाषा तमिल है।</lex>
+    </entry>
+    <entry category="Building" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sri_Lanka | leader | Ranil_Wickremesinghe</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sri_Lanka | leaderName | Ranil_Wickremesinghe</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sri_Lanka | leader | Ranil_Wickremesinghe</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ranil Wickremesinghe is a leader of Sri Lanka.</lex>
+      <lex comment="" lid="Id1" lang="hi">रानिल विक्रमसिंघे श्रीलंका के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Sri Lanka's leader is called Ranil Wickremesinghe.</lex>
+      <lex comment="" lid="Id2" lang="hi">श्रीलंका के नेता को रानिल विक्रमसिंघे कहा जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Sri Lanka is Ranil Wickremesinghe.</lex>
+      <lex comment="" lid="Id3" lang="hi">श्रीलंका के नेता रानिल विक्रमसिंघे हैं।</lex>
+    </entry>
+    <entry category="Building" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_Kingdom | currency | Pound_sterling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United Kingdom's currency is Pound sterling.</lex>
+      <lex comment="" lid="Id1" lang="hi">यूनाइटेड किंगडम की मुद्रा पाउंड स्टर्लिंग है।</lex>
+      <lex comment="" lid="Id2" lang="en">The currency of the United Kingdom is the Pound sterling.</lex>
+      <lex comment="" lid="Id2" lang="hi">यूनाइटेड किंगडम की मुद्रा पाउंड स्टर्लिंग है।</lex>
+    </entry>
+    <entry category="Building" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_Kingdom | demonym | British_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | demonym | British_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The demonym for natives of the United kingdom is British people.</lex>
+      <lex comment="" lid="Id1" lang="hi">यूनाइटेड किंगडम के मूल निवासियों के लिए राक्षस ब्रिटिश लोग हैं।</lex>
+    </entry>
+    <entry category="Building" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Washington DC is the capital of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">वाशिंगटन डीसी अमेरिका की राजधानी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of the United States is Washington D.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिका की राजधानी वाशिंगटन डी. सी. है।</lex>
+      <lex comment="" lid="Id3" lang="en">Washington D.C. is the capital of the USA.</lex>
+      <lex comment="" lid="Id3" lang="hi">वाशिंगटन डीसी अमेरिका की राजधानी है।</lex>
+    </entry>
+    <entry category="Building" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the ethnic groups of the United States are the African Americans.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका के जातीय समूहों में से एक अफ्रीकी अमेरिकी हैं।</lex>
+    </entry>
+    <entry category="Building" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">An ethnic group of the United States is Asian Americans.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका का एक जातीय समूह एशियाई अमेरिकी हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Asian Americans are an ethnic group in the U.S.</lex>
+      <lex comment="" lid="Id2" lang="hi">एशियाई अमेरिकी संयुक्त राज्य अमेरिका में एक जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">There is an ethnic group of Asians in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">संयुक्त राज्य अमेरिका में एशियाई लोगों का एक जातीय समूह है।</lex>
+    </entry>
+    <entry category="Building" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One United States ethnic group is White Americans.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका का एक जातीय समूह श्वेत अमेरिकी है।</lex>
+    </entry>
+    <entry category="Building" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">English is the language of the U.S..</lex>
+      <lex comment="" lid="Id1" lang="hi">अंग्रेजी अमेरिका की भाषा है।</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">अंग्रेजी संयुक्त राज्य अमेरिका की भाषा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The English language is the language of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">अंग्रेजी भाषा संयुक्त राज्य अमेरिका की भाषा है।</lex>
+    </entry>
+    <entry category="Building" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the United States was Barack Obama.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरिका के नेता बराक ओबामा थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Barack Obama is the leader of the U.S.</lex>
+      <lex comment="" lid="Id2" lang="hi">बराक ओबामा अमेरिका के राष्ट्रपति हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Barack Obama is the leader of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">बराक ओबामा अमेरिका के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joe Biden is a leader of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">जो बाइडेन अमेरिका के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of the United States is Joe Biden.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिका के राष्ट्रपति जो बाइडेन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Joe Biden is a leader of the U.S.</lex>
+      <lex comment="" lid="Id3" lang="hi">जो बाइडेन अमेरिका के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | leader | John_Roberts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United States of America`s Chief Justice is John Roberts.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका के मुख्य न्यायाधीश जॉन रॉबर्ट्स हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">John Roberts is a leader in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">जॉन रॉबर्ट्स संयुक्त राज्य अमेरिका के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the United States is known as the President of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">संयुक्त राज्य अमेरिका के नेता को संयुक्त राज्य अमेरिका के राष्ट्रपति के रूप में जाना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The title of the leader of the United States is President of the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका के नेता का शीर्षक संयुक्त राज्य अमेरिका का राष्ट्रपति है।</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of the United States has the title President of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">संयुक्त राज्य अमेरिका के नेता को संयुक्त राज्य अमेरिका का राष्ट्रपति पद दिया जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Virginia | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Virginia | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Virginia is in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">वर्जीनिया संयुक्त राज्य अमेरिका में है।</lex>
+    </entry>
+  </entries>
+</benchmark>

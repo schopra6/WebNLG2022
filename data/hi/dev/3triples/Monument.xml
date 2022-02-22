@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Turkey, where the leader is Ahmet Davutoglu, is the location of the bronze Ataturk monument in Izmir.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की, जहां नेता अहमद दावुतोग्लू हैं, इज़मीर में कांस्य अतातुर्क स्मारक का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">The bronze Atatürk Monument (İzmir) is found in Turkey, where the leader is Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id2" lang="hi">कांस्य अटातसाइरक स्मारक (Calmezmir) तुर्की में पाया जाता है, जहां नेता अहमद दावुतोग्लू हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The bronze Atatürk momument is in Turkey, where the leader is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id3" lang="hi">कांस्य अटातसाल्युक स्मारक तुर्की में है, जहां नेता अहमत दावुतो प्रोग्लू हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">The Atatürk Monument made of bronze is located in İzmir, Turkey, whose leader is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id4" lang="hi">कांस्य से बना अट्टात परशुराम स्मारक तुर्की के सीमिमिर में स्थित है, जिसके नेता अहमत दावुतोल्युलू हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Ataturk Monument (Izmir) is located in Turkey, where the leader is Ahmet Davutoglu and the currency is the Turkish Lira.</lex>
+      <lex comment="" lid="Id1" lang="hi">अतातुर्क स्मारक (इजमिर) तुर्की में स्थित है, जहां नेता अहमद दावुतोग्लू हैं और मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument is located in İzmir, Turkey, where the leader is Ahmet Davutoğlu and the currency is the lira.</lex>
+      <lex comment="" lid="Id2" lang="hi">अतातपरशुरूक स्मारक तुर्की के पनजमीर में स्थित है, जहां नेता अहमद दावुतोल्युलू है और मुद्रा लीरा है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Turkey, where the official title of the leader is President, is the location of the Ataturk Monument. The monument was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की, जहां नेता का आधिकारिक शीर्षक राष्ट्रपति है, अतातुर्क स्मारक का स्थान है। इस स्मारक का उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument (İzmir) was inaugurated on July 27th, 1932 and can be found in Turkey, where the title of the leader is President of Turkey.</lex>
+      <lex comment="" lid="Id2" lang="hi">अतातव्युर्के स्मारक का उद्घाटन 27 जुलाई, 1932 को किया गया था और यह तुर्की में पाया जा सकता है, जहां नेता का शीर्षक तुर्की के राष्ट्रपति है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Atatürk Monument, located in Izmir, Turkey (led by the President of Turkey), was inaugurated on the 27th of July, 1932.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की के इजमिर (तुर्की के राष्ट्रपति के नेतृत्व में) में स्थित अतात पंगेजर स्मारक का उद्घाटन 27 जुलाई, 1932 को किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="4" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ahmet Davutoglu is the President of Turkey. The Ataturk Monument (Izmir) is located in Turkey.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमत दावुतोग्लू तुर्की के राष्ट्रपति हैं। अतातुर्क स्मारक (इजमिर) तुर्की में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ahmet Davutoglu is the leader of Turkey, officially known as the President of Turkey. This country is where the Ataturk monument (Izmir) can be located.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमत दावुतोग्लू तुर्की के नेता हैं, जिन्हें आधिकारिक तौर पर तुर्की के राष्ट्रपति के रूप में जाना जाता है। इस देश में अतातुर्क स्मारक (इज़मीर) स्थित हो सकता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Atatürk Monument is in Turkey, where Ahmet Davutoglu is the leader and holds the title of President of Turkey.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की में स्थित अतातपरस्तिक स्मारक, जहां अहमद दावुतोग्लू नेता हैं और तुर्की के राष्ट्रपति पद पर आसीन हैं।</lex>
+    </entry>
+  </entries>
+</benchmark>

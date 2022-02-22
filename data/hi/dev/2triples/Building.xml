@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | &quot;1904&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths, built in 1904, is located in Manhattan.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसर लेवी पब्लिक बाथ, जिसका निर्माण 1904 में किया गया था, मैनहटन में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths in Manhattan were constructed in 1904.</lex>
+      <lex comment="" lid="Id2" lang="hi">मैनहट्टन में एसर लेवी सार्वजनिक स्नान का निर्माण 1904 में किया गया था।</lex>
+    </entry>
+    <entry category="Building" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located in Manhattan, which is a part of New York.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसर लेवी पब्लिक बाथ मैनहट्टन में स्थित है, जो न्यूयॉर्क का एक हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are in Manhattan, New York.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसेर लेवी पब्लिक बाथ न्यूयॉर्क के मैनहटन में हैं।</lex>
+    </entry>
+    <entry category="Building" eid="3" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | leader | Cyrus_Vance,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is the leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसर लेवी पब्लिक बाथ मैनहट्टन में स्थित है, जहां साइरस वेंस जूनियर इसका नेतृत्व कर रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is one of the leaders.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसर लेवी पब्लिक बाथ मैनहट्टन में स्थित है, जहां साइरस वेंस जूनियर अग्रणी लोगों में से एक हैं।</lex>
+    </entry>
+    <entry category="Building" eid="4" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | leader | Gale_Brewer</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="hi">गेल ब्रेवर मैनहट्टन का नेता है, जो एसर लेवी पब्लिक बाथ का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.</lex>
+      <lex comment="" lid="Id2" lang="hi">गेल ब्रेवर मैनहट्टन का नेता है, जहां एसेर लेवी पब्लिक बाथ पाया जा सकता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Asser Levy Public Baths is located in Manhattan whose leader is Gale Brewer.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसर लेवी पब्लिक बाथ मैनहट्टन में स्थित है, जिसका नेता गेल ब्रेवर है।</lex>
+    </entry>
+    <entry category="Building" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | &quot;1904&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asser Levy Public Baths which was built in 1904 is located in New York City.</lex>
+      <lex comment="" lid="Id1" lang="hi">1904 में निर्मित एसर लेवी सार्वजनिक स्नान न्यूयॉर्क शहर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths (constructed in 1904) are located in New York City.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसर लेवी सार्वजनिक स्नान (1904 में निर्मित) न्यूयॉर्क शहर में स्थित हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The location of Asser Levy Public Baths, built in 1904, is New York City.</lex>
+      <lex comment="" lid="Id3" lang="hi">1904 में निर्मित एसर लेवी सार्वजनिक स्नान का स्थान न्यूयॉर्क शहर है।</lex>
+    </entry>
+    <entry category="Building" eid="6" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths are located in New York City which Manhattan is a part of.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसर लेवी सार्वजनिक स्नान न्यूयॉर्क शहर में स्थित हैं, जिसका मैनहट्टन एक हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths are in New York City which is part of Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसेर लेवी पब्लिक बाथ न्यूयॉर्क शहर में हैं जो मैनहट्टन का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths are in New York City of which New Netherland is a part.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसर लेवी पब्लिक बाथ न्यूयॉर्क शहर में हैं, जिसमें न्यू नीदरलैंड भी शामिल है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are located in New York City, which is part of New Netherland.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसर लेवी पब्लिक बाथ न्यूयॉर्क शहर में स्थित हैं, जो न्यू नीदरलैंड का हिस्सा है।</lex>
+    </entry>
+    <entry category="Building" eid="8" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">New York City, part of New York, has the Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="hi">न्यूयॉर्क शहर, न्यूयॉर्क का हिस्सा है, जहां एसेर लेवी सार्वजनिक स्नान है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are located in New York City, which is part of New York.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसर लेवी सार्वजनिक स्नान न्यूयॉर्क शहर में स्थित हैं, जो न्यूयॉर्क का हिस्सा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The location of Asser Levy Public Baths are New York City, New York State.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसर लेवी सार्वजनिक स्नान का स्थान न्यूयॉर्क शहर, न्यूयॉर्क राज्य है।</lex>
+    </entry>
+    <entry category="Building" eid="9" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">3Arena is located in Dublin, in the Republic of Ireland.</lex>
+      <lex comment="" lid="Id1" lang="hi">3 एरिना आयरलैंड गणराज्य के डबलिन में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">3Arena is located in Dublin, Republic of Ireland.</lex>
+      <lex comment="" lid="Id2" lang="hi">3 एरिना डबलिन, आयरलैंड गणराज्य में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="10" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in the country of Ethiopia which is led by Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया देश में स्थित है जिसका नेतृत्व हैलेमरियम देसालेन द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">हैलेमारियम देसालेन इथियोपिया के नेता हैं, जहां अदीस अबाबा सिटी हॉल स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Ethipoia is Hailemarian Desalegn and Addis Ababa City Hall is also located in Ethiopia.</lex>
+      <lex comment="" lid="Id3" lang="hi">इथियोपिया के नेता हेलेमेरियन देसालेन हैं और अदीस अबाबा सिटी हॉल भी इथियोपिया में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="11" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.</lex>
+      <lex comment="" lid="Id1" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया में स्थित है, जिसका नेता मलातू टेशोम है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Ethiopia is Malatu Teshome and The Addis Ababa City Hall is located in Ethiopia.</lex>
+      <lex comment="" lid="Id2" lang="hi">इथियोपिया के नेता मलातू टेशोम हैं और अदीस अबाबा सिटी हॉल इथियोपिया में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया में है, जहां मुलातु टेशोम अपने नेताओं में से एक है।</lex>
+    </entry>
+    <entry category="Building" eid="12" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The demonym for people living in India, where Amdavad ni Gufa is located, is Indian.</lex>
+      <lex comment="" lid="Id1" lang="hi">भारत में रहने वाले लोगों के लिए राक्षस भारतीय है, जहां पर ‘अंदवाद नी गुफा’ स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in India and the demonym for people living in India is Indian.</lex>
+      <lex comment="" lid="Id2" lang="hi">भारत में स्थित है और भारत में रहने वाले लोगों के लिए राक्षस भारतीय है।</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in India, which is populated by Indian People.</lex>
+      <lex comment="" lid="Id3" lang="hi">अंदवाद नी गुफा भारत में स्थित है, जहां भारतीय लोग रहते हैं।</lex>
+    </entry>
+    <entry category="Building" eid="13" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur is the leader of India; also the location of Amdavad ni Gufa.</lex>
+      <lex comment="" lid="Id1" lang="hi">टी. एस. ठाकुर ‘इंडिया सेल’ के नेता हैं साथ ही अहमदाबाद नी गुफा का भी स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="14" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="hi">मैरियट इंटरनेशनल, जिसे वाशिंगटन, डी. सी. में स्थापित किया गया था, एसी होटल बेला स्काई कोपेनहेगन का किरायेदार है।</lex>
+      <lex comment="" lid="Id2" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which was founded in Washington, D.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसी होटल बेला स्काई कोपेनहेगन का किरायेदार मैरियट इंटरनेशनल होटल है जिसे वाशिंगटन, डी. सी. में स्थापित किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Marriott International is a tenant of AC Hotel Bella Sky Copenhagen and was founded in Washington, D.C.</lex>
+      <lex comment="" lid="Id3" lang="hi">मैरियट इंटरनेशनल एसी होटल बेला स्काई कोपेनहेगन का किरायेदार है और इसकी स्थापना वाशिंगटन डीसी में हुई थी।</lex>
+    </entry>
+    <entry category="Building" eid="15" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethseda, Maryland.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसी होटल बेला स्काई कोपेनहेगन का किरायेदार मैरियट इंटरनेशनल होटल है जिसका मुख्यालय बेथसेडा, मैरीलैंड में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसी होटल बेला स्काई कोपेनहेगन का किरायेदार मैरियट इंटरनेशनल है, जो कि बेथेस्दा, मैरीलैंड में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसी होटल बेला स्काई कोपेनहेगन का किरायेदार मैरियट इंटरनेशनल होटल है जिसका कार्यालय बेथेस्दा मैरीलैंड में है।</lex>
+    </entry>
+    <entry category="Building" eid="16" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.</lex>
+      <lex comment="" lid="Id1" lang="hi">मेसन स्कूल ऑफ बिजनेस संयुक्त राज्य अमेरिका में स्थित है और एलन बी मिलर हॉल के वर्तमान किरायेदार हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">मेसन स्कूल ऑफ बिजनेस संयुक्त राज्य अमेरिका में एलन बी मिलर हॉल का किरायेदार है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Mason School of Business is located in Alan B Miller Hall in the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">मेसन स्कूल ऑफ बिजनेस संयुक्त राज्य अमेरिका के एलन बी मिलर हॉल में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="17" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, in which English is the main language.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसमें अंग्रेजी मुख्य भाषा है।</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language of the United States, where 250 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">अंग्रेजी संयुक्त राज्य अमेरिका की भाषा है, जहां 250 डेलावेयर एवेन्यू स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States where they speak the English language.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जहां वे अंग्रेजी भाषा बोलते हैं।</lex>
+    </entry>
+    <entry category="Building" eid="18" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, which is led by Joe Biden.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसका नेतृत्व जो बाइडेन कर रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="hi">जो बाइडेन संयुक्त राज्य अमेरिका के नेता हैं, जो 250 डेलावेयर एवेन्यू का भी स्थान है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is in the United States where Joe Biden is a leader.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में है जहां जो बाइडेन एक नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="19" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A leader of the United States, which is home to 250 Delaware Avenue, is John Roberts.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू वाले संयुक्त राज्य अमेरिका के नेता जॉन रॉबर्ट्स हैं।</lex>
+    </entry>
+    <entry category="Building" eid="20" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States which is led by Paul Ryan.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जिसका नेतृत्व पॉल रयान द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States whose leader is Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जिसका नेता पॉल रयान है।</lex>
+    </entry>
+    <entry category="Building" eid="21" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the USA and it's leader is the President.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू अमेरिका में स्थित है और इसका नेता राष्ट्रपति है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States whose leader has the title of President.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जिसके नेता को राष्ट्रपति की उपाधि दी जाती है।</lex>
+    </entry>
+  </entries>
+</benchmark>

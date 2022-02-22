@@ -1,0 +1,329 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | formerName | &quot;1928 SJ&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | formerName | &quot;1928 SJ&quot;@en</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | formerName | &quot;1928 SJ&quot;</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The epoch of 1101 Clematis is on the 31st of July 2016 and its former name was &quot;1928 SJ&quot;.</lex>
+      <lex comment="" lid="Id1" lang="hi">1101 क्लेमेटिस का युग 31 जुलाई, 2016 को है और इसका पूर्व नाम 1928 एसजे था।</lex>
+      <lex comment="" lid="Id2" lang="en">The epoch of 1101 Clematis-formerly known as &quot;1928 SJ&quot; is 31 December 2006.</lex>
+      <lex comment="" lid="Id2" lang="hi">1101 क्लेमेटिस-पूर्व में 1928 एसजे के रूप में जाना जाता था-का युग 31 दिसंबर 2006 है।</lex>
+      <lex comment="" lid="Id3" lang="en">1928 SJ was the former name of 1101 Clematis, which has an epoch date of December 31st 2006.</lex>
+      <lex comment="" lid="Id3" lang="hi">1928 एसजे 1101 क्लेमेटिस का पूर्व नाम था, जिसकी युग तिथि 31 दिसंबर, 2006 है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="2" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | Planet/mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis has a mass of 5.7 kilograms and an apoapsis of 520906000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="hi">1101 क्लेमेटिस का वजन 5.7 किलोग्राम है और यह 520906000.0 किलोमीटर का है।</lex>
+      <lex comment="" lid="Id2" lang="en">At a mass of 5.7 kgs, 1101 Clematis, has an apoapsis of 520906000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="hi">7 किलोग्राम वजन वाले 1101 क्लेमेटिस के पास 520906000.0 किलोमीटर का अपोप्सिस है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis, has an orbital period of 183309000.0, and an epoch date of December 31st 2006.</lex>
+      <lex comment="" lid="Id1" lang="hi">1101 क्लेमेटिस के पास 183309000.0 की कक्षीय अवधि है, और 31 दिसंबर 2006 की एक युग तिथि है।</lex>
+      <lex comment="" lid="Id2" lang="en">The epoch of 1101 Clematis is 31 December 2006 and it has an orbital period of 183309000.0.</lex>
+      <lex comment="" lid="Id2" lang="hi">1101 क्लेमेटिस का युग 31 दिसंबर 2006 है और इसकी कक्षीय अवधि 183309000.0 है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="4" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/averageSpeed | &quot;17.99&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | avgSpeed | &quot;17.99&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>110_Lydia | averageSpeed | &quot;64764.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+        <mtriple>110_Lydia | averageSpeed | 17.99 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has an apoapsis of 440756000.0 kilometres and travels at an average speed of 17.99 kmps.</lex>
+      <lex comment="" lid="Id1" lang="hi">110 लिडिया में 440756000.0 किलोमीटर की अपोप्सिस है और यह 17.99 किलोमीटर प्रति घंटे की औसत गति से यात्रा करती है।</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia travels at an average speed of 17.99 kmps and has an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="hi">110 लिडिया 17.99 किमी प्रति घंटा की औसत गति से यात्रा करती है और इसका अपॉप्सिस 440756000.0 (किलोमीटर) है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | temperature | &quot;168.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>110_Lydia | Planet/temperature | &quot;168.0&quot;^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+        <mtriple>110_Lydia | temperature | 168.0 (kelvins)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia, with a temperature of 168.0 kelvins, has an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id1" lang="hi">110 लिडिया, 168.0 केल्विन के तापमान के साथ, 440756000.0 (किलोमीटर) का अपोएप्सिस है।</lex>
+      <lex comment="" lid="Id2" lang="en">The asteroid 110 Lydia, has a temperature of 168.0 kelvins, and an apoapsis of 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="hi">क्षुद्रग्रह 110 लिडिया का तापमान 168.0 केल्विन और 440756000.0 किलोमीटर है।</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia has a temperature of 168 kelvins and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id3" lang="hi">110 लिडिया का तापमान 168 केल्विन है और इसका एपोएप्सिस 440756000.0 किलोमीटर है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="6" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has an escape velocity of 0.0455 km per second and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="hi">110 लिडिया में 0.0455 किमी प्रति सेकेंड का पलायन वेग और 440756000.0 किमी का अपोप्सिस है।</lex>
+      <lex comment="" lid="Id2" lang="en">The apoapsis for 110 Lydia is 440756000.0 (kilometres) and has an escape velocity of 0.0455 kilometres per second.</lex>
+      <lex comment="" lid="Id2" lang="hi">110 लिडिया के लिए अपोप्सिस 440756000.0 (किलोमीटर) है और इसका बचाव वेग 0.0455 किलोमीटर प्रति सेकंड है।</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia, with an escape velocity of 0.0455 km/s, has an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id3" lang="hi">110 लिडिया, 0.0455 किमी/से के एक बचाव वेग के साथ, 440756000.0 (किलोमीटर) का एक apopsis है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="7" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has a mass of 5.7kg and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="hi">110 लिडिया का वजन 5.7 किलोग्राम है और यह 440756000.0 किलोमीटर का है।</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia has a mass of 6.7 kilograms and an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="hi">110 लिडिया का द्रव्यमान 6.7 किलोग्राम है और यह 440756000.0 (किलोमीटर) है।</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia has a mass of 6.7 kg and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="" lid="Id3" lang="hi">110 लिडिया का भार 6.7 किलोग्राम है और यह 440756000.0 किलोमीटर का है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="8" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has a periapsis of 377016000000.0 and its epoch was on 31st December 2006.</lex>
+      <lex comment="" lid="Id1" lang="hi">110 लिडिया में 3770160000.0 का पेरिप्सिस है और इसका युग 31 दिसंबर 2006 को था।</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia has an epoch date of December 31st 2006 and its periapsis is 377016000000.0.</lex>
+      <lex comment="" lid="Id2" lang="hi">110 लिडिया के पास 31 दिसंबर 2006 की एक युग तिथि है और इसकी periapsis 3770160000.0 है।</lex>
+      <lex comment="" lid="Id3" lang="en">The periapsis of 110 Lydia is 377016000000.0 and the epoch date is 31.12.2006.</lex>
+      <lex comment="" lid="Id3" lang="hi">110 लिडिया की periapsis 3770160000.0 है और युग की तारीख 31.12.2006 है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="9" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | rotationPeriod | &quot;39332.9&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | rotationPeriod | 39332.9</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The apoapsis for 110 Lydia is 440756000.0 (kilometres), it has a rotation period of 39332.9.</lex>
+      <lex comment="" lid="Id1" lang="hi">110 लिडिया के लिए अपोप्सिस 440756000.0 (किलोमीटर) है, इसकी घूर्णन अवधि 39332.9 है।</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia has a rotational period of 39332.9 and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="hi">110 लिडिया की परिक्रमा अवधि 39332.9 किलोमीटर है और इसका अपोप्सिस 440756000.0 किलोमीटर है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="10" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | avgSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | averageSpeed | &quot;65844.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has an apoapsis of 475426000 km and an average speed of 18.29 km/s.</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लाउडियोमैकोन का अपॉप्सिस 475426000 किमी है और इसकी औसत गति 18.29 किमी/से. है।</lex>
+      <lex comment="" lid="Id2" lang="en">The asteroid, called 11264 Claudiomaccone, has an average speed of 18.29 kilometres per second, and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="hi">11264 क्लॉडियोमैकोन नामक क्षुद्रग्रह की औसत गति 18.29 किलोमीटर प्रति सेकेंड है और यह 475426000.0 किलोमीटर का एपोप्सिस है।</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres and an average speed of 18.29 kilometres per second.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन में 475426000.0 किलोमीटर की अपोप्सिस है और इसकी औसत गति 18.29 किलोमीटर प्रति सेकंड है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="11" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/temperature | &quot;173.0&quot;^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | temperature | &quot;173.0&quot;^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | singleTemperature | &quot;~173 K&quot;@en</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | temperature | 173.0 (kelvins)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has a temperature of 173.0 kelvins and its apoapsis is 475426000.0 kilometres.</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लॉडियोमैकोन का तापमान 173.0 केल्विन है और इसका एपोएप्सिस 475426000.0 किलोमीटर है।</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an apoapsis of 475426000 kilometres and a temperature of 173.0 (kelvins).</lex>
+      <lex comment="" lid="Id2" lang="hi">11264 क्लाउडियोमैकोन में 475426000 किलोमीटर का एपोप्सिस और 173.0 (केल्विन) का तापमान होता है।</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has a temperature of 173.0 kelvin and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन का तापमान 173.0 केल्विन और एपोप्सिस 475426000.0 किमी है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="12" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has an epoch date of 26th November 2005 and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की एक युग तारीख है और 475426000.0 किमी का एक अपोप्सिस है।</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005 and the apoapsis is 475426000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की एक युग तिथि है और एपोप्सिस 475426000.0 (किलोमीटर) है।</lex>
+      <lex comment="" lid="Id3" lang="en">The apoapsis for 11264 Claudiomaccone is 475426000.0 (kilometres), it has the epoch date of 26 November 2005.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन के लिए एपोप्सिस 475426000.0 (किलोमीटर) है, इसकी एपोच तारीख 26 नवंबर 2005 है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="13" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has the epoch date of 26 November 2005 and the orbital period is 1513.722 days.</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की युग तिथि है और कक्षीय अवधि 1513.722 दिन है।</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an epoch date of 26th November 2005 and an orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id2" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की एक युग तिथि और 1513.722 दिनों की कक्षीय अवधि है।</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005 and an orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की एक युग तिथि और 1513.722 दिनों की कक्षीय अवधि है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="14" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | rotationPeriod | &quot;11473.9&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | &quot;11473.9&quot;^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has the epoch date of 26 November 2005 and a rotation period of 11473.9.</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की युग तिथि और 11473.9 की घूर्णन अवधि है।</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005 and its rotation period is 11473.9.</lex>
+      <lex comment="" lid="Id2" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की एक युग तिथि है और इसकी घूर्णन अवधि 11473.9 है।</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005, and the rotaional period is 11473.9.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन के पास 26 नवंबर 2005 की एक युग तिथि है, और घूर्णी अवधि 11473.9 है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="15" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | &quot;1513.722&quot;^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone's orbital period is 1513.722 days, and an apoapsis of 475426000.0 (kilometres).</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लाउडियोमैकोन की कक्षीय अवधि 1513.722 दिन है और 475426000.0 (किलोमीटर) है।</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres and the orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id2" lang="hi">11264 क्लॉडियोमैकोन में 475426000.0 किलोमीटर का अपोप्सिस और 1513.722 दिनों की कक्षीय अवधि है।</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone, has an apoapsis of 475426000 kilometres, and an orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन में 475426000 किलोमीटर का अपोप्सिस और 1513.722 दिनों की कक्षीय अवधि है।</lex>
+    </entry>
+    <entry category="CelestialBody" eid="16" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | &quot;11473.9&quot;^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone, with a rotation period of 11473.9, has an apoapsis of 475426000 kilometres.</lex>
+      <lex comment="" lid="Id1" lang="hi">11264 क्लाउडियोमैकोन में 11473.9 किलोमीटर की घूर्णन अवधि के साथ 475426000 किलोमीटर की अपोप्सिस है।</lex>
+      <lex comment="" lid="Id2" lang="en">The celestial body, 11264 Claudiomaccone, has a rotation period of 11473.9 and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="hi">खगोलीय पिंड, 11264 क्लाउडियोमैकोन की घूर्णन अवधि 11473.9 किमी और अपॉप्सिस 475426000.0 किमी है।</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres and a rotation period of 11473.9.</lex>
+      <lex comment="" lid="Id3" lang="hi">11264 क्लाउडियोमैकोन में 475426000.0 किलोमीटर का अपोप्सिस और 11473.9 की रोटेशन अवधि है।</lex>
+    </entry>
+  </entries>
+</benchmark>

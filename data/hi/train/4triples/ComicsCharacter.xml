@@ -1,0 +1,731 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | alterEgo | &quot;Ahri'ahn&quot;@en</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | alterEgo | &quot;Ahri'ahn&quot;@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | &quot;Ahri'ahn&quot;</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Arion (also known as Ahri'ahn) is a comic character created by Paul Kupperberg and Jan Duursema, who won the Eisner award.</lex>
+      <lex comment="" lid="Id1" lang="hi">paul Kupperberg and Jan Duursema, who won the Eisner award. paul Kupperberg and Jan Duursema, who won the Eisner award.</lex>
+      <lex comment="" lid="Id2" lang="en">Paul Kupperberg and Eisner Award winning Jan Duursema are the creators of the comic book character Arion, also know as Ahri'ahn.</lex>
+      <lex comment="" lid="Id2" lang="hi">पॉल कुप्पर्बर्ग और इस्नर पुरस्कार विजेता जान डुर्सेमा हास्य पुस्तक चरित्र एरियन के रचनाकार हैं, जिन्हें अहरी 'आन के रूप में भी जाना जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The comic book character Arion (also known as Ahri'ahn), was created by Paul Kupperberg and Jan Duursema, the latter having won the Eisner Award.</lex>
+      <lex comment="" lid="Id3" lang="hi">हास्य पुस्तक चरित्र एरियन (अह्रियाहन के रूप में भी जाना जाता है), पॉल कुपर्बर्ग और जान डुर्सेमा द्वारा बनाया गया था, जो बाद में इस्नर पुरस्कार जीता था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | &quot;Aurakles&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | &quot;Aurakles&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | &quot;Aurakles&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book character Aurakles was created by Len Wein and the American Dick Dillin.</lex>
+      <lex comment="" lid="Id1" lang="hi">हास्य पुस्तक चरित्र औराकल्स की रचना लेओन वीन और डिक डिलिन ने की थी।</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book character Aurakles, with the alternative name Aurakles, was created by Dick Dillin (from the United States) and Len Wein.</lex>
+      <lex comment="" lid="Id2" lang="hi">हास्य पुस्तक चरित्र औराकल्स, वैकल्पिक नाम औराकल्स के साथ, डिक डिलिन (संयुक्त राज्य अमेरिका से) और लेन वेन द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The fictional character Aurakles, also known as ''Aurakles'' was created by Len Wein and Dick Dillin (American).</lex>
+      <lex comment="" lid="Id3" lang="hi">लेओन वीन और डिक डिलिन (अमेरिकी) द्वारा रचित औराकल्स नामक काल्पनिक चरित्र को औराकल्स के नाम से भी जाना जाता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | product | BBC_Radio</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The BBC, which is located in London, and where Rona Fairhead is a key person, once broadcast Bananaman and has a product called BBC radio.</lex>
+      <lex comment="" lid="Id1" lang="hi">लंडन स्थित बीबीसी, जहां रोना फेयरहेड एक प्रमुख व्यक्ति हैं, एक बार बनानमन प्रसारण करता था और बीबीसी रेडियो नामक एक उत्पाद रखता था।</lex>
+      <lex comment="" lid="Id2" lang="en">The BBC, located in London, with Rona Fairhead as a key person, broadcast the TV series Bananaman and produces BBC radio.</lex>
+      <lex comment="" lid="Id2" lang="hi">लंदन स्थित बीबीसी, रोना फेयरहेड के साथ एक प्रमुख व्यक्ति के रूप में, टीवी श्रृंखला बनानमन प्रसारित किया और बीबीसी रेडियो का निर्माण किया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | &quot;Balder Odinson&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | &quot;Balder Odinson&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Balder is a comic character created by Stan Lee and the American, Jack Kirby. His alternative name is Balder Odinson.</lex>
+      <lex comment="" lid="Id1" lang="hi">&quot;&quot; &quot;लेवल बाल्डर&quot; &quot;स्टैन ली और अमेरिकी जैक किर्बी द्वारा निर्मित एक हास्य चरित्र है।&quot; उनका दूसरा नाम बाल्डर ओडिनसन है।</lex>
+      <lex comment="" lid="Id2" lang="en">The comic character of Balder is also known as &quot;Balder Odinson&quot;. It was created by Stan Lee and the American, Jack Kirby.</lex>
+      <lex comment="" lid="Id2" lang="hi">बाल्डर के हास्य चरित्र को बाल्डर ओडिन्सन के नाम से भी जाना जाता है। इसे स्टैन ली और अमरीकी जैक किर्बी ने बनाया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The comic character, Balder has the alternative name of Balder Odinson . It was created by Stan Lee and the American, Jack Kirby.</lex>
+      <lex comment="" lid="Id3" lang="hi">हास्य चरित्र बाल्डर का दूसरा नाम बाल्डर ओडिन्सन है। इसे स्टैन ली और अमरीकी जैक किर्बी ने बनाया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="5" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | product | BBC_Radio</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John Reith, 1st Baron Reith founded the BBC who have their HQ at Broadcasting House. The BBC broadcast Bananaman and also produce BBC radio.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | जन रीथ, प्रथम बैरन रीथ ने BBC की स्थापना की जिसका मुख्यालय ब्रॉडकास्टिंग हाउस में है। &quot;&quot; &quot;BBC Bananaman&quot; &quot;, BBC Bananaman, BBC Banaman, BBC Radio, BBC Radio, BBC Banaman, BBC Banaman, BC Banaman, BC Banaman, BC Banaman Broadcast, BC Radio, BBC Radio, BC Banaman, BC Banaman, BC Banaman Banaman, BBC Banaman Banaman, BC Banaman Banaman Banaman, BBC Banaman Banaman Banaman Banaman Bank Banaman Banaman Bank Bank Banaman Bani</lex>
+      <lex comment="" lid="Id2" lang="en">The BBC, founded by John Reith, 1st Baron Reith, has its headquarters in Broadcasting House. The BBC produces BBC radio and broadcast the TV series Bananaman.</lex>
+      <lex comment="" lid="Id2" lang="hi">जन रीथ, फर्स्ट बैरन रीथ द्वारा स्थापित बीबीसी का मुख्यालय ब्रॉडकास्टिंग हाउस में है। &quot;&quot; &quot;BBC, BBC रेडियो का निर्माण करता है और TV श्रृंखला&quot; &quot;&quot; &quot;बनानमन&quot; &quot;&quot; &quot;प्रसारित करता है।&quot; &quot;&quot;</lex>
+      <lex comment="" lid="Id3" lang="en">The founder of the BBC was 1st Baron John Reith and it is located at Broadcasting House in London. The BBC broadcast Bananaman and also produce BBC radio.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | बिबिसि के संस्थापक 1st Baron John Reith लंदन के ब्रॉडकास्टिंग हाउस में स्थित है। &quot;&quot; &quot;BBC Bananaman&quot; &quot;, BBC Bananaman, BBC Banaman, BBC Radio, BBC Radio, BBC Banaman, BBC Banaman, BC Banaman, BC Banaman, BC Banaman Broadcast, BC Radio, BBC Radio, BC Banaman, BC Banaman, BC Banaman Banaman, BBC Banaman Banaman, BC Banaman Banaman Banaman, BBC Banaman Banaman Banaman Banaman Bank Banaman Banaman Bank Bank Banaman Bani</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="6" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | product | BBC_Radio</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | product | BBC_Radio</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1st Baron, John Reith was the founder of the BBC which is located in London and showed the TV series, Bananaman. Another product of the BBC is BBC radio.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | upright | upright | जन रीथ बीबीसी के संस्थापक लंडन में स्थित टीवी धारावाहिक बनानामन का प्रसारण करते थे। &quot;&quot; &quot;बीबीसी का एक अन्य उत्पाद&quot; &quot;&quot; &quot;बीबीसी रेडियो&quot; &quot;&quot; &quot;है।&quot; &quot;&quot;</lex>
+      <lex comment="" lid="Id2" lang="en">Bananaman is broadcast by the BBC, the organisation founded by John Reith, 1st Baron Reith. The BBC is based in London and also produces BBC radio.</lex>
+      <lex comment="" lid="Id2" lang="hi">bananaman broadcast by the BBC, the organisation founded by John Reith, first Baron Reith. thumb | left | upright | बीबीसी लंदन में स्थित है और बीबीसी रेडियो का निर्माण भी करता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="7" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | &quot;Steve Bright&quot;@en</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bill Oddie stars in Bananaman which was created by Steve Bright. It was first broadcast by the BBC on 3 October 1983.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टीव ब्राइट द्वारा सृजित फिल्म बनमानमें बिल ओडी के सितारे। इसे पहली बार बीबीसी ने 3 अक्टूबर 1983 को प्रसारित किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Bananaman, created by Steve Bright and starring Bill Oddie, was first broadcast by the BBC on the 3rd October 1983.</lex>
+      <lex comment="" lid="Id2" lang="hi">campaign bananaman, by Steve Bright and starring Bill Oddie, was first broadcast by the BBC on 3 October 1983. स्टीव ब्राइट द्वारा निर्मित और बिल ओडी अभिनीत, बीबीसी द्वारा पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="8" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | &quot;Steve Bright&quot;@en</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bananaman, which was first broadcast by the BBC on 3rd October 1983, was created by Steve Bright and starred Graeme Garden.</lex>
+      <lex comment="" lid="Id1" lang="hi">campaign bananaman, which is first broadcast by 3 October 1983, which was been broadcast by the BBC on 3 October 1983, was created by Steve Bright and starrated Graeme Garden.-Bengali Oneindia</lex>
+      <lex comment="" lid="Id2" lang="en">Steve Bright created Bananaman which was first aired by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex comment="" lid="Id2" lang="hi">bananaman by BBC on 3 October 1983 by Steve Bright created bananaman by BBC on 3 October 1983 and starring Graeme Garden. BBC by 3 October 1983 by Steve Bright created bananaman by BBC on 3 October 1983 by Steve Bright and starrated Greeme Garden. BBC by BBBC by 3 October 1983 by BBC and starrating Banananaman by BBBC and Starrattered bill.</lex>
+      <lex comment="" lid="Id3" lang="en">Bananaman was first aired on 3 October 1983 by the BBC. It was created by Steve Bright and starred Graeme Garden.</lex>
+      <lex comment="" lid="Id3" lang="hi">bananaman पहली बार बीबीसी द्वारा 3 अक्टूबर 1983 को प्रसारित किया गया था। इसे स्टीव ब्राइट और ग्रेम गार्डन ने बनाया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="9" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John Geering created the TV character Bananaman which was first broadcast by the BBC on 3 October 1983 and starred Jill Shilling.</lex>
+      <lex comment="" lid="Id1" lang="hi">bananaman by BBC on 3 October 1983 in the first broadcast of the TV character bananaman by John Geering and starring Jill Shilling in the first broadcast on 3 October 1983 इस टीवी character को BBC द्वारा पहली बार प्रसारित किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">John Geering created the fictional comic superhero of Bananaman which starred Jill Shilling. It was first aired by the BBC on 3 October 1983.</lex>
+      <lex comment="" lid="Id2" lang="hi">जॉन गीयरिंग ने जिल शिलिंग अभिनीत 'बनानामन' के काल्पनिक हास्य सुपरहीरो का निर्माण किया। इसे पहली बार बीबीसी ने 3 अक्टूबर 1983 को प्रसारित किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="10" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | &quot;Steve Bright&quot;@en</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bananaman was first broadcast by the BBC on 3 October 1983. It was created by Steve Bright and starred Jill Shilling.</lex>
+      <lex comment="" lid="Id1" lang="hi">campaign Bananaman 3 अक्टूबर 1983 को बीबीसी द्वारा पहली बार प्रसारित किया गया था। thumb | left | 200px | upright | स्टीव ब्राइट द्वारा निर्मित और जिल शिलिंग द्वारा अभिनीत</lex>
+      <lex comment="" lid="Id2" lang="en">Bananaman, starring Jill Shilling, created by Steve Bright. first aired on the BBC on 3/10/1983.</lex>
+      <lex comment="" lid="Id2" lang="hi">जिल शिलिंग अभिनीत, स्टीव ब्राइट द्वारा निर्मित. बीबीसी पर पहली बार 3/10/1983 को प्रसारित की गई।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="11" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lancashire born Bill Oddie was the star of Bananaman, broadcasted by the BBC out of the broadcasting house in London.</lex>
+      <lex comment="" lid="Id1" lang="hi">लंकाशायर में जन्मे बिल ओडी बनानामन के स्टार थे, जिसे बीबीसी द्वारा लंदन के ब्रॉडकास्टिंग हाउस से प्रसारित किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="12" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lancashire born Bill Oddie starred in Bananaman. It was broadcast by the BBC located in London.</lex>
+      <lex comment="" lid="Id1" lang="hi">लंकाशायर में जन्मे बिल ओडी ने बनानामन में अभिनय किया। लंदन स्थित बीबीसी ने इसे प्रसारित किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Bananaman, that starred Lancashire born Bill Oddie, is broadcast by the BBC which is located in London.</lex>
+      <lex comment="" lid="Id2" lang="hi">campus bananaman, that starred Lankashire born Bill Oddie, is broadcast by the BBC that is broadcast by the London.-Bengali Oneindia</lex>
+      <lex comment="" lid="Id3" lang="en">Lancashire born Bill Oddie starred in the TV series Bananaman. It was shown by the BBC who are located in London.</lex>
+      <lex comment="" lid="Id3" lang="hi">लंकाशायर में जन्मे बिल ओडी ने टीवी श्रृंखला बनानामन में अभिनय किया। thumb | left | upright | 200px | लंडन स्थित बीबीसी द्वारा दिखाया गया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="13" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rochdale born Bill Oddie starred in the TV series Bananaman. This show was broadcast by the BBC, which has its headquarters in Broadcasting House.</lex>
+      <lex comment="" lid="Id1" lang="hi">रॉचडेल का जन्म बिल ओडी के रूप में हुआ, जो टीवी धारावाहिक ‘बनमन’ में अभिनय किया था। इस कार्यक्रम को बीबीसी द्वारा प्रसारित किया गया था, जिसका मुख्यालय ब्रॉडकास्टिंग हाउस में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The BBC broadcast Bananaman, which starred Rochdale born Bill Oddie. The BBC headquarters is called Broadcasting House.</lex>
+      <lex comment="" lid="Id2" lang="hi">&quot;&quot; &quot;BBC Bananaman broadcast, which rochdale born Bill Oddie.&quot; बीबीसी मुख्यालय को ब्रॉडकास्टिंग हाउस कहा जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Rochdale born Bill Oddie starred in Bananaman which was a TV series shown on the BBC, based at Broadcasting House in London.</lex>
+      <lex comment="" lid="Id3" lang="hi">rochdale born Bill Oddie starring in Bananaman was a TV series show on BBC, broadcasting House in London, london. रोचडेले के जन्म पर, Bill Oddie starring in Bananaman, which was a TV series show on the BBC, broadcasting House in London.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="14" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bananaman the TV series was shown on the BBC (London) and starred Bill Oddie, who was born in Rochdale.</lex>
+      <lex comment="" lid="Id1" lang="hi">campaign. campaign. bananaman) बीबीसी (लंदन) पर दिखाई गई थी और रोचडेल में जन्मे बिल ओडी ने अभिनय किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The BBC, which is located in London, showed the TV series Bananaman. It starred Bill Oddie who was born in Rochdale.</lex>
+      <lex comment="" lid="Id2" lang="hi">&quot;BBC, जो कि लंदन में स्थित है, ने&quot; &quot;बनानमन&quot; &quot;नामक टीवी श्रृंखला दिखाई।&quot; इस फिल्म में बिल ओडी ने अभिनय किया था जो रोचडेल में पैदा हुए थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Bananaman is a tv series which starred Rochdale born Bill Oddie. The series was shown on the BBC which is located in the city of London.</lex>
+      <lex comment="" lid="Id3" lang="hi">commission bananaman is a tv series which Rochdale born Bill Oddie रोचडेल के जन्म के समय बिल ओडी थे। &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="15" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Graeme_Garden | birthPlace | Aberdeen</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Graeme_Garden | birthPlace | Aberdeen</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Aberdeen born Graeme Garden starred in Bananaman, which was broadcast by the BBC, whose headquarters are called Broadcasting House.</lex>
+      <lex comment="" lid="Id1" lang="hi">एबरडीन के जन्म का नाम ग्रीम गार्डन (Bananaman) बीबीसी (BBC) द्वारा प्रसारित किया गया जिसका मुख्यालय ब्रॉडकास्टिंग हाउस (Broadcasting House) है।</lex>
+      <lex comment="" lid="Id2" lang="en">Aberdeen born Graeme Garden starred in the tv series &quot; Bananaman &quot; . The series was shown on the BBC which is based in the broadcasting house in London.</lex>
+      <lex comment="" lid="Id2" lang="hi">एबरडीन का जन्म ग्रेम गार्डन में हुआ था। &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;&quot; &quot;</lex>
+      <lex comment="" lid="Id3" lang="en">The BBC, based in Broadcasting House, London, showed the TV series Bananaman. This show starred Aberdeen born Graeme Garden.</lex>
+      <lex comment="" lid="Id3" lang="hi">बीबीसी, ब्रॉडकास्टिंग हाउस, लंदन में स्थित, टीवी श्रृंखला बनानमन को दिखाया। thumb | left | upright | एबरडीन के जन्म का नाम ग्रीम गार्डन</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="16" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | John_Geering</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | John_Geering</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tim Brooke-Taylor starred in Bananaman which was created by John Geering. It was first broadcast by the BBC on 3 October 1983.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | जॉन गीयरिंग द्वारा निर्मित बनानामन में टिम ब्रुक-टेलर ने अभिनय किया। इसे पहली बार बीबीसी ने 3 अक्टूबर 1983 को प्रसारित किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Bananaman was first aired on 10/03/1983 and was broadcast by the BBC. Tim Brooke-Taylor starred in the show, which was created by John Geering.</lex>
+      <lex comment="" lid="Id2" lang="hi">bananaman पहली बार 10/03/1983 को प्रसारित किया गया था और बीबीसी द्वारा प्रसारित किया गया था। जॉन गीयरिंग द्वारा सृजित इस शो में टिम ब्रुक-टेलर ने अभिनय किया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The fictional comic superhero Bananaman was created by John Geering and starred Tim Brooke-taylor. It was first broadcast on 3 October 1983 by the BBC.</lex>
+      <lex comment="" lid="Id3" lang="hi">काल्पनिक हास्य सुपरहीरो 'बनानामन' जॉन गीयरिंग द्वारा निर्मित और टिम ब्रुक-टेलर द्वारा अभिनीत है। यह पहली बार बीबीसी द्वारा 3 अक्टूबर 1983 को प्रसारित किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="17" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | Steve_Bright</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | creator | &quot;Steve Bright&quot;@en</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | creator | Steve_Bright</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bananaman was created by Steve Bright and starred Tim Brooke-Taylor. It was first aired on 3 October 1983, being broadcast by the BBC.</lex>
+      <lex comment="" lid="Id1" lang="hi">bananaman created by Steve Bright and starring Tim Brooke-Taylor इस फिल्म का निर्माण स्टीव ब्राइट ने किया था। इसे पहली बार बीबीसी द्वारा 3 अक्टूबर 1983 को प्रसारित किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Bananaman (created by Steve Bright ) was first broadcasted by the BBC on the 10/03/1983, and starred Tim Brooke-Taylor.</lex>
+      <lex comment="" lid="Id2" lang="hi">10/03/1983 को बीबीसी द्वारा पहली बार प्रसारित किया गया था, और टिम ब्रुक-टेलर ने अभिनय किया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Tim Brooke Taylor starred in Bananaman which was created by Steve Bright. It was broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex comment="" lid="Id3" lang="hi">टिम ब्रुक टेलर ने स्टीव ब्राइट द्वारा निर्मित ‘बनानम’ में अभिनय किया। इसे बीबीसी ने पहली बार 3 अक्टूबर 1983 को प्रसारित किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="18" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The character Baymax first appeared in the film Big Hero 6 and is voiced by Scott Adsit. It was created by Duncan Rouleau and Steve T Seagle.</lex>
+      <lex comment="" lid="Id1" lang="hi">&quot;&quot; &quot;बेमैक्स&quot; &quot;चरित्र पहली बार&quot; &quot;बिग हीरो 6&quot; &quot;फिल्म में दिखाई दिया और स्कॉट एडसिट द्वारा आवाज दी गई।&quot; डंकन रूलो और स्टीव टी सीगल ने इसे बनाया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Duncan Rouleau and Steven T Seagle created the character of Baymax who first appeared in the film Big Hero 6 and is voiced by Scott Adsit.</lex>
+      <lex comment="" lid="Id2" lang="hi">डंकन रूलौ और स्टीवन टी. सीगल ने बेमैक्स के चरित्र का निर्माण किया, जो पहली बार बिग हीरो 6 फिल्म में दिखाई दिए और स्कॉट एडसिट द्वारा आवाज दी गई।</lex>
+      <lex comment="" lid="Id3" lang="en">Baymax, voiced by Scott Adsit and created by Duncan Roulean and Steven T. Seagle first appeared in the film Big Hero 6.</lex>
+      <lex comment="" lid="Id3" lang="hi">डंकन रौलीन और स्टीवन टी. सीगल द्वारा निर्मित और स्कॉट एडसिट द्वारा आवाज दी गई बेमैक्स, बिग हीरो 6 फिल्म में पहली बार दिखाई दी।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="19" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The character Baymax, created by Steve T Seagle and the American Duncan Rouleau, first appeared in the film Big Hero 6.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टिव टी. सीगल और डंकन रूले द्वारा सृजित बेमैक्स चरित्र बिग हीरो 6 में पहली बार दिखाई दिया।</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax first appeared in the film Big Hero 6 and was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="hi">baymax first film Big Hero 6 में पहली बार दिखाई दिया था और इसे स्टीवन टी सीगल और अमेरिकन डंकन रौलू द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Big hero 6 was the first appearance for Baymax, created by American Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | upright | upright | upright | upright | बेमैक्स के लिए अमेरिकी अभिनेता डंकन रूलू और स्टीवन टी. सीगल द्वारा बनाई गई पहली फिल्म थी बिग हीरो 6।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="20" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax is a character created by Duncan Rouleau and Steve T. Seagle which first appeared in the film &quot; Big Hero 6&quot;.</lex>
+      <lex comment="" lid="Id1" lang="hi">baymax डंकन रूलौ और स्टीव टी. सीगल द्वारा निर्मित एक चरित्र है, जो पहली बार बिग हीरो 6 फिल्म में दिखाई दिया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax is a character who first appeared in the film Big Hero 6. It was created by Steven T Seagle and Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | upright | baymax | बिग हीरो 6 फिल्म में पहली बार दिखाई देने वाले चरित्र बेमैक्स इसे स्टीवन टी सीगल और डंकन रोउलू ने बनाया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Steven T Seagle and Duncan Rouleau created the character Baymax, which first appeared in the movie Big Hero 6.</lex>
+      <lex comment="" lid="Id3" lang="hi">स्टीवन टी. सीगल और डंकन रूले ने बेमैक्स चरित्र का निर्माण किया, जो पहली बार बिग हीरो 6 फिल्म में दिखाई दिया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="21" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax, the Big Hero 6 character created by Steve T Seagle and Duncan Rouleau, is voiced by Scott Adsit.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टीवन टी. सीगल और डंकन रूलो द्वारा निर्मित बिग हीरो 6 चरित्र बेमैक्स को स्कॉट एडसिट द्वारा आवाज दी गई है।</lex>
+      <lex comment="" lid="Id2" lang="en">Duncan Rouleau and Steven T. Seagle are both creators of the character Baymax which featured in the film Big Hero 6. The voice of this character in the film was provided by Scott Adsit.</lex>
+      <lex comment="" lid="Id2" lang="hi">डंकन रूलौ और स्टीवन टी. सीगल बिग हीरो 6 फिल्म में प्रदर्शित बेमैक्स चरित्र के रचनाकार हैं। फिल्म में इस चरित्र की आवाज स्कॉट एडसिट द्वारा प्रदान की गई थी।</lex>
+      <lex comment="" lid="Id3" lang="en">Duncan Rouleau and Steven T. Seagle are both creators of Baymax which featured in the film Big Hero 6. The voice of Baymax was provided by Scott Adsit.</lex>
+      <lex comment="" lid="Id3" lang="hi">डंकन रूलौ और स्टीवन टी. सीगल बिग हीरो 6 फिल्म में मुख्य भूमिका निभाने वाले बेमैक्स के रचनाकार हैं। scott adsit ने baymax की आवाज दी।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="22" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bolt (Larry Bolatinsky) is a comic character that was created by both Paris Cullins and Ernie Colon who is a national of Puerto Rico.</lex>
+      <lex comment="" lid="Id1" lang="hi">लेरी बोलाटिन्स्की) एक हास्य चरित्र है, जिसे पेरिस कुलिन्स और प्यूर्टो रिको के नागरिक एर्नी कोलोन दोनों ने बनाया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Bolt is a comic character otherwise know as Larry Bolatinsky. He was created by Paris Cullins and Ernie Colon ( national of Puerto Rico ).</lex>
+      <lex comment="" lid="Id2" lang="hi">सैमसंग बोल्ट एक हास्य चरित्र है जिसे अन्यथा लैरी बोलेटिन्स्की के नाम से जाना जाता है। thumbnail | upright | upright | upright | upright | पेरिस कुलिन्स और एर्नी कोलोन (प्यूर्टो रिको के नागरिक) द्वारा सृजित</lex>
+      <lex comment="" lid="Id3" lang="en">The character Bolt, also known as Larry Bolatinsky, was created by Paris Cullins and Ernie Colon, a puerto Rican National.</lex>
+      <lex comment="" lid="Id3" lang="hi">चरित्र बोल्ट, जिसे लैरी बोलाटिन्स्की के रूप में भी जाना जाता है, पेरिस कुलिन्स और अर्नी कोलोन, एक प्यूर्टो रिकन नेशनल द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="23" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax is a character from Big Hero 6, who was created by American born Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | बेमैक्स बिग हीरो 6 का एक चरित्र है, जिसे अमेरिका में जन्मे डंकन रूलो और स्टीवन टी. सीगल ने बनाया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax, a character in Big Hero 6, was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="hi">बिग हीरो 6 में एक चरित्र बेमैक्स, स्टीवन टी सीगल और अमेरिकी डंकन रूलू द्वारा बनाई गई थी।</lex>
+      <lex comment="" lid="Id3" lang="en">Baymax, created by Steven T Seagle and the American Duncan Rouleau, is a character in Big Hero 6.</lex>
+      <lex comment="" lid="Id3" lang="hi">बिग हीरो 6 में स्टीवन टी. सीगल और डंकन रूले द्वारा निर्मित बेमैक्स एक चरित्र है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="24" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The character Baymax, created by Steve T Seagle and the American Duncan Rouleau, is voiced by Scott Adsit.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टीवन टी. सीगल और डंकन रूले द्वारा निर्मित बेमैक्स चरित्र को स्कॉट एडसिट द्वारा आवाज दी गई है।</lex>
+      <lex comment="" lid="Id2" lang="en">Scott Adsit provides the voice for Baymax who was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="hi">Scott Adsit baymax के लिए आवाज प्रदान करते हैं, जिसे स्टीवन टी सीगल और अमेरिका के डंकन रूलू द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Scott Adsit provides the voice for the character Baymax who was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id3" lang="hi">'बेमैक्स' के चरित्र को स्टीवन टी. सीगल और डंकन रूलू ने आवाज दी है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="25" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Scott_Adsit</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Scott_Adsit</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax is a character in Big Hero 6 which starred Scott Adsit. The creator of Baymax is the American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id1" lang="hi">scott adsit अभिनीत big hero 6 में baymax एक चरित्र है। बेमैक्स (Baymax) के निर्माता अमेरिकी डंकन रोउलू (Duncan Rouleau) हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax is a character in the film Big Hero 6 which star's Scott Adsit. The creator of this character is American national, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | left | upright | बेमैक्स बिग हीरो 6 के अभिनेता स्कॉट एडसिट के चरित्र बिग हीरो 6 का एक हिस्सा है। इस चरित्र के रचयिता अमेरिकी नागरिक डंकन रोउलो हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The American, Duncan Rouleau created the character of Baymax which appeared in the film Big Hero 6 alongside the star of the film, Scott Adsit.</lex>
+      <lex comment="" lid="Id3" lang="hi">डंकन रूलू ने बिग हीरो 6 में बेमैक्स का किरदार निभाया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="26" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alan Tukyk stars in the film, Big Hero 6 in which Baymax, created by the American Duncan Rouleau, is also a character.</lex>
+      <lex comment="" lid="Id1" lang="hi">बिग हीरो 6 में अलान टुकिक ने अभिनय किया है, जिसमें अमेरिकन डंकन रूलू द्वारा निर्मित बेमैक्स भी एक चरित्र है।</lex>
+      <lex comment="" lid="Id2" lang="en">The American, Duncan Rouleau created the character of Baymax who appeared in the film Big Hero 6 which starred Alan Tudyk.</lex>
+      <lex comment="" lid="Id2" lang="hi">अलान टुडिक अभिनीत फिल्म बिग हीरो 6 में बेमैक्स का किरदार डंकन रूलू ने निभाया था।</lex>
+      <lex comment="" lid="Id3" lang="en">American national Duncan Rouleau is the creator of the character Baymax, which featured in the film Big Hero 6 ( starring Alan Tudyk ).</lex>
+      <lex comment="" lid="Id3" lang="hi">डंकन रूलेउ (Duncan Rouleau) बेमैक्स (Baymax) चरित्र के निर्माता हैं, जो फिल्म बिग हीरो 6 (Alan Tudyk) में चित्रित किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="27" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | &quot;Bo Bibbowski&quot;@en</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        <mtriple>Bibbo_Bibbowski | fullName | &quot;Bo Bibbowski&quot;</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bibbo Bibbowski is the full name of Bo Bibbowski created by Marv Wolfman and the American, Jerry Ordway.</lex>
+      <lex comment="" lid="Id1" lang="hi">बिब्बो बिब्बोव्स्की मार्व वोल्फमैन और जेरी आर्डवे द्वारा सृजित बिब्बोव्स्की का पूरा नाम है।</lex>
+      <lex comment="" lid="Id2" lang="en">Bo (full name Bibbo) Bibbowski was created by Marv Wolfman and the American, Jerry Ordway.</lex>
+      <lex comment="" lid="Id2" lang="hi">bibbowski by marv wolfman and the American, Jerry Ordway (पूरा नाम Bibbo) Bibbowski by Marv Wolfman and the American, Jerry Ordway by the biography Biography Biography Biography Biography Biography Biography Biography Biography Biography Biography Biography Biography Biography biography Biography Biography Biography Biography Biography Biog</lex>
+      <lex comment="" lid="Id3" lang="en">Marv Wolfman and the American, Jerry Ordway created Bo (full name Bibbo) Bibbowski.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | upright | कार्लोस मार्व वोल्फमैन और अमेरिका के जेरी ऑर्डवे द्वारा रचित बो (पूरा नाम बिब्बो) बिब्बौस्की.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="28" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | &quot;Lambien&quot;</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character Auron ( Lambien ) was created by both Marv Wolfman and American national Karl Kesel.</lex>
+      <lex comment="" lid="Id1" lang="hi">हास्य चरित्र आरोन (लाम्बियन) मार्व वोल्फमैन और अमेरिकी नागरिक कार्ल केज़ल दोनों द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Auron ( Lambien ) is a comic character that was created by both Marv Wolfman and American national Karl Kesel.</lex>
+      <lex comment="" lid="Id2" lang="hi">औरॉन (लाम्बियन) एक हास्य चरित्र है जिसे मार्व वोल्फमैन और अमेरिकी नागरिक कार्ल केज़ल दोनों ने बनाया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Marv Wolfman and the American Karl Kesel are the creators of the comic book character Auron, whose full name is Lambien.</lex>
+      <lex comment="" lid="Id3" lang="hi">Carl Kesel and the American Carl Kesel are creator of the comic book character Auron, whose full name is Lambien. मार्व वोल्फमैन और कार्ल केज़ल हास्य पुस्तक चरित्र आरोन के रचनाकार हैं, जिसका पूरा नाम लाम्बीयन है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="29" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | &quot;Lambien&quot;</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character of Auron (whose full name is Lambien) was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex comment="" lid="Id1" lang="hi">औरोन का हास्य चरित्र (जिसका पूरा नाम लांबियन है) वाल्ट सिमोनसन और अमेरिकी कार्ल केज़ल द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The comic character of Auron has the full name Lambien. He was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex comment="" lid="Id2" lang="hi">आरोन के हास्य चरित्र का पूरा नाम लेम्बियन है। Walt Simonson and the American, Karl Kesel द्वारा Walt Simonson and the American was created by Walt Simonson.</lex>
+      <lex comment="" lid="Id3" lang="en">The comic book character Auron, with the full name Lambien, was created by Walt Simonson and Karl Kesel, who is from the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">हास्य पुस्तक चरित्र आरोन, पूर्ण नाम लाम्बिएन के साथ, वाल्ट सिमोनसन और कार्ल केज़ल द्वारा बनाया गया था, जो संयुक्त राज्य अमेरिका से हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="30" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Bolt is a comic character with the alternative name of Larry Bolatinsky. He was created by Dan Mishkin and the US national, Paris Cullins.</lex>
+      <lex comment="" lid="Id1" lang="hi">सैमसंग बोल्ट एक हास्य चरित्र है जिसका वैकल्पिक नाम लैरी बोलेटिन्स्की है। इसे डेन मिश्किन और अमेरिकी नागरिक पेरिस कुलिन्स ने बनाया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Bolt ( Larry Bolatinsky ) is a comic character which was created by both Dan Mishkin and U.S. national Paris Cullins.</lex>
+      <lex comment="" lid="Id2" lang="hi">citizens bolt (Larry Bolatinsky) एक हास्य चरित्र है जिसे डैन मिश्किन और अमेरिकी नागरिक पेरिस कुलिन्स दोनों ने बनाया था।</lex>
+      <lex comment="" lid="Id3" lang="en">The comic book character Bolt also known as Larry Bolatinsky was created by Dan Mishkin and the American Paris Cullins.</lex>
+      <lex comment="" lid="Id3" lang="hi">हास्य पुस्तक चरित्र बोल्ट, जिसे लैरी बोलाटिन्स्की के नाम से भी जाना जाता है, डैन मिश्किन और अमेरिकी पेरिस कुलिन्स द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="31" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The US national, Paris Cullins along with comic book writer, Gary Cohn created the comic character of Bolt. The character has the alternative name of Larry Bolatinsky,.</lex>
+      <lex comment="" lid="Id1" lang="hi">हास्य पुस्तक लेखक गैरी कोन के साथ मिलकर अमेरिकी नागरिक पेरिस कुलिन्स ने बोल्ट के हास्य चरित्र का निर्माण किया। इस चरित्र का दूसरा नाम लैरी बोलेटिन्स्की है।</lex>
+      <lex comment="" lid="Id2" lang="en">The comic character Bolt , or otherwise known as Larry Bolatinsky, was created by both Gary Cohn and U.S national Paris Cullins.</lex>
+      <lex comment="" lid="Id2" lang="hi">हास्य चरित्र बोल्ट, या अन्यथा लैरी बोलाटिन्स्की के रूप में जाना जाता है, गैरी कोन और अमेरिकी राष्ट्रीय पेरिस कुलिन्स दोनों द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Bolt, also known as Larry Bolatinsky, is a comic book character created by Gary Cohn and the United States national Paris Cullins.</lex>
+      <lex comment="" lid="Id3" lang="hi">गैरी कोन और संयुक्त राज्य अमेरिका की राष्ट्रीय पेरिस कुलिन्स द्वारा निर्मित एक हास्य पुस्तक चरित्र है, जिसे लैरी बोलाटिन्स्की के रूप में भी जाना जाता है।</lex>
+    </entry>
+  </entries>
+</benchmark>

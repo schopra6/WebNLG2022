@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The currency of Turkey is Turkish Lira.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की की मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The currency of Turkey is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्की की मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The currency in Turkey is the Turkish Lira.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की में मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id4" lang="en">Turkey's currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id4" lang="hi">तुर्की की मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id5" lang="en">the currency used in Turkey is lira.</lex>
+      <lex comment="" lid="Id5" lang="hi">तुर्की में इस्तेमाल की जाने वाली मुद्रा लीरा है।</lex>
+      <lex comment="" lid="Id6" lang="en">The Turkish currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id6" lang="hi">तुर्की की मुद्रा तुर्की लीरा है।</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The largest city in Turkey is Istanbul.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की का सबसे बड़ा शहर इस्तांबुल है।</lex>
+      <lex comment="" lid="Id2" lang="en">Istanbul is the largest city in Turkey.</lex>
+      <lex comment="" lid="Id2" lang="hi">इस्तांबुल तुर्की का सबसे बड़ा शहर है।</lex>
+      <lex comment="" lid="Id3" lang="en">Turkey's largest City is Istanbul.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की का सबसे बड़ा शहर इस्तांबुल है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ahmet Davutoglu is a leader of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमत दावुतोग्लू तुर्की के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Ahmet Davutoglu is the leader of Turkey.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमद दावुतोग्लू तुर्की के नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Leader of Turkey is Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की के नेता अहमद दावुतोग्लू हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">Ahmet_Davutoğlu is Turkey's leader.</lex>
+      <lex comment="" lid="Id4" lang="hi">अहमत दावुतो परगेलु तुर्की के नेता हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">The Leader Of Turkey is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id5" lang="hi">तुर्की के नेता अहमद दावुतो अलेग्लू हैं।</lex>
+      <lex comment="" lid="Id6" lang="en">Ahmet Davutoglu is the Turkish leader.</lex>
+      <lex comment="" lid="Id6" lang="hi">अहमत दावुतोग्लू तुर्की के नेता हैं।</lex>
+      <lex comment="" lid="Id7" lang="en">Turkey's leader is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id7" lang="hi">तुर्की के नेता अहमद दावुतो अलेग्लू हैं।</lex>
+      <lex comment="" lid="Id8" lang="en">Turkey leader name is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id8" lang="hi">तुर्की के नेता का नाम अहमत दावुतो अलेक्जेंडर लू है।</lex>
+      <lex comment="" lid="Id9" lang="en">The Turkish leader's name is Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id9" lang="hi">तुर्की के नेता का नाम अहमत दावुतोग्लू है।</lex>
+    </entry>
+    <entry category="Monument" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader's title in Turkey is the President of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की में नेता का शीर्षक तुर्की का राष्ट्रपति है।</lex>
+      <lex comment="" lid="Id2" lang="en">Turkey's leader is the President of Turkey.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्की के नेता तुर्की के राष्ट्रपति हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">President of Turkey is the official title of the Turkish leader.</lex>
+      <lex comment="" lid="Id3" lang="hi">तुर्की के राष्ट्रपति, तुर्की नेता का आधिकारिक पद है।</lex>
+    </entry>
+  </entries>
+</benchmark>

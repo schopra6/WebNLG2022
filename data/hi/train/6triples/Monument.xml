@@ -1,0 +1,761 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry monument was completed in 2000 and categorised as a contributing property. It is located in the municipality of Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वें मिसिसिपी इन्फैंट्री स्मारक को 2000 में पूरा किया गया और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया। यह गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument was erected in 2000 in Gettysburg, Adams County, Pennsylvania, USA. It falls under the category of Contributing Property.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, अमेरिका में बनाया गया था। यह अंशदायी संपत्ति की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument was established in 2000 and categorised as contributing property. It is located in Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था और इसे संपत्ति योगदान के रूप में वर्गीकृत किया गया था। यह गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="2" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg, Pennsylvania, USA at Seminary Ridge in Adams County and is categorized as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वीं मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी के सेमिनरी रिज में गेटिसबर्ग, पेन्सिलवेनिया, अमेरिका की नगरपालिका में स्थित है और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in the Seminary Ridge, Gettysburg, Adams County, Pennsylvania, USA. It is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वीं मिसिसिपी इन्फैंट्री स्मारक सेमिनरी रिज, गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, अमेरिका में स्थित है। इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monumenet falls under the category of contributing property. It is located at Seminary Ridge in the municipality of Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री मोनुमेनेट संपत्ति योगदान की श्रेणी में आती है। यह गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका की नगरपालिका में सेमिनरी रिज में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument, which was completed in 2000, is located at the Seminary Ridge, Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक, जो 2000 में पूरा हुआ था, सेमिनरी रिज, गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">Established in 2000, the 11th Mississippi Infantry Monument is located at Seminary Ridge in Gettysburg, Adams County, Pennsylvania, USA.</lex>
+      <lex comment="" lang="hi" lid="Id2">वर्ष 2000 में स्थापित, 11वीं मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, अमेरिका में सेमिनरी रिज में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument, which was founded in the year 2000, is located in the Seminary Ridge, Gettysburg, Adams County, Pennsylvania, United States.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक, जिसकी स्थापना वर्ष 2000 में की गई थी, सेमिनरी रिज, गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="4" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge in Pennsylvania, USA; the monument was established in 2000 and is categorized as a contributing property and is in the municipality of Gettysburg Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वीं मिसिसिपी इन्फैंट्री स्मारक पेंसिलवेनिया, अमेरिका के सेमिनरी रिज में स्थित है यह स्मारक 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है और यह गेटिसबर्ग पेंसिल्वेनिया की नगरपालिका में है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry monument was established in 2000 and is categorised as a contributing property. It is located at Seminary Ridge, Gettysburg, Pennsylvania, United States.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। यह सेमिनरी रिज, गेटिसबर्ग, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located in the Seminary Ridge in the municipality of Gettysburg Pennsylvania, United States. The monument was established in the year 2000 and is categorized as a Contributing Property.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग पेंसिल्वेनिया, संयुक्त राज्य अमेरिका की नगरपालिका में सेमिनरी रिज में स्थित है। इस स्मारक की स्थापना वर्ष 2000 में की गई थी और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="5" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument which was erected in 2000 and is categorised as a contributing property is found in the Adams County, Pennsylvania, United States. To the north of Adams County lies Cumberland County also of Pennsylvania and to the southeast of Adams County lies Carroll County, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक जिसे 2000 में बनाया गया था और जिसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है, एडम्स काउंटी, पेंसिल्वेनिया, संयुक्त राज्य अमेरिका में पाया जाता है। एडम्स काउंटी के उत्तर में पेन्सिलवेनिया का कंबरलैंड काउंटी और एडम्स काउंटी के दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument (location Adams County, Pennsylvania, United States) was completed in the year 2000 and falls under the category of Contributing property. To the north of Adams County lies Cumberland County, also Pennsylvania and to the southeast lies Carroll County, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक (स्थान एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका) वर्ष 2000 में पूरा हुआ था और यह योगदान देने वाली संपत्ति की श्रेणी में आता है। एडम्स काउंटी के उत्तर में कंबरलैंड काउंटी, पेन्सिलवेनिया और दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County, Pennsylvania, United States and falls under the category of Contributing property. Pennsylvania's Cumberland County is to the north of Adams County and to the southeast of Adams County lies Carroll County, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था, जो एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है और योगदानकारी संपत्ति की श्रेणी में आता है। यह एडम्स काउंटी के उत्तर में और एडम्स काउंटी के दक्षिण-पूर्व में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="6" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, United States. Adams County has to its west Franklin County and to its north Cumberland County, both also of Pennsylvania. To the southwest of Adams County lies Frederick County and to the southeast Carroll County, both of Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में स्थित है। एडम्स काउंटी के पश्चिम में फ्रैंकलिन काउंटी और उत्तर में कंबरलैंड काउंटी है, दोनों पेंसिल्वेनिया के हैं। एडम्स काउंटी के दक्षिण-पश्चिम में फ्रेडरिक काउंटी और मैरीलैंड के दक्षिण-पूर्व में कैरोल काउंटी स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry monument is located in Adams County, Maryland, US. West of the County is Franklin County, Pennsylvania and Cumberland County lies to the north. Carroll County in Maryland lies to the southeast.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, मैरीलैंड, अमेरिका में स्थित है। काउंटी के पश्चिम में फ्रैंकलिन काउंटी, पेन्सिलवेनिया और कंबरलैंड काउंटी उत्तर में स्थित हैं। मैरीलैंड में कैरोल काउंटी दक्षिण-पूर्व में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument is found in the Adams County, Pennsylvania, United States. To the west of Adams County lies Franklin County and to the north Cumberland County is located - all of these counties are in the state of Pennsylvania. Adams County has Carroll County to its southeast and Frederick County to its southwest - both these counties are in Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया, संयुक्त राज्य अमेरिका में पाया जाता है। एडम्स काउंटी के पश्चिम में फ्रैंकलिन काउंटी और उत्तर में कंबरलैंड काउंटी स्थित है-ये सभी काउंटी पेंसिल्वेनिया राज्य में हैं। एडम्स काउंटी के दक्षिण-पूर्व में कैरोल काउंटी और इसके दक्षिण-पश्चिम में फ्रेडरिक काउंटी है-ये दोनों काउंटी मैरीलैंड में हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="7" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in the municipality of Gettysburg, Adams County, Pennsylvania. It was established in 2000 and it falls under the category of contributing property.To the north of Adams County is Cumberland County.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वीं मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया की नगरपालिका में स्थित है। यह 2000 में स्थापित किया गया था और यह संपत्ति के योगदान की श्रेणी में आता है। एडम्स काउंटी के उत्तर में कंबरलैंड काउंटी है।</lex>
+      <lex comment="" lang="en" lid="Id2">South of Cumberland County, Pennsylvania lies Adams County. The location of the 11th Mississippi Infantry Monument in the municipality of Gettysburg. It was established in 2000 and is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">कंबरलैंड काउंटी, पेन्सिलवेनिया के दक्षिण में एडम्स काउंटी स्थित है। गेटिसबर्ग नगरपालिका में 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान। इसकी स्थापना 2000 में की गई थी और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id3">Cumberland County, Pennsylvania is found north of Adams County which is the location of the 11th Mississippi Infantry Monument established in 2000 in Gettysburg. The monument falls under the category of contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id3">कंबरलैंड काउंटी, पेंसिल्वेनिया एडम्स काउंटी के उत्तर में पाया जाता है जो गेटिसबर्ग में 2000 में स्थापित 11वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है। यह स्मारक संपत्ति के योगदान की श्रेणी में आता है।</lex>
+    </entry>
+    <entry category="Monument" eid="8" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | range | Seminary_Ridge</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Seminary_Ridge</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located at Seminary Ridge, Gettysburg, Adams County, Pennsylvania. The monument was competed in 2000 and is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वीं मिसिसिपी इन्फैंट्री स्मारक सेमिनरी रिज, गेटिसबर्ग, एडम्स काउंटी, पेंसिल्वेनिया में स्थित है। इस स्मारक को 2000 में आयोजित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in the Seminary Ridge, Gettysburg, Adams County, Pennsylvania. It was established in 2000 and it is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वीं मिसिसिपी इन्फैंट्री स्मारक सेमिनरी रिज, गेटिसबर्ग, एडम्स काउंटी, पेंसिल्वेनिया में स्थित है। इसे 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry monument is located at Seminary Ridge, the municipality of Gettysburg, Adams County, Pennsylvania. The monument was established in 2000 and is categorised as contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री स्मारक सेमिनरी रिज, गेटिसबर्ग, एडम्स काउंटी, पेंसिल्वेनिया की नगरपालिका में स्थित है। इस स्मारक की स्थापना 2000 में की गई थी और इसे संपत्ति में योगदान देने वाले के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="9" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield, Frederick, Maryland. The monument, which is owned by the National Park Service, was established on 11th July 1907 and belongs to the category of Historic districts in the United States.</lex>
+      <lex comment="" lang="hi" lid="Id1">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक में मोनोकेसी नेशनल बैटलफील्ड में स्थित है। राष्ट्रीय उद्यान सेवा के स्वामित्व वाले इस स्मारक की स्थापना 11 जुलाई 1907 को की गई थी और यह संयुक्त राज्य अमेरिका के ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is a United States historic district. It is located in the Monocacy National Battlefield district and owned by the National Park Service. The closest city to the battlefield is Frederick, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक (1907-07-11) संयुक्त राज्य अमेरिका का एक ऐतिहासिक जिला है। यह मोनोकेसी नेशनल बैटलफील्ड जिले में स्थित है और राष्ट्रीय उद्यान सेवा के स्वामित्व में है। युद्ध के मैदान के सबसे नजदीकी शहर फ्रेडरिक, मैरीलैंड है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 in the district of the Monocacy National Battlefield, Frederick, Maryland. It is owned by the National Park Service and belongs to the category of historic districts in the US.</lex>
+      <lex comment="" lang="hi" lid="Id3">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक 11 जुलाई 1907 को मैरीलैंड के फ्रेडरिक के मोनोकेसी नेशनल बैटलफील्ड जिले में स्थापित किया गया था। यह राष्ट्रीय उद्यान सेवा के स्वामित्व में है और अमेरिका के ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+    </entry>
+    <entry category="Monument" eid="10" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Southeast of Carroll County, Maryland is Adams County Pennsylvania. This county is the location of the 11th Mississippi Infantry Monument erected in 2000 in Gettysburg and which is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">कैरोल काउंटी के दक्षिण-पूर्व में, मैरीलैंड एडम्स काउंटी पेंसिल्वेनिया है। यह काउंटी ग्यारहवें मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे गेटिसबर्ग में 2000 में बनाया गया था और जिसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It is categorised as a contributing property and it was established in 2000. Carroll County, Maryland is southeast of Adams County.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है और इसकी स्थापना 2000 में की गई थी। कैरोल काउंटी, मैरीलैंड एडम्स काउंटी के दक्षिण-पूर्व में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi INfantry Monument is located in the municipality of Gettysburg, Adams County, Pa. It is categorized as a Contributing Property and was established in 2000. Carroll County, Maryland is southeast of Adams County, Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पा. इसे योगदानकारी संपत्ति के रूप में वर्गीकृत किया गया है और 2000 में स्थापित किया गया था। कैरोल काउंटी, मैरीलैंड एडम्स काउंटी, पेन्सिलवेनिया के दक्षिण-पूर्व में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="11" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It was established in 2000 and it is categorised as a contributing property. Cumberland County, Pa is to the north of Adams County and Carroll County, Maryland is southeast of Adams County.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। इसे 2000 में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। कम्बरलैंड काउंटी, पा एडम्स काउंटी और कैरोल काउंटी के उत्तर में है, मैरीलैंड एडम्स काउंटी के दक्षिण-पूर्व में है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument which was established in the year 2000 is in the municipality of Gettysburg , Adams County, Pennsylvania. Adams County has Carroll County, Maryland to its southeast and to its north, Cumberland County, Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id2">वर्ष 2000 में स्थापित 11वीं मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेंसिल्वेनिया की नगरपालिका में है। एडम्स काउंटी के दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड और उत्तर में कंबरलैंड काउंटी, पेन्सिलवेनिया है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument is located within the municipality of Gettysburg, in Adams County, Pennsylvania. It was established in 2000 and is categorized as a Contributing property. Located to the southeast of Adams County is Maryland's Carroll County. To the north is Pennsylvania's Cumberland County.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेंसिल्वेनिया में गेटिसबर्ग नगरपालिका के भीतर स्थित है। इसकी स्थापना 2000 में की गई थी और इसे योगदानकारी संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी के दक्षिण-पूर्व में स्थित मैरीलैंड का कैरोल काउंटी है। उत्तर में पेंसिल्वेनिया का कंबरलैंड काउंटी है।</lex>
+    </entry>
+    <entry category="Monument" eid="12" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Monument is located in Adams County, Pennsylvania. It was established in 2000 and it is categorized as a Contributing Property. Adams County has Cumberland County (Pa) to its north; Maryland's Frederick County to its north east and Carroll County, Maryland to its southeast.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी स्मारक एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। इसकी स्थापना 2000 में की गई थी और इसे योगदानकारी संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी के उत्तर में कंबरलैंड काउंटी (पीए) है इसके उत्तर-पूर्व में मैरीलैंड का फ्रेडरिक काउंटी और दक्षिण-पूर्व में कैरोल काउंटी स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry monument was established in 2000 in Adams County, Pennsylvania and is categorised as a contributing property. The location of Adams County is northwest of Carroll County, Maryland, south of Cumberland County and northeast of Frederick County, both of Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वीं मिसिसिपी इन्फैंट्री स्मारक 2000 में एडम्स काउंटी, पेन्सिलवेनिया में स्थापित किया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी कैरोल काउंटी, मैरीलैंड के उत्तर-पश्चिम में, कंबरलैंड काउंटी के दक्षिण में और फ्रेडरिक काउंटी के उत्तर-पूर्व में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument (established in 2000) is located in Adams County, Pennsylvania and is categorized as a Contributing Property. Cumberland County (also of Pennsylvania) lies to the north of Adams County. Carroll County (to the southeast) and Frederick County (to the southwest) and both of Maryland are near neighbours to Adams County.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक (2000 में स्थापित) एडम्स काउंटी, पेन्सिलवेनिया में स्थित है और इसे योगदानकारी संपत्ति के रूप में वर्गीकृत किया गया है। कंबरलैंड काउंटी (पेन्सिलवेनिया का भी) एडम्स काउंटी के उत्तर में स्थित है। कैरोल काउंटी (दक्षिण-पूर्व में) और फ्रेडरिक काउंटी (दक्षिण-पश्चिम में) और मैरीलैंड दोनों एडम्स काउंटी के पड़ोसी हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="13" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississipi Infantry Monument was established in 2000 and it is located in Adams County, Pa. The Monument is categorised as a contributing property. To the north of Adams County is Cumberland County (Pa), to its west is Franklin County (Pa) and to its southeast is Carroll County (Maryland).</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था और यह एडम्स काउंटी, पा. इस स्मारक को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी के उत्तर में कंबरलैंड काउंटी (पीए) है, इसके पश्चिम में फ्रैंकलिन काउंटी (पीए) है और इसके दक्षिण-पूर्व में कैरोल काउंटी (मैरीलैंड) है।</lex>
+      <lex comment="" lang="en" lid="Id2">Adams County Pennsylvania is East of Franklin County, Pennsylvania and has Carroll County, Maryland to its southeast and Cumberland County, Pennsylvania to its north. The 11th Mississippi Infantry Monument is located in Adams County and falls under the category of Contributing property. The 11th Mississippi Infantry Monument was established in 2000.</lex>
+      <lex comment="" lang="hi" lid="Id2">एडम्स काउंटी पेंसिल्वेनिया, फ्रैंकलिन काउंटी, पेंसिल्वेनिया के पूर्व में स्थित है और इसके दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड और उत्तर में कंबरलैंड काउंटी, पेंसिल्वेनिया है। 11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी में स्थित है और योगदान देने वाली संपत्ति की श्रेणी में आता है। 11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Cumberland County in Pennsylvania is situated north of Adams County which is the location of the 11th Mississippi Infantry Monument which was erected in 2000 and categorised as a contributing property. Franklin County can be found to the west and Carroll County Maryland is to the southeast.</lex>
+      <lex comment="" lang="hi" lid="Id3">पेंसिल्वेनिया में कंबरलैंड काउंटी एडम्स काउंटी के उत्तर में स्थित है जो 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में बनाया गया था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया था। फ्रेंकलिन काउंटी पश्चिम में और कैरोल काउंटी मैरीलैंड दक्षिण-पूर्व में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="14" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Carroll County Maryland is southeast of Adams County, Pennsylvania. With Franklin County to the west, Cumberland County to the north and Frederick County to the southwest, Adams County is the location of the 11th Mississippi Infantry monument which was established in 2000.</lex>
+      <lex comment="" lang="hi" lid="Id1">कैरोल काउंटी मैरीलैंड एडम्स काउंटी, पेन्सिलवेनिया के दक्षिण-पूर्व में स्थित है। पश्चिम में फ्रैंकलिन काउंटी, उत्तर में कंबरलैंड काउंटी और दक्षिण-पश्चिम में फ्रेडरिक काउंटी के साथ, एडम्स काउंटी 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे 2000 में स्थापित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is found in Adams County, Pennsylvania and has been established since the year 2000. To the west of Adams County lies Franklin County and to the north is Cumberland County - both also of Pennsylvania. To the southeast of Adams County lies Carroll County and to the southwest lies Frederick County , both of Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया में पाया जाता है और वर्ष 2000 से स्थापित किया गया है। एडम्स काउंटी के पश्चिम में फ्रैंकलिन काउंटी और उत्तर में कंबरलैंड काउंटी है-दोनों पेंसिल्वेनिया के भी हैं। एडम्स काउंटी के दक्षिण-पूर्व में कैरोल काउंटी और दक्षिण-पश्चिम में मैरीलैंड के दोनों फ्रेडरिक काउंटी स्थित हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Adams County is located to the south of Cumberland County and east of Franklin County. Carroll County Maryland lies to the south east and Frederick County to the southwest. The 11th Mississippi Infantry monument was established in the County in 2000.</lex>
+      <lex comment="" lang="hi" lid="Id3">एडम्स काउंटी कंबरलैंड काउंटी के दक्षिण में और फ्रैंकलिन काउंटी के पूर्व में स्थित है। कैरोल काउंटी मैरीलैंड दक्षिण पूर्व में और फ्रेडरिक काउंटी दक्षिण पश्चिम में स्थित है। 11 वीं मिसिसिपी इन्फैंट्री स्मारक 2000 में काउंटी में स्थापित किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="15" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettsysburg, Adams County, Pennsylvania. It is categorized as a contributing property. Adams County, Pennsylvania has Cumberland County (Pa) to its south; Carroll County (Maryland) to its southeast and Franklin County (Pa) to its west.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया के गेट्सिसबर्ग में स्थित है। इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी, पेंसिल्वेनिया के दक्षिण में कंबरलैंड काउंटी (पीए) है इसके दक्षिण-पूर्व में कैरोल काउंटी (मैरीलैंड) और पश्चिम में फ्रैंकलिन काउंटी (पीए) है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. It is categorized as a contributing property. Cumberland County, Pa is located in the north of Adams County, Pa and Franklin County is found to the west of Adams County. Adams County has Carroll County, Maryland to its Southeast.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। कम्बरलैंड काउंटी, पा एडम्स काउंटी के उत्तर में स्थित है, पा और फ्रैंकलिन काउंटी एडम्स काउंटी के पश्चिम में पाया जाता है। एडम्स काउंटी के दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry monument is located in Gettysburg, Adams County, Pennsylvania and is categorised as a contributing property. Adams County is situated to the east of Franklin County and south of Cumberland County, Pennsylvania. Carroll County in Maryland lies to the northwest.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है। एडम्स काउंटी फ्रैंकलिन काउंटी के पूर्व में और कंबरलैंड काउंटी, पेन्सिलवेनिया के दक्षिण में स्थित है। मैरीलैंड में कैरोल काउंटी उत्तर-पश्चिम में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="16" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. Franklin County in the state is found to the west, and Cumberland County to the north. Carroll County in Maryland lies to the southeast of Adams County.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। राज्य के पश्चिम में फ्रैंकलिन काउंटी और उत्तर में कंबरलैंड काउंटी है। मैरीलैंड में कैरोल काउंटी एडम्स काउंटी के दक्षिण-पूर्व में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Gettysburg, Adams County, Pennsylvania. Adams County (Pa) has Fredericks County (Maryland) to its north east; Cumberland County to its north; Carroll County, Maryland to its southeast and Franklin County (Pa) to its west.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक गेटिसबर्ग, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। एडम्स काउंटी (पीए) के उत्तर पूर्व में फ्रेडरिक्स काउंटी (मैरीलैंड) है अपने उत्तर में कंबरलैंड काउंटी इसके दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड और पश्चिम में फ्रैंकलिन काउंटी (पीए) है।</lex>
+      <lex comment="" lang="en" lid="Id3">Pennsylvania's Franklin Country is west of Adams County which has Carroll County Maryland to its southeast. To the North of Adams County is Cumberland County with Frederick County to the southeast. The municipality for the 11th Mississippi Infantry Monument is Gettysburg which is located in Adams County.</lex>
+      <lex comment="" lang="hi" lid="Id3">पेंसिल्वेनिया का फ्रैंकलिन देश एडम्स काउंटी के पश्चिम में स्थित है जिसके दक्षिण-पूर्व में कैरोल काउंटी मैरीलैंड है। एडम्स काउंटी के उत्तर में कंबरलैंड काउंटी है और दक्षिण-पूर्व में फ्रेडरिक काउंटी है। 11वीं मिसिसिपी इन्फैंट्री स्मारक के लिए नगरपालिका गेटिसबर्ग है जो एडम्स काउंटी में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="17" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">July 27, 1932 is an important date for Turkey, where the largest city is Istanbul and currency is the Turkish lira; because on this date the Ataturk Monument, made of bronze and designed by Pietro Canonica was inaugurated.</lex>
+      <lex comment="" lang="hi" lid="Id1">27 जुलाई, 1932 तुर्की के लिए एक महत्वपूर्ण तारीख है, जहां का सबसे बड़ा शहर इस्तांबुल है और मुद्रा है तुर्की का लीरा सीनीयर क्योंकि इसी तारीख को पीएट्रो कैनोनिका द्वारा कांस्य से बने और डिजाइन किए गए अतातुर्क स्मारक का उद्घाटन किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The Ataturk Monument, made of bronze, was designed by Pietro Canonica and is located in Izmir, Turkey where the currency is the Turkish Lira and the largest City is Istanbul; the monument was inaugurated on July 27, 1932.</lex>
+      <lex comment="" lang="hi" lid="Id2">कांस्य से बना अतातुर्क स्मारक, पियेत्रो कैनोनिका द्वारा डिजाइन किया गया था और तुर्की के इजमिर में स्थित है, जहां मुद्रा तुर्की लीरा है और सबसे बड़ा शहर इस्तांबुल है स्मारक का उद्घाटन 27 जुलाई, 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Pietro Canonica designed the Ataturk Monument(Izmir) in bronze and it was inaugurated on 27 July 1932 in Turkey. The country's largest city is Istanbul and the local currency is the Turkish lira.</lex>
+      <lex comment="" lang="hi" lid="Id3">पीएट्रो कैनोनिका ने कांस्य में अतातुर्क स्मारक (इजमिर) डिजाइन किया और इसका उद्घाटन 27 जुलाई 1932 को तुर्की में किया गया था। देश का सबसे बड़ा शहर इस्तांबुल है और स्थानीय मुद्रा तुर्की लीरा है।</lex>
+    </entry>
+    <entry category="Monument" eid="18" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Baku Turkish Maryrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. It is located in Azerbaijan. The capital of Azeribaijan is Baku and its leader is Prime Minister Artur Rasizade. Azerbaijan has legislature of National Assembly.</lex>
+      <lex comment="" lang="hi" lid="Id1">बाकू तुर्की मारियर्स मेमोरियल बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह अजरबैजान में स्थित है। अज़ेरीबैजान की राजधानी बाकू है और इसके नेता प्रधानमंत्री आर्तूर रसीज़ादे हैं। अजरबैजान में नेशनल असेंबली की विधायिका है।</lex>
+      <lex comment="" lang="en" lid="Id2">Baku is the capital city of Azerbaijan which is led by Prime Minister Artur Rasizade with a National Assembly dictating the legislature. The country is the location of the Baku Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the Battle of Baku.</lex>
+      <lex comment="" lang="hi" lid="Id2">बाकू अजरबैजान की राजधानी है जिसका नेतृत्व प्रधानमंत्री आर्तूर रसीज़ादे कर रहे हैं। यह देश बाकू तुर्की शहीद स्मारक का स्थान है जो बाकू की लड़ाई में शहीद हुए तुर्क सेना के सैनिकों को समर्पित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The capital of Azerbaijan is Baku and its president - or official leader - is called Artur Rasizade. The legislature of Azerbaijan is known as the National Assembly. The country is the location for the Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex comment="" lang="hi" lid="Id3">अजरबैजान की राजधानी बाकू है और इसके राष्ट्रपति या आधिकारिक नेता को आर्तुर रसीज़ादे कहा जाता है। अजरबैजान की विधायिका को नेशनल असेंबली के रूप में जाना जाता है। यह देश बाकू तुर्की शहीदों के स्मारक का स्थान है, जो बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है।</lex>
+    </entry>
+    <entry category="Monument" eid="19" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner were the designers of the Baku Turkish Martyrs Memorial in Azerbaijan, dedicated to the soldiers of the Ottoman army who died in the Battle of Baku. The Prime Minister, Artur Rasizade is the leader of Azerbaijan where Baku is the capital city.</lex>
+      <lex comment="" lang="hi" lid="Id1">हुसैन बुटुनर और हिल्मी गुनर अजरबैजान में बाकू तुर्की शहीद स्मारक के डिजाइनर थे, जो बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित थे। प्रधानमंत्री, आर्तूर रसीज़ादे अजरबैजान के नेता हैं, जहां बाकू राजधानी शहर है।</lex>
+      <lex comment="" lang="en" lid="Id2">Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku. It was designed by Huseyin Butuner and Hilmi Guner and it is located in Azerbaijan. The capital of Azerbaijan is Baku and its leader is Prime Minister Artur Rasizade.</lex>
+      <lex comment="" lang="hi" lid="Id2">बाकू तुर्की शहीदों का स्मारक बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। यह हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया था और यह अजरबैजान में स्थित है। अज़रबैजान की राजधानी बाकू है और इसके नेता प्रधानमंत्री आर्तूर रसीज़ादे हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Artur Rasizade is the leader of Azerbaijan where the Baku Turkish Martyrs memorial designed by Huseyin Butuner and Hilmi Guner is located. The memorial is dedicated to the soldiers of the Ottoman army who were killed at the Battle of Baku, the capital city.</lex>
+      <lex comment="" lang="hi" lid="Id3">आर्तूर रसीज़ादे अजरबैजान के नेता हैं, जहां बाकू तुर्की के शहीदों का स्मारक हुसेइन बुतुनेर और हिल्मी गुनेर द्वारा डिजाइन किया गया है। यह स्मारक राजधानी शहर बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है।</lex>
+    </entry>
+    <entry category="Monument" eid="20" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Baku Turkish Martyrs' Memorial is located in Azerbaijan whose capital is Baku. The memorial is dedicated to Ottoman Army soldiers killed in the Battle of Baku and is called Turk Sehitleri Aniti. It was designed by Hüseyin Bütüner and Hilmi Güner. Azerbaijan is led by the Prime Minister.</lex>
+      <lex comment="" lang="hi" lid="Id1">बाकू तुर्की शहीदों का स्मारक अजरबैजान में स्थित है जिसकी राजधानी बाकू है। यह स्मारक बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है और इसे तुर्क सहितलेरी अनीती कहा जाता है। इसका डिजाइन हंगसेइन बाइनसिन टेनर और हिल्मी गेनर ने तैयार किया है। अजरबैजान का नेतृत्व प्रधानमंत्री करते हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial, also known as the Turk Sehitleri Aniti. The memorial is dedicated to the Ottoman army soldiers who were killed in the Battle of Baku. It is located in Azerbaijan where the Prime Minister leads the country and the capital city is Baku.</lex>
+      <lex comment="" lang="hi" lid="Id2">हुसैन बुटुनर और हिल्मी गुनर ने बाकू तुर्की शहीदों के स्मारक को डिजाइन किया, जिसे तुर्क सहैतलेरी अनीती के रूप में भी जाना जाता है। यह स्मारक तुर्क सेना के उन सैनिकों को समर्पित है जो बाकू की लड़ाई में मारे गए थे। यह अजरबैजान में स्थित है जहां प्रधानमंत्री देश का नेतृत्व करते हैं और राजधानी बाकू है।</lex>
+      <lex comment="" lang="en" lid="Id3">Azerbaijan, where the leader is the Prime Minister and the capital if Baku, is the location of the Baku Turkish Martyrs Memorial which is dedicated to the soldiers of the Ottoman army who were killed in the battle of Baku. The local name for the memorial is Turk Sehitleri Aniti and it was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="" lang="hi" lid="Id3">अजरबैजान, जहां नेता प्रधानमंत्री है और राजधानी बाकू है, बाकू तुर्की शहीद स्मारक का स्थान है जो बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। स्मारक का स्थानीय नाम तुर्क सहैतलेरी अनीती है और इसका डिजाइन हुसेइन बुटुनर और हिल्मी गुनर ने तैयार किया है।</lex>
+    </entry>
+    <entry category="Monument" eid="21" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Baku Turkish Martyrs' Memorial, made of red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The memorial, called Turk Sehitleri Aniti, was designed by Hüseyin Bütüner and Hilmi Güner and is located in Azerbaijan, the capital of which is Baku.</lex>
+      <lex comment="" lang="hi" lid="Id1">लाल ग्रेनाइट और सफेद संगमरमर से बना बाकू तुर्की शहीदों का स्मारक, बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। स्मारक, जिसे तुर्क सेहत्लेरी अनीती कहा जाता है, को हेनेसेन बेनेनर और हिल्मी गेनेनर द्वारा डिजाइन किया गया था और यह अजरबैजान में स्थित है, जिसकी राजधानी बाकू है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial, also known by the native name Turk Sehitleri Aniti, is located in Azerbaijan. The memorial was designed by Huseyin Butuner and Hilmi Guner, and is constructed from red granite and white marble. It is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, the capital of Azerbaijan.</lex>
+      <lex comment="" lang="hi" lid="Id2">बाकू तुर्की शहीदों का स्मारक, जिसे तुर्क सेहितलेरी अनीती के मूल नाम से भी जाना जाता है, अजरबैजान में स्थित है। स्मारक को हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया था, और इसका निर्माण लाल ग्रेनाइट और सफेद संगमरमर से किया गया है। यह अजरबैजान की राजधानी बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है।</lex>
+      <lex comment="" lang="en" lid="Id3">Baku is the capital of Azerbaijan. The Baku Turkish Martyrs' Memorial is created in red granite and white marble and is dedicated to the Ottoman Army soldiers killed in the Battle of Baku. The Native name of theMemorial is &quot;Türk Sehitleri Aniti&quot;. Its designers are Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="" lang="hi" lid="Id3">बाकू अजरबैजान की राजधानी है। बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर से बनाया गया है और बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है। इस स्मारक का मूल नाम त्सील्क सेहत्लेरी अनीति है। इसके डिजाइनर हुसैन बुटुनर और हिल्मी गुनर हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="22" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Dead Man's Plack is located in England's capital - London It is dedicated to AEthwald, Ealdorman of East Anglia and it is made of rock. England's main religion in the Church of England. One of the languages spoken in England is the Cornish language.</lex>
+      <lex comment="" lang="hi" lid="Id1">मृत व्यक्ति का प्लैक इंग्लैंड की राजधानी लंदन में स्थित है। यह पूर्वी एंग्लिया के एथवाल्ड, एल्डरमेन को समर्पित है और यह चट्टान से बना है। चर्च ऑफ इंग्लैंड में इंग्लैंड का मुख्य धर्म। इंग्लैंड में बोली जाने वाली भाषाओं में से एक कॉर्निश भाषा है।</lex>
+    </entry>
+    <entry category="Monument" eid="23" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">England is the home of the Cornish language, many ethnic groups including the British Arabs and the established religion of The Church of England. It is also the location of Dead Mans Plack, a stone formation dedicated to Aethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="" lang="hi" lid="Id1">इंग्लैंड कॉर्निश भाषा, ब्रिटिश अरब और चर्च ऑफ इंग्लैंड के स्थापित धर्म सहित कई जातीय समूहों का घर है। यह डेड मैन्स प्लैक का भी स्थान है, जो पूर्वी एंग्लिया के एल्डरमेन, एथेलवाल्ड को समर्पित एक पत्थर की संरचना है।</lex>
+      <lex comment="" lang="en" lid="Id2">Dead Man's Plack is a stone monument in England that is dedicated to Æthelwald, Ealdorman of East Anglia. The state religion of England is the Church of England. English ethnic group include British Arabs. In England's Cornwall region, the Cornish language is spoken.</lex>
+      <lex comment="" lang="hi" lid="Id2">डेड मैन्स प्लैक (अंग्रेज़ीः Dead Man 's Plack) इंग्लैंड में एक पत्थर का स्मारक है जो पूर्वी एंग्लिया के एल्डरमेन, इथेलवाल्ड को समर्पित है। इंग्लैंड का राज्य धर्म चर्च ऑफ इंग्लैंड है। अंग्रेजी जातीय समूह में ब्रिटिश अरब शामिल हैं। इंग्लैंड के कॉर्नवाल क्षेत्र में, कॉर्निश भाषा बोली जाती है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Dead Man's Plack (located in England) is made from rock. It is dedicated to AEthelwald, Ealdorman of East Anglia. England's religion is the Church of England and Cornish is spoken in the Cornwall region of England. British Arabs are an English ethnic group.</lex>
+      <lex comment="" lang="hi" lid="Id3">डेड मैन का प्लैक (इंग्लैंड में स्थित) चट्टान से बना है। यह पूर्वी एंग्लिया के एथेलवाल्ड, एल्डरमेन को समर्पित है। इंग्लैंड का धर्म इंग्लैंड का चर्च है और कॉर्निश इंग्लैंड के कॉर्नवॉल क्षेत्र में बोली जाती है। ब्रिटिश अरब एक अंग्रेजी जातीय समूह है।</lex>
+    </entry>
+    <entry category="Monument" eid="24" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Dead Man's Plack which is made of rock and is dedicated to Æthelwald, Ealdorman of East Anglia is located in England . The capital of England is London and Cornish is a language spoken in the Cornwall region.</lex>
+      <lex comment="" lang="hi" lid="Id1">मृत व्यक्ति का प्लैक जो चट्टान से बना है और पूर्वी एंग्लिया के एल्डरमेन, इथेलवाल्ड को समर्पित है, इंग्लैंड में स्थित है। इंग्लैंड की राजधानी लंदन है और कॉर्निश कॉर्नवाल क्षेत्र में बोली जाने वाली एक भाषा है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Dead Man's Plack is found in England and made from rock. It is dedicated to Æthelwald, Ealdorman of East Anglia. London is the capital of England and Arabs are an ethnic group. The Cornish language is spoken Cornwall.</lex>
+      <lex comment="" lang="hi" lid="Id2">डेड मैन का प्लैक इंग्लैंड में पाया जाता है और इसे चट्टान से बनाया गया है। यह पूर्वी एंग्लिया के एलडोरमेन, पिलेथेलवाल्ड को समर्पित है। लंदन इंग्लैंड की राजधानी है और अरब एक जातीय समूह हैं। कॉर्निश भाषा कॉर्नवॉल बोली जाती है।</lex>
+      <lex comment="" lang="en" lid="Id3">Dead Man's Plack, which is made of rock, is dedicated to Æthelwald, Ealdorman of East Anglia. It is found in England, the capital of which is London. Cornish is one of the languages spoken in England and one of the ethnic groups found in the country is the British Arabs.</lex>
+      <lex comment="" lang="hi" lid="Id3">डेड मैन्स प्लैक, जो चट्टान से बना है, पूर्वी एंग्लिया के एल्डरमेन, एथेलवाल्ड को समर्पित है। यह इंग्लैंड में पाया जाता है, जिसकी राजधानी लंदन है। कॉर्निश इंग्लैंड में बोली जाने वाली भाषाओं में से एक है और देश में पाए जाने वाले जातीय समूहों में से एक ब्रिटिश अरब है।</lex>
+    </entry>
+    <entry category="Monument" eid="25" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Frederick, Maryland is the nearest city to the Monocacy National Battlefield of Frederick County, Maryland. It is the location of the 14th New Jersey Volunteer Infantry Monument which was established on 11 July 1907 which is categorised as belonging to the historic districts of the United States.</lex>
+      <lex comment="" lang="hi" lid="Id1">फ्रेडरिक, मैरीलैंड फ्रेडरिक काउंटी, मैरीलैंड के मोनोकेसी नेशनल बैटलफील्ड का निकटतम शहर है। यह 14वें न्यू जर्सी वालंटियर इन्फैंट्री स्मारक का स्थान है जिसे 11 जुलाई 1907 को स्थापित किया गया था जिसे संयुक्त राज्य अमेरिका के ऐतिहासिक जिलों से संबंधित के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield, Frederick, Maryland. The monument was established in 1907-07-11 and is categorised as an historic district in the United States.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक में मोनोकेसी नेशनल बैटलफील्ड जिले में स्थित है। इस स्मारक की स्थापना 1907-07-11 में की गई थी और इसे संयुक्त राज्य अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="26" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The location of the 14th New Jersey Volunteer Infantry Monument is the Monocacy National Battlefield in Frederick County, Maryland, United States. The monument was established on 11 July 1907 and is owned by the National Park Service.</lex>
+      <lex comment="" lang="hi" lid="Id1">14वें न्यू जर्सी वालंटियर इन्फैंट्री स्मारक का स्थान संयुक्त राज्य अमेरिका के मैरीलैंड के फ्रेडरिक काउंटी में मोनोकेसी नेशनल बैटलफील्ड है। इस स्मारक की स्थापना 11 जुलाई 1907 को की गई थी और इसका स्वामित्व राष्ट्रीय उद्यान सेवा के पास है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Voluntary Infantry Monument (located in the Monocacy National Battlefield, Frederick County, Maryland, USA) was established on the 11th July, 1907. The nearest city is Frederick, Maryland. The Monument was provided by the National Park Service.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी स्वैच्छिक इन्फैंट्री स्मारक (जो मोनोकेसी नेशनल बैटलफील्ड, फ्रेडरिक काउंटी, मैरीलैंड, अमेरिका में स्थित है) 11 जुलाई, 1907 को स्थापित किया गया था। निकटतम शहर फ्रेडरिक, मैरीलैंड है। यह स्मारक राष्ट्रीय उद्यान सेवा द्वारा प्रदान किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 and is located in the district of the Monocacy National Battlefield in Frederick County, Maryland, US. The monument is owned by the National Park Service. The nearest city to the battlefield is Frederick, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id3">14वां न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक 11 जुलाई 1907 को स्थापित किया गया था और यह फ्रेडरिक काउंटी, मैरीलैंड, अमेरिका में मोनोकेसी नेशनल बैटलफील्ड के जिले में स्थित है। यह स्मारक राष्ट्रीय उद्यान सेवा के स्वामित्व में है। युद्ध के मैदान में सबसे नजदीकी शहर फ्रेडरिक, मैरीलैंड है।</lex>
+    </entry>
+    <entry category="Monument" eid="27" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Turkish lira is the official currency of the country where Ahmet Davutoglu is leader. The country is the location of the memorial designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id1">तुर्की लीरा उस देश की आधिकारिक मुद्रा है जहां अहमद दावुतोग्लू नेता हैं। यह देश पीएट्रो कैनोनिका द्वारा कांस्य में डिजाइन किए गए स्मारक का स्थान है और इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The currency of Turkey is the Turkish lira and the leader of the country is Ahmet Davutoglu. The country is the location of the Ataturk Monument (Izmir) designed in bronze by Pietro Canonica and inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id2">तुर्की की मुद्रा तुर्की लीरा है और देश का नेता अहमत दावुतोग्लू है। यह देश अतातुर्क स्मारक (इजमिर) का स्थान है जिसे पीएट्रो कैनोनिका द्वारा कांस्य में डिजाइन किया गया था और 27 जुलाई 1932 को इसका उद्घाटन किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Ahmet_Davutoglu is Turkey's leader where the currency is Turkish Lira, and where Pietro Canonica designed the Ataturk Monument in Izmir from bronze, the monument was inagurated on July 27, 1932.</lex>
+      <lex comment="" lang="hi" lid="Id3">अहमत _ दावुतोग्लू तुर्की के नेता हैं जहां मुद्रा तुर्की की लीरा है और जहां पीएट्रो कैनोनिका ने कांस्य से इजमिर में अतातुर्क स्मारक डिजाइन किया था, स्मारक को 27 जुलाई, 1932 को शुरू किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="28" shape="(X (X) (X (X) (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The leader of Turkey, where the currency is the Turkish lira, is Ahmet Davutoglu. While the capital city is Ankara, the largest city in the country is Istanbul. Turkey is the location of the Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id1">तुर्की का नेता, जहां मुद्रा तुर्की लीरा है, अहमत दावुतोग्लू है। देश की राजधानी अंकारा है और सबसे बड़ा शहर इस्तांबुल है। तुर्की अतातुर्क स्मारक (इजमिर) का स्थान है जिसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Ahmet Davutoglu is the leader of Turkey, where the capital is Ankara, but the largest city is Istanbul; the currency of Turkey is Turkish Lira and in Izmir, Turkey the Ataturk Monument stands, inaugurated on July 27, 1932.</lex>
+      <lex comment="" lang="hi" lid="Id2">अहमद दावुतोग्लू तुर्की के नेता हैं, जहां की राजधानी अंकारा है, लेकिन सबसे बड़ा शहर इस्तांबुल है तुर्की की मुद्रा तुर्की की लीरा है और इजमिर, तुर्की में अतातुर्क स्मारक स्टैंड है, जिसका उद्घाटन 27 जुलाई, 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Turkey's capital is Ankara and the country's leader is Ahmet Davutoglu. The currency of Turkey is the Turkish lira and Istanbul is it's largest city. The Atatürk Monument is located in Izmi and was inaugurated on the 27th of July, 1932.</lex>
+      <lex comment="" lang="hi" lid="Id3">तुर्की की राजधानी अंकारा है और देश के नेता अहमद दावुतोग्लू हैं। तुर्की की मुद्रा लीरा है और इस्तांबुल इसका सबसे बड़ा शहर है। अतातपेनेसर्क स्मारक इज़्मी में स्थित है और इसका उद्घाटन 27 जुलाई, 1932 को किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="29" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Ahmet Davutoglu is the leader of Turkey where Ankara is the capital, although the largest city is Istanbul. The country is the location of the bronze Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id1">अहमत दावुतोग्लू तुर्की के नेता हैं जहां अंकारा राजधानी है, हालांकि सबसे बड़ा शहर इस्तांबुल है। यह देश कांस्य अतातुर्क स्मारक (इजमिर) का स्थान है जिसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Izmir, Turkey is the location of the bronze Ataturk Monument which was inaugurated on 27 July 1932. Ahmet Davutoglu is the Turkish leader and the largest city is Istanbul although the capital is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id2">इजमिर, तुर्की में कांस्य अतातुर्क स्मारक है जिसका उद्घाटन 27 जुलाई 1932 को किया गया था। अहमत दावुतोग्लू तुर्की के नेता हैं और सबसे बड़ा शहर इस्तांबुल है, हालांकि इसकी राजधानी अंकारा है।</lex>
+      <lex comment="" lang="en" lid="Id3">Although Istanbul is the largest city, Ankara is the capital of Turkey where Ahmet Davutoglu is the leader. Turkey is the location of the bronze Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id3">हालांकि इस्तांबुल सबसे बड़ा शहर है, लेकिन अंकारा तुर्की की राजधानी है, जहां अहमद दावुतोग्लू नेता हैं। तुर्की कांस्य अतातुर्क स्मारक (इजमिर) का स्थान है जिसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="30" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Turkey's leader is the President, the currency is the Turkish lira and the capital city is Ankara. It is the location of the Ataturk monument which was designed by Pietro Canonica and inaugurated in Izmir on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id1">तुर्की का नेता राष्ट्रपति है, मुद्रा तुर्की लीरा है और राजधानी शहर अंकारा है। यह अतातुर्क स्मारक का स्थान है जिसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था और 27 जुलाई 1932 को इजमिर में इसका उद्घाटन किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The Ataturk Monument, which was designed by Pietro Canonica, was inaugurated on 27th July, 1932. Turkey's leader is the President, its currency is the Turkish Lira and the capital city is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id2">अतातुर्क स्मारक, जिसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था, का उद्घाटन 27 जुलाई, 1932 को किया गया था। तुर्की का नेता राष्ट्रपति है, तुर्की की मुद्रा लीरा है और राजधानी अंकारा है।</lex>
+      <lex comment="" lang="en" lid="Id3">Pietro Canonica designed the Ataturk Monument (Izmir) which was inaugurated on 27 July 1932 in Turkey. The Turkish leader is known as the President of Turkey, the currency is the Turkish lira and the capital city is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id3">पीएट्रो कैनोनिका ने अतातुर्क स्मारक (इजमिर) डिजाइन किया था जिसका उद्घाटन 27 जुलाई 1932 को तुर्की में किया गया था। तुर्की के नेता को तुर्की के राष्ट्रपति के रूप में जाना जाता है, मुद्रा तुर्की लीरा है और राजधानी अंकारा है।</lex>
+    </entry>
+    <entry category="Monument" eid="31" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">President Ahmet Davutoglu is the leader of Turkey, the home of the Ataturk monument (Izmir). The monument was designed in bronze by Pietro Canonica and inaugurated on 27 July 1932 in Izmir.</lex>
+      <lex comment="" lang="hi" lid="Id1">राष्ट्रपति अहमत दावुतोग्लू तुर्की के नेता हैं, जो अतातुर्क स्मारक (इजमिर) का घर है। स्मारक को पीएट्रो कैनोनिका द्वारा कांस्य में डिजाइन किया गया था और 27 जुलाई 1932 को इजमिर में इसका उद्घाटन किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The Ataturk Monument (located in Izmir, Turkey) is made of Bronze. It was inaugurated on the 27th July, 1932 and it was designed by Pietro Canonica. Turkey's leader is President Ahmet Davutoglu.</lex>
+      <lex comment="" lang="hi" lid="Id2">अतातुर्क स्मारक (तुर्की के इजमिर में स्थित) कांस्य से बना है। इसका उद्घाटन 27 जुलाई, 1932 को किया गया था और इसे पीएट्रो कैनोनिका द्वारा डिजाइन किया गया था। तुर्की के राष्ट्रपति अहमत दावुतोग्लू तुर्की के राष्ट्रपति हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">President Ahmet Davutoglu is the leader of Turkey which is the location of the Ataturk monument (Izmir) designed by Pietro Canonica. The monument is made of bronze and was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id3">राष्ट्रपति अहमत दावुतोग्लू तुर्की के नेता हैं, जो पिएत्रो कैनोनिका द्वारा डिजाइन किए गए अतातुर्क स्मारक (इजमिर) का स्थान है। यह स्मारक कांस्य से बना है और इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id4">Ahmet Davutoglu is the Turkish leader and is officially titled President of Turkey where the Ataturk Monument is located in Izmir made of bronze and designed by Pietro Canonica, inaugurated on July 27, 1932.</lex>
+      <lex comment="" lang="hi" lid="Id4">अहमत दावुतोग्लू तुर्की के नेता हैं और आधिकारिक तौर पर उन्हें तुर्की का राष्ट्रपति नाम दिया गया है जहां अतातुर्क स्मारक कांस्य से बने इजमिर में स्थित है और इसका डिजाइन पीएट्रो कैनोनिका द्वारा 27 जुलाई, 1932 को किया गया था।</lex>
+    </entry>
+  </entries>
+</benchmark>

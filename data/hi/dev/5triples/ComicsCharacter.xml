@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax a character in Big Hero 6 was created by the american Duncan Rouleau and by Steve T. Seagle. Maya Rudolph was one of the stars in the film version of Big Hero 6.</lex>
+      <lex comment="" lid="Id1" lang="hi">बिग हीरो 6 में बेमैक्स एक चरित्र अमेरिकी डंकन रूलयू और स्टीव टी. सीगल द्वारा बनाया गया था। माया रुडोल्फ बिग हीरो 6 के फिल्म संस्करण के सितारों में से एक थीं।</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax, is a character in Big Hero 6 whose creators are Steve T. Seagle and Duncan Rouleau, an American and it stars Maya Rudolph.</lex>
+      <lex comment="" lid="Id2" lang="hi">बेमैक्स, बिग हीरो 6 में एक चरित्र है, जिसके निर्माता स्टीव टी. सीगल और डंकन रूलो हैं, जो एक अमेरिकी हैं और इसमें माया रुडोल्फ हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Maya Rudolph.</lex>
+      <lex comment="" lid="Id3" lang="hi">बेमैक्स की स्थापना अमेरिकी डंकन रूलयू और स्टीवन टी. सीगल ने की थी। बिग हीरो 6 में बेमैक्स एक चरित्र है, जिसमें माया रुडोल्फ ने अभिनय किया है।</lex>
+    </entry>
+  </entries>
+</benchmark>

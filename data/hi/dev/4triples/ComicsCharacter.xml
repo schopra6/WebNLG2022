@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Larry Bolatinsky is the alternative name for the comic book character Bolt, which was created by Ernie Colon and the American Paris Cullins.</lex>
+      <lex comment="" lid="Id1" lang="hi">लैरी बोलेटिन्स्की कॉमिक पुस्तक चरित्र बोल्ट का वैकल्पिक नाम है, जिसे अर्नी कोलोन और अमेरिकी पेरिस कुलिन्स द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Ernie Colon and the US national Paris Cullins created the comic character of Bolt, who has the alternative name of Larry Bolatinsky.</lex>
+      <lex comment="" lid="Id2" lang="hi">अर्नी कोलोन और अमेरिकी नागरिक पेरिस कुलिन्स ने बोल्ट का हास्य चरित्र बनाया, जिसका वैकल्पिक नाम लैरी बोलेटिन्स्की है।</lex>
+      <lex comment="" lid="Id3" lang="en">Ernie Colón and the American Paris Cullins were among the creators of the comic book character Bolt, also known as Larry Bolatinsky.</lex>
+      <lex comment="" lid="Id3" lang="hi">अर्नी कोलसेन और अमेरिकी पेरिस कुलिन्स कॉमिक पुस्तक चरित्र बोल्ट के रचनाकारों में से एक थे, जिसे लैरी बोलेटिन्स्की के नाम से भी जाना जाता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | &quot;Astérix&quot;</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character Asterix is sometimes called &quot;Astérix&quot; and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
+      <lex comment="" lid="Id1" lang="hi">हास्य चरित्र एस्टेरिक्स को कभी-कभी एस्टेरिक्स कहा जाता है और इसे अल्बर्ट उदेर्जो और फ्रांसीसी नागरिक, रेने गोसिनी द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
+      <lex comment="" lid="Id2" lang="hi">अल्बर्ट उदेर्जो और फ्रांसीसी मूल के रेनेगेंट गोसिनी हास्य चरित्र एस्टेरिक्स के निर्माता हैं, जिन्हें एस्टेरिक्स के रूप में भी जाना जाता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The American comic book writer Roger McKenzie and Gene Colan created the character Ben Urich, who has the full name Benjamin Urich.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरिकी कॉमिक पुस्तक लेखक रोजर मैकेंजी और जीन कोलन ने बेन यूरिख चरित्र बनाया, जिसका पूरा नाम बेंजामिन यूरिख है।</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book writer, Roger McKenzie is an American and along with Gene Colan created Ben (Benjamin) Urich.</lex>
+      <lex comment="" lid="Id2" lang="hi">कॉमिक पुस्तक के लेखक, रोजर मैकेंजी एक अमेरिकी हैं और जीन कोलन के साथ मिलकर बेन (बेंजामिन) यूरिच का निर्माण किया है।</lex>
+      <lex comment="" lid="Id3" lang="en">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer Roger Mckenzie who is American.</lex>
+      <lex comment="" lid="Id3" lang="hi">बेन यूरिच का पूरा नाम बेंजामिन यूरिच है और इसका निर्माण जीन कोलन और कॉमिक बुक लेखक रोजर मैकेंजी ने किया है, जो अमेरिकी हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | &quot;Jon Valor&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | &quot;Jon Valor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+        <mtriple>Black_Pirate | alternativeName | &quot;Jon Valor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Black Pirate, also know as Jon Valor, was created by the Inkpot Award winning American, Sheldon Moldoff.</lex>
+      <lex comment="" lid="Id1" lang="hi">द ब्लैक पाइरेट, जिसे जॉन वैलर के रूप में भी जाना जाता है, इंकपॉट पुरस्कार विजेता अमेरिकी शेल्डन मोल्डॉफ द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">American Sheldon Moldoff, who has won the Inkpot Award, created The Black Pirate, whose alternative name is Jon Valor.</lex>
+      <lex comment="" lid="Id2" lang="hi">इंकपोट पुरस्कार जीतने वाले अमेरिकी शेल्डन मोल्डोफ ने द ब्लैक पाइरेट की रचना की है, जिसका वैकल्पिक नाम जॉन वैलर है।</lex>
+      <lex comment="" lid="Id3" lang="en">The black pirate, also known as Jon Valor, was created by Sheldon Moldoff, an American who has won the Inkpot award.</lex>
+      <lex comment="" lid="Id3" lang="hi">ब्लैक पाइरेट को जॉन वैलर के नाम से भी जाना जाता है, जिसे एक अमेरिकी शेल्डन मोल्डोफ द्वारा बनाया गया था, जिन्होंने इंकपॉट पुरस्कार जीता है।</lex>
+    </entry>
+  </entries>
+</benchmark>

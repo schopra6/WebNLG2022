@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield which is located in Frederick County, Maryland.</lex>
+      <lex comment="" lid="Id1" lang="hi">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक काउंटी में स्थित मोनोकेसी नेशनल बैटलफील्ड में पाया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield which is located Frederick County, Maryland.</lex>
+      <lex comment="" lid="Id2" lang="hi">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक काउंटी स्थित मोनोकेसी नेशनल बैटलफील्ड के जिले में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is in the Monacacy National Battlefield in Frederick, Maryland.</lex>
+      <lex comment="" lid="Id3" lang="hi">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक में मोनाकेसी नेशनल बैटलफील्ड में है।</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument is located in Izmir, Turkey, where the capital is Ankara.</lex>
+      <lex comment="" lid="Id1" lang="hi">अतातपरस्तिक स्मारक तुर्की के इजमिर में स्थित है, जहां राजधानी अंकारा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument is located in İzmir, Turkey which capital is Ankara.</lex>
+      <lex comment="" lid="Id2" lang="hi">अतातपरस्तिक स्मारक तुर्की की राजधानी अंकारा में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument (İzmir) is found in Turkey where the currency is the Turkish Lira.</lex>
+      <lex comment="" lid="Id1" lang="hi">अतातपेरेस्सेक स्मारक (सील्मीज़मीर) तुर्की में पाया जाता है जहां मुद्रा तुर्की लीरा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument is in Turkey, where the currency is the lira.</lex>
+      <lex comment="" lid="Id2" lang="hi">तुर्की में अतातपेनेसर्क स्मारक है, जहां मुद्रा लीरा है।</lex>
+    </entry>
+    <entry category="Monument" eid="4" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument is in Turkey which largest city is Istanbul.</lex>
+      <lex comment="" lid="Id1" lang="hi">तुर्की में स्थित अतातपरैंसेर्यक स्मारक इस्तांबुल का सबसे बड़ा शहर है।</lex>
+      <lex comment="" lid="Id2" lang="en">Istanbul is the largest city in Turkey, where the Atatürk Monument is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">इस्तांबुल तुर्की का सबसे बड़ा शहर है, जहां अतातपेलेस्योर्क स्मारक स्थित है।</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,911 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Lumezzane's ground is in Italy where Pietro Grasso leads the Italian people. The capital of the country is Rome and the Italian language is spoken.</lex>
+      <lex comment="" lid="Id1" lang="hi">लुमेजाने का ग्राउंड इटली में है जहां पीट्रो ग्रासो इटली के लोगों का नेतृत्व करते हैं। रोमन साम्राज्य की राजधानी रोम थी और इतालवी भाषा बोली जाती थी।</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Lumezzane's ground is in Italy where the Italian language is spoken by the inhabitants who are known as Italians. The leader of the country is Pietro Grasso and the capital city is Rome.</lex>
+      <lex comment="" lid="Id2" lang="hi">लुमेज्जाने का ग्राउंड इटली में है जहां इतालवी भाषा बोलने वाले लोग रहते हैं। thumb | left | upright | 250px | पियेत्रो ग्रास्सो देश का नेता और रोम राजधानी।</lex>
+      <lex comment="" lid="Id3" lang="en">The Italian people are led by Pietro Grasso and speak the Italian language. The capital city is Rome and the AC Lumezzane club play in the country.</lex>
+      <lex comment="" lid="Id3" lang="hi">इटली के लोगों का नेतृत्व पियेत्रो ग्रासो करते हैं और इतालवी भाषा बोलते हैं। इटली की राजधानी रोम है और देश में ए. सी. लुमेज़ेन क्लब खेलती है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Lumezzane play in Italy, where Rome is the capital and Italians live. It is also where Pietro Grasso is the leader and Italian is the official language.</lex>
+      <lex comment="" lid="Id1" lang="hi">लुमेजाने इटली में खेलते हैं, जहां रोम इटली की राजधानी है और इटली के लोग रहते हैं। thumbnail | upright | upright | पियत्रो ग्रासो के नेतृत्व में इटली की आधिकारिक भाषा</lex>
+      <lex comment="" lid="Id2" lang="en">AC Lumezzane play in Italy where the capital city is Rome and the official language is Italian. The leader of the Italian people is Pietro Grasso,.</lex>
+      <lex comment="" lid="Id2" lang="hi">इटली में ए. सी. ल्युमिजाने द्वारा खेले जाने वाले इस नाटक की राजधानी रोम है और इसकी आधिकारिक भाषा इटालियन है। Pietro Grasso इटली के लोगों का नेता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Pietro Grasso leads Italy whose capital is Rome. The language there is Italian and its people are known as Italians. A.C. Lumezzane play in that country.</lex>
+      <lex comment="" lid="Id3" lang="hi">पियेत्रो ग्रासो इटली का नेतृत्व करता है जिसकी राजधानी रोम है। thumb | right | upright | upright | इटालियन भाषा और वहां के लोगों को इटालियन कहा जाता है। लुमेज़ेन उस देश में खेलते थे।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
+        <otriple>Michele_Marcolini | team | A.C._Chievo_Verona</otriple>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Michele_Marcolini | clubs | Vicenza_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Michele_Marcolini | clubs | A.C._Chievo_Verona</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Michele_Marcolini | team | Vicenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | manager | Michele_Marcolini</mtriple>
+        <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
+        <mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Michele_Marcolini | club | Vicenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini has been manager of AC Lumezzane which is located in Italy. He played for Vicenza Calcio, A.C. Chievo Verona. An Italian leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id1" lang="hi">मिशेल मार्कोलिनी इटली में स्थित ए. सी. लुमेजाने के प्रबंधक रहे हैं। उन्होंने विसेंजा काल्सियो, ए. सी. चीवो वेरोना के लिए खेला। Pietro Grasso Italian leader pietro Grasso एक इतालवी नेता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini previously played for Vicenza Calcio but now plays for AC Chievo Verona. He is also the manager of AC Lumezzane who have their ground in Italy where Pietro Grasso is the leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">मिशेल मार्कोलिनी ने पहले विसेंजा काल्सियो के लिए खेला था, लेकिन अब वह एसी चिवो वेरोना के लिए खेलता है। campus. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign. campaign</lex>
+      <lex comment="" lid="Id3" lang="en">AC Lumezzane's ground is in Italy and their manager is Michele Marcolini who plays for A.C. Chievo Verona and is in the Vicenza Calcio Club. The leader of Italy is Pietro Grasso.</lex>
+      <lex comment="" lid="Id3" lang="hi">ए. सी. लुमेजाने का मैदान इटली में है और उनके प्रबंधक मिशेल मार्कोलिनी हैं जो ए. सी. चिवो वेरोना के लिए खेलते हैं और विसेंजा काल्चियो क्लब में हैं। Pietro Grasso इटली का नेता है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | capital | Athens</mtriple>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Nikos Voutsis and Prokopis Pavlopoulos are leaders in Greece where the capital city is Athens and the Greek language is spoken. The country is also the location of the A.E Dimitra Efxeinoupolis club.</lex>
+      <lex comment="" lid="Id1" lang="hi">निकोस वुत्सिस (Nikos Voutsis) और प्रोकोपिस पाव्लोपोलोस (Procopis Pavlopoulos) ग्रीस के नेता हैं जहां राजधानी एथेंस है और ग्रीक भाषा बोली जाती है। देश में ए. ई. दिमित्र एफक्सेनोपोलिस क्लब भी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece, where the language is Greek. Athens is the capital of Greece, and two of the leaders are Prokopis Pavlopoulos, and Nikos Voutsis.</lex>
+      <lex comment="" lid="Id2" lang="hi">&quot;&quot; &quot;feedAE Dimitra Efxeinoupolis club&quot; &quot;&quot; &quot;ग्रीस में स्थित है, जहां भाषा ग्रीक है।&quot; &quot;&quot; एथेंस ग्रीस की राजधानी है और दो नेता प्रोकोपिस पावलोपोलोस और निकोस वोत्सिस हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | currency | Euro</mtriple>
+        <mtriple>Greece | capital | Athens</mtriple>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavloopoulos. The country's capital is Athens and their currency is the euro.</lex>
+      <lex comment="" lid="Id1" lang="hi">ए. ई. दिमित्रा एफक्सेनोपोलिस ग्रीस में स्थित है, जहां निकोस वोत्सिस और प्रोकोपिस पावलूपौलस नेता हैं। thumbnail | upright | देश की राजधानी एथॆंस है और उसकी मुद्रा यूरो है।</lex>
+      <lex comment="" lid="Id2" lang="en">Greece is led by Nikos Voutsis and Prokopis Pavlopoulos, the capital city is Athens and the country uses the euro as their currency. It is also the location of the A.E Dimitra Efxeinoupolis club.</lex>
+      <lex comment="" lid="Id2" lang="hi">ग्रीस की राजधानी एथेंस है और देश यूरो को अपनी मुद्रा के रूप में उपयोग करता है। यह ए. ई. दिमित्र एफक्सेनोपोलिस क्लब का भी स्थान है।</lex>
+      <lex comment="" lid="Id3" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Nikos Voutsis and Prokopis Pavlopoulos. The capital of the country is Athens and the currency used is the euro.</lex>
+      <lex comment="" lid="Id3" lang="hi">निकोस वोत्सिस और प्रोकोपिस पाव्लोपोलोस के नेतृत्व में ग्रीस में स्थित ए. ई. दिमित्रा एफक्सेनोपोलिस क्लब है। thumb | left | 250px | एथेंस देश की राजधानी है और यूरो देश की मुद्रा है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | leader | Alexis_Tsipras</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | currency | Euro</mtriple>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+        <mtriple>Greece | capital | Athens</mtriple>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Two leaders of Greece are Alexis Tsipras and Nikos Voutsis. Athens is its capital and its currency is the euro. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+      <lex comment="" lid="Id1" lang="hi">ग्रीस के दो नेता एलेक्सिस सिप्रास (Alexis Tsipras) और निकोस वोत्सिस (Nikos Voutsis) हैं। thumbnail | upright | एथेंस राजधानी है और उसकी मुद्रा यूरो है। efimitra Efxeinoupolis ग्रीस में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece whose leader is Nikos Voutsis. Athens is the capital of Greece whose currency is the euro. Another leader there is Alexis Tsipras.</lex>
+      <lex comment="" lid="Id2" lang="hi">ई दिमित्रा एफक्सेनोपोलिस क्लब ग्रीस में स्थित है, जिसका लीडर निकोस वुत्सिस है। thumbnail | upright | एथेंस ग्रीस की राजधानी जिसकी मुद्रा यूरो है। एलेक्सिस सिप्रास (Alexis Tsipras) एक अन्य नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">A.E Dimitra Efxeinoupolis is located in Greece where the leaders are Alexis Tsipras and Nikos Voutsis. The capital of the country is Athens and the currency used is the euro. .</lex>
+      <lex comment="" lid="Id3" lang="hi">एफईएफए दिमित्रा एफक्सेनोपोलिस ग्रीस में स्थित है, जहां एलेक्सिस सिप्रास और निकोस वोत्सिस नेता हैं। thumb | left | 250px | एथेन्स देश की राजधानी है और यूरो देश की मुद्रा है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | leader | Alexis_Tsipras</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | currency | Euro</mtriple>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+        <mtriple>Greece | capital | Athens</mtriple>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece, where the money used is the Euro. Athens is the capital of Greece, and two of the leaders are Alexis Tsipras and Prokopis Pavlopoulos.</lex>
+      <lex comment="" lid="Id1" lang="hi">efeedAE Dimitra Efxeinoupolis क्लब ग्रीस में स्थित है, जहां इस्तेमाल किया गया पैसा यूरो है। एथेंस ग्रीस की राजधानी है और एलेक्सिस सिप्रास और प्रोकोपिस पावलोपोलोस दो नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece where Alexis Tsipras and Prokopis Pavlopoulos are leaders. The currency used in the country is the euro and the capital is Athens.</lex>
+      <lex comment="" lid="Id2" lang="hi">दिमित्रा एफक्सेनोपोलिस क्लब ग्रीस में स्थित है, जहां एलेक्सिस सिप्रास और प्रोकोपिस पावलोपोलोस नेता हैं। thumb | right | 250px | देश में प्रयुक्त होने वाली मुद्रा यूरो है और राजधानी एथॆंस है।</lex>
+      <lex comment="" lid="Id3" lang="en">Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. Athens is the capital of Greece and the currency is the Euro. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+      <lex comment="" lid="Id3" lang="hi">एलेक्सिस सिप्रास ग्रीस के प्रमुख हैं, जहां प्रोकोपिस पावलोपोलोस भी एक नेता हैं। thumbnail | upright | एथॆंस ग्रीस की राजधानी है और मुद्रा यूरो है। efimitra Efxeinoupolis ग्रीस में स्थित है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | currency | Euro</mtriple>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis is located in Greece which is led by Alexis Tsipras and Nikos Voutsis. The language of the country is Greek and the currency is the euro.</lex>
+      <lex comment="" lid="Id1" lang="hi">अलेक्सिस सिप्रास और निकोस वोत्सिस के नेतृत्व में ग्रीस में स्थित है। thumb | right | देश की भाषा यूनान है और मुद्रा यूरो है।</lex>
+      <lex comment="" lid="Id2" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece which currently has Alexis Tsipras and Nikos Voutsis as leaders. Here the currency used is the Euro and the main language is Greek.</lex>
+      <lex comment="" lid="Id2" lang="hi">दिमित्रा एफक्सेनोपोलिस क्लब ग्रीस में स्थित है, जिसमें वर्तमान में एलेक्सिस सिप्रास और निकोस वोत्सिस लीडर के रूप में हैं। thumbnail | upright | upright | upright | यूरो और ग्रीक में प्रयुक्त होने वाली मुद्रा</lex>
+      <lex comment="" lid="Id3" lang="en">Nikos Voutsis and Alexis Tsipras, are leaders in Greece, where Greek is spoken and the money used is the Euro. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+      <lex comment="" lid="Id3" lang="hi">निकोस वुत्सिस और अलेक्सिस सिप्रास ग्रीस के नेता हैं, जहां ग्रीक बोली जाती है और पैसे यूरो के रूप में उपयोग किए जाते हैं। efimitra Efxeinoupolis ग्रीस में स्थित है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | currency | Euro</mtriple>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis is located in Greece, the leader of which is Alexis Tsipras. Another leader is Prokopis Pavloopoulos. In Greece, the currency is the euro and the language is Greek.</lex>
+      <lex comment="" lid="Id1" lang="hi">ए. ई. दिमित्रा एफक्सेनोपोलिस ग्रीस में स्थित है, जिसके नेता एलेक्सिस सिप्रास हैं। thumb | right | upright | प्रोकोपिस पावलोपोलोस (Prokopis Pavloopoulos) thumb | right | 250px | ग्रीस में मुद्रा यूरो है और भाषा ग्रीक।</lex>
+      <lex comment="" lid="Id2" lang="en">Alexis Tsipras heads Greece where Prokopis Pavlopoulos is also a leader. The currency in Greece is the Euro and Greek is spoken. The A.E Dimitra Efxeinoupolis club is located in Greece.</lex>
+      <lex comment="" lid="Id2" lang="hi">एलेक्सिस सिप्रास ग्रीस के प्रमुख हैं, जहां प्रोकोपिस पावलोपोलोस भी एक नेता हैं। thumb | right | 250px | ग्रीस में मुद्रा यूरो है और ग्रीक बोली जाती है। thumbnail | upright | upright | ग्रीस में स्थित दिमित्रा एफक्सेनोपोलिस क्लब.</lex>
+      <lex comment="" lid="Id3" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece, where Greek is spoken and the currency is the euro. It is also where two of the leaders are, Prokopis Pavlopoulos and Alexis Tsipras.</lex>
+      <lex comment="" lid="Id3" lang="hi">efedimitra Efxeinoupolis क्लब ग्रीस में स्थित है, जहां ग्रीक बोली जाती है और मुद्रा यूरो है। यहीं पर प्रोकोपिस पावलोपोलोस और एलेक्सिस सिप्रास नाम के दो नेता भी हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | currency | Euro</otriple>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | currency | Euro</mtriple>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece where the leaders are Nikos Voutsis and Prokopis Pavlopoulos. The currency used is the euro and the Greek language is spoken in the country.</lex>
+      <lex comment="" lid="Id1" lang="hi">ई दिमित्रा एफक्सेनोपोलिस क्लब ग्रीस में स्थित है, जहां निकोस वोत्सिस और प्रोकोपिस पाव्लोपोलोस लीडर हैं। उपयोग की गई मुद्रा यूरो है और ग्रीक भाषा देश में बोली जाती है।</lex>
+      <lex comment="" lid="Id2" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece. The country which has the leaders, Nikos Voutsis and Prokopis Pavlopoulos. It is also, where Greek is spoken, and the Euro is used.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | ग्रीस में स्थित दिमित्रा एफक्सेनोपोलिस क्लब. Nikos Voutsis और Procopis Pavlopoulos. यूरो की जगह यूरो का इस्तेमाल किया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">A.E Dimitra Efxeinoupolis is located in Greece, where the language is Greek, the currency is the euro and its leaders are Nikos Voutsis and Prokopis Pavlopoulos.</lex>
+      <lex comment="" lid="Id3" lang="hi">ई दिमित्रा एफक्सेनोपोलिस ग्रीस में स्थित है, जहां भाषा ग्रीक है, मुद्रा यूरो है और इसके नेता निकोस वोत्सिस और प्रोकोपिस पावलोपोलोस हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | leader | Alexis_Tsipras</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+        <mtriple>Greece | capital | Athens</mtriple>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alexis Tsipras and Nikos Voutsis are leaders in Greece, where Athens is the capital, Greek is spoken and where A.E Dimitra Efxeinoupolis is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">एलेक्सिस सिप्रास और निकोस वोत्सिस ग्रीस के नेता हैं, जहां एथेंस राजधानी है, ग्रीक बोली जाती है और ए. ई. दिमित्रा एफक्सेनोपोलिस स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece which is led by Alexis Tsipras and Nikos Voutsis. The capital city of the country is Athens and the Greek language is spoken.</lex>
+      <lex comment="" lid="Id2" lang="hi">दिमित्रा एफक्सेनोपोलिस क्लब ग्रीस में स्थित है, जिसका नेतृत्व एलेक्सिस सिप्रास और निकोस वुत्सिस कर रहे हैं। thumb | right | 300px | देश की राजधानी एथॆंस है और ग्रीक भाषा बोली जाती है।</lex>
+      <lex comment="" lid="Id3" lang="en">A.E Dimitra Efxeinoupolis is located in Greece, where the leaders are Alexis Tsipras and Nikos Voutsis. Greek is spoken in Greece and the capital is Athens.</lex>
+      <lex comment="" lid="Id3" lang="hi">ए. ई. दिमित्रा एफक्सेनोपोलिस ग्रीस में स्थित है, जहां एलेक्सिस सिप्रास और निकोस वोत्सिस नेता हैं। ग्रीस में आधुनिक ग्रीक भाषा बोली जाती है और राजधानी एथेंस है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+        <otriple>Greece | leader | Alexis_Tsipras</otriple>
+        <otriple>Greece | capital | Athens</otriple>
+        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+        <mtriple>Greece | capital | Athens</mtriple>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis is located in Greece which currently has Alexis Tsipras as head and Prokopis Pavlopoulos as a leader. The capital city here is Athens and the language spoken is Greek.</lex>
+      <lex comment="" lid="Id1" lang="hi">ए. ई. दिमित्रा एफक्सेनोपोलिस ग्रीस में स्थित है, जहां वर्तमान में एलेक्सिस सिप्रास के प्रमुख और प्रोकोपिस पावलोपोलोस एक नेता के रूप में हैं। thumb | right | upright | यहाँ की राजधानी एथेंस है और बोली जाने वाली भाषा ग्रीक है।</lex>
+      <lex comment="" lid="Id2" lang="en">Prokopis Pavlopoulos and Alexis Tsipras are a leaders in Greece where Athens is the capital and Greek is spoken. A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+      <lex comment="" lid="Id2" lang="hi">prokopis pavlopoulos and Alexis Tsipras – prokopis Pavlopoulos and Alexis Tsipras – there are leaders in Greece where the capital and the Greek was speaked. efimitra Efxeinoupolis ग्रीस में स्थित है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+        <otriple>Stuart_Parker_(footballer) | clubs | Runcorn_F.C._Halton</otriple>
+        <otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+        <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gordon Marsden is a leader in Blackpool where AFC Blackpool is located. The club is managed by Stuart Parker whose club was Stockport County but he now plays for Runcorn FC Halton.</lex>
+      <lex comment="" lid="Id1" lang="hi">गार्डन मार्सडेन ब्लैकपूल में एक लीडर हैं, जहां ए. एफ. सी. ब्लैकपूल स्थित है। thumb | left | 250px | स्टुअर्ट पार्कर स्टाकपोर्ट काउंटी के लिए खेलते हैं</lex>
+      <lex comment="" lid="Id2" lang="en">Gordon Marsden is the leader in Blackpool which is the location of AFC Blackpool. The club is managed by Stuart Parker who plays for both Runcorn FC Halton and Stockport County FC.</lex>
+      <lex comment="" lid="Id2" lang="hi">गार्डन मार्सडेन ब्लैकपूल में लीडर हैं, जो एएफसी ब्लैकपूल का स्थान है। क्लब का प्रबंधन स्टुअर्ट पार्कर द्वारा किया जाता है, जो रनकार्न एफसी हाल्टन और स्टाकपोर्ट काउंटी एफसी दोनों के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Gordon Marsden is the leader in Blackpool where AFC Blackpool is located. The club is managed by Stuart Parker who was at Stockport County FC but now plays for Runcorn FC Halton.</lex>
+      <lex comment="" lid="Id3" lang="hi">गार्डन मार्सडेन ब्लैकपूल में लीडर हैं, जहां ए. एफ. सी. ब्लैकपूल स्थित है। क्लब का प्रबंधन स्टुअर्ट पार्कर द्वारा किया जाता है, जो स्टाकपोर्ट काउंटी एफसी में थे, लेकिन अब रनकॉर्न एफसी हाल्टन के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+        <otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+        <otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+        <mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+        <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker is the manager of the A.F.C Blackpool club, which has its ground in Blackpool. The local leader is Gordon Marsden. Parker is also a member of the Chesterfield F.C. and plays for Stockport County F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">लेविस पार्कर, ए. एफ. सी. ब्लैकपूल क्लब के प्रबंधक हैं, जो ब्लैकपूल में स्थित है। स्थानीय नेता गॉर्डन मार्सडेन हैं। इजाज पार्कर चेस्टरफिल्ड एफ. सी. के सदस्य हैं और स्टॉकपोर्ट काउंटी एफ.</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Blackpool is Gordon Marsden. Stuart Parker, who once played football for Chesterfield FC and Stockport County FC is the manager of AFC Blackpool, whose ground is located in Blackpool.</lex>
+      <lex comment="" lid="Id2" lang="hi">Blackpool के नेता Gordon Marsden हैं। चेस्टरफील्ड एफसी और स्टाकपोर्ट काउंटी एफसी के लिए फुटबॉल खेलने वाले प्रोफेसर स्टुअर्ट पार्कर एएफसी ब्लैकपूल के प्रबंधक हैं, जिसका मैदान ब्लैकपूल में स्थित है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.</otriple>
+        <otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+        <otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+        <mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+        <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gordon Marsden is the leader in Blackpool where AFC Blackpool have their ground. The club is managed by Stuart Parker who was a footballer for Chesterfield FC and Blackburn Rovers FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">गार्डन मार्सडेन ब्लैकपूल में लीडर हैं, जहां एएफसी ब्लैकपूल का अपना मैदान है। क्लब् का प्रबंधन स्टुअर्ट पार्कर द्वारा किया जाता है, जो चेस्टरफील्ड एफसी और ब्लैकबर्न रोवर्स एफसी के लिए एक फुटबॉल खिलाड़ी थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker is the manager at AFC Blackpool who have their ground in Blackpool which is currently led by Gordon Marsden. He also plays for Blackburn Rovers FC and is attached to Chesterfield FC.</lex>
+      <lex comment="" lid="Id2" lang="hi">लेविस पार्कर, एएफसी ब्लैकपूल के प्रबंधक हैं, जिनका ब्लैकपूल में मैदान है और वर्तमान में इसका नेतृत्व गोर्डन मार्सडेन कर रहे हैं। वह ब्लैकबर्न रोवर्स एफसी के लिए भी खेलते हैं और चेस्टरफील्ड एफसी से जुड़े हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Gordon Marsden is the leader of Blackpool where the ground of AFC Blackpool is located. The club have had Stuart Parker as their manager who has also been at Blackburn Rovers FC and is a member of Chesterfield FC.</lex>
+      <lex comment="" lid="Id3" lang="hi">गार्डन मार्सडेन ब्लैकपूल के नेता हैं, जहां एएफसी ब्लैकपूल का मैदान स्थित है। Blackburn Rovers FC में रहे हैं और Chesterfield FC के सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+        <otriple>Blackpool | leaderName | Conservative_Party_(UK)</otriple>
+        <otriple>Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.</otriple>
+        <otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+        <mtriple>Blackpool | leader | Conservative_Party_(UK)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+        <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Blackpool is where AFC Blackpool's ground is located and where the leader is the Conservative Party (UK). AFC Blackpool has been managed by Stuart Parker who has previous played for Blackburn Rovers FC and KV Mechelen.</lex>
+      <lex comment="" lid="Id1" lang="hi">blackpool है जहां AFC blackpool का मैदान स्थित है और जहां नेता कंजर्वेटिव पार्टी (UK) है। एएफसी ब्लैकपूल का प्रबंधन स्टुअर्ट पार्कर द्वारा किया गया है, जो इससे पहले ब्लैकबर्न रोवर्स एफसी और केवी मेचलेन के लिए खेले हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker plays for KV Mechelen and the Blackburn Rovers F.C. AFC Blackpool(Blackpool) had Stuart Parker as their manager. The Conservative Party U.K. is the leader of Blackpool.</lex>
+      <lex comment="" lid="Id2" lang="hi">ए. एफ. सी. ब्लैकपूल (ब्लैकपूल) ने स्टुअर्ट पार्कर को प्रबंधक नियुक्त किया था। blackpool के नेता ब्रिटेन की conservative party blackpool है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+        <otriple>Blackpool | leaderName | Conservative_Party_(UK)</otriple>
+        <otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+        <otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+        <mtriple>Blackpool | leader | Conservative_Party_(UK)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+        <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Conservative Party UK are the leaders in Blackpool which is the location of the AFC Blackpool home ground. Their manager is Stuart Parker who has represented KV Mechelen FC and also Drogheda United FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">blackpool AFC blackpool home ground का स्थान है और blackpool में conservative party UK नेतृत्व कर रही है। उनके प्रबंधक स्टुअर्ट पार्कर हैं, जिन्होंने केवी मेचेन एफसी और ड्रोघेडा यूनाइटेड एफसी का प्रतिनिधित्व किया है।</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Blackpool is located in Blackpool where the leader is the Conservative Party (UK). Stuart Parker, who has played at Drogheda FC and KV Mechelen, has been the manager of AFC Blackpool.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएफसी ब्लैकपूल ब्लैकपूल में स्थित है, जहां नेता कंजर्वेटिव पार्टी (यूके) है। ड्रॉगेडा एफसी और केवी मेचेलेन में खेल चुके प्रोफेसर के. वी. स्टुअर्ट पार्कर एएफसी ब्लैकपूल के प्रबंधक रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">AFC Blackpool (Blackpool)have had Stuart Parker as their manager. Parker(with the Drogheda United F.C.) plays for KV Mechelen. The Conservative Party U.K. is the leader of Blackpool.</lex>
+      <lex comment="" lid="Id3" lang="hi">एएफसी ब्लैकपूल (ब्लैकपूल) ने स्टुअर्ट पार्कर को प्रबंधक के रूप में नियुक्त किया है। रमेश पार्कर (द्रोघेडा यूनाइटेड एफ. सी. के साथ) केवी मेचेलेन के लिए खेलते हैं। blackpool के नेता ब्रिटेन की conservative party blackpool है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+        <otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+        <otriple>A.F.C._Blackpool | ground | Blackpool</otriple>
+        <otriple>Blackpool | leaderName | Labour_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+        <mtriple>A.F.C._Blackpool | ground | Blackpool</mtriple>
+        <mtriple>Blackpool | leader | Labour_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Blackpool have their ground in Blackpool where the leader of the council is Labour. Stuart Parker, who has played at Drogheda United FC and KV Mechelen, has been manager of AFC Blackpool.</lex>
+      <lex comment="" lid="Id1" lang="hi">ब्लैकपूल में एएफसी ब्लैकपूल का अपना मैदान है, जहां परिषद का नेता श्रम है। ड्रॉगेडा यूनाइटेड एफसी और केवी मेचलेन में खेलने वाले प्रोफेसर स्टुअर्ट पार्कर एएफसी ब्लैकपूल के प्रबंधक रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Blackpool is located in the town of Blackpool, where the leader of the Council is the Labour Party (UK). The manager of AFC Blackpool is Stuart Parker who has previously played football for Drogheda United FC and KV Mechelen.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएफसी ब्लैकपूल ब्लैकपूल शहर में स्थित है, जहां लेबर पार्टी (यूके) परिषद का नेता है। एएफसी ब्लैकपूल के मुख्य प्रबंधक स्टुअर्ट पार्कर हैं, जो इससे पहले ड्रोगेडा यूनाइटेड एफसी और केवी मेचेलेन के लिए फुटबॉल खेल चुके हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Gubbio 1910 are located in Italy and play in Serie D whose champions are currently SS Robur Siena. The leader of Italy is Sergio Mattarella and the capital city is Rome.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | upright | एएस गुब्बियो 1910 इटली में स्थित है और सेरी डी में खेलता है जिसके वर्तमान चैंपियन एसएस रोबर सियेना हैं। इटली के नेता सर्जियो माट्टारेल्ला (Sergio Mattarella) राजधानी रोम है।</lex>
+      <lex comment="" lid="Id2" lang="en">The champions of Serie D are S.S. Robur Siena in which AS Gubbio 1910 also play. This latter club has their ground in Italy where the leader is Sergio Mattarella and the capital is the city of Rome.</lex>
+      <lex comment="" lid="Id2" lang="hi">Serie D के विजेताओं में S. S. Robur Siena जिसमें AS Gubbio 1910 भी खेलते हैं। thumbnail | upright | upright | 250px | इटलीमें स्थित इस क्लब की राजधानी रोम है और इसका लीडर सर्जियो मट्टारेला है।</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Gubbio 1910 is in the Serie D league who's previous champions include S S Robur Siena. The grounds of the A.S. Gubbio 1910 are located in Italy which currently has Sergio Mattarella as a leader and Rome is the capital city.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | upright | upright | upright | ए. एस. गुब्बियो 1910 सीरी डी लीग में है जिसमें पूर्व चैंपियन एस. एस. गुब्बियो 1910 का आधार इटली में स्थित है, जो वर्तमान में सर्जियो मट्टारेल्ला को नेता के रूप में रखता है और रोम राजधानी शहर है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+        <otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+        <mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">S.S. Robur Siena are champions of Serie D. in which AS Gubbio 1910 also play. The latter club have their home ground located in Italy which is led by Pietro Grasso and uses the Italian language.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | upright | upright | upright | रोबर सियेना सीरी डी के चैंपियन हैं जिसमें एएस गुब्बियो 1910 भी खेलता है thumbnail | upright | upright | पियेत्रो ग्रासो के नेतृत्व में इतालवी भाषा का उपयोग करने वाले इटली के क्लब का होम ग्राउंड</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. The football club play in Serie D, the champions of which are S.S. Robur Siena. Italy is led by Pietro Grasso and the language spoken is Italian.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का ग्राउंड इटली में स्थित है। thumbnail | upright | 200px | सेरी डी में खेले जाने वाले फुटबॉल क्लबों के चैंपियन एस. एस. रोबर सियेना thumbnail | upright | 150px | ईटाली pietro grasso people language with Italian.</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Gubbio 1910 (Italy) play in Serie D. S.S. Robur Siena are champions of that serie. Pietro Grasso leads Italy. Italian is the language spoken in Italy.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | 200px | upright | ए. एस. गुब्बियो 1910 (इटली) सेरी डी. एस. एस. इटली के पियेत्रो ग्रासो सबसे आगे हैं। इतालवी इटली में बोली जाने वाली भाषा है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">S.S. Robur Siena are champions of Serie D in which AS Gubbio 1910 also play. This latter club have their home ground in Italy where the capital city is Rome and the leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | upright | upright | upright | रोबर सियेना सीरी डी के चैंपियन हैं जिसमें ए. एस. गुब्बियो 1910 भी खेलता है। thumbnail | upright | upright | इटली के इस क्लब की राजधानी रोम है और इसका नेता पीट्रो ग्रास्सो है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Pietro Grasso and Rome is the capital. A.S. Gubbio 1910 play in Serie D, of which S.S. Robur Siena are champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | upright | ए. एस. गुब्बियो ग्राउंड 1910 इटली में स्थित है, जहां नेता पीट्रो ग्रासो हैं और रोम राजधानी है। thumb | left | 200px | सीरी डी में ए. एस. गुब्बियो 1910 नाटक जिसमें एस. एस. रोबर सियेना चैंपियन थे</lex>
+    </entry>
+    <entry category="SportsTeam" eid="22" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>Sportpark_De_Toekomst | tenants | Jong_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+        <mtriple>Sportpark_De_Toekomst | tenant | Jong_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jong Ajax and Ajax Youth Academy are tenants of Sportpark De Toekomst. the home ground of AFC Ajax (amateurs). The ground is operated by AFC Ajax and owned by AFC Ajax NV.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजाक्स और अजाक्स यूथ एकेडमी स्पोर्टपार्क डी टोकोम्स्ट के किरायेदार हैं. एएफसी अजाक्स (शौकिया) का घरेलू मैदान है। ग्राउंड का संचालन एएफसी अजाक्स द्वारा किया जाता है और एएफसी अजाक्स एनवी के स्वामित्व में है।</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst which is operated by AFC Ajax and owned by AFC Ajax NV. Jong Ajax and Ajax Youth Academy are both tenants.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | एएफसी अजाक्स (शौकिया) का मैदान Sportpark de Toekomst है जो एएफसी अजाक्स द्वारा संचालित है और एएफसी अजाक्स एनवी के स्वामित्व में है। अजाक्स यूथ एकेडमी और अजाक्स यूथ एकेडमी दोनों किरायेदार हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst. It is owned and operated by AFC Ajax N.V. and tenanted by Ajax Youth Academy (Jong Ajax).</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | upright | एएफसी अजाक्स (शौकिया) का मैदान Sportpark de Toekomst है। यह एएफसी अजाक्स एन. वी. के स्वामित्व और संचालन में है और अजाक्स यूथ एकेडमी (जोंग अजाक्स) द्वारा किराए पर दिया गया है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="23" size="5" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+        <otriple>AZAL_PFK | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+        <mtriple>AZAL_PFK | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Qarabağ FK are the champions of the Azerbaijan Premier League, which AZAL PFK play in. AZAL Arena, is where home matches of AZAL PFK are played. The club has3500 members, and are in the 2014 season .</lex>
+      <lex comment="" lid="Id1" lang="hi">caraba arameigness FK अजरबैजान प्रीमियर लीग के चैंपियन हैं, जिसमें अजरबैजान पीएफके खेलता है। career. career. career. azal arena, is where home matches of Azal PFK will be played. क्लब के 3500 सदस्य हैं और वे 2014 के सत्र में हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">AZAL PFK, who play at the AZAL Arena and have a membership of 3500, are in the Azerbaijan Premier League where they competed in 2014. The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.</lex>
+      <lex comment="" lid="Id2" lang="hi">अजमल एरीना में खेलने वाले और 3500 सदस्य वाले अजमल पीएफके अजरबैजान प्रीमियर लीग में हैं, जहां उन्होंने 2014 में भाग लिया था। अजरबैजान प्रीमियर लीग में चैम्पियनशिप फुटबॉल टीम का नाम काराबाग एफके है।</lex>
+      <lex comment="" lid="Id3" lang="en">The AZAL PFK, with 3500 members, competes in The Azerbaijan Premier League, with championship team being Qarabag FK. AZAL PFK competed in the 2014 season and play their home matches at the AZAL Arena.</lex>
+      <lex comment="" lid="Id3" lang="hi">3500 सदस्यों के साथ अजरबैजान प्रीमियर लीग में प्रतिस्पर्धा करता है, जिसमें चैम्पियनशिप टीम काराबाग एफके है। अजमल पीएफके ने 2014 सीज़न में भाग लिया और अजल एरिना में अपने घरेलू मैच खेले।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="24" size="5" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>AZAL_PFK | league | Azerbaijan_Premier_League</otriple>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+        <otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
+        <otriple>AZAL_PFK | capacity | 3500</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | league | Azerbaijan_Premier_League</mtriple>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+        <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZAL Arena, which holds 3500 fans, is the ground of AZAL PFK who played in the Azerbaijan Premier League in 2014-15. Qarabag FK have been champions of this league.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजरबैजान प्रीमियर लीग (APL) 2014-15 में अजरबैजान प्रीमियर लीग (APL) में खेलने वाले अजरबैजान पीएफके (AZAL PFK) के मैदान अजरबैजान अरेना (AZAL Arena) में 3500 दर्शक हैं। quarabag FK इस लीग के चैंपियन रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Qarabağ FK are the champions of the Azerbaijan Premier League in which AZAL PFK also competed in 2014-15. AZAL PFK have 3500 memberrs and play their home matches at the AZAL Arena.</lex>
+      <lex comment="" lid="Id2" lang="hi">अजरबैजान प्रीमियर लीग, जिसमें 2014-15 में अजरबैजान पीएफके ने भी भाग लिया था, के चैंपियन हैं। अजल पीएफके के 3500 सदस्य हैं और वे अजल एरीना में अपने घरेलू मैच खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="25" size="5" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | &quot;17000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+        <mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</mtriple>
+        <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense, whose ground is Estádio Municipal Coaracy da Mata Fonseca, play in the Campeonato Brasileiro Série C league in Brazil. Agremiacao Sportiva Arapiraquense has 17000 members and Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.</lex>
+      <lex comment="" lid="Id1" lang="hi">campeonato Brasileiro Sslairie C league in Brazil. campeonato Brasileiro Swaliere C league in Brazil. campeonato Brasileiro Swalieri C. campeonato Brasileiro Swalieri C. campeonato Braziliero Braziliero Braziliero Braziliere C. अग्रेमियाको स्पोर्तिवा अरापिराक्वेंस के 17000 सदस्य हैं और विला नोवा फुतेबोल क्लुबे केम्पियोनाटो ब्रासीलिरो स्लीरो री सी के चैंपियन रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, it has 17000 members and play in the Campeonato Brasileiro Série C league, which is based in Brazil and the current champions are Vila Nova Futebol Clube.</lex>
+      <lex comment="" lid="Id2" lang="hi">एग्रेमियाको स्पोर्तिवा अरापिराक्वेंस का मैदान एस्ताडियो म्यूनिसिपल कोरेसी डा माता फोंसेका है, इसमें 17000 सदस्य हैं और यह ब्राज़ील में स्थित कैम्पियोनाटो ब्रासिलियरो स्लमेरियो स्लमेरियो सी लीग में खेलता है और वर्तमान चैंपियन विला नोवा फुटेबोल क्लुबे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also play in the league and have their home ground at Estádio Municipal Coaracy da Mata Fonseca.</lex>
+      <lex comment="" lid="Id3" lang="hi">वीला नोवा फुतेबोल क्लुबे ब्राज़ील में कैम्पियोनाटो ब्रासीलिरो स्लिलिरो स्लरी सी लीग की चैंपियन रही हैं। 17, 000 सदस्यों वाले अरापिराक्वेंस के भी लीग में खेलते हैं और एस्टेनेडियो म्यूनिसिपल कोरेसी डा माता फोंसेका में उनका घरेलू मैदान है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="26" size="5" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | &quot;17000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+        <mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015</mtriple>
+        <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C league in Brazil. The Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.</lex>
+      <lex comment="" lid="Id1" lang="hi">ब्राजील में आयोजित Campeonato Brasileiro Siliero Rie C League में विजेताओं का चयन किया गया है। 17, 000 सदस्यों वाले एग्रेमिया पेलेमिंगो स्पोर्टिवा अरापिराक्वेंस, 2015 में लीग में भी खेला।</lex>
+      <lex comment="" lid="Id2" lang="en">Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C. league in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members also played in the league in 2015.</lex>
+      <lex comment="" lid="Id2" lang="hi">वीला नोवा फुतेबोल क्लुबे ब्राज़ील में कैम्पियोनाटो ब्रासीलिरो सीरी सी लीग की चैंपियन हैं। &quot;&quot; &quot;2015 में लीग में 17000 सदस्यों के साथ&quot; &quot;&quot; &quot;एग्रेमिया बीग्लीमिओ स्पोर्तिवा अरापिराक्वेंस&quot; &quot;&quot; &quot;भी खेला है।&quot; &quot;&quot;</lex>
+      <lex comment="" lid="Id3" lang="en">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C. based in Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also played in the league in 2015.</lex>
+      <lex comment="" lid="Id3" lang="hi">वीला नोवा फुतेबोल क्लुबे ब्राजील स्थित कैम्पियोनाटो ब्रासीलिरो स्लाइरी सी में चैंपियन थे। 17, 000 सदस्यों वाले स्पोर्टिवा अरापिराक्वेंस, 2015 में लीग में भी खेला।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="27" size="5" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | &quot;17000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</otriple>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+        <mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</mtriple>
+        <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense (with 17000 members) play in Brazil's Campeonato Brasileiro Série C league and competed in the 2015 event. Vila Nova Futebol Clube are the champions of Série C.</lex>
+      <lex comment="" lid="Id1" lang="hi">अग्रेमिया-अग्रेमिया-अग्रेमिया-अग्रेमिया-अग्रेविया-अग्रेपिराक्वेंस (17000 सदस्यों के साथ) ब्राज़ील के केम्पियोनाटो-ब्राजिलियरो-स्लीरो-स्लीरी-सी लीग में खेलते हैं और 2015 इवेंट में भाग लेते हैं। वीला नोवा फुतेबोल क्लुबे (Wila Nova Futebol Clube) ने स्वेरी सी (Ssalirie C) के विजेताओं को बधाई दी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league based in Brazil. It has 17000 members. Champions of the Serie C league is the Vila Nova Futebol Clube.</lex>
+      <lex comment="" lid="Id2" lang="hi">campeonato Brasileiro Siliero Srie C league based in Brazil campeonato Brasileiro based in Brazil campeonato Brasileiro Brasileiro Srie C league. इसमें 17000 सदस्य हैं। सेरी सी लीग के विजेताओं का नाम विला नोवा फुतेबोल क्लुबे है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C from Brazil. Agremiação Sportiva Arapiraquense, who have 17000 members, also competed in the league in 2015.</lex>
+      <lex comment="" lid="Id3" lang="hi">ब्राजील के विला नोवा फुतेबोल क्लुबे ने कैंपियोनाटो ब्रासीलिरो स्लाइरी सी में चैंपियन बनने का गौरव हासिल किया। इक्वेटोरियल गिनी (Agreemia Bilgium), बेल्जियम (Belgium), स्पेन (Belgium), स्वीडन (Belgium), स्वीडन (Belgium), स्विट्जरलैंड (Belgium), स्पेन (Belgium), स्वीडन (Belgium), स्पेन (Belgium), स्वीडन (Belgium), स्वीडन (Belgium), स्विट्जरलैंड (Belgium), स्वीडन (Belgium), स्वीडन (Belgium), स्वीडन (Belgium), स्वीडन (Belgium), स्वीडन (Belgium), स्वीडन (Belgium).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="28" size="5" shape="(X (X (X)) (X (X (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St. Vincent-St. Mary High School, which is in Akron, Ohio, in the United States, is the ground of Akron Summit Assault. They play in the Premier Development League, where the champions have been K-W United FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">सेंट विंसेंट-सेंट. &quot;&quot; &quot;feedback to the ground of Akron Summit Asault,&quot; &quot;&quot; &quot;feedback to the ground of the Akron Summit Assault&quot; &quot;&quot; &quot;&quot; &quot; के-डब्ल्यू यूनाइटेड एफसी ने प्रीमियर डेवलपमेंट लीग (PDL) में भाग लिया है।</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent-St Mary High School, located in Akron, Ohio, US is the home of Akron Summit Assault. They play football in the Premier Development League, of which K-W United FC were champions.</lex>
+      <lex comment="" lid="Id2" lang="hi">अक्रोन, ओहियो, अमेरिका में स्थित सेंट विंसेंट-सेंट मेरी हाई स्कूल अक्रोन समिट असॉल्ट का घर है। के-डब्ल्यू यूनाइटेड एफसी प्रीमियर डेवलपमेंट लीग की चैंपियन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">K-W United FC have been champions of the Premier Development League, which Akron Summit Assault play in. their ground is St. Vincent-St. Mary High School in Akron, Ohio, in the U.S.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | upright | के-डब्ल्यू यूनाइटेड प्रीमियर डेवलपमेंट लीग के चैंपियन रहे हैं, जो अक्रोन समिट असॉल्ट खेलता है। thumb | right | 200px | upright | अमेरिका के ओहियो स्थित अक्रोन स्थित मेरी हाई स्कूल</lex>
+    </entry>
+    <entry category="SportsTeam" eid="29" size="5" shape="(X (X (X (X) (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron, Ohio is located in the United States, is part of the Summit County and has Dan Horrigan as a leader. Akron is also home to St Vincent-St Mary High School which is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | upright | upright | upright | अक्रोन, ओहियो स्थित संयुक्त राज्य अमेरिका में स्थित है, यह समिट काउंटी का हिस्सा है और इसमें डैन होरिगन एक नेता के रूप में हैं। अक्रोन में सेंट विंसेंट-सेंट मेरी हाई स्कूल भी है, जो अक्रोन समिट असॉल्ट का मैदान है।</lex>
+      <lex comment="" lid="Id2" lang="en">St. Vincent–St. Mary High School is located in the city of Akron, Ohio, USA. The school is the ground of Akron Summit Assault. The city is part of Summit County, Ohio. It is led by Dan Horrigan.</lex>
+      <lex comment="" lid="Id2" lang="hi">st. vincent-St. Mary High School) अमेरिका के ओहायो राज्य के अक्रोन शहर में स्थित है। school is the ground of the Akron Summit Asault. यह शहर ओहियो के समिट काउंटी का हिस्सा है। thumbnail | upright | upright | डॅन होरिगन के नेतृत्व में</lex>
+      <lex comment="" lid="Id3" lang="en">Dan Horrigan is the leader in Akron, Summit County, Ohio, United States, where St Vincent-St Mary High School is located. The school is the location for the home ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id3" lang="hi">सैमसंग होरिगन अक्रोन, समिट काउंटी, ओहियो, संयुक्त राज्य अमेरिका में जहां सेंट विंसेंट-सेंट मेरी हाई स्कूल स्थित है, वहां के नेता हैं। स्कूल अक्रोन समिट असॉल्ट के होम ग्राउंड के लिए स्थान है।</lex>
+      <lex comment="" lid="Id4" lang="en">St. Vincent-St. Mary High School is located in Akron, Summit County, Ohio USA. St Vincent-St Mary High School is the ground of Akron Summit Assault. The leader of Akron, Ohio is a one Dan Horrigan.</lex>
+      <lex comment="" lid="Id4" lang="hi">सेंट विंसेंट-सेंट. processing Mary High School, Akron, Summit County, Ohio USA में स्थित है। st vincent-st. mary high school is ground of the Acron summit assault. अक्रोन, ओहियो के नेता एक डैन होरिगन हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">Akron Summit Assault's ground is St. Vincent-St. Mary High School, which is located in the city of Akron, Ohio, (where the leader is Dan Horrigan), in the United States.</lex>
+      <lex comment="" lid="Id5" lang="hi">thumb | left | upright | सेंट विंसेंट-सेंट पीटर्सबर्ग अक्रोन शिखर सम्मेलन असॉल्ट का मैदान thumb | left | upright | upright | upright | मैरी हाई स्कूल, अक्रोन, ओहियो शहर में स्थित है, (जहां नेता डैन होरिगन हैं), संयुक्त राज्य अमेरिका.</lex>
+      <lex comment="" lid="Id6" lang="en">Akron Summit Assault's ground is St. Vincent-St. Mary High School. Which is in the United States in Summit County, in Akron, Ohio where Dan Horrigan is the leader.</lex>
+      <lex comment="" lid="Id6" lang="hi">thumb | left | upright | सेंट विंसेंट-सेंट पीटर्सबर्ग अक्रोन शिखर सम्मेलन असॉल्ट का मैदान इनसाइडर मेरी हाई स्कूल। thumb | right | upright | संयुक्त राज्य अमेरिका में अक्रोन, ओहियो के समिट काउंटी में जहां डैन होरिगन अग्रणी हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="30" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States, where the leader is Dan Horrigan.</lex>
+      <lex comment="" lid="Id1" lang="hi">अक्रोन समिट असॉल्ट का मैदान संयुक्त राज्य अमेरिका के ओहियो में समिट काउंटी, अक्रोन शहर के सेंट विंसेंट सेंट सेंट मेरी हाई स्कूल में स्थित है, जहां नेता डैन होरिगन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault have their ground at St Vincent St Mary High School which is based in Akron, Summit County, Ohio in the United States. Dan Horrigan is the leader of Akron.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | संयुक्त राज्य अमेरिका के ओहियो में समिट काउंटी के अक्रोन स्थित सेंट विंसेंट सेंट सेंट मेरी हाई स्कूल में अक्रोन शिखर सम्मेलन का आयोजन thumb | right | 250px | डान होरिगन अक्रोन के नेता</lex>
+      <lex comment="" lid="Id3" lang="en">Dan Horrigan is the leader of Akron where the home ground of Akron Summit Assault is located at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">अक्रोन समिट असॉल्ट का होम ग्राउंड अक्रोन शहर के सेंट विन्सेंट सेंट सेंट मेरी हाई स्कूल, अक्रोन, समिट काउंटी, ओहियो, संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id4" lang="en">Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Summit County, Ohio in the U.S. Dan Horrigan is the leader of Akron, Ohio.</lex>
+      <lex comment="" lid="Id4" lang="hi">thumb | left | upright | सेंट विंसेंट-सेंट पीटर्सबर्ग में अक्रोन शिखर सम्मेलन असॉल्ट का मैदान thumb | left | upright | upright | मैरी हाई स्कूल, अक्रोन, समिट काउंटी, ओहियो, अमेरिका में डैन होरिगन अक्रोन, ओहियो के नेता हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">Dan Horrigan is the leader of Akron, Summit County, Ohio in the United States. Akron is the location of the home ground of Akron Summit Assault at St Vincent St Mary High School.</lex>
+      <lex comment="" lid="Id5" lang="hi">thumbnail | upright | upright | upright | डैन होरिगन संयुक्त राज्य अमेरिका में ओहियो स्थित समिट काउंटी के अक्रोन के नेता हैं। st vincent st mary high school at the Akron summit assault at the St Vincent St Mary High School in the home ground of the Akron Summit Assault at the St Vincent St Mary High School.</lex>
+      <lex comment="" lid="Id6" lang="en">St. Vincent St.Mary High School is located in Summit County, Ohio, Akron, Ohio, United States. Its leader is Dan Horrigan and it is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id6" lang="hi">st. vincent St. Mary High School summit county, Ohio, Akron, Ohio, United States में स्थित है। thumb | left | upright | upright | upright | डान् होरिगन इसके नेता हैं और यह अक्रोन शिखर सम्मेलन आक्रमण का आधार है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="31" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault play in the Premier Development League( where K-W United FC were previously champions). The team has their ground at St Vincent-St Mary High School in Akron, Ohio, United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">premier development league (where K-W United FC was revealed championship) में अक्रोन समिट असॉल्ट (Acron Summit Asault) खेल रहा है। टीम का ग्राउंड संयुक्त राज्य अमेरिका के अक्रोन, ओहियो में सेंट विंसेंट-सेंट मेरी हाई स्कूल में है।</lex>
+      <lex comment="" lid="Id2" lang="en">K-W United FC have been champions of the Premier Development League, which is the league Akron Summit Assault play in. Akron Summit Assault's ground is St. Vincent-St. Mary High School, in Akron, Ohio, in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">K-W United FC premier development league के-W United FC premier development league के-डब्ल्यू यूनाइटेड FC premier development league के-डब्ल्यू यूनाइटेड FC premier development league के-चैंपियन रहे हैं। thumb | left | upright | सेंट विंसेंट-सेंट पीटर्सबर्ग अक्रोन शिखर सम्मेलन असॉल्ट का मैदान thumbnail | upright | upright | मैरी हाई स्कूल, अक्रोन, ओहियो, संयुक्त राज्य अमेरिका.</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault's ground is St. Vincent-St. Mary High School, Akron, Ohio, United States. The team play in the Premier Development League, which has previously been won by K-W United FC.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | सेंट विंसेंट-सेंट पीटर्सबर्ग अक्रोन शिखर सम्मेलन असॉल्ट का मैदान thumb | left | upright | upright | मैरी हाई स्कूल, अक्रोन, ओहियो, अमेरिका। (क) टीम प्रीमियर डेवलपमेंट लीग में खेलती है, जिसे के-डब्ल्यू यूनाइटेड एफसी ने जीता था.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="32" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St Vincent-St Mary High School in Akron, Summit County, Ohio, USA is the location for the home ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरीका के ओहियो स्थित समिट काउंटी के अक्रोन स्थित सेंट विंसेंट-सेंट मेरी हाई स्कूल में अक्रोन शिखर सम्मेलन का आयोजन किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of Akron Summit Assault is located at St. Vincent–St. Mary High School in the city of Akron, Summit County, Ohio, US.</lex>
+      <lex comment="" lid="Id2" lang="hi">अक्रोन समिट असॉल्ट का ग्राउंड अमेरिका के ओहियो स्थित समिट काउंटी के अक्रोन शहर में सेंट विंसेंट-सेंट मेरी हाई स्कूल में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault have their ground at St Vincent St Mary High School in the city of Akron, Summit County, Ohio, USA.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | 250px | upright | अक्रोन समिट असोल्ट का ग्राउंड, सेंट विन्सेंट सेंट सेंट मेरी हाई स्कूल, अक्रोन शहर, समिट काउंटी, ओहियो, अमेरिका.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="33" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault's ground is at St. Vincent-St. Mary High School in Akron, Ohio, U.S.A. Dan Horrigan is the leader of that city.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | upright | सेंट विंसेंट-सेंट पीटर्सबर्ग में अक्रोन शिखर सम्मेलन असॉल्ट का मैदान thumbnail | upright | upright | अमेरिका के ओहायो के अक्रोन में स्थित मैरी हाई स्कूल के संस्थापक डैन होरिगन</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault's ground is St. Vincent-St.Mary High School which is located in the city of Akron, Ohio (USA). This state is currently led by Dan Horrigan.</lex>
+      <lex comment="" lid="Id2" lang="hi">st. vincent-st. Mary High School है जो Akron, Ohio (USA) शहर में स्थित है। thumbnail | upright | upright | इस राज्य का नेतृत्व डेन होरिगन कर रहे हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="34" size="5" shape="(X (X (X) (X) (X (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St. Vincent-St. Mary High School is in Akron, Ohio U.S and is the home ground for Akron Summit Assault. Dan Horrigan is the leader of Akron, Ohio.</lex>
+      <lex comment="" lid="Id1" lang="hi">सेंट विंसेंट-सेंट. family mary high school is in Akron, Ohio U. S. and is the home ground for Akron Summit Assault. thumb | left | upright | 250px | डान होरिगन अक्रोन, ओहियो के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Akron Summit Assault's ground is St. Vincent-St.Mary High School. The School is located in Akron, Ohio, United States which currently has Dan Horrigan as a leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">st. vincent-st. Mary High School is the Acron Summit Assault 's ground is St. Vincent-St. Mary High School. यह स्कूल अक्रोन, ओहियो, संयुक्त राज्य अमेरिका में स्थित है, जहां वर्तमान में डैन होरिगन एक नेता के रूप में काम कर रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Dan Horrigan is the leader of Akron where Akron Summit Assault have their ground at St Vincent St Mary High School in Ohio, United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | upright | डान् होरिगन अक्रोन के नेता हैं, जहां अक्रोन समिट असोल्ट का ग्राउंड ओहियो, संयुक्त राज्य अमेरिका में सेंट विन्सेंट सेंट सेंट मेरी हाई स्कूल में है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="35" size="5" shape="(X (X (X) (X) (X (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St. Vincent St.Mary High School is located in Summit County, Ohio in the United States. The Akron Summit Assault ground is at this high school.</lex>
+      <lex comment="" lid="Id1" lang="hi">सेंट विंसेंट सेंट मेरी हाई स्कूल (St. Vincent St. Mary High School) संयुक्त राज्य अमेरिका के ओहियो में समिट काउंटी में स्थित है। thumb | left | upright | अक्रोन समिट असॉल्ट ग्राउंड इस हाई स्कूल में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault have their home ground at St Vincent St Mary High School which is located in the city of Akron, Summit County, Ohio, United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | upright | अक्रोन समिट असॉल्ट का होमग्राउंड संयुक्त राज्य अमेरिका के ओहियो स्थित समिट काउंटी के अक्रोन शहर में स्थित सेंट विन्सेंट सेंट सेंट सेंट मेरी हाई स्कूल में है।</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent–St. Mary High School is located in the city of Akron, Summit County, Ohio, United States and is the location for the home ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id3" lang="hi">सेंट विंसेंट-सेंट मेरी हाई स्कूल, अक्रोन शहर, समिट काउंटी, ओहियो, संयुक्त राज्य अमेरिका में स्थित है और अक्रोन समिट असॉल्ट का होम ग्राउंड है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="36" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Gubbio have their ground in Italy where the leader is Sergio Mattarella. The Italian people speak the Italian language and their capital city is Rome.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | upright | गुब्बियो स्टेडियम इटली में है जहां के लीडर सर्जियो मट्टारेला हैं। इटालियन लोग इतालवी भाषा बोलते हैं और उनकी राजधानी रोम है।</lex>
+      <lex comment="" lid="Id2" lang="en">Italians are the people who live in Italy, where the language is Italian and Sergio Mattarella is the leader. It is also where the capital is Rome and the ground of A.S. Gubbio 1910 is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">इटलीवासी इटली में बसने वाले इतालवी हैं, जहां भाषा इतालवी है और सर्जियो मट्टारेला इसके नेता हैं। thumb | right | upright | upright | upright | रोम की राजधानी और ए. एस. गुब्बियो ग्राउंड-1910</lex>
+    </entry>
+    <entry category="SportsTeam" eid="37" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where there are leaders called Pietro Grasso and Sergio Mattarella. Italy's capital is Rome and the language spoken in the country is Italian.</lex>
+      <lex comment="" lid="Id1" lang="hi">गुब्बियो 1910 का ग्राउंड इटली में स्थित है, जहां पियेत्रो ग्रासो और सर्जियो मट्टारेला नामक नेता हैं। इटली की राजधानी रोम है और इटली में बोली जाने वाली भाषा इतालवी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Rome is the capital of Italy, where leaders include, Pietro Grasso and Sergio Mattarella. Italian is spoken there and it is also where the ground of A.S. Gubbio 1910 is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोम इटली की राजधानी है, जहां के नेताओं में पियत्रो ग्रासो और सर्जियो मट्टारेला शामिल हैं। इतालवी भाषा वहां बोली जाती है और यहीं पर ए. एस. गुब्बियो 1910 का मैदान भी स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Pietro Grasso and Sergio Mattarella are two leaders in Italy. Italy's capital is Rome and the language spoken there is Italian. A.S. Gubbio 1910 play in that country.</lex>
+      <lex comment="" lid="Id3" lang="hi">Pietro Grasso और Sergio Mattarella इटली में दो नेता हैं। इटली की राजधानी रोम है और वहां बोली जाने वाली भाषा इतालवी है। thumb | right | 200px | उस देश में ए. ए. एस. गुब्बियो 1910 का नाटक</lex>
+    </entry>
+  </entries>
+</benchmark>

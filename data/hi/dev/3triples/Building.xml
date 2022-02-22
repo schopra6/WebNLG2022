@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Manhattan is part of New York City, which was part of New Netherland, and is the location of Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="hi">मैनहट्टन न्यूयॉर्क शहर का हिस्सा है, जो न्यू नीदरलैंड का हिस्सा था और एसेर लेवी पब्लिक बाथ का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths are in New York City, Manhattan ( a part of New Netherland).</lex>
+      <lex comment="" lid="Id2" lang="hi">एसेयर लेवी सार्वजनिक स्नान न्यूयॉर्क शहर, मैनहट्टन (न्यू नीदरलैंड का एक हिस्सा) में हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Asser Levy Public Baths in Manhattan, New York City are part of New Netherland.</lex>
+      <lex comment="" lid="Id3" lang="hi">न्यूयॉर्क शहर के मैनहट्टन में द एसर लेवी पब्लिक बाथ न्यू नीदरलैंड का हिस्सा हैं।</lex>
+    </entry>
+    <entry category="Building" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+        <otriple>New_York_City | subdivisionName | Brooklyn</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+        <mtriple>New_York_City | isPartOf | Brooklyn</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths are located in New York City, New York. Brooklyn is a part of New York City.</lex>
+      <lex comment="" lid="Id1" lang="hi">एसर लेवी सार्वजनिक स्नान न्यूयॉर्क शहर, न्यूयॉर्क में स्थित हैं। ब्रुकलिन न्यूयॉर्क शहर का एक हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths are located in New York City which is part of New York and also incorporates Brooklyn.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसेर लेवी पब्लिक बाथ न्यूयॉर्क शहर में स्थित हैं जो न्यूयॉर्क का हिस्सा है और इसमें ब्रुकलिन भी शामिल है।</lex>
+    </entry>
+    <entry category="Building" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">New York City, New York, Manhattan is the location of the Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="hi">न्यूयॉर्क शहर, न्यूयॉर्क, मैनहट्टन में एसेर लेवी पब्लिक बाथ का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public baths are in Manhattan, New York City, New York.</lex>
+      <lex comment="" lid="Id2" lang="hi">एसर लेवी सार्वजनिक स्नान मैनहटन, न्यूयॉर्क सिटी, न्यूयॉर्क में हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Asser Levy Public baths are located in New York City, New York, Manhattan.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसर लेवी सार्वजनिक स्नान न्यूयॉर्क शहर, न्यूयॉर्क, मैनहट्टन में स्थित हैं।</lex>
+    </entry>
+    <entry category="Building" eid="4" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Conservative_Party_(UK)</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | birthPlace | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Conservative_Party_(UK)</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">103 Colmore Row was designed by the architect Jhon Madin who was born in birgmingham where the leader is the conservative party (UK).</lex>
+      <lex comment="" lid="Id1" lang="hi">103 कोलमोर रो को वास्तुकार जॉन मदीन द्वारा डिजाइन किया गया था जो बर्ग्मिंघम में पैदा हुआ था जहां नेता रूढ़िवादी पार्टी (यूके) है।</lex>
+      <lex comment="" lid="Id2" lang="en">Birmingham, led by the Conservative Party, was the birthplace of John Madin who designed 103 Colmore Row.</lex>
+      <lex comment="" lid="Id2" lang="hi">कंजर्वेटिव पार्टी के नेतृत्व में बर्मिंघम, जॉन मैडिन का जन्मस्थान था, जिन्होंने 103 कोलमोर रो को डिजाइन किया था।</lex>
+    </entry>
+    <entry category="Building" eid="5" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Liberal_Democrats</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Liberal_Democrats</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | origin | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Liberal Democrats lead Birmingham, home town of architect John Madin, who designed 103 Colmore Row.</lex>
+      <lex comment="" lid="Id1" lang="hi">लिबरल डेमोक्रेट्स वास्तुकार जॉन मैडिन के गृह नगर बर्मिंघम का नेतृत्व करते हैं, जिन्होंने 103 कोलमोर रो की डिजाइन तैयार की थी।</lex>
+      <lex comment="" lid="Id2" lang="en">John Madin, who designed 103 Colmore Row, comes from Birmingham, which is run by the Liberal Democrats.</lex>
+      <lex comment="" lid="Id2" lang="hi">103 कोलमोर रो डिजाइन करने वाले जॉन मैडिन बर्मिंघम से आते हैं, जो लिबरल डेमोक्रेट्स द्वारा चलाया जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="6" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        <otriple>Dublin | isPartOf | Leinster</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        <otriple>Dublin | subdivisionName | Leinster</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+        <mtriple>Dublin | isPartOf | Leinster</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 3Arena is located in Dublin, which is a part of Leinster, in the Republic of Ireland.</lex>
+      <lex comment="" lid="Id1" lang="hi">3 एरिना डबलिन में स्थित है, जो आयरलैंड गणराज्य के लीनस्टर का एक हिस्सा है।</lex>
+      <lex comment="" lid="Id2" lang="en">3 Arena is located in Dublin (in the Republic of Ireland) which is a part of Leinster.</lex>
+      <lex comment="" lid="Id2" lang="hi">3 एरिना डबलिन (आयरलैंड गणराज्य में) में स्थित है जो लीनस्टर का एक हिस्सा है।</lex>
+      <lex comment="" lid="Id3" lang="en">3Arena is located in Dublin, Leinster, Republic of Ireland.</lex>
+      <lex comment="" lid="Id3" lang="hi">3 एरिना डबलिन, लीनस्टर, आयरलैंड गणराज्य में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="7" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ethiopia is led by Hailemariam Desalegn and is the location of the Addis Ababa City Hall in Addis Ababa.</lex>
+      <lex comment="" lid="Id1" lang="hi">इथियोपिया का नेतृत्व हैलेमरियम देसालेगन द्वारा किया जाता है और यह अदीस अबाबा में अदीस अबाबा सिटी हॉल का स्थान है।</lex>
+      <lex comment="" lid="Id2" lang="en">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Ababa.</lex>
+      <lex comment="" lid="Id2" lang="hi">हैलेमरियम देसालेगन इथियोपिया के नेता हैं, जहां अदीस अबाबा सिटी हॉल स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall is located in Addis Ababa, Ethiopia where Hailemariam Desalegn is the leader.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा, इथोपिया में स्थित है, जहां हैलेमरियम देसालेन नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="8" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Malatu Teshome is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Abiba.</lex>
+      <lex comment="" lid="Id1" lang="hi">मालातू टेशोम इथियोपिया का नेता है जहां अदीस अबाबा सिटी हॉल अदीस अबाबा में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall is in Addis Ababa, Ethiopia, which is led by Malatu Teshome.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल अदीस अबाबा, इथियोपिया में है, जिसका नेतृत्व मलातू टेशोम द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall is located in the city of the same name in Ethiopia, a leader of which is Mulatu Teshome.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा सिटी हॉल इथियोपिया के इसी नाम के शहर में स्थित है, जिसका एक नेता मुलातु टेशोम है।</lex>
+    </entry>
+    <entry category="Building" eid="9" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa in Ethiopia.</lex>
+      <lex comment="" lid="Id1" lang="hi">मुलातु टेशोम एक इथियोपियाई नेता हैं। अदीस अबाबा सिटी हॉल इथियोपिया के अदीस अबाबा में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall is located in Ethopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
+      <lex comment="" lid="Id2" lang="hi">अदीस अबाबा सिटी हॉल इथोपिया के अदीस अबाबा में स्थित है, जिसे मुलातु टेशोम द्वारा चलाया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Malatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
+      <lex comment="" lid="Id3" lang="hi">अदीस अबाबा इथियोपिया में स्थित है। इथियोपिया में वर्तमान नेता मलातु टेशोम हैं और अदीस अबाबा सिटी हॉल अदीस अबाबा इथियोपिया में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="10" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leader | Anandiben_Patel</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Anandiben Patel was the leader of Gujarat, India, the location of Amdavad ni Gufa.</lex>
+      <lex comment="" lid="Id1" lang="hi">आनंदीबेन पटेल गुजरात, भारत की नेता थीं।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat, India, which is led by Anandiben Patel.</lex>
+      <lex comment="" lid="Id2" lang="hi">आनंदीबेन पटेल के नेतृत्व में गुजरात, भारत में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Anandiben Patel is the leader of Guarat, India, home to Amadavad ni Gufa.</lex>
+      <lex comment="" lid="Id3" lang="hi">आनंदीबेन पटेल गुआराट, भारत की नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="11" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">People who live in India are known as Indian. Amdavad ni Gufa is located in the country which is led by Sumitra Mahajan.</lex>
+      <lex comment="" lid="Id1" lang="hi">भारत में रहने वालों को भारतीय माना जाता है। देश में स्थित है जिसका नेतृत्व सुमित्रा महाजन कर रही हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The residents of India are the Indian people and the country is led by Sumitra Mahajan. Amdavad ni Gufa is located in the country.</lex>
+      <lex comment="" lid="Id2" lang="hi">भारत के निवासी भारतीय लोग हैं और देश का नेतृत्व सुमित्रा महाजन करती हैं। यह देश में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="12" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Narendra_Modi</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur and Narendra Modi are leaders in India where Amdavad ni Gufa is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">ठाकुर और नरेन्द्र मोदी भारत के ऐसे नेता हैं, जहां ‘‘अंदवाद नी गुफा’’ स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">While the leader of India is Narendra Modi, another leader is TS Thakur, and Amdavad ni Gufa is a location in India.</lex>
+      <lex comment="" lid="Id2" lang="hi">जहां भारत के नेता नरेंद्र मोदी हैं, वहीं एक अन्य नेता टीएस ठाकुर हैं और ‘‘अंदवाद नी गुफा’’ भारत में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in India, the country where the leader is T S Thakur and the prime minister is Narendra Modi.</lex>
+      <lex comment="" lid="Id3" lang="hi">भारत में टी. एस. ठाकुर इसके नेता हैं और प्रधानमंत्री नरेंद्र मोदी हैं।</lex>
+    </entry>
+    <entry category="Building" eid="13" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur is a leader of India where Amdavad ni Gufa is located in Ahmedabad.</lex>
+      <lex comment="" lid="Id1" lang="hi">टी. एस. ठाकुर भारत के एक ऐसे नेता हैं, जहां अहमदाबाद में अहमदवाद नी गुफा स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Ahmedabad in India which is has a leader called T.S. Thakur.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदवाद नी गुफा भारत के अहमदाबाद में स्थित है, जिसमें टी. एस. ठाकुर नामक एक नेता है।</lex>
+      <lex comment="" lid="Id3" lang="en">T S Thakur is a leader in India, which is the country where Amdavad ni Gufa (Ahmedabad) is located.</lex>
+      <lex comment="" lid="Id3" lang="hi">टी. एस. ठाकुर भारत में एक नेता हैं, जहां अहमदाबाद स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="14" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in Gujarat, India. T S Thakur is a leader of India.</lex>
+      <lex comment="" lid="Id1" lang="hi">अहमदाबाद नी गुफा गुजरात, भारत में स्थित है। टी एस ठाकुर भारत के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat in India, which is led by T S Thakur.</lex>
+      <lex comment="" lid="Id2" lang="hi">अहमदाबाद नी गुफा भारत के गुजरात में स्थित है, जिसका नेतृत्व टी एस ठाकुर कर रहे हैं।</lex>
+    </entry>
+    <entry category="Building" eid="15" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in India, where the leader isT S Thakur and the demonym for people living there is Indian.</lex>
+      <lex comment="" lid="Id1" lang="hi">भारत में स्थित है, जहां के नेता टी. एस. ठाकुर हैं और वहां रहने वाले लोगों के लिए राक्षस भारतीय हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The residents of India are known as the Indian people. Amdavad ni Gufa is located in the country which is led by T S Thakur.</lex>
+      <lex comment="" lid="Id2" lang="hi">भारत के निवासियों को भारतीय लोग के रूप में जाना जाता है। देश में ही टी. एस. ठाकुर के नेतृत्व में अंदवाद नी गुफा स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in India, where the leader is called T S Thakur and the people are called Indian.</lex>
+      <lex comment="" lid="Id3" lang="hi">भारत में स्थित है, जहां नेता को टी. एस. ठाकुर कहा जाता है और लोगों को भारतीय कहा जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="16" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Based in Bethesda, Maryland, the Marriot International was founded in Washington DC and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="hi">मैरीलैंड के बेथेस्दा में स्थित मैरियट इंटरनेशनल की स्थापना वाशिंगटन डीसी में हुई थी और यह एसी होटल बेला स्काई कोपेनहेगन का किरायेदार है।</lex>
+      <lex comment="" lid="Id2" lang="en">Marriott International, founded in Washington DC, is located in Bethesda, Maryland and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="hi">वॉशिंगटन डीसी में स्थापित मैरियट इंटरनेशनल, मैरीलैंड के बेथेस्दा में स्थित है और एसी होटल बेला स्काई कोपेनहेगन का किरायेदार है।</lex>
+      <lex comment="" lid="Id3" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company which was founded in Washington, D.C. and is now based in Bethesda, Maryland.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसी होटल बेला स्काई कोपेनहेगन का किरायेदार मैरियट इंटरनेशनल है, यह कंपनी वाशिंगटन, डी. सी. में स्थापित की गई थी और अब यह बेथेस्दा, मैरीलैंड में स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="17" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Irish English is the official language of Ireland, which is led by Enda Kenny and home to Adare Manor.</lex>
+      <lex comment="" lid="Id1" lang="hi">आयरिश अंग्रेजी आयरलैंड की आधिकारिक भाषा है, जिसका नेतृत्व एंडा केनी द्वारा किया जाता है और अडेयर मैनर का घर है।</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor is located in the Republic of Ireland, the leader of this country is Enda Kenny and one of the languages used is English.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडारे मैनर आयरलैंड गणराज्य में स्थित है, इस देश का नेता एंडा केनी है और इस्तेमाल की जाने वाली भाषाओं में से एक अंग्रेजी है।</lex>
+    </entry>
+    <entry category="Building" eid="18" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States which capital is Washington D.C. and John Roberts is the Chief of Justice.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जिसकी राजधानी वाशिंगटन डी. सी. है और जॉन रॉबर्ट्स चीफ ऑफ जस्टिस हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, the capital of which is Washington D.C. and where John Roberts is a leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसकी राजधानी वाशिंगटन डीसी है और जहां जॉन रॉबर्ट्स एक नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is in the United States. The capital is Washington DC and John Roberts is a leader.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में है। राजधानी वाशिंगटन डीसी है और जॉन रॉबर्ट्स एक नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="19" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is a leader of the United States where the capital city is Washington DC. 250 Delaware Avenue is located in the country.</lex>
+      <lex comment="" lid="Id1" lang="hi">पॉल रयान संयुक्त राज्य अमेरिका के नेता हैं, जहां की राजधानी वाशिंगटन डीसी है। 250 डेलावेयर एवेन्यू देश में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, which are led by Paul Ryan and whose capital is Washington D.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसका नेतृत्व पॉल रयान द्वारा किया जाता है और जिसकी राजधानी वाशिंगटन डीसी है।</lex>
+    </entry>
+    <entry category="Building" eid="20" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joe Biden is the leader of the United States where the native language is English. 250 Delaware Avenue is also located there.</lex>
+      <lex comment="" lid="Id1" lang="hi">जो बाइडेन संयुक्त राज्य अमेरिका के नेता हैं जहां मूल भाषा अंग्रेजी है। 250 डेलावेयर एवेन्यू भी वहां स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States where English is the main language and one of its leaders is Joe Biden.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जहां अंग्रेजी मुख्य भाषा है और इसके नेताओं में से एक जो बाइडेन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States, English is the language of the United States and Joe Biden is the leader of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, अंग्रेजी संयुक्त राज्य अमेरिका की भाषा है और जो बाइडेन संयुक्त राज्य अमेरिका के नेता हैं।</lex>
+    </entry>
+    <entry category="Building" eid="21" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is a leader of the United States in which English is the language and is home to 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="hi">पॉल रयान संयुक्त राज्य अमेरिका के एक नेता हैं जिसमें अंग्रेजी भाषा है और 250 डेलावेयर एवेन्यू का घर है।</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, which is led by Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसका नेतृत्व पॉल रयान द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States where they speak English and are led by Paul Ryan.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जहां वे अंग्रेजी बोलते हैं और उनका नेतृत्व पॉल रयान द्वारा किया जाता है।</lex>
+    </entry>
+    <entry category="Building" eid="22" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">President Barack Obama is the leader of the United States where 250 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">राष्ट्रपति बराक ओबामा संयुक्त राज्य अमेरिका के नेता हैं जहां 250 डेलावेयर एवेन्यू स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">President Barack Obama is leader of the United States where 250 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id2" lang="hi">राष्ट्रपति बराक ओबामा संयुक्त राज्य अमेरिका के नेता हैं जहां 250 डेलावेयर एवेन्यू स्थित है।</lex>
+    </entry>
+    <entry category="Building" eid="23" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">President Joe Biden leads the United States which is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="hi">राष्ट्रपति जो बाइडेन संयुक्त राज्य अमेरिका का नेतृत्व कर रहे हैं जो 250 डेलावेयर एवेन्यू का स्थान है।</lex>
+    </entry>
+    <entry category="Building" eid="24" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States where President John Roberts is leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जहां राष्ट्रपति जॉन रॉबर्ट्स नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The United States is led by the President of the United States. One of the leaders is John Roberts, and 250 Delaware Avenue is located in the country.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका का नेतृत्व संयुक्त राज्य अमेरिका के राष्ट्रपति करते हैं। इन नेताओं में से एक जॉन रॉबर्ट्स हैं और 250 डेलावेयर एवेन्यू देश में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States where the Chief Justice is John Roberts and the leader's title is President of the United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है जहां मुख्य न्यायाधीश जॉन रॉबर्ट्स हैं और नेता का शीर्षक संयुक्त राज्य अमेरिका का राष्ट्रपति है।</lex>
+    </entry>
+    <entry category="Building" eid="25" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, with Paul Ryan being the President of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है, जिसमें पॉल रयान संयुक्त राज्य अमेरिका के राष्ट्रपति हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Paul Ryan's title as leader is President of the United States. 250 Delaware Avenue is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">नेता के रूप में पॉल रयान की उपाधि संयुक्त राज्य अमेरिका का राष्ट्रपति है। 250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States. The leader of this country has the title President of the United States, which in this case is Paul Ryan.</lex>
+      <lex comment="" lid="Id3" lang="hi">250 डेलावेयर एवेन्यू संयुक्त राज्य अमेरिका में स्थित है। इस देश के नेता को संयुक्त राज्य अमेरिका का राष्ट्रपति पद प्राप्त है, जो इस मामले में पॉल रयान है।</lex>
+    </entry>
+  </entries>
+</benchmark>

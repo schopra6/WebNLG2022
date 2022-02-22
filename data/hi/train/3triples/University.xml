@@ -1,0 +1,915 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | &quot;Universitas Apulensis&quot;@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | latinName | &quot;Universitas Apulensis&quot;</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">1 Decembrie 1918 University is located in Alba, Romania and its Latin name is &quot;Universitas Apulensis&quot;.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसम्बर, 1918 में रोमानिया के अल्बा में स्थित इस विश्वविद्यालय का लैटिन नाम यूनिवर्सिटास अपुलेंसिस है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 1 Decembrie 1918 University is located in the state of Alba, Romania. The latin name for this university is &quot;Universitas Apulensis&quot;.</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसंबर 1918 विश्वविद्यालय अल्बा, रोमानिया राज्य में स्थित है। इस विश्वविद्यालय का लैटिन नाम है Universitas Apulensis।</lex>
+      <lex comment="" lang="en" lid="Id3">The Latin name of 1 Decembrie 1918 University in Alba, Romania, is Universitas Apulensis.</lex>
+      <lex comment="" lang="hi" lid="Id3">1 दिसंबर, 1918 को रोमानिया के अल्बा में स्थित विश्वविद्यालय का लैटिन नाम यूनिवर्सिटास अपुलेंसिस है।</lex>
+    </entry>
+    <entry category="University" eid="2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | nickname | Uab</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | nickname | Uab</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 1 Decembrie 1918 University is located in Alba lulia, Alba. Its nickname is Uab.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसंबर 1918 विश्वविद्यालय अल्बा लूलिया, अल्बा में स्थित है। इसका उपनाम उआब है।</lex>
+      <lex comment="" lang="en" lid="Id2">The nickname of the 1 Decembrie 1918 University in Alba Iulia, Alba, is Uab.</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसंबर, 1918 को अल्बा लूलिया, अल्बा में विश्वविद्यालय का उपनाम उआब है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 1 Decembrie 1918 University is also known as Uab and located in Alba Iulia, Alba.</lex>
+      <lex comment="" lang="hi" lid="Id3">1 दिसंबर, 1918 को विश्वविद्यालय को उआब के नाम से भी जाना जाता है और यह अल्बा यूलिया, अल्बा में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | nickname | Uab</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | &quot;Breaz Valer Daniel&quot;@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | &quot;Universitas Apulensis&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | nickname | Uab</mtriple>
+        <mtriple>1_Decembrie_1918_University | rector | &quot;Breaz Valer Daniel&quot;</mtriple>
+        <mtriple>1_Decembrie_1918_University | latinName | &quot;Universitas Apulensis&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The nickname of the 1 Decembrie 1918 University is Uab. The latin name is &quot;Universitas Apulensis&quot; and the rector is Breaz Valer Daniel.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसंबर 1918 को विश्वविद्यालय का उपनाम उआब है। इसका लैटिन नाम है Universitas Apulensis और रेक्टर Breaz Valer Daniel है।</lex>
+      <lex comment="" lang="en" lid="Id2">1 Decembrie 1918 University is known informally as Uab and the latin name is Universitas Apulensis. The recor is Breaz Valer Daniel.</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसंबर 1918 को विश्वविद्यालय को अनौपचारिक रूप से उआब के रूप में जाना जाता है और लैटिन नाम यूनिवर्सिटीज अपुलेंसिस है। इसकी रिकॉर्डिंग ब्रेज वेलर डैनियल ने की है।</lex>
+    </entry>
+    <entry category="University" eid="4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | &quot;Breaz Valer Daniel&quot;@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | rector | &quot;Breaz Valer Daniel&quot;</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">1 Decembrie 1918 University is located in Alba Iulia, Romania and its rector is Breaz Valer Daniel.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसम्बर, 1918 रोमानिया के अल्बा लूलिया में स्थित है और इसके रेक्टर ब्रेज वेलर डेनियल हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The rector of 1 Decembrie 1918 University in Alba Iulia in Romania is Breaz Valer Daniel.</lex>
+      <lex comment="" lang="hi" lid="Id2">रोमानिया के अल्बा लूलिया में 1 दिसंबर 1918 विश्वविद्यालय के रेक्टर ब्रेज वेलर डेनियल हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The rector of 1 Decembrie 1918 University, in Alba Iulia, Romania, is Breaz Valer Daniel.</lex>
+      <lex comment="" lang="hi" lid="Id3">रोमानिया के अल्बा लूलिया में 1 दिसंबर 1918 विश्वविद्यालय के रेक्टर ब्रेज वेलर डेनियल हैं।</lex>
+    </entry>
+    <entry category="University" eid="5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | facultySize | &quot;250&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+        <otriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+        <mtriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The AWH Engineering College is located in Kuttikkattoor, Kerala and it has 250 academic staff.</lex>
+      <lex comment="" lang="hi" lid="Id1">एडब्ल्यूएच इंजीनियरिंग कॉलेज केरल के कुट्टीकट्टूर में स्थित है और इसमें 250 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">There is an academic staff of 250 at the AWH Engineering College which is located in Kuttikkattoor in the state of Kerala.</lex>
+      <lex comment="" lang="hi" lid="Id2">केरल राज्य के कुट्टीकट्टूर में स्थित एडब्ल्यूएच इंजीनियरिंग कॉलेज में 250 का अकादमिक स्टाफ है।</lex>
+      <lex comment="" lang="en" lid="Id3">AWH Engineering College is located in Kuttikkattoor, Kerala and has a staff of 250.</lex>
+      <lex comment="" lang="hi" lid="Id3">एडब्ल्यूएच इंजीनियरिंग कॉलेज केरल के कुट्टीकट्टूर में स्थित है और इसमें 250 कर्मचारी हैं।</lex>
+    </entry>
+    <entry category="University" eid="6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+        <otriple>AWH_Engineering_College | facultySize | &quot;250&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The AWH Engineering College was established in India in 2001 and has 250 academic staff.</lex>
+      <lex comment="" lang="hi" lid="Id1">एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में भारत में की गई थी और इसमें 250 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">AWH Engineering College was established in 2001 and is located in India. It currently has 250 members of staff.</lex>
+      <lex comment="" lang="hi" lid="Id2">एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में की गई थी और यह भारत में स्थित है। वर्तमान में इसमें 250 सदस्य हैं।</lex>
+    </entry>
+    <entry category="University" eid="7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+        <otriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+        <mtriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">AWH Engineering College was established in 2001 in Kuttikkattoor, India.</lex>
+      <lex comment="" lang="hi" lid="Id1">एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में कुट्टीकट्टूर, भारत में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">Kuttikkattoor, India is the location of the AWH Engineering College which was established in 2001.</lex>
+      <lex comment="" lang="hi" lid="Id2">कुट्टीकट्टूर, भारत में एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id3">The AWH Engineering College was established in 2001 in Kuttikkattoor, India.</lex>
+      <lex comment="" lang="hi" lid="Id3">एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में कुट्टीकट्टूर, भारत में की गई थी।</lex>
+    </entry>
+    <entry category="University" eid="8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+        <otriple>Kerala | northwest | Mahé,_India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+        <mtriple>Kerala | hasToItsNorthwest | Mahé,_India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">AWH Engineering College is located in Kerala, India. Kerala has Mahe, India to its northwest.</lex>
+      <lex comment="" lang="hi" lid="Id1">एडब्ल्यूएच इंजीनियरिंग कॉलेज केरल, भारत में स्थित है। केरल के उत्तर-पश्चिम में माहे है।</lex>
+      <lex comment="" lang="en" lid="Id2">The AWH Engineering College is located in the state of Kerala in India which is southeast of Mahe, India.</lex>
+      <lex comment="" lang="hi" lid="Id2">एडब्ल्यूएच इंजीनियरिंग कॉलेज भारत के केरल राज्य में स्थित है जो माहे, भारत के दक्षिण-पूर्व में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">AWH Engineering College is located in Kerala, India which is southeast of Mahe.</lex>
+      <lex comment="" lang="hi" lid="Id3">एडब्ल्यूएच इंजीनियरिंग कॉलेज केरल, भारत में स्थित है जो माहे के दक्षिण-पूर्व में है।</lex>
+    </entry>
+    <entry category="University" eid="9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+        <otriple>AWH_Engineering_College | faculty | 250</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">There are 250 academic staff at the AWH Engineering College in the state of Kerala. The College was established in 2001.</lex>
+      <lex comment="" lang="hi" lid="Id1">केरल राज्य के एडब्ल्यूएच इंजीनियरिंग कॉलेज में 250 अकादमिक कर्मचारी हैं। इस कॉलेज की स्थापना 2001 में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">AWH Engineering College was established in 2001 in Kerala. It has an academic staff of 250.</lex>
+      <lex comment="" lang="hi" lid="Id2">केरल में 2001 में एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना की गई थी। इसमें 250 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The AWH Engineering College was established in 2001 in Kerala and has a staff compliment of 250.</lex>
+      <lex comment="" lang="hi" lid="Id3">एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में केरल में की गई थी और इसमें 250 कर्मचारियों की नियुक्ति की गई है।</lex>
+    </entry>
+    <entry category="University" eid="10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | &quot;600&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is in Mendrisio. It has 600 students and an academic staff of 100.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो मेंड्रिसियो में है। इसमें 600 छात्र और 100 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Accademia di Architettura di Mendrisio has a staff compliment of 100 and 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id2">द एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो में 100 और 600 छात्र काम करते हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio. It has an academic staff of 100 and a total of 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id3">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो मेंड्रिसियो शहर में स्थित है। इसमें 100 अकादमिक कर्मचारी हैं और कुल 600 छात्र हैं।</lex>
+    </entry>
+    <entry category="University" eid="11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | &quot;100&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Accademia di Architettura in Switzerland has 100 academic staff. Switzerland's leader is Johann Schneider-Ammann.</lex>
+      <lex comment="" lang="hi" lid="Id1">स्विट्जरलैंड में एकेडेमिया डी आर्किटेक्टूरा में 100 अकादमिक कर्मचारी हैं। स्विट्जरलैंड के नेता जोहान श्नाइडर-अम्मान हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Accademia di Architettura di Mendrisio has 100 academic staff and is located in Switzerland where Johann Schneider-Ammann is the country's leader.</lex>
+      <lex comment="" lang="hi" lid="Id2">द एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो में 100 अकादमिक कर्मचारी हैं और यह स्विट्जरलैंड में स्थित है जहां जोहान श्नाइडर-अम्मान देश के नेता हैं।</lex>
+    </entry>
+    <entry category="University" eid="12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland. Switzerland's legislature is the Federal Assembly.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो (Accademia di Architectura di Mendrisio) स्विटजरलैंड के मेंड्रिसियो में स्थित है। स्विट्जरलैंड की विधायिका संघीय सभा है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Federal Assembly is the legislature of Switzerland where the Accademia di Architettura di Mendrisio is located in the city of Mendrisio,.</lex>
+      <lex comment="" lang="hi" lid="Id2">फेडरल असेंबली स्विट्जरलैंड की विधायिका है जहां अकादेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो मेंड्रिसियो शहर में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">Accademia di Architettura di Mendrisio is located in Medrisio, Switzerland which has a ferderal assembly.</lex>
+      <lex comment="" lang="hi" lid="Id3">एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो (Academia di Architectura di Mendrisio) स्विटजरलैंड के मेड्रिसियो में स्थित एक शहर है।</lex>
+    </entry>
+    <entry category="University" eid="13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accadmia di Architettura di Mendrisio was established in Switzerland in 1996. It has 100 academic staff.</lex>
+      <lex comment="" lang="hi" lid="Id1">1996 में स्विट्जरलैंड में द अकडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो की स्थापना की गई थी। इसमें 100 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Accademia di Architettura di Mendrisio was established in Switzerland in 1996 and has 100 academic staff.</lex>
+      <lex comment="" lang="hi" lid="Id2">एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो की स्थापना 1996 में स्विट्जरलैंड में की गई थी और इसमें 100 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Accademia di Architettura di Mendrisio in Switzerland was established in 1996 and has a staff of 100.</lex>
+      <lex comment="" lang="hi" lid="Id3">स्विट्जरलैंड में 1996 में अकादेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो की स्थापना की गई थी और इसमें 100 कर्मचारी हैं।</lex>
+    </entry>
+    <entry category="University" eid="14" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Accademia di Architettura di Mendrisio is located in Mendrisio, Switzerland and has 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो स्विटजरलैंड के मेंड्रिसियो में स्थित है और इसमें 600 छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland. It has 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id2">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो मेंड्रिसियो, स्विट्जरलैंड में स्थित है। इसमें 600 छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The Accademia di Architettura di Mendrisio in Switzerland, Mendrisio has a student count of 600.</lex>
+      <lex comment="" lang="hi" lid="Id3">स्विट्जरलैंड में द एक्सेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो में मेंड्रिसियो के छात्रों की संख्या 600 है।</lex>
+    </entry>
+    <entry category="University" eid="15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Switzerland | anthem | Swiss_Psalm</otriple>
+        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Switzerland | anthem | Swiss_Psalm</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is in Switzerland. The Swiss anthem is the Swiss Psalm and its leader is Johann Schneider-Ammann.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो स्विट्जरलैंड में है। स्विस गान स्विस भजन है और इसके नेता जोहान श्नाइडर-अम्मान हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader is Johann Schneider-Ammann and their national anthem is the Swiss Psalm.</lex>
+      <lex comment="" lang="hi" lid="Id2">Academia di Architectura di Mendrisio स्विट्जरलैंड में स्थित है। देश के नेता जोहान श्नाइडर-अम्मान हैं और उनका राष्ट्रगान स्विस भजन है।</lex>
+    </entry>
+    <entry category="University" eid="16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+        <otriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+        <mtriple>Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Federal Chancellor of Switzerland is called Johann Schneider-Ammann. The Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
+      <lex comment="" lang="hi" lid="Id1">स्विट्जरलैंड के संघीय चांसलर को जोहान श्नाइडर-अम्मान कहा जाता है। एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो स्विट्जरलैंड में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">Switzerland's leader is Federal Chancellor Johann Schneider-Ammann . The country is the location of the Accademia di Architettura di Mendrisio,.</lex>
+      <lex comment="" lang="hi" lid="Id2">स्विट्जरलैंड के नेता संघीय चांसलर जोहान श्नाइडर-अम्मान हैं। यह देश अकादेमिया डी आर्किटेक्चर डी मेंड्रिसियो का स्थान है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Accademia di Architettura di Mendrisio is located in Switzerland. The country's leader Johann Schneider-Ammann is officially known as the Federal Chancellor.</lex>
+      <lex comment="" lang="hi" lid="Id3">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो स्विट्जरलैंड में स्थित है। देश के नेता जोहान श्नाइडर-अम्मान को आधिकारिक तौर पर संघीय चांसलर के रूप में जाना जाता है।</lex>
+    </entry>
+    <entry category="University" eid="17" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</otriple>
+        <otriple>Switzerland | leader | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Switzerland | legislature | Federal_Assembly_(Switzerland)</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Switzerland. The Swiss legislature is the Federal Assembly and its leader is Johann Schneider-Ammann.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो स्विट्जरलैंड में स्थित है। स्विस विधायिका संघीय विधानसभा है और इसके नेता जोहान श्नाइडर-अम्मान हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Johann Schneider-Ammann is the leader of Switzerland where the Federal Assembly is the national legislature. The country is the home of the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="" lang="hi" lid="Id2">जोहान श्नाइडर-अम्मान स्विट्जरलैंड के नेता हैं, जहां संघीय असेंबली राष्ट्रीय विधायिका है। ये देश Academia di Architectura di Mendrisio का घर है।</lex>
+      <lex comment="" lang="en" lid="Id3">Johann Schneider-Ammann is the leader of the Federal Assembly in that country. Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
+      <lex comment="" lang="hi" lid="Id3">जोहान श्नाइडर-अम्मान उस देश में संघीय विधानसभा के नेता हैं। Academia di Architectura di Mendrisio स्विट्जरलैंड में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio was established in Mendrisio in 1996. Its dean is Mario Botta.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो की स्थापना 1996 में मेंड्रिसियो में की गई थी। इसके डीन मारियो बोट्टा हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Mario Botta is Dean of the Accademia di Architettura di Mendrisio which is located in the city of Mendrisio and was established in 1996.</lex>
+      <lex comment="" lang="hi" lid="Id2">मारियो बोट्टा एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन हैं, जो मेंड्रिसियो शहर में स्थित है और 1996 में स्थापित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The dean of the Accademia di Architettura di Mendrisio is Mario Botta and the university was established in 1996.</lex>
+      <lex comment="" lang="hi" lid="Id3">अकादेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन मारियो बोट्टा हैं और विश्वविद्यालय की स्थापना 1996 में की गई थी।</lex>
+    </entry>
+    <entry category="University" eid="19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | &quot;600&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio has 100 academic staff and 600 students. Its dean is called Mario Botta.</lex>
+      <lex comment="" lang="hi" lid="Id1">द एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो में 100 अकादमिक कर्मचारी और 600 छात्र हैं। इसके डीन को मारियो बोट्टा कहा जाता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Dean of Accademia di Architettura di Mendrisio is Mario Botta. There are 600 students and 100 academic staff.</lex>
+      <lex comment="" lang="hi" lid="Id2">अकादेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन मारियो बोट्टा हैं। इसमें 600 छात्र और 100 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta. The University has a staff of 100 and 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id3">अकादेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन मारियो बोट्टा हैं। विश्वविद्यालय में 100 और 600 छात्रों का स्टाफ है।</lex>
+    </entry>
+    <entry category="University" eid="20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Mendrisio | neighboringMunicipalities | Meride</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio and its dean is Mario Botta. The neighbouring municipality of Mendrisio is Meride.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो मेंड्रिसियो में स्थित है और इसके डीन मारियो बोट्टा हैं। मेंड्रिसियो की पड़ोसी नगरपालिका मेरिड है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Dean of the Accademia di Architettura di Mendrisio is Mario Botta. It is located in the city of Mendrisio , a neighbouring municipality of Meride.</lex>
+      <lex comment="" lang="hi" lid="Id2">अकादेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन मारियो बोट्टा हैं। यह मेरिड की एक पड़ोसी नगरपालिका मेंड्रिसियो शहर में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta. A neighbouring municipality to Mendrisio is Meride.</lex>
+      <lex comment="" lang="hi" lid="Id3">अकादेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन मारियो बोट्टा हैं। मेंड्रिसियो के लिए एक पड़ोसी नगरपालिका मेरिड है।</lex>
+    </entry>
+    <entry category="University" eid="21" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | &quot;600&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | &quot;100&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Accademia di Architettura di Mendrisio is located in Ticino. It has 600 students and 100 staff.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो टिसीनो में स्थित है। इसमें 600 छात्र और 100 कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Accademia di Architettura di Mendrisio is located in Ticino. There are 600 students and 100 staff members.</lex>
+      <lex comment="" lang="hi" lid="Id2">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो टिसीनो में स्थित है। इसमें 600 छात्र और 100 कर्मचारी सदस्य हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Accademia di Architettura di Mendrisio in Ticino has a staff of 100 and 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id3">टिसीनो में एकेडेमिया डी आर्किटेक्टूरा डी मेंड्रिसियो में 100 और 600 छात्रों का स्टाफ है।</lex>
+    </entry>
+    <entry category="University" eid="22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Accademia di Architettura di Mendrisio is located in Mendrisio. Its dean is called Mario Botta and it has 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो मेंड्रिसियो में स्थित है। इसके डीन को मारियो बोट्टा कहा जाता है और इसमें 600 छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">There are 600 students at the Accademia di Architettura di Mendrisio which has Mario Botta as Dean and is situated in the city of Mendrisio,.</lex>
+      <lex comment="" lang="hi" lid="Id2">अकादेमिया डी आर्किटेक्ट में 600 छात्र हैं, जिसमें डीन के रूप में मारियो बोट्टा हैं और यह मेंड्रिसियो शहर में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The dean of Accademia di Architettura di Mendrisio is Mario Botta and it has 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id3">अकादेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो के डीन मारियो बोट्टा हैं और इसमें 600 छात्र हैं।</lex>
+    </entry>
+    <entry category="University" eid="23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Accademia di Architettura di Mendrisio was established in 1996. It has 100 staff and 600 students.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो की स्थापना 1996 में की गई थी। इसमें 100 कर्मचारी और 600 छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">In 1996 the Academia di Architettura di Mendrisio was established. There are 600 students and an academic staff of 100.</lex>
+      <lex comment="" lang="hi" lid="Id2">1996 में Academia di Architectura di Mendrisio की स्थापना की गई। इसमें 600 छात्र और 100 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The Accademia di Architettura, established 1996, has 600 students and 100 academic staff.</lex>
+      <lex comment="" lang="hi" lid="Id3">1996 में स्थापित एकेडेमिया डी आर्किटेक्टूरा में 600 छात्र और 100 अकादमिक कर्मचारी हैं।</lex>
+    </entry>
+    <entry category="University" eid="24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | academicStaff | &quot;~500&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | motto | &quot;Nurturing Excellence&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | academicStaffSize | &quot;~500&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | motto | &quot;Nurturing Excellence&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Acharya Institute of Technology has an academic staff of 500. It is located in India and its motto is &quot;Nurturing Excellence&quot;.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान में 500 अकादमिक कर्मचारी हैं। यह भारत में स्थित है और इसका आदर्श वाक्य उत्कृष्टता को बढ़ावा देना है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology in India was an academic staff of ~500. Its motto is &quot;Nurturing Excellence.&quot;.</lex>
+      <lex comment="" lang="hi" lid="Id2">भारत में आचार्य प्रौद्योगिकी संस्थान ~ 500 का अकादमिक स्टाफ था। इसका आदर्श वाक्य उत्कृष्टता को बढ़ावा देना है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology in India has a staff of about 500, the university's motto is &quot;Nurturing Excellence&quot;.</lex>
+      <lex comment="" lang="hi" lid="Id3">भारत में आचार्य प्रौद्योगिकी संस्थान में लगभग 500 कर्मचारी हैं, विश्वविद्यालय का आदर्श वाक्य उत्कृष्टता को बढ़ावा देना है।</lex>
+    </entry>
+    <entry category="University" eid="25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is located in Banglaore, India. It is associated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान बंगलौर, भारत में स्थित है। यह विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से जुड़ा हुआ है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology is in Bangalore, India. It's affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान बैंगलोर, भारत में स्थित है। यह विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology in Bangalore, India is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id3">भारत के बैंगलोर स्थित आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+    </entry>
+    <entry category="University" eid="26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is in Bangalore, Karnataka. It is associated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान बैंगलोर, कर्नाटक में स्थित है। यह विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से जुड़ा हुआ है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology of Bangalore, Karnataka is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान, बैंगलोर, कर्नाटक विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+    </entry>
+    <entry category="University" eid="27" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is in Soldevanahalli, its address is Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान सोलदेवनहल्ली में है, इसका पता आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 है। यह बेलगाम में विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान बेलगाम में विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है और यह सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. It is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 में स्थित है। यह विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It's affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान सोलदेवनहल्ली में आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 के पते पर स्थित है। यह विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology is affiliated with Visvesvaraya Technological University it's campus is in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lang="hi" lid="Id3">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है इसका परिसर सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 में है।</lex>
+    </entry>
+    <entry category="University" eid="29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | director | &quot;Dr. G. P. Prabhukumar&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | director | &quot;Dr. G. P. Prabhukumar&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is located in Soldevanahalli, at the address Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. Its director is Dr. G. P. Prabhukumar.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान सोलदेवनहल्ली में आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 के पते पर स्थित है। इसके निदेशक डॉ. जी. पी. प्रभुकुमार हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The director of the Acharya Institute of Technology is Dr. G. P. Prabhukumar and the university is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान के निदेशक डॉ. जी. पी. प्रभुकुमार हैं और विश्वविद्यालय सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | &quot;700&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology was established at Bangalore in 2000. It has 700 postgraduate students.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान की स्थापना 2000 में बैंगलोर में की गई थी। इसमें 700 स्नातकोत्तर छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">There are 700 postgraduate students at the Acharya Institute of Technology which was established in 2000 in Bangalore.</lex>
+      <lex comment="" lang="hi" lid="Id2">बैंगलोर में 2000 में स्थापित आचार्य प्रौद्योगिकी संस्थान में 700 स्नातकोत्तर छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology in Bangalore was established in 2000 and has 700 post-graduate students.</lex>
+      <lex comment="" lang="hi" lid="Id3">बैंगलोर में आचार्य प्रौद्योगिकी संस्थान की स्थापना 2000 में की गई थी और इसमें 700 स्नातकोत्तर छात्र हैं।</lex>
+    </entry>
+    <entry category="University" eid="31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarcapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, 560090, India. It is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान सोलदेवनहल्ली, आचार्य डॉ. सरकापल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर, 560090, भारत में स्थित है। यह विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University and the campus is located in India at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है और परिसर भारत में सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 पर स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">India's Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and the campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lang="hi" lid="Id3">भारत का आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है और परिसर सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="32" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | &quot;700&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is in Soldevanahalli, India its address is Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It has 700 postgraduate students.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान सोलदेवनहल्ली, भारत में स्थित है और इसका पता आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बंगलौर-560090 है। इसमें 700 स्नातकोत्तर छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology has 700 post-graduate students and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान में 700 स्नातकोत्तर छात्र हैं और यह सोलदेवनहल्ली, आचार्य डॉ. सर्वपल्ली राधाकृष्णन रोड, हेसरघट्टा मेन रोड, बैंगलोर-560090 में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="33" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is located in Karnataka, India and it was established in 2000.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान कर्नाटक, भारत में स्थित है और इसकी स्थापना 2000 में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology was established in the state of Karnataka , India, in 2000.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान की स्थापना 2000 में कर्नाटक, भारत में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology was established in 2000 in Karnataka, India.</lex>
+      <lex comment="" lang="hi" lid="Id3">आचार्य प्रौद्योगिकी संस्थान की स्थापना 2000 में कर्नाटक, भारत में की गई थी।</lex>
+    </entry>
+    <entry category="University" eid="34" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Tennis | sportGoverningBody | International_Tennis_Federation</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of technology is located in India and the offered sport is tennis. The governing tennis body is the International Tennis Foundation.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान भारत में स्थित है और टेनिस एक प्रमुख खेल है। शासी निकाय अंतर्राष्ट्रीय टेनिस फाउंडेशन है।</lex>
+      <lex comment="" lang="en" lid="Id2">The sport of tennis, governed by the International Tennis Federation, is offered at the Acharya Institute of Technology in India.</lex>
+      <lex comment="" lang="hi" lid="Id2">अंतर्राष्ट्रीय टेनिस महासंघ द्वारा संचालित टेनिस खेल की पेशकश भारत के आचार्य प्रौद्योगिकी संस्थान में की जाती है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology is governed by the International Tennis Federation in India.</lex>
+      <lex comment="" lang="hi" lid="Id3">आचार्य प्रौद्योगिकी संस्थान भारत में अंतर्राष्ट्रीय टेनिस महासंघ द्वारा संचालित है।</lex>
+    </entry>
+    <entry category="University" eid="35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
+        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute is located in Bangalore. It was given the &quot;Technical Campus&quot; status by the All India Council for Technical Education, which is located in Mumbai.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य संस्थान बैंगलोर में स्थित है। इसे मुंबई में स्थित अखिल भारतीय तकनीकी शिक्षा परिषद द्वारा 'तकनीकी परिसर' का दर्जा दिया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The Acharya Institute of Technology in Bangalore was given the &quot;Technical Campus&quot; status by the All India Council for Technical Education in Mumbai.</lex>
+      <lex comment="" lang="hi" lid="Id2">बैंगलोर के आचार्य प्रौद्योगिकी संस्थान को मुंबई में अखिल भारतीय तकनीकी शिक्षा परिषद द्वारा तकनीकी परिसर का दर्जा दिया गया है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Acharya Institute of Technology, Bangalore, was given 'Technical Campus' status by the All India Council for Technical Education in Mumbai.</lex>
+      <lex comment="" lang="hi" lid="Id3">आचार्य प्रौद्योगिकी संस्थान, बैंगलोर को मुंबई में अखिल भारतीय तकनीकी शिक्षा परिषद द्वारा 'तकनीकी परिसर' का दर्जा दिया गया है।</lex>
+    </entry>
+    <entry category="University" eid="36" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | country | Romania</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">1 Decembrie 1918 University is in Alba Iulia, Romania. Bucharest is the capital of Romania.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसम्बर 1918 – रोमानिया के अल्बा लूलिया में विश्वविद्यालय है। बुखारेस्ट रोमानिया की राजधानी है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 1 Decembrie 1918 University is located in the city of Alba Iulia, Romania (capital Bucharest).</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसंबर 1918 विश्वविद्यालय अल्बा लूलिया, रोमानिया (राजधानी बुखारेस्ट) में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alba_Iulia | isPartOf | Alba_County</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | isPartOf | Alba_County</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 1 Decembrie 1918 University is in Alba Iulia, Alba County, Romania.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसंबर 1918 विश्वविद्यालय अल्बा लूलिया, अल्बा काउंटी, रोमानिया में है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 1 Decembrie 1918 University is located in the city of Alba Iulia, Alba County, Romania.</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसंबर 1918 विश्वविद्यालय अल्बा लूलिया, अल्बा काउंटी, रोमानिया में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Acharya Institute of Technology is affiliated with Visvesaraya Technological University in Bangalore. Its founder is Kempe Gowda.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान बैंगलोर में विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है। इसके संस्थापक केम्पे गौड़ा हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Bangalore was founded by Kempe Gowda and is the location of the Acharya Institute of Technology which is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="" lang="hi" lid="Id2">बैंगलोर की स्थापना केम्पे गौड़ा द्वारा की गई थी और यह आचार्य प्रौद्योगिकी संस्थान का स्थान है जो विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+    </entry>
+    <entry category="University" eid="39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
+        <otriple>Acharya_Institute_of_Technology | president | &quot;B.M. Reddy&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | president | &quot;B.M. Reddy&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Kempe Gowda is the founder of Bangalore, the location of the Acharya Institute of Technology whose President is B M Reddy.</lex>
+      <lex comment="" lang="hi" lid="Id1">केम्पे गौड़ा बैंगलोर के संस्थापक हैं, जो आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी का स्थान है और जिसके अध्यक्ष बी एम रेड्डी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The President of the Acharya Institute of Technology is B.M. Reddy and the university is located in Bangalore. The city was foundered by Kempe Gowda I.</lex>
+      <lex comment="" lang="hi" lid="Id2">आचार्य प्रौद्योगिकी संस्थान के अध्यक्ष बी. एम. रेड्डी हैं और विश्वविद्यालय बैंगलोर में स्थित है। इस शहर की स्थापना केम्पे गौड़ा प्रथम ने की थी।</lex>
+    </entry>
+    <entry category="University" eid="40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Karnataka | northeast | Telangana</otriple>
+        <otriple>Karnataka | west | Arabian_Sea</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karnataka | hasToItsNortheast | Telangana</mtriple>
+        <mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Acharya Institute of Technology is located in Karnataka. Karnataka has Telangana to its northeast and the Arabian Sea to its west.</lex>
+      <lex comment="" lang="hi" lid="Id1">आचार्य प्रौद्योगिकी संस्थान कर्नाटक में स्थित है। कर्नाटक के उत्तर-पूर्व में तेलंगाना और पश्चिम में अरब सागर है।</lex>
+      <lex comment="" lang="en" lid="Id2">The state of Karnataka, the location of the Acharya Institute of Technology has Telangana to the northeast and the Arabian Sea to the west.</lex>
+      <lex comment="" lang="hi" lid="Id2">कर्नाटक राज्य में उत्तर-पूर्व में तेलंगाना है और पश्चिम में अरब सागर है।</lex>
+    </entry>
+    <entry category="University" eid="41" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Kerala | leaderName | Kochi</otriple>
+        <otriple>AWH_Engineering_College | facultySize | &quot;250&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Kerala | leader | Kochi</mtriple>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">AWH Engineering College at Kerala has 250 academic staff. Kerala's leader is Kochi.</lex>
+      <lex comment="" lang="hi" lid="Id1">केरल में एडब्ल्यूएच इंजीनियरिंग कॉलेज में 250 अकादमिक कर्मचारी हैं। केरल का नेतृत्व कोच्चि कर रहा है।</lex>
+      <lex comment="" lang="en" lid="Id2">Kochi is the leader of Kerala which is the location of the AWH Engineering College that has an academic staff of 250.</lex>
+      <lex comment="" lang="hi" lid="Id2">कोच्चि केरल का नेतृत्व करता है जो एडब्ल्यूएच इंजीनियरिंग कॉलेज का स्थान है जिसमें 250 का अकादमिक स्टाफ है।</lex>
+      <lex comment="" lang="en" lid="Id3">With a staff compliment of 250, AWH Engineering College is located in Kerala, the leader of that state is named Kochi.</lex>
+      <lex comment="" lang="hi" lid="Id3">250 के स्टाफ कॉम्प्लीमेंट के साथ, एडब्ल्यूएच इंजीनियरिंग कॉलेज केरल में स्थित है, उस राज्य के नेता का नाम कोच्चि है।</lex>
+    </entry>
+    <entry category="University" eid="42" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Kerala | leaderName | Kochi</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+        <otriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Kerala | leader | Kochi</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+        <mtriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The AWH Engineering College is in Kuttikkattoor, Kerala. Kerala is led by Kochi.</lex>
+      <lex comment="" lang="hi" lid="Id1">एडब्ल्यूएच इंजीनियरिंग कॉलेज कुट्टीकट्टूर, केरल में है। केरल का नेतृत्व कोच्चि कर रहा है।</lex>
+      <lex comment="" lang="en" lid="Id2">AWH Engineering College is located in the city of Kuttikkattoor, Kerala. Kochi is the name of the leader of Kerala.</lex>
+      <lex comment="" lang="hi" lid="Id2">एडब्ल्यूएच इंजीनियरिंग कॉलेज कुट्टीकट्टूर, केरल में स्थित है। कोच्चि केरल के नेता का नाम है।</lex>
+    </entry>
+    <entry category="University" eid="43" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Mendrisio | neighboringMunicipality | Meride</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Accademia di Architettura di Mendrisio was established in 1996. It is located in Mendrisio, which has Meride as its neighbouring municipality as Meride.</lex>
+      <lex comment="" lang="hi" lid="Id1">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो की स्थापना 1996 में की गई थी। यह मेंड्रिसियो में स्थित है, जिसमें मेरिड के रूप में इसकी पड़ोसी नगरपालिका है।</lex>
+      <lex comment="" lang="en" lid="Id2">The .Accademia di Architettura di Mendrisio was established in 1996 within the city of Mendrisio , a neighbouring municipality to Meride .</lex>
+      <lex comment="" lang="hi" lid="Id2">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो की स्थापना 1996 में मेंड्रिसियो शहर में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id3">The Accademia di Architettura di Mendrisio was established in 1996. It is situated in Mendrisio, which is near to Meride.</lex>
+      <lex comment="" lang="hi" lid="Id3">एकेडेमिया डी आर्किटेक्टतुरा डी मेंड्रिसियो की स्थापना 1996 में की गई थी। यह मेंड्रिसियो में स्थित है, जो मेरिड के पास है।</lex>
+    </entry>
+    <entry category="University" eid="44" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The capital of Romania is Bucharest. The country is the location of the 1 Decembrie 1918 University and the home of one of the ethnic groups of Romania who are the Germans of Romania.</lex>
+      <lex comment="" lang="hi" lid="Id1">रोमानिया की राजधानी बुखारेस्ट है। यह देश 1 दिसंबर 1918 विश्वविद्यालय का स्थान है और रोमानिया के जातीय समूहों में से एक का घर है जो रोमानिया के जर्मन हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The 1 Decembrie 1918 University is in Romania. Two facts about Romania are its capital is Bucharest, and one of its ethnic groups are known as the Germans of Romania.</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसम्बर 1918 रोमानिया में है। रोमानिया के बारे में दो तथ्य इसकी राजधानी बुखारेस्ट है, और इसके जातीय समूहों में से एक रोमानिया के जर्मन के रूप में जाना जाता है।</lex>
+    </entry>
+    <entry category="University" eid="45" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">1 Decembrie 1918 University is located in Romania. The capital of the country is Bucharest and the leader's name is Klaus Iohannis.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसंबर 1918 रोमानिया में स्थित विश्वविद्यालय है। देश की राजधानी बुखारेस्ट है और नेता का नाम क्लाउस आयोनिस है।</lex>
+    </entry>
+    <entry category="University" eid="46" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">1 Decembrie 1918 University is located in Romania. Romania has a Prime Minister as its leader, and its capital is Bucharest.</lex>
+      <lex comment="" lang="hi" lid="Id1">1 दिसंबर 1918 रोमानिया में स्थित विश्वविद्यालय है। रोमानिया में एक प्रधानमंत्री है और बुखारेस्ट इसकी राजधानी है।</lex>
+      <lex comment="" lang="en" lid="Id2">1 Decembrie 1918 University is located in Romania. Bucharest is the capital of the country, which is led by a Prime Minister.</lex>
+      <lex comment="" lang="hi" lid="Id2">1 दिसंबर 1918 रोमानिया में स्थित विश्वविद्यालय है। बुखारेस्ट देश की राजधानी है, जिसका नेतृत्व प्रधानमंत्री करते हैं।</lex>
+    </entry>
+    <entry category="University" eid="47" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Romania is led by the Prime Minister; its ethnic group are Germans of Romania and its university is called the 1 Decembrie 1918 University.</lex>
+      <lex comment="" lang="hi" lid="Id1">रोमानिया का नेतृत्व प्रधानमंत्री सेलीब्रिटी द्वारा किया जाता है इसके जातीय समूह रोमानिया के जर्मन हैं और इसके विश्वविद्यालय को 1 दिसंबर 1918 विश्वविद्यालय कहा जाता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Germans of Romania are an ethnic group within Romania which has a Prime Minister as its leader. The country is the location for the 1 Decembrie 1918 University.</lex>
+      <lex comment="" lang="hi" lid="Id2">रोमानिया के जर्मन रोमानिया के भीतर एक जातीय समूह हैं जिसके नेता के रूप में एक प्रधानमंत्री है। यह देश 1 दिसंबर 1918 विश्वविद्यालय का स्थान है।</lex>
+      <lex comment="" lang="en" lid="Id3">1 Decembrie 1918 University is located in Romania, the leader of which is the Prime Minister and Romania has Germans as an ethnic group.</lex>
+      <lex comment="" lang="hi" lid="Id3">1 दिसंबर 1918-रोमानिया में विश्वविद्यालय स्थित है, जिसके नेता प्रधानमंत्री हैं और रोमानिया में एक जातीय समूह के रूप में जर्मन हैं।</lex>
+    </entry>
+    <entry category="University" eid="48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">School of Business and Social Sciences at the Aarhus University is in Denmark. It was established in 1928 and has an academic staff of 737.</lex>
+      <lex comment="" lang="hi" lid="Id1">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज डेनमार्क में है। इसकी स्थापना 1928 में की गई थी और इसमें 737 अकादमिक कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University was established in 1928 in Denmark and has a staff of 737.</lex>
+      <lex comment="" lang="hi" lid="Id2">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज की स्थापना 1928 में डेनमार्क में की गई थी और इसमें 737 कर्मचारी हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University, Denmark, has an academic staff of 737 and was established in 1928.</lex>
+      <lex comment="" lang="hi" lid="Id3">डेनमार्क के आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज में 737 अकादमिक कर्मचारी हैं और इसकी स्थापना 1928 में की गई थी।</lex>
+    </entry>
+    <entry category="University" eid="49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | &quot;16000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association. It has 737 staff and 16,000 students.</lex>
+      <lex comment="" lang="hi" lid="Id1">आरहस विश्वविद्यालय का स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपीय विश्वविद्यालय संघ से संबद्ध है। इसमें 737 कर्मचारी और 16,000 छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association. There are 737 academic staff and 16000 students.</lex>
+      <lex comment="" lang="hi" lid="Id2">आरहस विश्वविद्यालय का स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपीय विश्वविद्यालय संघ से संबद्ध है। यहां 737 अकादमिक कर्मचारी और 16000 छात्र हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">With a staff of 737 and a student population of 1600, the School of Business and Social Sciences at the Aarhus University has an affiliation with the European University Association.</lex>
+      <lex comment="" lang="hi" lid="Id3">737 कर्मचारियों और 1600 छात्रों की आबादी के साथ, आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज का यूरोपीय विश्वविद्यालय संघ से संबंध है।</lex>
+    </entry>
+    <entry category="University" eid="50" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus | northeast | Mols</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Aarhus has a magistrate government. To its northeast is Mols. The School of Business and Social Sciences at the Aarhus University is located in Aarhus.</lex>
+      <lex comment="" lang="hi" lid="Id1">आरहुस में एक मजिस्ट्रेट सरकार है। इसके उत्तर-पूर्व में मॉल है। आरहस विश्वविद्यालय का स्कूल ऑफ बिजनेस एंड सोशल साइंसेज आरहस में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">Mols is northeast of Aarhus where the government is that of magistrate. The city is the location of the School of Business and Social Sciences at Aarhus University.</lex>
+      <lex comment="" lang="hi" lid="Id2">मॉल आरहू के उत्तर-पूर्व में है जहां सरकार मजिस्ट्रेट की सरकार है। यह शहर आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज का स्थान है।</lex>
+      <lex comment="" lang="en" lid="Id3">The School of Business and Social Sciences at the Aarhus University, located in Aarus which is governed by a magistrate and is southwest of Mols.</lex>
+      <lex comment="" lang="hi" lid="Id3">आरहस विश्वविद्यालय का स्कूल ऑफ बिजनेस एंड सोशल साइंसेज, आरुस में स्थित है, जो एक मजिस्ट्रेट द्वारा शासित है और मॉल्स के दक्षिण-पश्चिम में है।</lex>
+    </entry>
+    <entry category="University" eid="51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The School of Business and Social Sciences at the Aarhus University is in Aarhus. It is affiliated with the European University Association in Brussels.</lex>
+      <lex comment="" lang="hi" lid="Id1">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज आरहस में है। यह ब्रसेल्स में यूरोपीय विश्वविद्यालय संघ से संबद्ध है।</lex>
+      <lex comment="" lang="en" lid="Id2">The School of Business and Social Sciences at the Aarhus University, Aarhus, is affiliated with the European University Association which has its headquarters in Brussels.</lex>
+      <lex comment="" lang="hi" lid="Id2">आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज, आरहस, यूरोपीय विश्वविद्यालय संघ से संबद्ध है, जिसका मुख्यालय ब्रसेल्स में है।</lex>
+    </entry>
+  </entries>
+</benchmark>

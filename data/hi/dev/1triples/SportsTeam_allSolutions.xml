@@ -1,0 +1,442 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger played for the club LASK Linz.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेंजर एलएएसके लिंज़ क्लब के लिए खेलते थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger plays for LASK Linz.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर एलएएसके लिंज़ के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेलगेर एससी वीनर न्यूस्टेड क्लब से संबद्ध है।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger played for SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेलगेर ने एससी वीनर न्यूस्टाड के लिए खेला।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger plays for SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टोगर एससी वीनर न्यूस्टाड के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger was at the club SK Rapid Wien.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेलगेर क्लब एसके रैपिड वीन में थे।</lex>
+      <lex comment="" lid="Id2" lang="en">PeterStöger plays for SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेंगेर एसके रैपिड वीन क्लब के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger plays for SK Rapid Wien.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टोगर एसके रैपिड वीन के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger played football for SK Vorwärts Steyr.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेलगेर ने एसके वोर्व–पिलेनियर आरटीएस स्टेयर के लिए फुटबॉल खेला।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is in the SK Vorwärts Steyr club.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टेलगेर एसके वोर्वपरियेनर्स स्टेयर क्लब में हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | team | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | clubs | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | A.C._Chievo_Verona</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran is attached to AC Chievo Verona .</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन एसी चीवो वेरोना से जुड़े हुए हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran is attached to the club Calcio Catania.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन कैलसियो कातानिया क्लब से जुड़ा हुआ है।</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is a member of the Calcio Cantania.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोलांडो मारन कैलसियो कैंटनिया के सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | clubs | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran plays at the Carrarese Calcio.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन कैरेसे कालसियो में खेलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is in the Carrarese Calcio club.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोलांडो मारन कैरेसे कालसियो क्लब में शामिल हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Rolando Maran plays for Carrarese Calcio.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोलांडो मारन कैरेसे कालसियो के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Unione_Triestina_2012_S.S.D.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran is in the Unione Triestina 2012 S.S.D. club.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन यूनिओन ट्राइएस्टिना 2012 एस. एस. डी. क्लब में शामिल हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran plays for Unione Triestina 2012 S.S.D.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोलांडो मारन यूनिओन ट्राइएस्टिना 2012 के लिए खेलता है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Varese_Calcio_S.S.D.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Varese_Calcio_S.S.D.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran used to be at Varese Calcio S.S.D.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन पहले वारेसी कालसियो एस. एस. डी.</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is in Varese Calcio S.S.D. club.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोलांडो मारन वारेस कालसियो एस. एस. डी. क्लब में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Rolando Maran plays for Varese Calcio S.S.D.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोलांडो मारन ने वारेस काल्सियो एस. एस. डी. के लिए अभिनय किया।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Vicenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Vicenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran plays at the Vicenza Calcio.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन विसेंजा कालसियो में खेलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is in the Vicenza Calcio club.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोलांडो मारन विसेंजा कालसियो क्लब में है।</lex>
+      <lex comment="" lid="Id3" lang="en">Rolando Maran plays for Vicenza Calcio.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोलांडो मारन विसेंजा कालसियो के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | placeOfBirth | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | birthPlace | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran was born in Italy.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोलांडो मारन का जन्म इटली में हुआ था।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Juventus FC have been Serie A champions.</lex>
+      <lex comment="" lid="Id1" lang="hi">जुवेंटस एफसी सीरी ए चैंपियन रह चुका है।</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus F.C. are former champions of Serie A.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुवेंटस एफसी सीरी ए के पूर्व चैंपियन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Serie A champions are Juventus F.C.</lex>
+      <lex comment="" lid="Id3" lang="hi">सीरी ए चैंपियन जुवेंटस एफ. सी. हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_A | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Serie A is based in Italy.</lex>
+      <lex comment="" lid="Id1" lang="hi">सीरी ए इटली में स्थित है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_B | champions | Carpi_F.C._1909</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_B | champions | Carpi_F.C._1909</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Carpi FC 1909 are previous champions of Serie B.</lex>
+      <lex comment="" lid="Id1" lang="hi">कार्पी एफसी 1909 सेरी बी के पूर्व चैंपियन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Carpi FC 1909 are the champions of Serie B.</lex>
+      <lex comment="" lid="Id2" lang="hi">कार्पी एफसी 1909 सेरी बी का चैंपियन है।</lex>
+      <lex comment="" lid="Id3" lang="en">Carpi F.C. 1909 won the Serie B championship before.</lex>
+      <lex comment="" lid="Id3" lang="hi">कार्पी एफ. सी. 1909 ने पहले सेरी बी चैम्पियनशिप जीती थी।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Serie D champions include S S Robur Siena.</lex>
+      <lex comment="" lid="Id1" lang="hi">सीरी डी के विजेताओं में एस एस रोबर सिएना शामिल हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">S.S. Robur Siena are champions of Serie D.</lex>
+      <lex comment="" lid="Id2" lang="hi">रोबर सिएना सेरी डी के चैंपियन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The champions of Serie D are S.S. Robur Siena.</lex>
+      <lex comment="" lid="Id3" lang="hi">सेरी डी के चैंपियन एस. एस. रोबर सिएना हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sportpark De Toekomst is operated by AFC Ajax.</lex>
+      <lex comment="" lid="Id1" lang="hi">Sportpark de Toekomst का संचालन एएफसी अजाक्स द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax operate Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id2" lang="hi">एएफसी अजाक्स स्पोर्टपार्क डी टोकोम्स्ट का संचालन करता है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax N.V. own Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id1" lang="hi">एएफसी अजाक्स एन. वी. का अपना स्पोर्टपार्क डी टोकोम्स्ट है।</lex>
+      <lex comment="" lid="Id2" lang="en">Sportpark De Toekomst is owned by AFC Ajax N.V.</lex>
+      <lex comment="" lid="Id2" lang="hi">Sportpark de Toekomst का स्वामित्व एएफसी अजाक्स एन वी के पास है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajax Youth Academy is a tenant of Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजाक्स यूथ एकेडमी स्पोर्टपार्क डी टोकोम्स्ट की एक किरायेदार है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St. Vincent–St. Mary High School is located in the city of Akron, Ohio.</lex>
+      <lex comment="" lid="Id1" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल अक्रोन, ओहियो शहर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent St Mary High School is located in the city of Akron, Ohio.</lex>
+      <lex comment="" lid="Id2" lang="hi">सेंट विंसेंट सेंट सेंट मैरी हाई स्कूल अक्रोन, ओहायो शहर में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent-St. Mary High School is in Akron, Ohio.</lex>
+      <lex comment="" lid="Id3" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल अक्रोन, ओहायो में है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St Vincent-St Mary High School is located in the state of Ohio.</lex>
+      <lex comment="" lid="Id1" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल ओहायो राज्य में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">St. Vincent–St. Mary High School is in the state of Ohio.</lex>
+      <lex comment="" lid="Id2" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल ओहायो राज्य में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent-St. Mary High School is in Ohio.</lex>
+      <lex comment="" lid="Id3" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल ओहायो में है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | A.F.C._Blackpool</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | managerClub | A.F.C._Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | A.F.C._Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker is a footballer in the A.F.C Blackpool club.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर ए. एफ. सी. ब्लैकपूल क्लब के एक फुटबॉलर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) has represented AFC Blackpool.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) ने एएफसी ब्लैकपूल का प्रतिनिधित्व किया है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) was at Blackburn Rovers FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) ब्लैकबर्न रोवर्स एफसी में थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) plays for Blackburn Rovers F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) ब्लैकबर्न रोवर्स एफ. सी. के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Blackpool_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) plays for Blackpool F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) ब्लैकपूल एफ. सी. के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Chesterfield_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker was a footballer for Chesterfield FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर चेस्टरफील्ड एफसी के लिए फुटबॉल खेलते थे।</lex>
+      <lex comment="" lid="Id2" lang="en">The footballer Stuart Parker is attached to Chesterfield football club.</lex>
+      <lex comment="" lid="Id2" lang="hi">फुटबॉलर स्टुअर्ट पार्कर चेस्टरफील्ड फुटबॉल क्लब से जुड़े हुए हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Stuart Parker is a member of the Chesterfield F.C.</lex>
+      <lex comment="" lid="Id3" lang="hi">स्टुअर्ट पार्कर चेस्टरफील्ड एफ. सी. के सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Drogheda_United_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker is a footballer with the Drogheda United F.C.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर ड्रोगेडा यूनाइटेड एफ. सी. के साथ एक फुटबॉल खिलाड़ी हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) was at Drogheda United FC.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) ड्रोगेडा यूनाइटेड एफसी में थे।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Irlam_Town_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Irlam_Town_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Irlam_Town_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The footballer Stuart Parker is attached to Irlam Town Football Club.</lex>
+      <lex comment="" lid="Id1" lang="hi">फुटबॉलर स्टुअर्ट पार्कर इरलाम टाउन फुटबॉल क्लब से जुड़े हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker is a member of the Irlam Town F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर इरलाम टाउन एफ. सी. के सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | KV_Mechelen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker has represented the club KV Mechelen.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर ने क्लब केवी मेचेन का प्रतिनिधित्व किया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker the football player is part of the KV Mechelen club.</lex>
+      <lex comment="" lid="Id2" lang="hi">फुटबॉल खिलाड़ी स्टुअर्ट पार्कर केवी मेचेन क्लब का हिस्सा हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">the football player Stuart Parker plays for KV Mechelen.</lex>
+      <lex comment="" lid="Id3" lang="hi">फुटबॉल खिलाड़ी स्टुअर्ट पार्कर केवी मेचेन के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) was a player for Runcorn FC Halton.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) रनकॉर्न एफसी हाल्टन के लिए एक खिलाड़ी थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) plays for Runcorn F.C. Halton.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) रनकॉर्न एफ. सी. हाल्टन के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Sparta_Rotterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker plays at the Sparta Rotterdam club.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर स्पार्टा रोटरडैम क्लब में खेलते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker is in the club Sparta Rotterdam.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर स्पार्टा रोटरडैम क्लब में हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Stuart Parker (footballer) plays for Sparta Rotterdam.</lex>
+      <lex comment="" lid="Id3" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) स्पार्टा रोटरडम के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) once played for Stockport County FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) एक बार स्टॉकपोर्ट काउंटी एफसी के लिए खेले थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker's football club was Stockport County F.C.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्टुअर्ट पार्कर का फुटबॉल क्लब स्टॉकपोर्ट काउंटी एफ. सी.</lex>
+      <lex comment="" lid="Id3" lang="en">Stuart Parker (footballer) plays for Stockport County F.C.</lex>
+      <lex comment="" lid="Id3" lang="hi">स्टुअर्ट पार्कर (फुटबॉलर) स्टॉकपोर्ट काउंटी एफ. सी. के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Superleague_Greece | champions | Olympiacos_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Olympiacos FC are previous champions of the Superleague Greece.</lex>
+      <lex comment="" lid="Id1" lang="hi">ओलंपियाकोस एफसी सुपर लीग ग्रीस के पूर्व चैंपियन हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Olympiacos F.C. were past champions in the Greece Superleague.</lex>
+      <lex comment="" lid="Id2" lang="hi">ओलंपियाकोस एफ. सी. ग्रीस सुपरलीग में पूर्व चैंपियन थे।</lex>
+      <lex comment="" lid="Id3" lang="en">The Superleague Greece champions are Olympiacos F.C.</lex>
+      <lex comment="" lid="Id3" lang="hi">सुपर लीग ग्रीस चैंपियन ओलंपियाकोस एफ. सी. हैं।</lex>
+    </entry>
+  </entries>
+</benchmark>

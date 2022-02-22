@@ -1,0 +1,347 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault's ground is St. Vincent-St. Mary High School in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">अक्रोन समिट असॉल्ट ग्राउंड सेंट विंसेंट-सेंट. संयुक्त राज्य अमेरिका में मैरी हाई स्कूल।</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent-St Mary High School is the ground of Akron Summit Assault and is located in United States.</lex>
+      <lex comment="" lid="Id2" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल अक्रोन शिखर सम्मेलन हमले का मैदान है और यह संयुक्त राज्य अमेरिका में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent-St.Mary High School in the United States is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id3" lang="hi">संयुक्त राज्य अमेरिका में सेंट विंसेंट-सेंट मैरी हाई स्कूल अक्रोन शिखर सम्मेलन हमले का मैदान है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St Vincent-St Mary High School in Ohio is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id1" lang="hi">ओहियो में सेंट विंसेंट-सेंट मैरी हाई स्कूल अक्रोन शिखर सम्मेलन हमले का मैदान है।</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent-St Mary High School, located in the state of Ohio, is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id2" lang="hi">ओहियो राज्य में स्थित सेंट विंसेंट-सेंट मैरी हाई स्कूल अक्रोन समिट असॉल्ट का मैदान है।</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent–St. Mary High School, in the state of Ohio, is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id3" lang="hi">सेंट विंसेंट-सेंट मैरी हाई स्कूल, ओहियो राज्य में, अक्रोन शिखर हमले का मैदान है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Premier Development League has K-W United F.C., (who have been champions) and Akron Summit among its competing teams.</lex>
+      <lex comment="" lid="Id1" lang="hi">प्रीमियर डेवलपमेंट लीग की प्रतिस्पर्धी टीमों के बीच के-डब्ल्यू यूनाइटेड एफ. सी. (जो चैंपियन रहे हैं) और एक्रॉन समिट है।</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault play in the Premier Development League, which K-W United FC were once the champions of.</lex>
+      <lex comment="" lid="Id2" lang="hi">अक्रोन समिट असॉल्ट प्रीमियर डेवलपमेंट लीग में खेलता है, जिसमें के-डब्ल्यू यूनाइटेड एफसी कभी चैंपियन था।</lex>
+      <lex comment="" lid="Id3" lang="en">In the Premier Development League, Akron Summit Assault play and the champions are K-W United FC.</lex>
+      <lex comment="" lid="Id3" lang="hi">प्रीमियर डेवलपमेंट लीग में, अक्रोन समिट असॉल्ट खेलते हैं और चैंपियन के-डब्ल्यू यूनाइटेड एफसी हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+        <otriple>Akron_Summit_Assault | manager | &quot;Denzil Antonio&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Denzil Antonio is the manager of Akron Summit Assault which has 3000 members.</lex>
+      <lex comment="" lid="Id1" lang="hi">डेनजिल एंटोनियो अक्रोन समिट असॉल्ट के प्रबंधक हैं जिसके 3000 सदस्य हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Denzil Antonio was the manager of Akron Summit Assault, it has 3000 members.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनजिल एंटोनियो अक्रोन समिट असॉल्ट के प्रबंधक थे, इसके 3000 सदस्य हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault, which has got 3000 members, was managed by Denzil Antonio.</lex>
+      <lex comment="" lid="Id3" lang="hi">अक्रोन समिट असॉल्ट का प्रबंधन डेनजिल एंटोनियो द्वारा किया गया था, जिसके 3000 सदस्य हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+        <otriple>Akron_Summit_Assault | season | 2011_PDL_season</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+        <mtriple>Akron_Summit_Assault | season | 2011_PDL_season</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of Akron Summit Assault, who play in the 2011 PDL season, is Denzil Antonio.</lex>
+      <lex comment="" lid="Id1" lang="hi">2011 के पीडीएल सत्र में खेलने वाले अक्रोन समिट असॉल्ट के प्रबंधक डेंजिल एंटोनियो हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault, (managed by Denzil Antonio), played in the 2011 PDL season.</lex>
+      <lex comment="" lid="Id2" lang="hi">अक्रोन समिट असॉल्ट, (डेंजिल एंटोनियो द्वारा प्रबंधित), 2011 के पीडीएल सीजन में खेला गया।</lex>
+      <lex comment="" lid="Id3" lang="en">Denzil Antonio was the manager of Akron Summit Assault and they participated in the 2011 PDL season.</lex>
+      <lex comment="" lid="Id3" lang="hi">डेनजिल एंटोनियो अक्रोन समिट असॉल्ट के प्रबंधक थे और उन्होंने 2011 के पीडीएल सत्र में भाग लिया था।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+        <otriple>Akron_Summit_Assault | capacity | &quot;3000&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+        <mtriple>Akron_Summit_Assault | season | 2011</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault has got 3000 members and are in season 2011.</lex>
+      <lex comment="" lid="Id1" lang="hi">अक्रोन समिट असॉल्ट के 3000 सदस्य हैं और यह सत्र 2011 में शुरू होगा।</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault has got 3000 members, he played in the 2011 season.</lex>
+      <lex comment="" lid="Id2" lang="hi">अक्रोन समिट असॉल्ट के 3000 सदस्य हैं, उन्होंने 2011 के सत्र में खेला था।</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault, has 3000 members, and was in the 2011 season.</lex>
+      <lex comment="" lid="Id3" lang="hi">अक्रोन समिट असॉल्ट के 3000 सदस्य हैं और यह 2011 के सत्र में हुआ था।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome.</lex>
+      <lex comment="" lid="Id1" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जिसकी राजधानी रोम है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located near Rome, capital of Italy.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का मैदान इटली की राजधानी रोम के निकट स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, which has Rome as its capital.</lex>
+      <lex comment="" lid="Id3" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जिसकी राजधानी रोम है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Italians inhabit Italy where the ground of A.S. Gubbio 1910 is located.</lex>
+      <lex comment="" lid="Id1" lang="hi">इटली के लोग इटली में रहते हैं जहां ए. एस. गुब्बियो 1910 का मैदान स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां रहने वाले लोगों को इतालवी कहा जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live.</lex>
+      <lex comment="" lid="Id3" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां इतालवी रहते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is the leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">ए. एस. गुब्बियो 1910 का मैदान इटली में स्थित है जहां सर्जियो मट्टारेला नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Sergio Mattarella.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां के नेता सर्जियो मैटरेला हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, which has the leader Sergio Mattarella.</lex>
+      <lex comment="" lid="Id3" lang="hi">ए. एस. गुब्बियो 1910 का मैदान इटली में स्थित है, जिसमें नेता सर्जियो मैटरेला हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the official language is Italian.</lex>
+      <lex comment="" lid="Id1" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां की आधिकारिक भाषा इतालवी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where unsurprisingly they speak Italian.</lex>
+      <lex comment="" lid="Id2" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है, जहां वे इतालवी बोलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where the official language is Italian.</lex>
+      <lex comment="" lid="Id3" lang="hi">गुब्बियो 1910 का मैदान इटली में स्थित है जहां की आधिकारिक भाषा इतालवी है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti, who manages A.S. Roma, played for Udinese Calcio.</lex>
+      <lex comment="" lid="Id1" lang="hi">एएस रोमा का प्रबंधन करने वाले लुसियानो स्पेलेटी ने उडिनीज कालसियो के लिए खेला।</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti plays for Udinese Calcio and manages AS Roma.</lex>
+      <lex comment="" lid="Id2" lang="hi">लुसियानो स्पेलेटी उडिनीज कैलसियो के लिए खेलते हैं और एएस रोमा का प्रबंधन करते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti manages A S Roma and plays for Udinese Calcio.</lex>
+      <lex comment="" lid="Id3" lang="hi">लुसियानो स्पैलेटी ए एस रोमा का प्रबंधन करते हैं और उडिनीज कैल्सियो के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id1" lang="hi">मासिमो ड्रागो यू. एस. कास्ट्रोविल्लारी कालसियो के लिए खेलते हैं और ए. सी. सेसेना का प्रबंधन करते हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago, who manages A.C. Cesena, was once a player for US Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id2" lang="hi">मासिमो ड्रागो, जो ए. सी. सेसेना का प्रबंधन करते हैं, एक बार यूएस कास्ट्रोविल्लारी कालसियो के लिए एक खिलाड़ी थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago plays for U.S Castrovillari Calcio and has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id3" lang="hi">मासिमो ड्रागो यू. एस. कास्ट्रोविल्लारी कालसियो के लिए खेलते हैं और ए सी सेसेना के प्रबंधक रहे हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago is attached to the club Vigor Lamezia and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id1" lang="hi">मासिमो ड्रागो क्लब विगोर लामेज़िया से जुड़ा हुआ है और ए. सी. सेसेना का प्रबंधन करता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago is attached to the club Vigor Lamezia and he has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id2" lang="hi">मासिमो ड्रागो क्लब विगोर लामेज़िया से जुड़े हैं और वह एसी सेसेना के प्रबंधक रहे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago is attached to the club Vigor Lamezia and has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id3" lang="hi">मासिमो ड्रागो क्लब विगोर लामेज़िया से जुड़े हैं और ए सी सेसेना के प्रबंधक रहे हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>National_League_North | champions | Barrow_A.F.C.</otriple>
+        <otriple>A.F.C._Fylde | league | National_League_North</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>National_League_North | champions | Barrow_A.F.C.</mtriple>
+        <mtriple>A.F.C._Fylde | league | National_League_North</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Barrow A.F.C. team won the championship before in the National League North, obviously they are in that league.</lex>
+      <lex comment="" lid="Id1" lang="hi">बैरो ए. एफ. सी. टीम ने नेशनल लीग नॉर्थ में पहले चैम्पियनशिप जीती थी, जाहिर है कि वे उस लीग में हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Barrow A.F.C. are the National League North Champions and A.F.C. Fylde play in the same league.</lex>
+      <lex comment="" lid="Id2" lang="hi">बैरो ए. एफ. सी. नेशनल लीग नॉर्थ चैंपियन हैं और ए. एफ. सी. फाइल्ड एक ही लीग में खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Fylde played in the National League North league of which Barrow AFC are the champions.</lex>
+      <lex comment="" lid="Id3" lang="hi">फाइल्ड नेशनल लीग नॉर्थ लीग में खेले जिसमें बैरो एएफसी चैंपियन हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium, located in Athens, is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">एथेंस में स्थित ओलंपिक स्टेडियम एथेंस एफसी का घरेलू मैदान है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Olympic Stadium in Athens is where the AEK Athens football club play.</lex>
+      <lex comment="" lid="Id2" lang="hi">एथेंस में ओलंपिक स्टेडियम में एईके एथेंस फुटबॉल क्लब खेलता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Olympic Stadium, in Athens, is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id3" lang="hi">एथेंस का ओलंपिक स्टेडियम एथेंस एफसी का घरेलू मैदान है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Marousi</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Marousi</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium (Athens) is located in Marousi and is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">ओलंपिक स्टेडियम (एथेंस) मारौसी में स्थित है और एईके एथेंस एफसी का घरेलू मैदान है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ground for AEK Athens FC is the Olympic Stadium (Athens) located in Marousi.</lex>
+      <lex comment="" lid="Id2" lang="hi">एईके एथेंस एफसी का मैदान मारूसी में स्थित ओलंपिक स्टेडियम (एथेंस) है।</lex>
+      <lex comment="" lid="Id3" lang="en">The ground for AEK Athens FC is the Olympic Stadium (Athens) in Marousi.</lex>
+      <lex comment="" lid="Id3" lang="hi">एईके एथेंस एफसी का मैदान मारूसी में ओलंपिक स्टेडियम (एथेंस) है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger's club is the FC Admira Wacker Mödling and he is the manager of 1. FC Koln.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टेम्बलर का क्लब एफसी एडमिरा वैकर मेम्बेज डलिंग है और वह 1 के प्रबंधक हैं। एफसी कोलोन।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is the manager of FC Kolin and his club is FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर एफसी कोलिन के प्रबंधक हैं और उनका क्लब एफसी एडमिरा वैकर मॉडलिंग है।</lex>
+      <lex comment="" lid="Id3" lang="en">The manager of 1.FC Koln is Peter Stoger, who's club is FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id3" lang="hi">1. एफसी कोलन के प्रबंधक पीटर स्टोगर हैं, जो एफसी एडमिरा वैकर मॉडलिंग के क्लब हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger plays for SK Rapid Wien and is the manager of 1. FC Koln.</lex>
+      <lex comment="" lid="Id1" lang="hi">पीटर स्टोगर एसके रैपिड वीन के लिए खेलते हैं और 1 के प्रबंधक हैं। एफसी कोलोन।</lex>
+      <lex comment="" lid="Id2" lang="en">The manager of 1. FC Koln isPeter Stöger, who plays for SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id2" lang="hi">1 का प्रबंधक। एफसी कोलोन पीटर स्टेंजर हैं, जो एसके रैपिड वीन क्लब के लिए खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger, the manager of 1. FC Köln, plays for SK Rapid Wien.</lex>
+      <lex comment="" lid="Id3" lang="hi">पीटर स्टेम्बलर, 1 के प्रबंधक। एफसी केक्लाइलिन, एसके रैपिड वीन के लिए खेलते हैं।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger, manager of 1.FC Koln, is also in the SK Vorwarts Steyr club.</lex>
+      <lex comment="" lid="Id1" lang="hi">1. एफसी कोलोन के प्रबंधक पीटर स्टोगर भी एसके वोरवर्ट्स स्टीयर क्लब में हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is in the SK Vorwarts Steyr club and is the manager of 1. FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="hi">पीटर स्टोगर एसके वोरवर्ट्स स्टीयर क्लब में हैं और 1 के प्रबंधक हैं। एफसी कोलोन।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Chievo Verona play in Serie A where Juventus FC have been champions .</lex>
+      <lex comment="" lid="Id1" lang="hi">ए. सी. चीवो वेरोना सीरी ए में खेलते हैं जहां जुवेंटस एफसी चैंपियन रहा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus F.C. are former champions of Serie A, and A.C. Chievo Verona are also in the same competition.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुवेंटस एफ. सी. सीरी ए के पूर्व चैंपियन हैं, और ए. सी. चीवो वेरोना भी इसी प्रतियोगिता में हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">AC Chievo Verona play in the Serie A league in which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id3" lang="hi">एसी चिवो वेरोना सीरी ए लीग में खेलते हैं जिसमें जुवेंटस एफसी चैंपियन रहा है।</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma play in the Serie A league where the champions are Juventus FC.</lex>
+      <lex comment="" lid="Id1" lang="hi">एएस रोमा सीरी ए लीग में खेलते हैं जहां चैंपियन जुवेंटस एफसी हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus FC have been Serie A champions and AS Roma play in the same league.</lex>
+      <lex comment="" lid="Id2" lang="hi">जुवेंटस एफसी सीरी ए चैंपियन रहा है और एएस रोमा एक ही लीग में खेलते हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus F.C. are former champions of Serie A, A.S. Roma also play in the same competition.</lex>
+      <lex comment="" lid="Id3" lang="hi">जुवेंटस एफ. सी. सीरी ए के पूर्व चैंपियन हैं और ए. एस. रोमा भी इसी प्रतियोगिता में खेलते हैं।</lex>
+    </entry>
+  </entries>
+</benchmark>

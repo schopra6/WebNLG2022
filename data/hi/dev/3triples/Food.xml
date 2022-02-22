@@ -1,0 +1,714 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="1" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Dessert | hasVariant | Ice_cream</otriple>
+        <otriple>Bionico | ingredient | Raisin</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dessert | dishVariation | Ice_cream</mtriple>
+        <mtriple>Bionico | ingredient | Raisin</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ice cream is a dessert, as is Bionico which contains raisins.</lex>
+      <lex comment="" lid="Id1" lang="hi">आइसक्रीम एक मिठाई है, जैसा कि बायोनिको है जिसमें किशमिश होती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ice cream is a type of dessert, as is Bionico, which contains raisins.</lex>
+      <lex comment="" lid="Id2" lang="hi">आइसक्रीम एक प्रकार का मिठाई है, जैसा कि बायोनिको है, जिसमें किशमिश होती है।</lex>
+      <lex comment="" lid="Id3" lang="en">Bionico (which contains raisins) and ice cream are both served as a dessert.</lex>
+      <lex comment="" lid="Id3" lang="hi">बायोनिको (जिसमें किशमिश शामिल है) और आइसक्रीम दोनों को मिठाई के रूप में परोसा जाता है।</lex>
+    </entry>
+    <entry category="Food" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Indonesia | capital | Jakarta</otriple>
+        <otriple>Indonesia | leader | Joko_Widodo</otriple>
+        <otriple>Bakso | country | Indonesia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indonesia | capital | Jakarta</mtriple>
+        <mtriple>Indonesia | leader | Joko_Widodo</mtriple>
+        <mtriple>Bakso | country | Indonesia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joko Widodo is the leader of Indonesia, where the capital is Jakarta and where the dish Bakso is from.</lex>
+      <lex comment="" lid="Id1" lang="hi">जोको विडोडो इंडोनेशिया के नेता हैं, जहां की राजधानी जकार्ता है और जहां का व्यंजन बकसो है।</lex>
+      <lex comment="" lid="Id2" lang="en">Jakarta is the capital of Indonesia whose leader is Joko Widodo. Bakso is a dish from that country.</lex>
+      <lex comment="" lid="Id2" lang="hi">जकार्ता इंडोनेशिया की राजधानी है जिसके नेता जोको विडोडो हैं। बकसो उस देश का एक व्यंजन है।</lex>
+      <lex comment="" lid="Id3" lang="en">Bakso is a dish which originates from Indonesia, the Capital of Indonesia is Jakarta and it's leader is Joko Widodo.</lex>
+      <lex comment="" lid="Id3" lang="hi">बकसो एक व्यंजन है जो इंडोनेशिया से उत्पन्न होता है, इंडोनेशिया की राजधानी जकार्ता है और इसका नेता जोको विडोडो है।</lex>
+    </entry>
+    <entry category="Food" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+        <otriple>Indonesia | leader | Jusuf_Kalla</otriple>
+        <otriple>Bakso | country | Indonesia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indonesia | language | Indonesian_language</mtriple>
+        <mtriple>Indonesia | leaderName | Jusuf_Kalla</mtriple>
+        <mtriple>Bakso | country | Indonesia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jusuf Kalla is the leader of Indonesia where the language is Indonesian and one of the local dishes is Bakso.</lex>
+      <lex comment="" lid="Id1" lang="hi">जुसुफ कल्ला इंडोनेशिया के नेता हैं, जहां की भाषा इंडोनेशियाई है और स्थानीय व्यंजनों में से एक बकसो है।</lex>
+      <lex comment="" lid="Id2" lang="en">Bakso is a dish from Indonesia where Jusuf Kalla is the leader and the Indonesian language is spoken.</lex>
+      <lex comment="" lid="Id2" lang="hi">बकसो इंडोनेशिया का एक व्यंजन है जहां जुसुफ कल्ला नेता है और इंडोनेशियाई भाषा बोली जाती है।</lex>
+      <lex comment="" lid="Id3" lang="en">Bakso is a dish from the country of Indonesia where Jusuf Kalla is a leader and the language spoken is Indonesian.</lex>
+      <lex comment="" lid="Id3" lang="hi">बकसो इंडोनेशिया देश का एक व्यंजन है जहां जुसुफ कल्ला एक नेता है और बोली जाने वाली भाषा इंडोनेशियाई है।</lex>
+    </entry>
+    <entry category="Food" eid="4" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leader | Laura_Boldrini</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amatriciana sauce can be found in Italy, where the capital is Rome and where Laura Boldrini is the leader.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेट्रिसियाना सॉस इटली में पाया जा सकता है, जहां की राजधानी रोम है और जहां लौरा बोल्द्रिनी नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Amatriciana is a traditional sauce from Italy where the capital is Rome and Laura Boldrini is a leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेट्रिसियाना इटली की एक पारंपरिक चटनी है, जिसकी राजधानी रोम है और लौरा बोल्द्रिनी एक नेता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Amatriciana sauce is a traditional sauce of Italy, where the capital is Rome and a key leader is Laura Boldrini.</lex>
+      <lex comment="" lid="Id3" lang="hi">अमेट्रिसियाना सॉस इटली की एक पारंपरिक सॉस है, जिसकी राजधानी रोम है और एक प्रमुख नेता लौरा बोल्ड्रिनी हैं।</lex>
+    </entry>
+    <entry category="Food" eid="5" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amatriciana sauce comes from Italy where Sergio Mattarella is a leader and the capital is Rome.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेट्रिसियाना सॉस इटली से आता है, जहां सर्जियो मैटरेला एक नेता हैं और इसकी राजधानी रोम है।</lex>
+      <lex comment="" lid="Id2" lang="en">Amatriciana sauce is a traditional sauce from Italy which has the capital city of Rome and Sergio Mattarella as leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेट्रिसियाना सॉस इटली की एक पारंपरिक सॉस है, जिसकी राजधानी रोम है और इसका नेता सर्जियो मैटरेला है।</lex>
+      <lex comment="" lid="Id3" lang="en">Italy is the country Amatriciana sauce comes from, its leader is Sergio Mattarella and its capital is Rome.</lex>
+      <lex comment="" lid="Id3" lang="hi">इटली एक देश है जो एमेट्रिसियाना सॉस से आता है, इसके नेता सर्जियो मैटरेला हैं और इसकी राजधानी रोम है।</lex>
+    </entry>
+    <entry category="Food" eid="6" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leader | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | leaderName | Matteo_Renzi</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | leader | Matteo_Renzi</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rome is the capital of Italy, where Matteo Renzi is a leader, and where Amatriciana sauce can be found.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोम इटली की राजधानी है, जहां मैटियो रेंजी एक नेता हैं, और जहां अमेट्रिसियाना सॉस पाया जा सकता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Amatriciana sauce comes from Italy, a country led by Matteo Renzi and whose capital is Rome.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेट्रिसियाना सॉस इटली से आता है, जिसकी राजधानी रोम है।</lex>
+    </entry>
+    <entry category="Food" eid="7" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Banyumasan_people</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Banyumasan_people</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ayam penyet is a dish from the region of Singapore. It is also found in Java where the Banyumasan people are an ethnic group.</lex>
+      <lex comment="" lid="Id1" lang="hi">अयम पेनयेट सिंगापुर क्षेत्र का एक व्यंजन है। यह जावा में भी पाया जाता है जहां बनयूमासन लोग एक जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Ayam penyet, a dish from Singapore, is also found in Java. The Banyumasan people are an ethnic group in Java.</lex>
+      <lex comment="" lid="Id2" lang="hi">सिंगापुर का एक व्यंजन अयम पेनायट भी जावा में पाया जाता है। बन्युमासन लोग जावा में एक जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The Banyumasan people are an ethnic group from Java where Ayam penyet (which comes from the Singapore region) is found.</lex>
+      <lex comment="" lid="Id3" lang="hi">बन्युमसान लोग जावा से एक जातीय समूह हैं जहां आयम पेनेट (जो सिंगापुर क्षेत्र से आता है) पाया जाता है।</lex>
+    </entry>
+    <entry category="Food" eid="8" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | region | &quot;Nationwide, also can be found in Malaysia and Singapore&quot;@en</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | region | &quot;Nationwide, also can be found in Malaysia and Singapore&quot;</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ayam penyet is a food found in Java where the Javanese people are an ethnic group. It is made nationwide and is also found in Malaysia and Singapore.</lex>
+      <lex comment="" lid="Id1" lang="hi">अयम पेनेट जावा में पाया जाने वाला एक भोजन है जहां जावा के लोग एक जातीय समूह हैं। इसे राष्ट्रव्यापी बनाया गया है और मलेशिया और सिंगापुर में भी पाया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ayam penyet can be found nationwide and also in Malaysia and Singapore, it is a food found in Java, where there ia a ethnic group called The Javanese.</lex>
+      <lex comment="" lid="Id2" lang="hi">अयम पेनिएट को राष्ट्रव्यापी रूप से और मलेशिया और सिंगापुर में भी पाया जा सकता है, यह जावा में पाया जाने वाला एक भोजन है, जहां द जावानी नामक एक जातीय समूह है।</lex>
+    </entry>
+    <entry category="Food" eid="9" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Javenese people are an ethnic group in Java, where the food ayam penyet is found. The dish is from the Singapore region.</lex>
+      <lex comment="" lid="Id1" lang="hi">जावा में जावेनीज लोग एक जातीय समूह हैं, जहां फूड आयम पेनयेट पाया जाता है। यह व्यंजन सिंगापुर क्षेत्र का है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ayam penyet is a dish from the region of Singapore and is also found in Java where the Javenese people are an ethnic group.</lex>
+      <lex comment="" lid="Id2" lang="hi">आयम पेनेट सिंगापुर क्षेत्र का एक व्यंजन है और जावा में भी पाया जाता है जहां जावेनीज लोग एक जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Ayam penyet is a dish from the region of Singapore, its country is Java, where there is a ethnic group called The Javanese.</lex>
+      <lex comment="" lid="Id3" lang="hi">अयम पेनयेट सिंगापुर क्षेत्र का एक व्यंजन है, इसका देश जावा है, जहां द जावानी नामक एक जातीय समूह है।</lex>
+    </entry>
+    <entry category="Food" eid="10" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy comes from the Philippines where Philippine English is the language spoken. It is also where Zamboangans are a group.</lex>
+      <lex comment="" lid="Id1" lang="hi">बैचॉय फिलीपींस से आती है जहां फिलीपीन अंग्रेजी बोली जाती है। यह वह जगह भी है जहां ज़म्बोआंगन एक समूह हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Philippines is the country Batchoy comes from. They speak Philippine-English there and one of the ethnic groups is the Zamboangans.</lex>
+      <lex comment="" lid="Id2" lang="hi">फिलीपींस बैचॉय देश से आता है। वे वहां फिलीपीन-अंग्रेजी बोलते हैं और एक जातीय समूह ज़म्बोआंगन है।</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy is eaten in the Philippines, where there is a ethnic group called Zamboangans and the language is Philippine English.</lex>
+      <lex comment="" lid="Id3" lang="hi">बैटचॉय फिलीपींस में खाया जाता है, जहां एक जातीय समूह है जिसे ज़म्बोआंगन कहा जाता है और भाषा फिलीपीन अंग्रेजी है।</lex>
+    </entry>
+    <entry category="Food" eid="11" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Zamboangans are a group in the Philippines, where the spoken language is Philippine Spanish, and batchoy is eaten.</lex>
+      <lex comment="" lid="Id1" lang="hi">ज़म्बोआंगन फिलीपींस में एक समूह है, जहां बोली जाने वाली भाषा फिलीपीन स्पेनिश है, और बैचॉय खाया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy is eaten in the Philippines where the language used is Philippine Spanish and one of the ethnic groups are the Zamboangans.</lex>
+      <lex comment="" lid="Id2" lang="hi">बैटचॉय फिलीपींस में खाया जाता है जहां इस्तेमाल की जाने वाली भाषा फिलीपीन स्पेनिश है और जातीय समूहों में से एक ज़म्बोआंगन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Philippines is the country Batchoy comes from, one of the ethnic groups there is the Zamboangans and the spoken language is Philippine Spanish.</lex>
+      <lex comment="" lid="Id3" lang="hi">फिलीपींस एक देश है जो बैटचोई से आता है, वहां के जातीय समूहों में से एक ज़म्बोआंगन है और बोली जाने वाली भाषा फिलीपीन स्पेनिश है।</lex>
+    </entry>
+    <entry category="Food" eid="12" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Chinese Filipino is an ethnic group in the Philippines where Batchoy is eaten and one of the languages is Arabic.</lex>
+      <lex comment="" lid="Id1" lang="hi">चीनी फिलिपिनो फिलीपींस में एक जातीय समूह है जहां बैचॉय खाया जाता है और भाषाओं में से एक अरबी है।</lex>
+      <lex comment="" lid="Id2" lang="en">One of the languages in the Philippines is Arabic. Batchoy comes from there. Chinese Filipino people are also from the Philippines.</lex>
+      <lex comment="" lid="Id2" lang="hi">फिलीपींस की भाषाओं में से एक अरबी है। बैचॉय वहां से आता है। चीनी फिलिपिनो लोग भी फिलीपींस से हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy is a dish from the Philippines where one of the languages spoken is Arabic and Filipino people live.</lex>
+      <lex comment="" lid="Id3" lang="hi">बैचॉय फिलीपींस का एक व्यंजन है जहां बोली जाने वाली भाषाओं में से एक अरबी है और फिलिपिनो लोग रहते हैं।</lex>
+    </entry>
+    <entry category="Food" eid="13" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Moro people are an ethnic group in the Philippines, where Arabic is a language spoken. It is also the country Batchoy comes from.</lex>
+      <lex comment="" lid="Id1" lang="hi">मोरो लोग फिलीपींस में एक जातीय समूह हैं, जहां अरबी बोली जाती है। यह वह देश भी है जहां से बैटचॉय आता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The ethnic group Moro come from the Philippines where Arabic is one of the languages used, it is also where the dish batchoy comes from.</lex>
+      <lex comment="" lid="Id2" lang="hi">जातीय समूह मोरो फिलीपींस से आता है जहां अरबी भाषा का उपयोग किया जाता है, यह भी है जहां से डिश बैचॉय आता है।</lex>
+      <lex comment="" lid="Id3" lang="en">The ethnic group of the Moro people are from the Philippines where Arabic is spoken and batchoy is eaten.</lex>
+      <lex comment="" lid="Id3" lang="hi">मोरो लोगों का जातीय समूह फिलीपींस से है जहां अरबी बोली जाती है और बैचॉय खाया जाता है।</lex>
+    </entry>
+    <entry category="Food" eid="14" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy is eaten in the Philippines, where one of the ethnic groups is the Zamboangans and one of the languages is Arabic.</lex>
+      <lex comment="" lid="Id1" lang="hi">बैटचॉय फिलीपींस में खाया जाता है, जहां जातीय समूहों में से एक ज़म्बोआंगन हैं और भाषाओं में से एक अरबी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Arabic is a language spoken in the Philippines, where Zamboangans are an ethnic group, and Batchoy is a dish eaten there.</lex>
+      <lex comment="" lid="Id2" lang="hi">अरबी फिलीपींस में बोली जाने वाली एक भाषा है, जहां ज़ाम्बोआंगन एक जातीय समूह हैं, और बैचॉय एक व्यंजन है जिसे वहां खाया जाता है।</lex>
+    </entry>
+    <entry category="Food" eid="15" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The dish batchoy is from the Philippines where English is spoken and the Chinese Filipino people are from.</lex>
+      <lex comment="" lid="Id1" lang="hi">डिश बैचॉय फिलीपींस से है जहां अंग्रेजी बोली जाती है और चीनी फिलिपिनो लोग हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy is eaten in the Philippines where Philippine English is spoken and one of the ethnic groups are the Chinese Filipinos.</lex>
+      <lex comment="" lid="Id2" lang="hi">फिलीपींस में बैटचॉय खाया जाता है जहां फिलीपीन अंग्रेजी बोली जाती है और चीनी फिलिपीनो जातीय समूहों में से एक हैं।</lex>
+    </entry>
+    <entry category="Food" eid="16" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Philippine English is the language spoken in the Philippines, where Batchoy comes from. It is also the country where the Igorot people are an ethnic group.</lex>
+      <lex comment="" lid="Id1" lang="hi">फिलीपीन अंग्रेजी फिलीपींस में बोली जाने वाली भाषा है, जहां से बैचॉय आता है। यह वह देश भी है जहां इगोरोट लोग एक जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Igorot people are part of one of the ethnic groups in the Phillipines where Philippine English is spoken and the dish batchoy is eaten.</lex>
+      <lex comment="" lid="Id2" lang="hi">इगोरोट लोग फिलीपींस के उन जातीय समूहों में से एक हैं जहां फिलीपीन अंग्रेजी बोली जाती है और डिश बैचॉय खाया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Philippine English is the language of the Philippines, where Batchoy comes from and where the Igorot people are an ethnic group.</lex>
+      <lex comment="" lid="Id3" lang="hi">फिलीपीन अंग्रेजी फिलीपींस की भाषा है, जहां से बैचॉय आता है और जहां इगोरोट लोग एक जातीय समूह हैं।</lex>
+    </entry>
+    <entry category="Food" eid="17" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">the ethnic group of the llocano people are from the Philippines where English is spoken and batchoy is eaten.</lex>
+      <lex comment="" lid="Id1" lang="hi">लोकानो लोगों का जातीय समूह फिलीपींस से है जहां अंग्रेजी बोली जाती है और बैचॉय खाया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Ilocano people are an ethnic group found in the Philippines where Philippine English is the spoken language. The dish Batchoy comes from the country.</lex>
+      <lex comment="" lid="Id2" lang="hi">इलोकानो लोग फिलीपींस में पाए जाने वाले एक जातीय समूह हैं जहां फिलीपीन अंग्रेजी बोली जाने वाली भाषा है। बैचॉय का व्यंजन देश से आता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Philippines is the country Batchoy comes from, in this country there is a ethnic group called Ilocano and they speak Philippine English.</lex>
+      <lex comment="" lid="Id3" lang="hi">फिलीपींस एक ऐसा देश है जहां से बैचॉय आता है, इस देश में इलोकानो नामक एक जातीय समूह है और वे फिलीपीन अंग्रेजी बोलते हैं।</lex>
+    </entry>
+    <entry category="Food" eid="18" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Moro people is an ethnic group in the Philippines, where Philippine English is spoken and Batchoy comes from.</lex>
+      <lex comment="" lid="Id1" lang="hi">मोरो लोग फिलीपींस में एक जातीय समूह है, जहां फिलीपीन अंग्रेजी बोली जाती है और बैचॉय से आती है।</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy comes from the Philippines where the language spoken is known as Philippine English. The country includes people of Moro ethnicity.</lex>
+      <lex comment="" lid="Id2" lang="hi">बैचॉय फिलीपींस से आता है जहां बोली जाने वाली भाषा फिलीपीन अंग्रेजी के रूप में जानी जाती है। देश में मोरो जातीयता के लोग शामिल हैं।</lex>
+    </entry>
+    <entry category="Food" eid="19" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_English</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_English</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Binignit is a dish found in the Philippines where one of the ethnic groups are the Igorot and the language spoken is Philippine English.</lex>
+      <lex comment="" lid="Id1" lang="hi">बिनिग्निट एक व्यंजन है जो फिलीपींस में पाया जाता है जहां जातीय समूहों में से एक इगोरोट है और बोली जाने वाली भाषा फिलीपीन अंग्रेजी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The binignit dish can be found in the Philippines, where the language is Philippine English and one of the ethnic groups is Igorot.</lex>
+      <lex comment="" lid="Id2" lang="hi">बिनिग्निट व्यंजन फिलीपींस में पाया जा सकता है, जहां भाषा फिलीपीन अंग्रेजी है और जातीय समूहों में से एक इगोरोट है।</lex>
+    </entry>
+    <entry category="Food" eid="20" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the Philippines, the spoken languages is Philippine Spanish, it's also where Batchoy comes from and home to Chinese Filipino people.</lex>
+      <lex comment="" lid="Id1" lang="hi">फिलीपींस में, बोली जाने वाली भाषाएं फिलीपीन स्पेनिश हैं, यह वही जगह है जहां से बैचॉय आता है और चीनी फिलिपीनो लोगों का घर है।</lex>
+    </entry>
+    <entry category="Food" eid="21" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy is eaten in the Philippines where Philippine Spanish is the language and one of the ethnic groups is the Igorot people.</lex>
+      <lex comment="" lid="Id1" lang="hi">बैटचॉय फिलीपींस में खाया जाता है जहां फिलीपीन स्पेनिश भाषा है और जातीय समूहों में से एक इगोरोट लोग हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy comes from the Philippines where one of the ethnic groups are the Igorot and Philippine Spanish is the spoken language.</lex>
+      <lex comment="" lid="Id2" lang="hi">बैचॉय फिलीपींस से आता है, जहां एक जातीय समूह इगोरोट है और फिलीपीन स्पेनिश बोली जाने वाली भाषा है।</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy is eaten in the Philippines, where there is a ethnic group called The Igorot and the language is Philippine Spanish.</lex>
+      <lex comment="" lid="Id3" lang="hi">बैटचॉय फिलीपींस में खाया जाता है, जहां द इगोरोट नामक एक जातीय समूह है और भाषा फिलीपीन स्पेनिश है।</lex>
+    </entry>
+    <entry category="Food" eid="22" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The llocano people are an ethnic group from the Philippines, where the spoken language is Philippine Spanish. It is also where Batchoy comes from.</lex>
+      <lex comment="" lid="Id1" lang="hi">लोकानो लोग फिलीपींस के एक जातीय समूह हैं, जहां बोली जाने वाली भाषा फिलीपीन स्पेनिश है। यह वही जगह है जहां से बैचॉय आता है।</lex>
+      <lex comment="" lid="Id2" lang="en">In the Philippines; the spoken language is Philippine Spanish, Batchoy is eaten and one of the ethnic groups is the Ilocano people.</lex>
+      <lex comment="" lid="Id2" lang="hi">फिलीपींस में फिलीपींस की बोली जाने वाली भाषा फिलिपीन स्पेनिश है, बैचॉय खाया जाता है और जातीय समूहों में से एक इलोकानो लोग हैं।</lex>
+    </entry>
+    <entry category="Food" eid="23" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Philippine Spanish is spoken in the Philippines. People of Moro ethnicity are from that country. Batchoy comes from the Philippines.</lex>
+      <lex comment="" lid="Id1" lang="hi">फिलीपीन स्पेनिश फिलीपीन में बोली जाती है। मोरो जाति के लोग उस देश के हैं। बैचॉय फिलीपींस से आता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Some facts about the Philippines: the language spoken is Philippine Spanish, Moro people are an ethnic group, and a regional dish is Batchoy.</lex>
+      <lex comment="" lid="Id2" lang="hi">फिलीपींस के बारे में कुछ तथ्यः फिलीपीन स्पेनिश बोली जाने वाली भाषा है, मोरो लोग एक जातीय समूह हैं, और एक क्षेत्रीय व्यंजन बैचॉय है।</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy is eaten in the Philippines where the Moro people are an ethnic group and the language used is known as Philippine Spanish.</lex>
+      <lex comment="" lid="Id3" lang="hi">बैटचॉय फिलीपींस में खाया जाता है जहां मोरो लोग एक जातीय समूह हैं और उपयोग की जाने वाली भाषा फिलीपीन स्पेनिश के रूप में जानी जाती है।</lex>
+    </entry>
+    <entry category="Food" eid="24" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Beef kway teow is a dish from the country of Singapore, where the leader is Halimah Yacob and one of the languages spoken is English.</lex>
+      <lex comment="" lid="Id1" lang="hi">बीफ क्वे ट्यो सिंगापुर देश का एक व्यंजन है, जहां की नेता हलीमा याकूब है और बोली जाने वाली भाषाओं में से एक अंग्रेजी है।</lex>
+      <lex comment="" lid="Id2" lang="en">Beef kway teow is a popular dish in Singapore, which leader is Halimah Yacob and English is the spoken language.</lex>
+      <lex comment="" lid="Id2" lang="hi">सिंगापुर में बीफ क्वे एक लोकप्रिय व्यंजन है, जिसका नेता हलीमा याकूब है और अंग्रेजी बोली जाने वाली भाषा है।</lex>
+    </entry>
+    <entry category="Food" eid="25" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Singapore | currency | Singapore_dollar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Singapore | currency | Singapore_dollar</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Beef kway teow is a dish from the country of Singapore where the currency is the Singapore dollar and the leader is Tony Tan.</lex>
+      <lex comment="" lid="Id1" lang="hi">बीफ क्वे टीओ सिंगापुर देश का एक व्यंजन है, जहां की मुद्रा सिंगापुर डॉलर है और इसका नेता टोनी टैन है।</lex>
+      <lex comment="" lid="Id2" lang="en">Beef kway teow is a popular dish in Singapore, where the currency is the Singapore dollar, and the leader is Tony Tan.</lex>
+      <lex comment="" lid="Id2" lang="hi">सिंगापुर में बीफ क्वे एक लोकप्रिय व्यंजन है, जहां मुद्रा सिंगापुर डॉलर है और नेता टोनी टैन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Tony Tan is the leader is Singapore where the currency is the dollar and Beef kway teow is a popular dish.</lex>
+      <lex comment="" lid="Id3" lang="hi">टोनी टैन सिंगापुर का लीडर है जहां मुद्रा डॉलर है और बीफ क्वे एक लोकप्रिय व्यंजन है।</lex>
+    </entry>
+    <entry category="Food" eid="26" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tony Tan is a leader in Singapore where Standard Chinese is spoken and where the dish Beef kway teow is from.</lex>
+      <lex comment="" lid="Id1" lang="hi">टोनी टैन सिंगापुर में एक नेता हैं जहां मानक चीनी बोली जाती है और जहां बीफ क्वे टेओ है।</lex>
+      <lex comment="" lid="Id2" lang="en">Beef kway teow is a dish from the country of Singapore. Standard Chinese is their language spoken, this Country leader is Tony Tan.</lex>
+      <lex comment="" lid="Id2" lang="hi">बीफ क्वे टेओ सिंगापुर देश का एक व्यंजन है। मानक चीनी उनकी बोली जाने वाली भाषा है, इस देश के नेता टोनी टैन हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Singapore is Tony Tan, Beef kway teow is a common dish from Singapore, Standard Chinese is one of the languages spoken in Singapore.</lex>
+      <lex comment="" lid="Id3" lang="hi">सिंगापुर के नेता टोनी टैन हैं, बीफ क्वे टेउ सिंगापुर का एक आम व्यंजन है, मानक चीनी सिंगापुर में बोली जाने वाली भाषाओं में से एक है।</lex>
+    </entry>
+    <entry category="Food" eid="27" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Beef kway is a popular dish in Singapore, where Tony Tan and Halimah Yacob are leaders.</lex>
+      <lex comment="" lid="Id1" lang="hi">सिंगापुर में बीफ क्वे एक लोकप्रिय व्यंजन है, जहां टोनी टैन और हलीमा याकूब नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Tony Tan and Halimah Yacob are leaders in Singapore where beef kway teow is a popular dish.</lex>
+      <lex comment="" lid="Id2" lang="hi">टोनी टैन और हलीमा याकूब सिंगापुर में लीडर हैं जहां बीफ क्वे एक लोकप्रिय व्यंजन है।</lex>
+      <lex comment="" lid="Id3" lang="en">Beef kway teow is a dish from Singapore where the leaders are Tony Tan and Halimah Yacob.</lex>
+      <lex comment="" lid="Id3" lang="hi">बीफ क्वे ट्यो सिंगापुर का एक व्यंजन है जहां टोनी टैन और हलीमा याकूब नेता हैं।</lex>
+    </entry>
+    <entry category="Food" eid="28" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Siomay | ingredient | Peanut_sauce</otriple>
+        <otriple>Shumai | hasVariant | Siomay</otriple>
+        <otriple>Batagor | variations | Shumai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Siomay | ingredient | Peanut_sauce</mtriple>
+        <mtriple>Shumai | dishVariation | Siomay</mtriple>
+        <mtriple>Batagor | dishVariation | Shumai</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peanut sauce is an ingredient of Siomay, which is considered a variation on shumai, which is considered to be a variation of Batagor.</lex>
+      <lex comment="" lid="Id1" lang="hi">मूंगफली की चटनी सियोमे का एक घटक है, जिसे शुमई पर एक भिन्नता माना जाता है, जिसे बटागोर का एक भिन्नता माना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">The dish shumai or batagor are the same, a variation of shumai is siomay which contains peanut sauce.</lex>
+      <lex comment="" lid="Id2" lang="hi">डिश शुमाई या बटागोर एक ही हैं, शुमाई की एक भिन्नता siomay है जिसमें मूंगफली की चटनी होती है।</lex>
+      <lex comment="" lid="Id3" lang="en">Shumai is a variation of Batagor and Siomay. One of the ingredients in Siomay is peanut sauce.</lex>
+      <lex comment="" lid="Id3" lang="hi">शुमाई बटागोर और सियोमे का एक रूप है। सियोमे में एक सामग्री मूंगफली की चटनी है।</lex>
+    </entry>
+    <entry category="Food" eid="29" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Euro is the currency in Spain, where Felipe VI of Spain is the leader, and where Arròs negre is from.</lex>
+      <lex comment="" lid="Id1" lang="hi">यूरो स्पेन की मुद्रा है, जहां स्पेन के फेलिप VI नेता हैं और जहां से Arrrnegre है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Spain is Felipe VI of Spain. The county uses the euro for its currency, and is also where Arròs negre is from.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्पेन के नेता स्पेन के फेलिप VI हैं। काउंटी अपनी मुद्रा के लिए यूरो का उपयोग करता है, और यह भी है जहां से Arrrgules negre है।</lex>
+    </entry>
+    <entry category="Food" eid="30" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spaniards are the ethnic group of Spain where the language is Spanish and where Ajoblanco is from.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्पेनी लोग स्पेन के जातीय समूह हैं जहां की भाषा स्पेनी है और जहां से अजोब्लांको है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ajoblanco comes from Spain where Spanish is spoken and the Spaniards are an ethnic group.</lex>
+      <lex comment="" lid="Id2" lang="hi">अजोब्लांको स्पेन से आता है जहां स्पेनिश बोली जाती है और स्पेनिश एक जातीय समूह है।</lex>
+      <lex comment="" lid="Id3" lang="en">Ajoblanco is from Spain where the language is Spanish and one of the ethnic groups are the Spaniards.</lex>
+      <lex comment="" lid="Id3" lang="hi">अजोब्लांको स्पेन से है जहां की भाषा स्पैनिश है और एक जातीय समूह स्पेनिश है।</lex>
+    </entry>
+    <entry category="Food" eid="31" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spaniards are the ethnic group of Spain, where the language is Spanish and one of the traditional dishes is Arròs negre.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्पेन के लोग स्पेन के जातीय समूह हैं, जहां की भाषा स्पेनिश है और पारंपरिक व्यंजनों में से एक है अर्र्स नेग्रे।</lex>
+      <lex comment="" lid="Id2" lang="en">Arròs negre is from Spain, where the language is Spanish and Spaniards are the ethnic group.</lex>
+      <lex comment="" lid="Id2" lang="hi">अर्विंगेल्स नेग्रे स्पेन से है, जहां की भाषा स्पेनिश है और स्पेनिश जातीय समूह हैं।</lex>
+    </entry>
+    <entry category="Food" eid="32" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajoblanco originates from the country of Spain, where the Spaniards are from and also where the leader is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजोब्लांको की उत्पत्ति स्पेन के देश से हुई है, जहां के स्पेनी मूल के हैं और जहां के नेता स्पेन के फेलिप VI हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Felipe VI of Spain is the leader of Spain, the land of Spaniards, which is where Ajoblanco originates from.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्पेन के फेलिपे छठे स्पेन के नेता हैं, जो स्पेन के लोगों की भूमि है, जहां से अजोब्लांको का जन्म हुआ है।</lex>
+      <lex comment="" lid="Id3" lang="en">Ajoblanco is from Spain, which leader is Felipe VI of Spain and the people is called Spaniards.</lex>
+      <lex comment="" lid="Id3" lang="hi">अजोब्लांको स्पेन से हैं, जो स्पेन के फेलिप VI हैं और लोगों को स्पेनियर्ड्स कहा जाता है।</lex>
+    </entry>
+    <entry category="Food" eid="33" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Felipe VI of Spain is the leader of Spain, where Spaniards are the ethinic group and where Ajoblanco originates from.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्पेन के फेलिपे छठे स्पेन के नेता हैं, जहां स्पेन के लोग एथनिक समूह हैं और जहां से अजोब्लांको का जन्म हुआ है।</lex>
+      <lex comment="" lid="Id2" lang="en">The dish of ajoblanco is from Spain where Felipe VI is the leader and Spaniards are an ethnic group.</lex>
+      <lex comment="" lid="Id2" lang="hi">अजोब्लांको का व्यंजन स्पेन का है जहां फेलिप छठा नेता है और स्पेन के लोग एक जातीय समूह हैं।</lex>
+    </entry>
+    <entry category="Food" eid="34" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Felipe VI of Spain is the leader of Spain, which is where the food Ajoblanco, is found, in Andalusia.</lex>
+      <lex comment="" lid="Id1" lang="hi">स्पेन के फेलिपे VI स्पेन के नेता हैं, जहां अजोब्लांको खाना पाया जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ajoblanco is from the Andalusia region in Spain, the leader of Spain is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id2" lang="hi">अजोब्लांको स्पेन के अंदलूसिया क्षेत्र से हैं और स्पेन के नेता स्पेन के फेलिप छठे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Ajoblanco is from the Andalusia region of Spain where Felipe VI is the leader.</lex>
+      <lex comment="" lid="Id3" lang="hi">अजोब्लांको स्पेन के अंडलुसिया क्षेत्र से हैं, जहां फिलिप VI नेता हैं।</lex>
+    </entry>
+    <entry category="Food" eid="35" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Felipe VI of Spain is the leader of Spain whose currency is the Euro. Ajoblanco originates from that country .</lex>
+      <lex comment="" lid="Id1" lang="hi">स्पेन के फेलिपे छठे स्पेन के नेता हैं जिनकी मुद्रा यूरो है। एजोब्लैंको की उत्पत्ति इसी देश से हुई है।</lex>
+      <lex comment="" lid="Id2" lang="en">The currency of Spain is the Euro, it's also where Ajoblanco is from and the leader is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id2" lang="hi">स्पेन की मुद्रा यूरो है, यह वह जगह भी है जहां से अजोब्लांको हैं और स्पेन के फेलिप छठे हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Ajoblanco originates from Spain, where the leader is Felipe VI and the currency is the Euro.</lex>
+      <lex comment="" lid="Id3" lang="hi">अजोब्लांको स्पेन से उत्पन्न होता है, जहां नेता फेलिप VI है और मुद्रा यूरो है।</lex>
+    </entry>
+    <entry category="Food" eid="36" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajoblanco originates from the country of Spain, where Spanish is spoken and the leader is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id1" lang="hi">अजोब्लांको स्पेन से उत्पन्न होता है, जहां स्पेनिश बोली जाती है और इसका नेता स्पेन का फेलिप छठा है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ajoblanco is in Spain where they speak Spanish and the leader is Felipe VI.</lex>
+      <lex comment="" lid="Id2" lang="hi">अजोब्लांको स्पेन में हैं, जहां वे स्पेनिश बोलते हैं और उनके नेता फेलिप VI हैं।</lex>
+    </entry>
+    <entry category="Food" eid="37" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Tomato | family | Solanaceae</otriple>
+        <otriple>Tomato | genus | Solanum</otriple>
+        <otriple>Amatriciana_sauce | ingredient | Tomato</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | family | Solanaceae</mtriple>
+        <mtriple>Tomato | genus | Solanum</mtriple>
+        <mtriple>Amatriciana_sauce | ingredient | Tomato</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The tomato is from the family of solanaceae and the genus Solanum, and is a key ingredient in Amatriciana sauce.</lex>
+      <lex comment="" lid="Id1" lang="hi">टमाटर सोलानेसी परिवार और सोलानम जीनस से है, और एमेट्रिसियाना सॉस का एक प्रमुख घटक है।</lex>
+      <lex comment="" lid="Id2" lang="en">The tomato belongs to the genus Solanium and the Solanaceae plant family. It is a main ingredient in the dish Amatriciana sauce.</lex>
+      <lex comment="" lid="Id2" lang="hi">टमाटर सोलेनियम जीनस और सोलेनेसी पौधे परिवार से संबंधित है। यह एमेट्रिसियाना सॉस का मुख्य घटक है।</lex>
+      <lex comment="" lid="Id3" lang="en">Amatricana sauce has as one of its ingredients tomatoes, which comes from the Solanaceae family and the genus Solanum.</lex>
+      <lex comment="" lid="Id3" lang="hi">टमाटर में टमाटर शामिल है जो सोलेनेसी परिवार और सोलेनम जीनस से आता है।</lex>
+    </entry>
+    <entry category="Food" eid="38" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>Baked_Alaska | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>Baked_Alaska | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The President is the leader of the U.S. An ethic group there are African Americans. The dessert, Baked Alaska, is from the U.S.</lex>
+      <lex comment="" lid="Id1" lang="hi">राष्ट्रपति अमेरिका के नेता हैं। वहां एक नैतिक समूह अफ्रीकी-अमेरिकी हैं। यह मिठाई, बेक्ड अलास्का, अमेरिका से है।</lex>
+      <lex comment="" lid="Id2" lang="en">Baked Alaska is found in the US where the leader is called the President and African Americans are one of the ethnic groups.</lex>
+      <lex comment="" lid="Id2" lang="hi">बेक्ड अलास्का अमेरिका में पाया जाता है जहां नेता को राष्ट्रपति कहा जाता है और अफ्रीकी अमेरिकी जातीय समूहों में से एक हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Baked Alaska is from the United States where the African Americans are an ethnic group and the leader is called the President.</lex>
+      <lex comment="" lid="Id3" lang="hi">बेक्ड अलास्का संयुक्त राज्य अमेरिका से है जहां अफ्रीकी अमेरिकी एक जातीय समूह हैं और नेता को राष्ट्रपति कहा जाता है।</lex>
+    </entry>
+    <entry category="Food" eid="39" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>Baked_Alaska | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>Baked_Alaska | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ethnic group of native Americans are from the United States where The president is the leader and baked Alaska is a dish.</lex>
+      <lex comment="" lid="Id1" lang="hi">मूल अमेरिकियों का जातीय समूह संयुक्त राज्य अमेरिका से हैं जहां राष्ट्रपति नेता हैं और बेक्ड अलास्का एक व्यंजन है।</lex>
+      <lex comment="" lid="Id2" lang="en">United States, where Baked Alaska is found, has Native Americans as an ethnic group and their leader is known as the president.</lex>
+      <lex comment="" lid="Id2" lang="hi">संयुक्त राज्य अमेरिका, जहां बेक्ड अलास्का पाया जाता है, में एक जातीय समूह के रूप में अमेरिकी मूल-निवासी हैं और उनके नेता को राष्ट्रपति के रूप में जाना जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Baked Alaska comes from the United States where the Native Americans are an ethnic group and the country is led by a President.</lex>
+      <lex comment="" lid="Id3" lang="hi">बेक्ड अलास्का संयुक्त राज्य अमेरिका से आता है जहां अमेरिकी मूल-निवासी एक जातीय समूह हैं और देश का नेतृत्व एक राष्ट्रपति द्वारा किया जाता है।</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,1133 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | George_Kapitan</otriple>
+        <otriple>Airman_(comics) | alterEgo | &quot;Drake Stevens&quot;@en</otriple>
+        <otriple>Airman_(comics) | creators | Harry_Sahle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Airman_(comics) | creator | Harry_Sahle</otriple>
+        <otriple>Airman_(comics) | alterEgo | &quot;Drake Stevens&quot;@en</otriple>
+        <otriple>Airman_(comics) | creators | George_Kapitan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airman_(comicsCharacter) | creator | Harry_Sahle</mtriple>
+        <mtriple>Airman_(comicsCharacter) | alternativeName | &quot;Drake Stevens&quot;</mtriple>
+        <mtriple>Airman_(comicsCharacter) | creator | George_Kapitan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.</lex>
+      <lex comment="" lang="hi" lid="Id1">एयरमैन, एकेए ड्रेक स्टीवंस का निर्माण हैरी सहले और जॉर्ज कैपिटन ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The alternative name of the comic character Airman is &quot;Drake Stevens&quot;. He was created by Harry Sahle and George Kapitan.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र ‘एरमन’ का वैकल्पिक नाम ‘ड्रेक स्टीवन्स’ है। इसका निर्माण हैरी सहले और जॉर्ज कैपिटन ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Airman, AKA Drake Stevens was created by Harry Sahle and George Kapitan.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र एरमन, एकेए ड्रेक स्टीवंस का निर्माण हैरी सहले और जॉर्ज कैपिटन ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | alterEgo | &quot;Ahri'ahn&quot;@en</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+        <otriple>Arion_(comics) | alterEgo | &quot;Ahri'ahn&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Arion_(comicsCharacter) | alternativeName | &quot;Ahri'ahn&quot;</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Jan Duursema and Paul Kupperberg created the comic book character of Arion who is also known as Ahri'ahn.</lex>
+      <lex comment="" lang="hi" lid="Id1">जान डुरसेमा और पॉल कुपरबर्ग ने एरियन के हास्य पुस्तक चरित्र का निर्माण किया, जिसे अहरी 'आन के रूप में भी जाना जाता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic book character Arion, aka Ahri'ahn, was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex comment="" lang="hi" lid="Id2">कॉमिक पुस्तक चरित्र एरियन उर्फ अहरी 'आन का निर्माण जान डुर्सेमा और पॉल कुपरबर्ग ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Arion is also known as Ahri'ahn and was created by Jan Duursema and Paul Kupperberg.</lex>
+      <lex comment="" lang="hi" lid="Id3">कॉमिक चरित्र एरियन को अहरी 'आन के रूप में भी जाना जाता है और इसका निर्माण जान डुर्सेमा और पॉल कुपरबर्ग द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Arion_(comics) | creators | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | creator | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arion_(comics) | creator | Jan_Duursema</otriple>
+        <otriple>Jan_Duursema | awards | Eisner_Award</otriple>
+        <otriple>Arion_(comics) | creators | Paul_Kupperberg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arion_(comicsCharacter) | creator | Jan_Duursema</mtriple>
+        <mtriple>Jan_Duursema | award | Eisner_Award</mtriple>
+        <mtriple>Arion_(comicsCharacter) | creator | Paul_Kupperberg</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic book character Arion was created by Paul Kupperberg and Jan Duursema, a winner of the Eisner Award.</lex>
+      <lex comment="" lang="hi" lid="Id1">कॉमिक पुस्तक चरित्र एरियन का निर्माण पॉल कुपरबर्ग और आइसनर पुरस्कार विजेता जान डुरसेमा ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Jan Duursema won the Eisner Award and is the creator of the comic book character Arion along with Paul Kupperberg.</lex>
+      <lex comment="" lang="hi" lid="Id2">जान डुरसेमा ने इस्नर पुरस्कार जीता और पॉल कुपरबर्ग के साथ कॉमिक पुस्तक चरित्र एरियन के निर्माता हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | &quot;Astérix&quot;</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character Asterix, was created by René Goscinny and Albert Uderzo.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य चरित्र एस्टेरिक्स का निर्माण रेनगुइसन गोसिनी और अल्बर्ट उदेर्जो ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Asterix the comic character whose alternative name is Asterix was created by Albert Uderzo and Rene Goscinny.</lex>
+      <lex comment="" lang="hi" lid="Id2">एस्टेरिक्स-कॉमिक चरित्र जिसका वैकल्पिक नाम एस्टेरिक्स है, अल्बर्ट उदेर्जो और रेने गोसिनी द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Asterix, alternatively &quot;Astérix&quot;, is a comic book character created by René Goscinny and Albert Uderzo.</lex>
+      <lex comment="" lang="hi" lid="Id3">एस्टेरिक्स (अंग्रेज़ीः Asterix) एक हास्य पुस्तक चरित्र है जिसका निर्माण रेनइनसाइल गोसिनी और अल्बर्ट उदेर्जो ने किया है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="5" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | &quot;Astérix&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Frenchman, Rene Goscinny created Asterix, the comic character who is sometimes called &quot;Astérix&quot;.</lex>
+      <lex comment="" lang="hi" lid="Id1">&quot;फ्रांसीसी, रेने गोसिनी ने एस्टेरिक्स नामक हास्य चरित्र का निर्माण किया, जिसे कभी-कभी&quot; &quot;एस्टेलिक्स&quot; &quot;कहा जाता है।&quot;</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character Asterix (also known as Astérix), was created by René Goscinny, who is French.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र एस्टेरिक्स (जिसे एस्टेरिक्स के रूप में भी जाना जाता है) का निर्माण फ्रेंच मूल के रेनेगेंड गोसिनी ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Asterix, also know as Astérix, was created by the Frenchman René Goscinny.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र एस्टेरिक्स, जिसे एस्टेरिक्स के रूप में भी जाना जाता है, का निर्माण फ्रेंच रेनगेस गोसिनी द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | &quot;Aurakles&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+        <otriple>Aurakles | alterEgo | &quot;Aurakles&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+        <mtriple>Aurakles | alternativeName | &quot;Aurakles&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The character of Aurakles has the alternative name of Aurakles and was created by Len Wein and Dick Dillin.</lex>
+      <lex comment="" lang="hi" lid="Id1">औराकल्स के चरित्र का वैकल्पिक नाम औराकल्स है और इसे लेन वेन और डिक डिलिन द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Dick Dillin and Len Wein created the character Aurakles.</lex>
+      <lex comment="" lang="hi" lid="Id2">डिक डिलिन और लेन वेन ने औराकल्स नामक चरित्र का निर्माण किया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="7" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | alterEgo | &quot;Aurakles&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | alterEgo | &quot;Aurakles&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | alternativeName | &quot;Aurakles&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Dick Dillin, from the United States, created the comic book character known as Aurakles (alternatively called Aurakles).</lex>
+      <lex comment="" lang="hi" lid="Id1">संयुक्त राज्य अमेरिका के डिक डिलिन ने कॉमिक बुक चरित्र का निर्माण किया जिसे औराकल्स (वैकल्पिक रूप से औराकल्स कहा जाता है) के रूप में जाना जाता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic book character Aurakles (alternative name Aurakles) was created by Dick Dillin from the United States.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य पुस्तक चरित्र औराकल्स (वैकल्पिक नाम औराकल्स) को संयुक्त राज्य अमेरिका के डिक डिलिन द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="8" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aurakles | creators | Dick_Dillin</otriple>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Len_Wein</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dick_Dillin | nationality | United_States</otriple>
+        <otriple>Aurakles | creator | Dick_Dillin</otriple>
+        <otriple>Aurakles | creators | Len_Wein</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aurakles | creator | Dick_Dillin</mtriple>
+        <mtriple>Dick_Dillin | nationality | United_States</mtriple>
+        <mtriple>Aurakles | creator | Len_Wein</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Dick Dillin, an american along with Len Wein were the creators of Aurakles, a fictional character.</lex>
+      <lex comment="" lang="hi" lid="Id1">डिक डिलिन, लेन वेन के साथ एक अमेरिकी, एक काल्पनिक चरित्र औराकल्स के रचनाकार थे।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic book character Aurakles was created by Len Wein and the American Dick Dillian.</lex>
+      <lex comment="" lang="hi" lid="Id2">कॉमिक पुस्तक चरित्र औराकल्स का निर्माण लेन वेन और अमेरिकी डिक डिलियन ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="9" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | &quot;Marv Wolfman&quot;@en</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | &quot;Lambien&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Marv Wolfman and Karl Kesel are the creators of the comic character Auron, whose full name is Lambien.</lex>
+      <lex comment="" lang="hi" lid="Id1">मार्व वोल्फमैन और कार्ल केज़ल हास्य चरित्र आरोन के रचनाकार हैं, जिनका पूरा नाम लैम्बियन है।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character Auron, whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र आरोन, जिसका पूरा नाम लैम्बियन है, कार्ल केसेल और मार्व वोल्फमैन द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Auron, a comic book character whose full name is Lambien, was created by Karl Kesel and Marv Wolfman.</lex>
+      <lex comment="" lang="hi" lid="Id3">औरोन, एक हास्य पुस्तक चरित्र जिसका पूरा नाम लैम्बियन है, कार्ल केसेल और मार्व वोल्फमैन द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | &quot;Lambien&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic book character Auron, full name Lambien was created by Karl Kesel and Walt Simonson.</lex>
+      <lex comment="" lang="hi" lid="Id1">कॉमिक पुस्तक चरित्र आरोन, जिसका पूरा नाम लैम्बियन है, कार्ल केज़ल और वाल्ट सिमोनसन द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Karl Kesel and Walt Simonson created the comic book character of Auron who has the full name Lambien.</lex>
+      <lex comment="" lang="hi" lid="Id2">कार्ल केज़ल और वाल्ट सिमोनसन ने आरोन के हास्य पुस्तक चरित्र का निर्माण किया, जिसका पूरा नाम लैम्बियन है।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Auron, full name Lambien, was created by Karl Kesel and Walt Simonson.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र आरोन, जिसका पूरा नाम लैम्बियन है, कार्ल केज़ल और वाल्ट सिमोनसन द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | &quot;Marv Wolfman&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">American Karl Kesel and Marv Wolfman created the comic character Auron.</lex>
+      <lex comment="" lang="hi" lid="Id1">अमेरिकी कार्ल केज़ल और मार्व वोल्फमैन ने हास्य चरित्र आरोन का निर्माण किया।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character Auron was created by Marv Wolfman and American Karl Kesel.</lex>
+      <lex comment="" lang="hi" lid="Id2">कॉमिक चरित्र आरोन का निर्माण मार्व वोल्फमैन और अमेरिकी कार्ल केज़ल ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic book character Auron was created by Marv Wolfman and Karl Kesel who is an American.</lex>
+      <lex comment="" lang="hi" lid="Id3">कॉमिक पुस्तक चरित्र आरोन का निर्माण मार्व वोल्फमैन और कार्ल केज़ल ने किया था, जो एक अमेरिकी हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | creators | &quot;Marv Wolfman&quot;@en</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | &quot;Lambien&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Marv Wolfman and Walt Simonson created the comic book character Auron, whose full name is Lambien.</lex>
+      <lex comment="" lang="hi" lid="Id1">मार्व वोल्फमैन और वाल्ट सिमोनसन ने कॉमिक बुक चरित्र आरोन बनाया, जिसका पूरा नाम लैम्बियन है।</lex>
+      <lex comment="" lang="en" lid="Id2">Auron, a comic character whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.</lex>
+      <lex comment="" lang="hi" lid="Id2">ऑरोन, एक हास्य चरित्र जिसका पूरा नाम लैम्बियन है, का निर्माण मार्व वोल्फमैन और वाल्ट सिमोनसन ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Auron, whose full name is Lambien, was created by Marv Wolfman and Walt Simonson.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र आरोन, जिसका पूरा नाम लैम्बियन है, का निर्माण मार्व वोल्फमैन और वाल्ट सिमोनसन ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Rona Fairhead is the key person for the BBC which broadcast Bananaman and has its home at Broadcasting House in London.</lex>
+      <lex comment="" lang="hi" lid="Id1">रोना फेयरहेड बीबीसी के लिए प्रमुख व्यक्ति हैं जिन्होंने बनानमन का प्रसारण किया है और लंदन के ब्रॉडकास्टिंग हाउस में उनका घर है।</lex>
+      <lex comment="" lang="en" lid="Id2">The key person for BBC is Rona Fairfield and it's located in Broadcasting House in London and shows Bananaman TV Series.</lex>
+      <lex comment="" lang="hi" lid="Id2">बीबीसी के लिए प्रमुख व्यक्ति रोना फेयरफील्ड हैं और यह लंदन के ब्रॉडकास्टिंग हाउस में स्थित है और बनानमन टीवी श्रृंखला का प्रसारण करता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Rona_Fairhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Rona_Fairhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Rona Fairhead is a key person at the BBC, which is located in London. Bananaman was broadcast by the BBC.</lex>
+      <lex comment="" lang="hi" lid="Id1">रोना फेयरहेड बीबीसी में एक महत्वपूर्ण व्यक्ति हैं, जो लंदन में स्थित है। बीबीसी ने बनानामन का प्रसारण किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The BBC which broadcasted Bananaman is located in London and the key person is Rona Fairchild.</lex>
+      <lex comment="" lang="hi" lid="Id2">बनानामन का प्रसारण करने वाली बीबीसी लंदन में स्थित है और प्रमुख व्यक्ति रोना फेयरचाइल्ड हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">The BBC, where Rona Fairhead was a key person, is located in London and broadcasts Bananaman.</lex>
+      <lex comment="" lang="hi" lid="Id3">बीबीसी, जहां रोना फेयरहेड एक प्रमुख व्यक्ति थे, लंदन में स्थित है और बनानमन का प्रसारण करता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Tony_Hall,_Baron_Hall_of_Birkenhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Tony Hall, Baron Hall of Birkenhead is a key person at the BBC which has headquarters at Broadcasting House and broadcast Bananaman.</lex>
+      <lex comment="" lang="hi" lid="Id1">टोनी हॉल, बर्कनहेड का बैरन हॉल बीबीसी का एक प्रमुख व्यक्ति है, जिसका मुख्यालय ब्रॉडकास्टिंग हाउस में है और बनानमन का प्रसारण करता है।</lex>
+      <lex comment="" lang="en" lid="Id2">Bananaman, the TV series was shown on the BBC which has its home at Broadcasting House in London. A key person at the BBC is Tony Hall, Baron Hall of Birkenhead.</lex>
+      <lex comment="" lang="hi" lid="Id2">इस टीवी श्रृंखला को बीबीसी पर दिखाया गया, जिसका घर लंदन के ब्रॉडकास्टिंग हाउस में है। बीबीसी में एक प्रमुख व्यक्ति टोनी हॉल, बर्कनहेड के बैरन हॉल हैं।</lex>
+      <lex comment="" lang="en" lid="Id3">Bananaman, the TV series, was shown on the BBC. Broadcasting House in London is the location of the BBC and a key person there is Tony Hall or Baron Hall of Birkenhead to give him his full title.</lex>
+      <lex comment="" lang="hi" lid="Id3">टीवी श्रृंखला ‘बनामान’ को बीबीसी पर दिखाया गया था। लंदन में ब्रॉडकास्टिंग हाउस बीबीसी का स्थान है और एक प्रमुख व्यक्ति के रूप में टोनी हॉल या बर्कनहेड का बैरन हॉल है जो उसे अपना पूरा खिताब देता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+        <otriple>Balder_(comics) | alterEgo | &quot;Balder Odinson&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | &quot;Balder Odinson&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character of Balder has the alternative name of Balder Odinson and was created by Jack Kirby and Stan Lee.</lex>
+      <lex comment="" lang="hi" lid="Id1">बाल्डर के हास्य चरित्र का वैकल्पिक नाम बाल्डर ओडिनसन है और इसे जैक किर्बी और स्टेन ली ने बनाया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character of Balder Odinson is also known by the name Balder and was created by Stan Lee and Jack Kirby.</lex>
+      <lex comment="" lang="hi" lid="Id2">बाल्डर ओडिनसन के हास्य चरित्र को बाल्डर के नाम से भी जाना जाता है और इसे स्टेन ली और जैक किर्बी द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Balder a comic character AKA Balder Odinson, was created by Jack Kirby and Stan Lee.</lex>
+      <lex comment="" lang="hi" lid="Id3">बाल्डर एक हास्य चरित्र एकेए बाल्डर ओडिन्सन का निर्माण जैक किर्बी और स्टेन ली ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="17" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | alterEgo | &quot;Balder Odinson&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | alternativeName | &quot;Balder Odinson&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Balder Odinson - also known as Balder - is a comic character created by the American Jack Kirby.</lex>
+      <lex comment="" lang="hi" lid="Id1">बाल्डर ओडिनसन-जिसे बाल्डर के नाम से भी जाना जाता है-एक हास्य चरित्र है जिसे अमेरिकी जैक किर्बी ने बनाया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The American, Jack Kirby created the comic character of Balder who has the alternative name of Balder Odinson.</lex>
+      <lex comment="" lang="hi" lid="Id2">अमेरिकी, जैक किर्बी ने बाल्डर के हास्य चरित्र का निर्माण किया, जिसका वैकल्पिक नाम बाल्डर ओडिनसन है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+        <otriple>Jack_Kirby | nationality | Americans</otriple>
+        <otriple>Balder_(comics) | creator | Stan_Lee</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+        <mtriple>Jack_Kirby | nationality | Americans</mtriple>
+        <mtriple>Balder_(comicsCharacter) | creator | Stan_Lee</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Stan Lee and American Jack Kirby created the comic character Balder.</lex>
+      <lex comment="" lang="hi" lid="Id1">स्टेन ली और अमेरिकी जैक किर्बी ने कॉमिक चरित्र बाल्डर बनाया है।</lex>
+      <lex comment="" lang="en" lid="Id2">Stan Lee and the American, Jack Kirby created the comic character of Balder.</lex>
+      <lex comment="" lang="hi" lid="Id2">स्टेन ली और अमेरिकी, जैक किर्बी ने बाल्डर के हास्य चरित्र का निर्माण किया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ballistic_(DC_Comics) | creator | Doug_Moench</otriple>
+        <otriple>Ballistic_(DC_Comics) | alterEgo | &quot;Kelvin Mao&quot;@en</otriple>
+        <otriple>Ballistic_(DC_Comics) | creators | &quot;Michael Manley&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ballistic_(comicsCharacter) | creator | Doug_Moench</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | alternativeName | &quot;Kelvin Mao&quot;</mtriple>
+        <mtriple>Ballistic_(comicsCharacter) | creator | &quot;Michael Manley&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Ballistic, also known as Kelvin Mao, is a fictional comic superhero created by Michael Manley and Doug Moench.</lex>
+      <lex comment="" lang="hi" lid="Id1">बैलिस्टिक, जिसे केल्विन माओ के नाम से भी जाना जाता है, माइकल मैनले और डग मोएंच द्वारा निर्मित एक काल्पनिक हास्य सुपरहीरो है।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character,Ballistic (a.k.a. Kelvin Mao) was created by Douglas Moench and Michael Manley.</lex>
+      <lex comment="" lang="hi" lid="Id2">कॉमिक चरित्र, बैलिस्टिक (ए. के. ए. केल्विन माओ) डगलस मोएंच और माइकल मैनले द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Ballistic is a fictional comic superhero who is sometimes known as Kelvin Mao and was created by Doug Moench and Michael Manley.</lex>
+      <lex comment="" lang="hi" lid="Id3">बैलिस्टिक एक काल्पनिक हास्य सुपरहीरो है जिसे कभी-कभी केल्विन माओ के रूप में जाना जाता है और इसका निर्माण डग मोएंच और माइकल मैनले द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="20" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | Broadcasting_House</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | Broadcasting_House</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bananaman the TV series was shown on the BBC which was founded by John Reith, 1st Baron Reith and is located in the Broadcasting House in London.</lex>
+      <lex comment="" lang="hi" lid="Id1">‘बनामान’ टीवी श्रृंखला को बीबीसी पर दिखाया गया था, जिसकी स्थापना जॉन रीथ, फर्स्ट बैरन रीथ ने की थी और यह लंदन के ब्रॉडकास्टिंग हाउस में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">1st Baron,John Reith was the founder of BBC whose location is the Broadcasting House in London, and Bananaman was shown on the channel.</lex>
+      <lex comment="" lang="hi" lid="Id2">1st Baron, John Reith was founder of BBC, whose location is the Broadcasting House in London, and Bananaman was show on the channel. जॉन रीथ बीबीसी के संस्थापक थे, जिनका स्थान लंदन में ब्रॉडकास्टिंग हाउस है, और बननामन को चैनल पर दिखाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+        <otriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+        <mtriple>BBC | foundedBy | John_Reith,_1st_Baron_Reith</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The BBC, which is located in London and broadcast Bananaman, was founded by John Reith 1st Baron Reith.</lex>
+      <lex comment="" lang="hi" lid="Id1">बीबीसी, जो लंदन में स्थित है और बनानामन का प्रसारण करता है, की स्थापना जॉन रीथ फर्स्ट बैरन रीथ द्वारा की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">The BBC, which broadcast Bananaman, is located in London and was founded by John Reith, 1st Baron Reith.</lex>
+      <lex comment="" lang="hi" lid="Id2">बीबीसी, जिसने बनानमान का प्रसारण किया, लंदन में स्थित है और इसकी स्थापना जॉन रीथ, प्रथम बैरन रीथ द्वारा की गई थी।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bill Oddie starred in Bananaman which was broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id1">&quot;&quot; &quot;बिल ओडी ने&quot; &quot;&quot; &quot;बनानामन&quot; &quot;&quot; &quot;में अभिनय किया, जिसे बीबीसी ने 3 अक्टूबर 1983 को प्रसारित किया था।&quot; &quot;&quot;</lex>
+      <lex comment="" lang="en" lid="Id2">Bananaman a BBC TV series which stars Bill Oddie first aired on 3rd of October, 1983.</lex>
+      <lex comment="" lang="hi" lid="Id2">‘बनामान’ बीबीसी की एक टीवी श्रृंखला है जिसमें बिल ओडी मुख्य भूमिका में हैं और इसका प्रसारण पहली बार 3 अक्टूबर, 1983 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Bill Oddie stars in Bananaman which first aired on 3 October 1983 and was broadcast by the BBC.</lex>
+      <lex comment="" lang="hi" lid="Id3">बीबीसी ने 3 अक्टूबर 1983 को पहली बार इसका प्रसारण किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Graeme Garden stars in Bananaman which is broadcast by the BBC and first aired on 3 October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id1">&quot;&quot; &quot;ग्रीम गार्डन&quot; &quot;&quot; &quot;बनानामन&quot; &quot;&quot; &quot;में सितारे, जो बीबीसी द्वारा प्रसारित किया जाता है और पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया था।&quot; &quot;&quot;</lex>
+      <lex comment="" lang="en" lid="Id2">Banaman was first broadcast by the BBC on 3 October 1983 and starred Graeme Garden.</lex>
+      <lex comment="" lang="hi" lid="Id2">बनामन को पहली बार बीबीसी द्वारा 3 अक्टूबर 1983 को प्रसारित किया गया था और इसमें ग्रीम गार्डन ने अभिनय किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Graeme Garden stars in the TV series of Bananaman which was shown on BBC and first aired on 3 October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id3">ग्रीम गार्डन ने बनानामन की टीवी श्रृंखला में अभिनय किया जिसे बीबीसी पर दिखाया गया था और पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bananaman, starring Jill Shilling, is broadcast by the BBC and first aired on 3rd October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id1">जिल शिलिंग अभिनीत 'बनानमन' बीबीसी द्वारा प्रसारित किया जाता है और पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Jill Shilling.</lex>
+      <lex comment="" lang="hi" lid="Id2">बीबीसी ने बनानमन का प्रसारण किया, जिसे पहली बार 10/03/1983 को प्रसारित किया गया था और जिल शिलिंग ने अभिनय किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Billie Oddie who starred in Bananaman is Kate Hardie's son and was born in Lancashire.</lex>
+      <lex comment="" lang="hi" lid="Id1">'बनानामन' में अभिनय करने वाली बिली ओडी केट हार्डी का बेटा है और उसका जन्म लंकाशायर में हुआ था।</lex>
+      <lex comment="" lang="en" lid="Id2">Bill Oddie, who stars in Bananaman, was born in Lancashire and has a child called Kate Hardie.</lex>
+      <lex comment="" lang="hi" lid="Id2">‘बनानामन’ के अभिनेता बिल ओडी का जन्म लंकाशायर में हुआ था और उनके एक बच्चे का नाम केट हार्डी है।</lex>
+      <lex comment="" lang="en" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Lancashire and has a daughter called Kate Hardie.</lex>
+      <lex comment="" lang="hi" lid="Id3">'बनानामन' में अभिनय करने वाले बिल ओडी का जन्म लंकाशायर में हुआ था और उनकी एक बेटी है जिसका नाम केट हार्डी है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="26" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+        <otriple>Bill_Oddie | birthPlace | Rochdale</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+        <mtriple>Bill_Oddie | birthPlace | Rochdale</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bill Oddie, who starred in Bananaman, was born in Rochdale and has a child called Kate Hardie.</lex>
+      <lex comment="" lang="hi" lid="Id1">बननामन में अभिनय करने वाले बिल ओडी का जन्म रोचडेल में हुआ था और उनके एक बच्चे का नाम केट हार्डी है।</lex>
+      <lex comment="" lang="en" lid="Id2">Billie Oddie starred in Bananaman was born in Rochdale and Kate Hardie is his child.</lex>
+      <lex comment="" lang="hi" lid="Id2">बननामन में अभिनय करने वाली बिली ओडी का जन्म रोचडेल में हुआ था और केट हार्डी उनका बच्चा है।</lex>
+      <lex comment="" lang="en" lid="Id3">Bill Oddie, who starred in Bananaman, was born in Rochdale and has a daughter called Kate Hardie.</lex>
+      <lex comment="" lang="hi" lid="Id3">बननामन में अभिनय करने वाले बिल ओडी का जन्म रोचडेल में हुआ था और उनकी केट हार्डी नाम की एक बेटी है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Graeme_Garden</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+        <otriple>Bananaman | network | &quot;STV&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Graeme_Garden</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+        <mtriple>Bananaman | broadcastedBy | &quot;STV&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bananaman was broadcasted by STV, starring Graeme Garden it first aired on 3rd October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id1">एसटीवी द्वारा बननमन का प्रसारण किया गया था, जिसमें ग्रीम गार्डन ने अभिनय किया था, इसे पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Graeme Garden stars in Bananaman which first aired on 3 October 1983 and was broadcast by STV.</lex>
+      <lex comment="" lang="hi" lid="Id2">ग्रीम गार्डन ने बनानामन में अभिनय किया, जिसे पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया था और एसटीवी द्वारा प्रसारित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Bananaman which first aired 10/03/1983, stars Graeme Garden and was broadcasted by STV.</lex>
+      <lex comment="" lang="hi" lid="Id3">‘बनानम’ का प्रसारण पहली बार 10/03/1983 को किया गया था, जिसमें ग्रीम गार्डन ने अभिनय किया था और इसका प्रसारण एसटीवी द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="28" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Jill_Shilling</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+        <otriple>Bananaman | network | &quot;STV&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Jill_Shilling</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+        <mtriple>Bananaman | broadcastedBy | &quot;STV&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Jill Shilling starred in Bananaman which is broadcast by STV and first aired on 3 October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id1">जिल शिलिंग ने बनानामन में अभिनय किया जिसे एसटीवी द्वारा प्रसारित किया गया और पहली बार 3 अक्टूबर 1983 को प्रसारित किया गया।</lex>
+      <lex comment="" lang="en" lid="Id2">Bananaman starred Jill Shilling and first aired on the 3rd of October, 1983 being broadcast by STV.</lex>
+      <lex comment="" lang="hi" lid="Id2">बनानमन ने जिल शिलिंग को अभिनीत किया और पहली बार 3 अक्टूबर, 1983 को एसटीवी द्वारा प्रसारित किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="29" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The BBC broadcast Bananaman, which was first aired on 10/03/1983 and starred Tim Brooke-Taylor.</lex>
+      <lex comment="" lang="hi" lid="Id1">बीबीसी ने बनानमन का प्रसारण किया, जिसे पहली बार 10/03/1983 को प्रसारित किया गया था और इसमें टिम ब्रुक-टेलर ने अभिनय किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Bananaman which first aired on October 3rd, 1983 on the BBC, starred Tim Brooke-Taylor.</lex>
+      <lex comment="" lang="hi" lid="Id2">पहली बार 3 अक्टूबर, 1983 को बीबीसी पर प्रसारित होने वाले बनानमन में टिम ब्रुक-टेलर ने अभिनय किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="30" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+        <otriple>Bananaman | network | &quot;STV&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+        <mtriple>Bananaman | broadcastedBy | &quot;STV&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Banaman starred Tim Brooke Taylor and was first broadcast by STV on 3 October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id1">बनामन ने टिम ब्रुक टेलर को अभिनीत किया और 3 अक्टूबर 1983 को एसटीवी द्वारा पहली बार प्रसारित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Tim Brooke-Taylor starred as Bananaman, which was first aired on 10/03/1983 and was broadcast by STV.</lex>
+      <lex comment="" lang="hi" lid="Id2">टिम ब्रुक-टेलर ने बनानमन के रूप में अभिनय किया, जिसे पहली बार 10/03/1983 को प्रसारित किया गया था और इसे एसटीवी द्वारा प्रसारित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Bananaman, starring Tim Brooke-Taylor, was first broadcast by STV on the 3rd October 1983.</lex>
+      <lex comment="" lang="hi" lid="Id3">टिम ब्रुक-टेलर अभिनीत फिल्म बनानामन का पहला प्रसारण 3 अक्टूबर 1983 को एसटीवी द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="31" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Tim_Brooke-Taylor</otriple>
+        <otriple>Bananaman | lastAired | &quot;1986-04-15&quot;^^xsd:date</otriple>
+        <otriple>Bananaman | network | &quot;STV&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Tim_Brooke-Taylor</mtriple>
+        <mtriple>Bananaman | lastAired | &quot;1986-04-15&quot;</mtriple>
+        <mtriple>Bananaman | broadcastedBy | &quot;STV&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bananaman starred Tim Brooke Taylor and was broadcast for the last time by STV on 15 April 1986.</lex>
+      <lex comment="" lang="hi" lid="Id1">बननमन ने टिम ब्रुक टेलर को अभिनीत किया और 15 अप्रैल 1986 को एसटीवी द्वारा अंतिम बार प्रसारित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Bananaman was broadcasted by STV, it starred Tim Brooke Taylor and last aired on 15th April 1986.</lex>
+      <lex comment="" lang="hi" lid="Id2">एसटीवी द्वारा प्रसारित किया गया था, इसमें टिम ब्रुक टेलर ने अभिनय किया था और इसका अंतिम प्रसारण 15 अप्रैल 1986 को किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="32" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film Big Hero 6, the film that stars Alan Tudyk and in which the character Baymax makes his first appearance.</lex>
+      <lex comment="" lang="hi" lid="Id1">वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स बिग हीरो 6 फिल्म का वितरक है, जिसमें एलन टुडिक ने अभिनय किया है और जिसमें बेमैक्स का चरित्र पहली बार दिखाई देता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="33" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Ryan_Potter</otriple>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Ryan_Potter</mtriple>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Big Hero 6, distributed by Walt Disney Studios Motion Pictures, starred Ryan Potter and was Baymax's first film appearance.</lex>
+      <lex comment="" lang="hi" lid="Id1">वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स द्वारा वितरित बिग हीरो 6, रयान पॉटर और बेमैक्स की पहली फिल्म उपस्थिति थी।</lex>
+      <lex comment="" lang="en" lid="Id2">Big Hero 6 stars Ryan Potter and was Baymax's first film appearance. It was distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex comment="" lang="hi" lid="Id2">बिग हीरो 6 स्टार रेयान पॉटर और बेमैक्स की पहली फिल्म उपस्थिति थी। इसे वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स द्वारा वितरित किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Baymax first appeared in the Walt Disney Studios distributed film Big Hero 6, starring Ryan Potter.</lex>
+      <lex comment="" lang="hi" lid="Id3">बेमैक्स पहली बार वॉल्ट डिज्नी स्टूडियो द्वारा वितरित फिल्म बिग हीरो 6 में दिखाई दिए, जिसमें रयान पॉटर ने अभिनय किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="34" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Baymax is a character in Big Hero 6 and was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="" lang="hi" lid="Id1">बिग हीरो 6 में बेमैक्स एक चरित्र है और इसका निर्माण डंकन रूलयू और स्टीवन टी. सीगल ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Steven T Seagle and Duncan Rouleau created the character of Baymax who appeared in Big Hero 6.</lex>
+      <lex comment="" lang="hi" lid="Id2">स्टीवन टी सीगल और डंकन रूले ने बिग हीरो 6 में बेमैक्स का किरदार निभाया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Baymax, a character in Big Hero 6, was created by Duncan Rouleeau and Steven T. Seagle.</lex>
+      <lex comment="" lang="hi" lid="Id3">बिग हीरो 6 में एक चरित्र बेमैक्स का निर्माण डंकन रूलीयू और स्टीवन टी. सीगल ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="35" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | voice | Scott_Adsit</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | voice | Scott_Adsit</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Baymax was created by Duncan Rouleau and Steven T Seagle and is voiced by Scott Adsit.</lex>
+      <lex comment="" lang="hi" lid="Id1">बेमैक्स का निर्माण डंकन रूलयू और स्टीवन टी सीगल ने किया था और इसे स्कॉट एडसिट ने अपनी आवाज दी थी।</lex>
+      <lex comment="" lang="en" lid="Id2">Duncan Rouleau and Steven T Seagle created the character of Baymax who is voiced by Scott Adsit.</lex>
+      <lex comment="" lang="hi" lid="Id2">डंकन रूलयू और स्टीवन टी सीगल ने बेमैक्स के चरित्र का निर्माण किया है जिसे स्कॉट एडसिट द्वारा आवाज दी गई है।</lex>
+      <lex comment="" lang="en" lid="Id3">Scott Adsit voiced the character Baymax which was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="" lang="hi" lid="Id3">स्कॉट एड्सित ने बेमैक्स चरित्र को आवाज दी, जिसे डंकन रूलयू और स्टीवन टी. सीगल द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="36" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic bookwriter, Roger Mckenzie.</lex>
+      <lex comment="" lang="hi" lid="Id1">बेन उरिच का पूरा नाम बेंजामिन उरिच है, जिसे जीन कोलन और कॉमिक बुक राइटर रोजर मैकेंजी ने बनाया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Ben(jamin) Urich was created by the comic book writer Roger McKenzie and Gene Colan.</lex>
+      <lex comment="" lang="hi" lid="Id2">बेन (जमिन) उर्च का निर्माण कॉमिक पुस्तक लेखक रोजर मैकेंजी और जीन कोलन ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="37" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Gene_Colan | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The character of Ben Urich was created by the American, Gene Colan, and the comic book writer, Roger McKenzie.</lex>
+      <lex comment="" lang="hi" lid="Id1">बेन उरिच के चरित्र का निर्माण अमेरिकी जीन कोलन और कॉमिक पुस्तक लेखक रोजर मैकेंजी ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Roger McKenzie and the American, Gene Colan created the comic book character of Ben Urich.</lex>
+      <lex comment="" lang="hi" lid="Id2">रोजर मैकेंजी और अमेरिकी जीन कोलन ने बेन यूरिख के हास्य पुस्तक चरित्र का निर्माण किया।</lex>
+      <lex comment="" lang="en" lid="Id3">Ben Urich was created by the American, Gene Colan and the comic book writer, Roger McKenzie.</lex>
+      <lex comment="" lang="hi" lid="Id3">बेन उरीच की रचना अमेरिकी जीन कोलन और कॉमिक पुस्तक लेखक रोजर मैकेंजी ने की थी।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="38" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic book character was created by Gene Colan and the comic book writer Roger Mckenzie, who is a US national.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य पुस्तक चरित्र जीन कोलन और हास्य पुस्तक लेखक रोजर मैकेंजी द्वारा बनाया गया था, जो एक अमेरिकी नागरिक हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Gene Colan and the US National comic book writer, Roger McKenzie created Ben Urich.</lex>
+      <lex comment="" lang="hi" lid="Id2">जीन कोलन और यूएस नेशनल कॉमिक बुक के लेखक रोजर मैकेंजी ने बेन उरीच की रचना की।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic book character of Ben Urich was created by Gene Colan and Roger McKenzie who is an American writer of comic books.</lex>
+      <lex comment="" lang="hi" lid="Id3">बेन उरिच का हास्य पुस्तक चरित्र जीन कोलन और रोजर मैकेंजी द्वारा बनाया गया था जो हास्य पुस्तकों के एक अमेरिकी लेखक हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="39" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jerry_Ordway | nationality | Americans</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Jerry_Ordway | nationality | Americans</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway who is an American.</lex>
+      <lex comment="" lang="hi" lid="Id1">बिब्बो बिब्बोव्स्की का निर्माण मार्व वोल्फमैन और जेरी ऑर्डवे ने किया था जो एक अमेरिकी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">Bibbo Bibbowski was created by Marv Wolfman and Jerry Ordway, Jerry Ordway is American.</lex>
+      <lex comment="" lang="hi" lid="Id2">बिब्बो बिबोवस्की का निर्माण मार्व वोल्फमैन और जेरी ऑर्डवे ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="40" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Jamie_Chung</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Jamie_Chung</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The distributor of the film Big Hero 6, which stars Jamie Chung, is Walt Disney Studios Motion Pictures. The character Baymax appears in this film.</lex>
+      <lex comment="" lang="hi" lid="Id1">जेमी चुंग अभिनीत फिल्म 'बिग हीरो 6' के वितरक वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स हैं। इस फिल्म में बेमैक्स का किरदार है।</lex>
+      <lex comment="" lang="en" lid="Id2">Big Hero 6, a film distributed by Walt Disney Studios Motion Pictures, starred Jamie Chung and included the character Baymax.</lex>
+      <lex comment="" lang="hi" lid="Id2">बिग हीरो 6, वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स द्वारा वितरित एक फिल्म है, जिसमें जेमी चुंग ने अभिनय किया है और इसमें बेमैक्स चरित्र शामिल है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="41" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Walt Disney Studios Motion Pictures distributed the movie Big Hero 6 which starred Maya Rudolph. Baymax is a character in this film.</lex>
+      <lex comment="" lang="hi" lid="Id1">वाल्ट डिज्नी स्टूडियो मोशन पिक्चर्स ने माया रुडोल्फ अभिनीत फिल्म बिग हीरो 6 का वितरण किया। इस फिल्म में बेमैक्स एक चरित्र है।</lex>
+      <lex comment="" lang="en" lid="Id2">Big Hero 6 is distributed by Walt Disney Studios Motion Pictures and has Baymax as a character and stars Maya Rudolph.</lex>
+      <lex comment="" lang="hi" lid="Id2">बिग हीरो 6 वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स द्वारा वितरित की गई है और इसमें बेमैक्स एक चरित्र के रूप में है और इसमें माया रुडोल्फ ने अभिनय किया है।</lex>
+      <lex comment="" lang="en" lid="Id3">Baymax is a character in the film Big Hero 6, which was distributed by Walt Disney Studios Motion Pictures and starred Maya Rudolph.</lex>
+      <lex comment="" lang="hi" lid="Id3">बेमैक्स फिल्म बिग हीरो 6 में एक चरित्र है, जिसे वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स द्वारा वितरित किया गया था और इसमें माया रुडोल्फ ने अभिनय किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="42" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Alan_Tudyk</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Big_Hero_6_(film) | distributor | Walt_Disney_Studios_Motion_Pictures</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Alan_Tudyk</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Walt Disney Studios Motion Pictures is the distributor of the film , Big Hero 6 that stars Alan Tudyk and in which Baymax is a character.</lex>
+      <lex comment="" lang="hi" lid="Id1">वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स फिल्म बिग हीरो 6 का वितरक है, जिसमें एलन टुडिक ने अभिनय किया है और जिसमें बेमैक्स एक चरित्र है।</lex>
+      <lex comment="" lang="en" lid="Id2">Big Hero 6 is a Disney Studios Motion Picture which stars Alan Tudyk and has Baymax as a character.</lex>
+      <lex comment="" lang="hi" lid="Id2">बिग हीरो 6 एक डिज्नी स्टूडियो मोशन पिक्चर है, जिसमें एलन टुडिक ने अभिनय किया है और बेमैक्स एक चरित्र के रूप में है।</lex>
+      <lex comment="" lang="en" lid="Id3">Alan Tudyk stars in the film Big Hero 6 in which Baymax is a character. The film is distributed by Walt Disney Studios Motion Pictures.</lex>
+      <lex comment="" lang="hi" lid="Id3">एलन टुडिक ने फिल्म बिग हीरो 6 में अभिनय किया है, जिसमें बेमैक्स एक चरित्र है। फिल्म का वितरण वॉल्ट डिज्नी स्टूडियो मोशन पिक्चर्स द्वारा किया गया है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="43" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Mark Desmond&quot;</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">&quot;Mark Desmond,&quot; also known as the comic character Blockbuster, was created by Carmine Infantino and Tom Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id1">मार्क डेसमंड, जिसे ब्लॉकबस्टर के रूप में भी जाना जाता है, का निर्माण कार्माइन इन्फैंटिनो और टॉम लाइल द्वारा किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">&quot;Mark Desmond&quot; is also known as the comic character Blockbuster who was created by Tom Lyle and Carmine Infantino.</lex>
+      <lex comment="" lang="hi" lid="Id2">मार्क डेसमंड को कॉमिक चरित्र ब्लॉकबस्टर के रूप में भी जाना जाता है, जिसे टॉम लाइल और कारमाइन इन्फैंटिनो द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Blockbuster is also known as Mark Desmond, the character was created by Carmine Infantino and Tom Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र ब्लॉकबस्टर को मार्क डेसमंड के रूप में भी जाना जाता है, इस चरित्र को कार्माइन इन्फैंटिनो और टॉम लाइल द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="44" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Roland Desmond&quot;</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Tom Lyle and Gardner Fox created the comic book character of Blockbuster who has the alternative name of Roland Desmond.</lex>
+      <lex comment="" lang="hi" lid="Id1">टॉम लाइल और गार्डनर फॉक्स ने ब्लॉकबस्टर के हास्य पुस्तक चरित्र का निर्माण किया, जिसका वैकल्पिक नाम रोलैंड डेसमंड है।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character, Blockbuster, whose alternative name is Roland Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र, ब्लॉकबस्टर, जिसका वैकल्पिक नाम रोलैंड डेसमंड है, गार्डनर फॉक्स और टॉम लाइल द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic book character Blockbuster, whose alter ego is Roland Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id3">कॉमिक पुस्तक चरित्र ब्लॉकबस्टर, जिसका अहंकार रोलैंड डेसमंड है, गार्डनर फॉक्स और टॉम लाइल द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="45" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Carmine_Infantino</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Roland Desmond&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character Blockbuster is also known as Roland Desmond and was created by Gardner Fox and Carmine Infantino.</lex>
+      <lex comment="" lang="hi" lid="Id1">कॉमिक चरित्र ब्लॉकबस्टर को रोलैंड डेसमंड के रूप में भी जाना जाता है और इसका निर्माण गार्डनर फॉक्स और कारमाइन इन्फैंटिनो द्वारा किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Roland Desmond is the alternative name for the comic book character Blockbuster, who was created by Carmine Infantino and Gardner Fox.</lex>
+      <lex comment="" lang="hi" lid="Id2">रोलैंड डेसमंड कॉमिक बुक चरित्र ब्लॉकबस्टर का वैकल्पिक नाम है, जिसे कारमाइन इन्फैंटिनो और गार्डनर फॉक्स द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="46" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Mark Desmond&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character Blockbuster is also known as Mark Desmond and was created by Roger Stern and Gardner Fox.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य चरित्र ब्लॉकबस्टर को मार्क डेसमंड के रूप में भी जाना जाता है और इसे रोजर स्टर्न और गार्डनर फॉक्स द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Blockbuster (also known as Mark Desmond) is a comic book character created by Roger Stern and Gardner Fox.</lex>
+      <lex comment="" lang="hi" lid="Id2">ब्लॉकबस्टर (मार्क डेसमंड के रूप में भी जाना जाता है) रोजर स्टर्न और गार्डनर फॉक्स द्वारा निर्मित एक हास्य पुस्तक चरित्र है।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Roger Stern.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र ब्लॉकबस्टर उर्फ मार्क डेसमंड का निर्माण गार्डनर फॉक्स और रोजर स्टर्न ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="47" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Roger_Stern</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Roland Desmond&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character, Blockbuster's alternative name is Roland Desmond and was created by Gardner Fox and Roger Stern.</lex>
+      <lex comment="" lang="hi" lid="Id1">कॉमिक चरित्र, ब्लॉकबस्टर का वैकल्पिक नाम रोलैंड डेसमंड है और इसे गार्डनर फॉक्स और रोजर स्टर्न द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character,Blockbuster(a.k.a. Roland Desmond) was created by Gardner Fox and Roger Stern.</lex>
+      <lex comment="" lang="hi" lid="Id2">कॉमिक चरित्र, ब्लॉकबस्टर (ए. के. ए. रोलैंड डेसमंड) का निर्माण गार्डनर फॉक्स और रोजर स्टर्न ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="48" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creators | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creator | Tom_Lyle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Gardner_Fox</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Gardner_Fox</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Mark Desmond&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic book character Blockbuster, aka Mark Desmond, was created by Gardner Fox and Tom Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य पुस्तक चरित्र ब्लॉकबस्टर उर्फ मार्क डेसमंड का निर्माण गार्डनर फॉक्स और टॉम लाइल ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character, Blockbuster, has the alternative name, Mark Desmond and was created by Tom Lyle and Gardner Fox.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र, ब्लॉकबस्टर का वैकल्पिक नाम, मार्क डेसमंड है और इसे टॉम लाइल और गार्डनर फॉक्स द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character,Blockbuster(a.k.a. Mark Desmond) was created by Gardner Fox and Tom Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id3">कॉमिक चरित्र, ब्लॉकबस्टर (ए. के. ए. मार्क डेसमंड) का निर्माण गार्डनर फॉक्स और टॉम लाइल ने किया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="49" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Carmine_Infantino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Mark Desmond&quot;</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Carmine_Infantino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">&quot;Mark Desmond&quot;, also known as Blockbuster, is a comic character created by Roger Stern and Carmine Infantino.</lex>
+      <lex comment="" lang="hi" lid="Id1">मार्क डेसमंड, जिसे ब्लॉकबस्टर के नाम से भी जाना जाता है, एक हास्य चरित्र है जिसे रोजर स्टर्न और कारमाइन इन्फैंटिनो ने बनाया है।</lex>
+      <lex comment="" lang="en" lid="Id2">Blockbuster is a comic character with the alternative name of Mark Desmond and was created by Carmine Infantino and Roger Stern.</lex>
+      <lex comment="" lang="hi" lid="Id2">ब्लॉकबस्टर मार्क डेसमंड के वैकल्पिक नाम के साथ एक हास्य चरित्र है और इसे कार्माइन इन्फैंटिनो और रोजर स्टर्न द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic book character Blockbuster, also known as Mark Desmond, was created by Roger Stern and Carmine Infantino.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य पुस्तक चरित्र ब्लॉकबस्टर, जिसे मार्क डेसमंड के रूप में भी जाना जाता है, को रोजर स्टर्न और कार्माइन इन्फैंटिनो द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="50" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Mark Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Mark Desmond&quot;</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">&quot;Mark Desmond&quot; is also known as the comic character Blockbuster who was created by Roger Stern and Tim Lyle.</lex>
+      <lex comment="" lang="hi" lid="Id1">मार्क डेसमंड को कॉमिक चरित्र ब्लॉकबस्टर के रूप में भी जाना जाता है, जिसे रोजर स्टर्न और टिम लाइल द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Tom Lyle and Roger Stern created the comic character Blockbuster who has the alternative name of Mark Desmond.</lex>
+      <lex comment="" lang="hi" lid="Id2">टॉम लाइल और रोजर स्टर्न ने कॉमिक चरित्र ब्लॉकबस्टर बनाया, जिसका वैकल्पिक नाम मार्क डेसमंड है।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Blockbuster, with the alternative name Mark Desmond, was created by Tom Lyle and Roger Stern.</lex>
+      <lex comment="" lang="hi" lid="Id3">कॉमिक चरित्र ब्लॉकबस्टर, जिसका वैकल्पिक नाम मार्क डेसमंड है, का निर्माण टॉम लाइल और रोजर स्टर्न द्वारा किया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="51" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Ernie Colon, a Puerto Rican national created Bolt along with Dan Mishkin.</lex>
+      <lex comment="" lang="hi" lid="Id1">प्यूर्टो रिको के नागरिक अर्नी कोलोन ने डैन मिश्किन के साथ मिलकर बोल्ट की रचना की।</lex>
+      <lex comment="" lang="en" lid="Id2">Dan Mishkin and the Puerto Rican national Ernie Colon created the comic character of Bolt.</lex>
+      <lex comment="" lang="hi" lid="Id2">डैन मिश्किन और प्यूर्टो रिको के राष्ट्रीय अर्नी कोलोन ने बोल्ट के हास्य चरित्र का निर्माण किया।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character Bolt was created by Dan Mishkin and Ernie Colon who is Puerto Rican.</lex>
+      <lex comment="" lang="hi" lid="Id3">हास्य चरित्र बोल्ट का निर्माण डेन मिश्किन और एर्नी कोलोन ने किया था, जो प्यूर्टो रिकन हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="52" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character Bolt was created by Gary Cohn and Ernie Colon, the latter of which is a Puerto Rican national.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य चरित्र बोल्ट गैरी कॉन और अर्नी कोलोन द्वारा बनाया गया था, जिनमें से बाद वाला प्यूर्टो रिको का नागरिक है।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character of Bolt was created by Gary Cohn and the Puerto Rican national, Ernie Colon.</lex>
+      <lex comment="" lang="hi" lid="Id2">बोल्ट का हास्य चरित्र गैरी कॉन और प्यूर्टो रिको के राष्ट्रीय, अर्नी कोलोन द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Gary Cohn and the Puerto Rican national, Ernie Colon created the comic character Bolt.</lex>
+      <lex comment="" lang="hi" lid="Id3">गैरी कोन और प्यूर्टो रिको के राष्ट्रीय, अर्नी कोलोन ने हास्य चरित्र बोल्ट बनाया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="53" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic book character Bolt, with the alternative name Larry Bolatinsky, was created by Gary Cohn and Paris Cullins.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य पुस्तक चरित्र बोल्ट, जिसका वैकल्पिक नाम लैरी बोलेटिन्स्की है, गैरी कॉन और पेरिस कुलिन्स द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character Bolt, who has the alternative name of Larry Bolatinsky, was created by Paris Cullins and Gary Cohn.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र बोल्ट, जिसका वैकल्पिक नाम लैरी बोलेटिन्स्की है, पेरिस कुलिन्स और गैरी कॉन द्वारा बनाया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The creators of Bolt, the comic character with the alternative name of Larry Bolatinsky, are Gary Cohn and Paris Cullins.</lex>
+      <lex comment="" lang="hi" lid="Id3">बोल्ट के रचनाकार गैरी कॉन और पेरिस कुलिन्स हैं, जिनका वैकल्पिक नाम लैरी बोलेटिन्स्की है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="54" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Ernie Colon and Paris Cullins.</lex>
+      <lex comment="" lang="hi" lid="Id1">लैरी बोलेटिन्स्की हास्य चरित्र बोल्ट का वैकल्पिक नाम है, जिसका निर्माण अर्नी कोलोन और पेरिस कुलिन्स ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id2">Larry Bolatinsky is the alternative name for the comic character, Bolt who was created by Paris Cullins and Ernie Colon.</lex>
+      <lex comment="" lang="hi" lid="Id2">लैरी बोलेटिन्स्की हास्य चरित्र बोल्ट का वैकल्पिक नाम है, जिसे पेरिस कुलिन्स और अर्नी कोलोन ने बनाया था।</lex>
+      <lex comment="" lang="en" lid="Id3">Bolt, a comic character AKA Larry Bolatinsky, was created by Paris Cullins and Ernie Colon.</lex>
+      <lex comment="" lang="hi" lid="Id3">बोल्ट, एक हास्य चरित्र एकेए लैरी बोलेटिन्स्की, पेरिस कुलिन्स और अर्नी कोलोन द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="55" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Ernie_Colón | nationality | Puerto_Ricans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Ernie_Colón | nationality | Puerto_Ricans</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Bolt is a comic character created by Paris Cullins and the Puerto Rican national, Ernie Colon.</lex>
+      <lex comment="" lang="hi" lid="Id1">बोल्ट एक हास्य चरित्र है जिसे पेरिस कुलिंस और प्यूर्टो रिको के नागरिक, अर्नी कोलोन ने बनाया है।</lex>
+      <lex comment="" lang="en" lid="Id2">Puerto Rican Ernie Colon and Paris Cullins created the comic character Bolt.</lex>
+      <lex comment="" lang="hi" lid="Id2">प्यूर्टो रिको के एर्नी कोलोन और पेरिस कुलिन्स ने बोल्ट नामक हास्य चरित्र का निर्माण किया।</lex>
+      <lex comment="" lang="en" lid="Id3">Ernie Colón is a national of Puerto Rico so he is considered Puerto Rican and along with Paris Cullins is the creater of the comic character Bolt.</lex>
+      <lex comment="" lang="hi" lid="Id3">अर्नी कोलगनिन प्यूर्टो रिको के नागरिक हैं इसलिए उन्हें प्यूर्टो रिको माना जाता है और पेरिस कुलिन्स के साथ हास्य चरित्र बोल्ट का रचनाकार है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="56" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The comic character Bolt was created by Dan Mishkin and Paris Cullins who is an American.</lex>
+      <lex comment="" lang="hi" lid="Id1">हास्य चरित्र बोल्ट का निर्माण डैन मिश्किन और पेरिस कुलिन्स ने किया था, जो एक अमेरिकी हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The comic character Bolt, was created by Paris Cullins from the United States and Dan Mishkin.</lex>
+      <lex comment="" lang="hi" lid="Id2">हास्य चरित्र बोल्ट का निर्माण संयुक्त राज्य अमेरिका के पेरिस कुलिन्स और डैन मिश्किन ने किया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The comic character of Bolt was created by Dan Mishkin and the US National, Paris Cullins.</lex>
+      <lex comment="" lang="hi" lid="Id3">बोल्ट का हास्य चरित्र डैन मिश्किन और यूएस नेशनल, पेरिस कुलिन्स द्वारा बनाया गया था।</lex>
+    </entry>
+  </entries>
+</benchmark>

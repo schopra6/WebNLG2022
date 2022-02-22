@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders retired on September 1st, 1969.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders retired Sept 1st 1969.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स 1 सितंबर 1969 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders retired on September 1, 1969.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders retired in 1969-09-01.</lex>
+      <lex comment="" lid="Id4" lang="hi">विलियम एंडर्स 1969-09-01 में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders retired 1969-09-01.</lex>
+      <lex comment="" lid="Id5" lang="hi">विलियम एंडर्स 1969-09-01 से सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders retired on the 1st of September 1969.</lex>
+      <lex comment="" lid="Id6" lang="hi">विलियम एंडर्स 1 सितंबर 1969 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Willian Anders has a nationality that is of the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियन एंडर्स की राष्ट्रीयता संयुक्त राज्य अमेरिका की है।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders is an American.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स एक अमेरिकी हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The nationality of William Anders is United States.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स की राष्ट्रीयता संयुक्त राज्य अमेरिका है।</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders is from the United States.</lex>
+      <lex comment="" lid="Id4" lang="hi">विलियम एंडर्स संयुक्त राज्य अमेरिका से हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders was from the United STates.</lex>
+      <lex comment="" lid="Id5" lang="hi">विलियम एंडर्स संयुक्त राज्य अमेरिका से थे।</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders is a US national.</lex>
+      <lex comment="" lid="Id6" lang="hi">विलियम एंडर्स एक अमेरिकी नागरिक हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was a Fighter pilot.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स एक फाइटर पायलट थे।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders served as a Fighter pilot.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स ने एक फाइटर पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders is a fighter pilot.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स एक फाइटर पायलट हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders is a test pilot.</lex>
+      <lex comment="" lid="Id4" lang="hi">विलियम एंडर्स एक टेस्ट पायलट हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | years | 1976</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as Chief of the Astronaut Office in 1976.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स ने 1976 में अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया।</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders is retired.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स सेवानिवृत्त हो चुके हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders is now retired.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स अब सेवानिवृत्त हो चुके हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders has retired.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स रिटायर हो चुके हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | timeInSpace | &quot;8820.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | timeInSpace | &quot;8820.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William anders spent 8820 minutes in space.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम ने अंतरिक्ष में 8820 मिनट बिताए।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders spent 8820.0 minutes in space.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स ने अंतरिक्ष में 8820 मिनट बिताए।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders time in space has been 8820.0 minutes.</lex>
+      <lex comment="" lid="Id3" lang="hi">अंतरिक्ष में विलियम एंडर्स का समय 8820.0 मिनट था।</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders walked in space 8820.0 minutes.</lex>
+      <lex comment="" lid="Id4" lang="hi">विलियम एंडर्स 8820.0 मिनट में अंतरिक्ष में गए।</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders time in space is 8820.0 minutes.</lex>
+      <lex comment="" lid="Id5" lang="hi">अंतरिक्ष में विलियम एंडर्स का समय 8820 मिनट है।</lex>
+    </entry>
+    <entry category="Astronaut" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders serves as Ambassador to Norway in the United States.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स संयुक्त राज्य अमेरिका में नॉर्वे के राजदूत के रूप में कार्य कर रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders official title is the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स का आधिकारिक पद नॉर्वे में अमेरिका का राजदूत है।</lex>
+      <lex comment="" lid="Id3" lang="en">United States's Ambassador to Norway is William Anders.</lex>
+      <lex comment="" lid="Id3" lang="hi">नॉर्वे में संयुक्त राज्य अमेरिका के राजदूत विलियम एंडर्स हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders is the US Ambassador to Norway.</lex>
+      <lex comment="" lid="Id4" lang="hi">विलियम एंडर्स नॉर्वे में अमेरिका के राजदूत हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders' title is the US Ambassador to Norway.</lex>
+      <lex comment="" lid="Id5" lang="hi">विलियम एंडर्स को नॉर्वे में अमेरिका का राजदूत नियुक्त किया गया है।</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders title is the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id6" lang="hi">विलियम एंडर्स की उपाधि नॉर्वे में अमेरिका के राजदूत के रूप में है।</lex>
+      <lex comment="" lid="Id7" lang="en">William Anders is the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id7" lang="hi">विलियम एंडर्स नॉर्वे में अमेरिका के राजदूत हैं।</lex>
+    </entry>
+    <entry category="Astronaut" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स ने अपोलो 8 में चालक दल के सदस्य के रूप में काम किया।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders served as a crew member of Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स ने अपोलो 8 के चालक दल के सदस्य के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders crewed Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders was a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="hi">विलियम एंडर्स अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders was a member of the Apollo 8 crew.</lex>
+      <lex comment="" lid="Id5" lang="hi">विलियम एंडर्स अपोलो 8 के चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders was a member of Apollo 8's crew.</lex>
+      <lex comment="" lid="Id6" lang="hi">विलियम एंडर्स अपोलो 8 के चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was selected by NASA in 1963.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स को 1963 में नासा द्वारा चुना गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders joined NASA in 1963.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स 1963 में नासा में शामिल हुए।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was chosen by NASA in 1963.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स को 1963 में नासा द्वारा चुना गया था।</lex>
+    </entry>
+  </entries>
+</benchmark>

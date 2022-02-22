@@ -1,0 +1,635 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument, USA, is categorised as a contributing property and was established in 2000.</lex>
+      <lex comment="" lang="hi" lid="Id1">अमेरिका के 11वें मिसिसिपी इन्फैंट्री स्मारक को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है और इसकी स्थापना 2000 में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry monument was established in the US in 2000 and falls under the category of Contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में अमेरिका में स्थापित किया गया था और यह योगदान देने वाली संपत्ति की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument in the United States was established in the year 2000, and is categorized as a Contributing Property.</lex>
+      <lex comment="" lang="hi" lid="Id3">संयुक्त राज्य अमेरिका में 11वां मिसिसिपी इन्फैंट्री स्मारक वर्ष 2000 में स्थापित किया गया था, और इसे योगदानकारी संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument, categorized as a Contributing Property, is located in Adams County, Pennsylvania, US.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वीं मिसिसिपी इन्फैंट्री स्मारक, जिसे कंट्रीब्यूटिंग प्रॉपर्टी के रूप में वर्गीकृत किया गया है, एडम्स काउंटी, पेन्सिलवेनिया, अमेरिका में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania in the United States, and falls under the category of Contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक संयुक्त राज्य अमेरिका में एडम्स काउंटी, पेन्सिलवेनिया में स्थित है और योगदानकारी संपत्ति की श्रेणी में आता है।</lex>
+    </entry>
+    <entry category="Monument" eid="3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry monument which was erected in 2000 falls under the category of Contributing property. It is located in the municipality of Gettysburg, Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id1">वर्ष 2000 में निर्मित 11वां मिसिसिपी इन्फैंट्री स्मारक योगदानकारी संपत्ति की श्रेणी में आता है। यह पेंसिल्वेनिया के गेटिसबर्ग नगर पालिका में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument (established in 2000) is located in Gettysburg, Pennsylvania, and falls under the category of Contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक (2000 में स्थापित) गेटिसबर्ग, पेन्सिलवेनिया में स्थित है और योगदानकारी संपत्ति की श्रेणी में आता है।</lex>
+    </entry>
+    <entry category="Monument" eid="4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Gettysburg, Adams County, Pennsylvania is the location of the 11th Mississippi Infantry Monument which is categorised as contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">गेटिसबर्ग, एडम्स काउंटी, पेंसिल्वेनिया 11वें मिसिसिपी इन्फैंट्री स्मारक का स्थान है जिसे संपत्ति योगदान के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument, categorised as a contributing property, is found in the municipality of Gettysburg, Adams County, Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वीं मिसिसिपी इन्फैंट्री स्मारक, जिसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है, पेंसिल्वेनिया के एडम्स काउंटी के गेटिसबर्ग नगर पालिका में पाया जाता है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument, categorized as a Contributing Property, is placed in the municipality of Gettysburg, the Adams County of Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री स्मारक, जिसे कंट्रीब्यूटिंग प्रॉपर्टी के रूप में वर्गीकृत किया गया है, पेंसिल्वेनिया की एडम्स काउंटी, गेटिसबर्ग की नगरपालिका में रखा गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument which is located in Adams County, Pennsylvania. It was established in 2000 and falls under the category of contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक जो एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। इसकी स्थापना 2000 में की गई थी और यह संपत्ति योगदान की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and was established in 2000 where it is categorised as contributing property,.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वीं मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया में स्थित है और इसे 2000 में स्थापित किया गया था जहां इसे संपत्ति में योगदान देने के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument (completed in 2000) is located in Adams County, Pennsylvania, and falls under the category of Contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक (2000 में पूरा हुआ) एडम्स काउंटी, पेन्सिलवेनिया में स्थित है और योगदानकारी संपत्ति की श्रेणी में आता है।</lex>
+    </entry>
+    <entry category="Monument" eid="6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument, in the municipality of Gettysburg Pennsylvania, falls under the category of Contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">ग्यारहवां मिसिसिपी इन्फैंट्री स्मारक, गेटिसबर्ग पेन्सिलवेनिया नगरपालिका में स्थित है, जो योगदानकारी संपत्ति की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id2">Gettysburg, Pennsylvania is the location of the 11th Mississippi Infantry monument which falls under the category of contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">गेटिसबर्ग, पेंसिल्वेनिया 11 वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है जो संपत्ति योगदान की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument, located in Gettysbury in the state of Pennsylvania, is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री स्मारक, जो पेन्सिलवेनिया राज्य के गेटिसबरी में स्थित है, को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument in Pennsylvania was completed in 2000 and is categorized as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">पेंसिल्वेनिया में 11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में पूरा हुआ था और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument, Pennsylvania, is categorised as a contributing property and was established in 2000..</lex>
+      <lex comment="" lang="hi" lid="Id2">11वीं मिसिसिपी इन्फैंट्री स्मारक, पेंसिल्वेनिया को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है और इसकी स्थापना 2000 में की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id3">The 11th Mississippi Infantry Monument (established in 2000) stands in the state of Pennsylvania, and is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वां मिसिसिपी इन्फैंट्री स्मारक (2000 में स्थापित) पेंसिल्वेनिया राज्य में स्थित है और इसे योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 14th New Jersey Infantry Monument which is located in the Monocacy National Battlefield was established on 11 July 1907. It falls within the category of Historic districts in the US.</lex>
+      <lex comment="" lang="hi" lid="Id1">14वें न्यू जर्सी इन्फैंट्री स्मारक की स्थापना 11 जुलाई 1907 को मोनोकेसी नेशनल बैटलफील्ड में की गई थी। यह अमेरिका के ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id2">Monocacy National Battlefield is the location of the 14th New Jersey Volunteer Infantry monument which was established on 11 July 1907 and belongs to the category of historic districts in the US.</lex>
+      <lex comment="" lang="hi" lid="Id2">मोनोकेसी नेशनल बैटलफील्ड 14वें न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक का स्थान है जिसे 11 जुलाई 1907 को स्थापित किया गया था और यह अमेरिका के ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument was established on 11 July 1907 and is located in the Monocacy National Battlefield. being a historic district in the United States.</lex>
+      <lex comment="" lang="hi" lid="Id3">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक 11 जुलाई 1907 को स्थापित किया गया था और संयुक्त राज्य अमेरिका में एक ऐतिहासिक जिला होने के नाते मोनोकेसी नेशनल बैटलफील्ड में स्थित है।</lex>
+    </entry>
+    <entry category="Monument" eid="9" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Frederick, Maryland is the nearest city to Monocacy National Battlefield which is the location of the 14th New Jersey Volunteer Infantry Monument. The monument is categorised as a historic district in the US.</lex>
+      <lex comment="" lang="hi" lid="Id1">फ्रेडरिक, मैरीलैंड मोनोकेसी नेशनल बैटलफील्ड का निकटतम शहर है जो 14वें न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक का स्थान है। इस स्मारक को अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, categorised as a historic district in the United States, is located in the Monocacy National Battlefield and has Frederick, Maryland as its nearest city.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक, जिसे संयुक्त राज्य अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है, मोनोकेसी नेशनल बैटलफील्ड में स्थित है और इसका निकटतम शहर फ्रेडरिक, मैरीलैंड है।</lex>
+    </entry>
+    <entry category="Monument" eid="10" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument (est. July 11th, 1907) is a historic district in the US provided by the National Park Service.</lex>
+      <lex comment="" lang="hi" lid="Id1">14वां न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक (एस्ट. राष्ट्रीय उद्यान सेवा (अंग्रेज़ीः National Park Service) संयुक्त राज्य अमेरिका का एक ऐतिहासिक जिला है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is categorised as a historic district in the United States, and is owned by the National Park Service.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक (स्थापित 1907-07-11) संयुक्त राज्य अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है और राष्ट्रीय उद्यान सेवा के स्वामित्व में है।</lex>
+    </entry>
+    <entry category="Monument" eid="11" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 14th New Jersey Volunteer Infantry Monument in the United States was established on 11th July 1907, and belongs to the category of Historic districts.</lex>
+      <lex comment="" lang="hi" lid="Id1">अमेरिका में 14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक 11 जुलाई 1907 को स्थापित किया गया था और यह ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is located in the United States, where it belongs to the category of Historic districts.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक (स्थापित 1907-07-11) संयुक्त राज्य अमेरिका में स्थित है, जहां यह ऐतिहासिक जिलों की श्रेणी में आता है।</lex>
+    </entry>
+    <entry category="Monument" eid="12" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Frederick Maryland is the nearest city to Monocacy National Battlefield where the 14th New Jersey Volunteer infantry monument is located. It was established on 11 July 1907.</lex>
+      <lex comment="" lang="hi" lid="Id1">फ्रेडरिक मैरीलैंड मोनोकेसी नेशनल बैटलफील्ड का सबसे नजदीकी शहर है जहां 14वां न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक स्थित है। इसकी स्थापना 11 जुलाई 1907 को की गई थी।</lex>
+      <lex comment="" lang="en" lid="Id2">The Monocacy National Battlefield is where the 14th New Jersey Volunteer Infantry Monument, established on 11 July 1907, is located. The closest city is Frederick, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id2">मोनोकेसी नेशनल बैटलफील्ड वह जगह है जहां 11 जुलाई 1907 को स्थापित 14वां न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक स्थित है। निकटतम शहर फ्रेडरिक, मैरीलैंड है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument (established 1907-07-11) is located in the Monocacy National Battlefield, with Frederick, Maryland as its nearest city.</lex>
+      <lex comment="" lang="hi" lid="Id3">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक (स्थापित 1907-07-11) मोनोकेसी नेशनल बैटलफील्ड में स्थित है, जिसमें फ्रेडरिक, मैरीलैंड इसका निकटतम शहर है।</lex>
+    </entry>
+    <entry category="Monument" eid="13" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is contained within the category of Contributing property and is located in Adams County, Pennsylvania. Adams County is south of Cumberland County, Pennsylvania.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक योगदान देने वाली संपत्ति की श्रेणी में आता है और एडम्स काउंटी, पेंसिल्वेनिया में स्थित है। एडम्स काउंटी कंबरलैंड काउंटी, पेन्सिलवेनिया के दक्षिण में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">Cumberland County is located to the north of Adams County, Pennsylvania where the 11th Mississippi Infantry monument is located and categorised as contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id2">कंबरलैंड काउंटी एडम्स काउंटी, पेन्सिलवेनिया के उत्तर में स्थित है, जहां 11 वीं मिसिसिपी इन्फैंट्री स्मारक स्थित है और संपत्ति योगदान के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="14" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Carroll County Maryland is located to the southeast of Adams County, Pennsylvania where the 11th Mississippi Infantry Monument is located. The monument is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id1">कैरोल काउंटी मैरीलैंड एडम्स काउंटी, पेन्सिलवेनिया के दक्षिण-पूर्व में स्थित है जहां 11 वीं मिसिसिपी इन्फैंट्री स्मारक स्थित है। इस स्मारक को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument, a contributing property, is located in Adams County, Pennsylvania, which has Carroll County to its southeast.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक, एक योगदानकारी संपत्ति, एडम्स काउंटी, पेन्सिलवेनिया में स्थित है, जिसके दक्षिण-पूर्व में कैरोल काउंटी है।</lex>
+      <lex comment="" lang="en" lid="Id3">11th Mississippi Infantry Monument, located in Adams County, Pennsylvania, northwest of Carroll County, Maryland is categorised as a contributing property.</lex>
+      <lex comment="" lang="hi" lid="Id3">11वीं मिसिसिपी इन्फैंट्री स्मारक, जो कैरोल काउंटी, मैरीलैंड के उत्तर-पश्चिम में एडम्स काउंटी, पेन्सिलवेनिया में स्थित है, को योगदान देने वाली संपत्ति के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="15" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument which was completed in 2000 is located in Adams County, Pennsylania. Adams County is to the north west of Carroll County, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक जो 2000 में पूरा हुआ था, एडम्स काउंटी, पेंसिल्वेनिया में स्थित है। एडम्स काउंटी कैरोल काउंटी, मैरीलैंड के उत्तर पश्चिम में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument, established in 2000, is located in Adams County Pennsylvania, with Carroll County to the southeast.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक 2000 में स्थापित किया गया था, जो एडम्स काउंटी पेंसिल्वेनिया में स्थित है, जिसके दक्षिण-पूर्व में कैरोल काउंटी है।</lex>
+    </entry>
+    <entry category="Monument" eid="16" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll County to its southeast and Cumberland County at its north.</lex>
+      <lex comment="" lang="hi" lid="Id1">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया में स्थित है, जिसके दक्षिण-पूर्व में कैरोल काउंटी और उत्तर में कंबरलैंड काउंटी है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which has Carroll county, Maryland to its southeast and Cumberland county, Pennsylvania to its north.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेंसिल्वेनिया में स्थित है, जिसके दक्षिण-पूर्व में कैरोल काउंटी, मैरीलैंड और उत्तर में कंबरलैंड काउंटी, पेंसिल्वेनिया है।</lex>
+    </entry>
+    <entry category="Monument" eid="17" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Adams County Pennsylvania is the location of the 11th Mississippi Infantry monument. Frederick County, Maryland is to the southwest and Carroll County to the southeast.</lex>
+      <lex comment="" lang="hi" lid="Id1">एडम्स काउंटी पेंसिल्वेनिया 11वीं मिसिसिपी इन्फैंट्री स्मारक का स्थान है। मैरीलैंड दक्षिण-पश्चिम में फ्रेडरिक काउंटी और दक्षिण-पूर्व में कैरोल काउंटी स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania. It is easily reachable from Maryland, having Carroll County to its southeast, and Frederick County to the southwest.</lex>
+      <lex comment="" lang="hi" lid="Id2">11वां मिसिसिपी इन्फैंट्री स्मारक एडम्स काउंटी, पेन्सिलवेनिया में स्थित है। मैरीलैंड से यहां आसानी से पहुंचा जा सकता है, इसके दक्षिण-पूर्व में कैरोल काउंटी और दक्षिण-पश्चिम में फ्रेडरिक काउंटी है।</lex>
+    </entry>
+    <entry category="Monument" eid="18" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Atatürk Monument (İzmir) was designed by Pietro Canonnica, and can be found in Turkey, where the capital is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id1">अतातव्युर्के स्मारक (चीनीः &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt; &lt;unk&gt;) पीएत्रो कैनोनिका द्वारा डिजाइन किया गया था और तुर्की में पाया जा सकता है, जहां राजधानी अंकारा है।</lex>
+      <lex comment="" lang="en" lid="Id2">Pietro Canonica is the designer of the Ataturk Monument (Izmir) in Turkey, where the capital is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id2">पीएट्रो कैनोनिका तुर्की में अतातुर्क स्मारक (इजमिर) के डिजाइनर हैं, जहां राजधानी अंकारा है।</lex>
+    </entry>
+    <entry category="Monument" eid="19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Pietro Canonica designed Ataturk Monument was inaugurated on 27th July, 1932 and is located in Turkey.</lex>
+      <lex comment="" lang="hi" lid="Id1">पीएट्रो कैनोनिका द्वारा डिजाइन किए गए अतातुर्क स्मारक का उद्घाटन 27 जुलाई, 1932 को किया गया था और यह तुर्की में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">Pietro Canonica designed the Ataturk monument which is located in Izmir, Turkey. It was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id2">पीएट्रो कैनोनिका ने तुर्की के इजमिर में स्थित अतातुर्क स्मारक को डिजाइन किया है। इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The Ataturk Monument in Turkey, designed by Pietro Canonica, was inaugurated on the 1932-07-27.</lex>
+      <lex comment="" lang="hi" lid="Id3">तुर्की में अतातुर्क स्मारक, जिसे पिएत्रो कैनोनिका द्वारा डिजाइन किया गया था, का उद्घाटन 1932-07-27 को किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="20" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The inauguration date of the Atatürk Monument, made of Bronze, in Izmir is the 27th of July, 1932 and located in İzmir, Turkey.</lex>
+      <lex comment="" lang="hi" lid="Id1">तुर्की के इजमिर में कांस्य से बने अटातपेसेनुर्क स्मारक के उद्घाटन की तिथि 27 जुलाई, 1932 है और यह तुर्की के इजमिर में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id2">The bronze Ataturk monument is located in Izmir, Turkey and was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lang="hi" lid="Id2">कांस्य अतातुर्क स्मारक तुर्की के इजमिर में स्थित है और इसका उद्घाटन 27 जुलाई 1932 को किया गया था।</lex>
+    </entry>
+    <entry category="Monument" eid="21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Baku Turkish Martyr's Memorial is located in the capital city Baku in Azerbaijan where its leader is Artur Rasizade.</lex>
+      <lex comment="" lang="hi" lid="Id1">बाकू तुर्की शहीदों का स्मारक अजरबैजान की राजधानी बाकू में स्थित है जहां इसका नेता आर्तूर रसीज़ादे है।</lex>
+      <lex comment="" lang="en" lid="Id2">Artur Rasizade is the leader of Azerbaijan. The capital is Baku where the Turkish martyrs memorial is located.</lex>
+      <lex comment="" lang="hi" lid="Id2">आर्तूर रसीज़ादे अजरबैजान के नेता हैं। इसकी राजधानी बाकू है जहां तुर्की के शहीदों का स्मारक स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Baku Turkish Martyr's Memorial is located in Baku, the capital of Azerbaijan, led by Artur Rasizade.</lex>
+      <lex comment="" lang="hi" lid="Id3">बाकू तुर्की शहीदों का स्मारक अजरबैजान की राजधानी बाकू में स्थित है, जिसका नेतृत्व आर्तूर रसीज़ादे कर रहे हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="22" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leaderName | Artur_Rasizade</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Turkish martyrs memorial is located in Baku, Azerbaijan, which has Artur Rasizade as its Prime Minister and leader.</lex>
+      <lex comment="" lang="hi" lid="Id1">तुर्की के शहीदों का स्मारक अजरबैजान के बाकू में स्थित है, जहां प्रधानमंत्री और नेता के रूप में आर्तूर रसीज़ादे हैं।</lex>
+      <lex comment="" lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial is found in Azerbaijan, a country led by the Prime Minister Artur Rasizade.</lex>
+      <lex comment="" lang="hi" lid="Id2">बाकू तुर्की शहीदों का स्मारक अजरबैजान में पाया जाता है, जो प्रधानमंत्री आर्तूर रसीज़ादे के नेतृत्व में एक देश है।</lex>
+    </entry>
+    <entry category="Monument" eid="23" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial which is located in Azerbaijan. The official title of the leader of that country is the Prime Minister of Azerbaijan.</lex>
+      <lex comment="" lang="hi" lid="Id1">हुसैन बुटुनर और हिल्मी गुनर ने बाकू तुर्की शहीदों के स्मारक को डिजाइन किया जो अजरबैजान में स्थित है। उस देश के नेता का आधिकारिक शीर्षक अजरबैजान का प्रधानमंत्री है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is located in Azerbaijan, where the title of the leader is Prime Minister of Azerbaijan.</lex>
+      <lex comment="" lang="hi" lid="Id2">बाकू तुर्की शहीदों का स्मारक, जिसे हुसेइन बुटुनर और हिल्मी गुनर द्वारा डिजाइन किया गया है, अजरबैजान में स्थित है, जहां नेता का शीर्षक अजरबैजान के प्रधानमंत्री है।</lex>
+    </entry>
+    <entry category="Monument" eid="24" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. It is dedicated to the soldiers of the Ottoman army who died in the battle of Baku.</lex>
+      <lex comment="" lang="hi" lid="Id1">हुसैन बुटुनर और हिल्मी गुनर ने बाकू तुर्की के शहीदों के स्मारक को लाल ग्रेनाइट और सफेद संगमरमर से डिजाइन किया है। यह ओटोमन सेना के उन सैनिकों को समर्पित है जो बाकू की लड़ाई में मारे गए थे।</lex>
+      <lex comment="" lang="en" lid="Id2">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. It is dedicated to the Ottoman Army soldiers who died in the battle of Baku.</lex>
+      <lex comment="" lang="hi" lid="Id2">हुसैन बुटुनर और हिल्मी गुनर ने बाकू तुर्की के शहीदों के स्मारक को लाल ग्रेनाइट और सफेद संगमरमर से डिजाइन किया है। यह ओटोमन सेना के उन सैनिकों को समर्पित है जो बाकू की लड़ाई में शहीद हो गए थे।</lex>
+      <lex comment="" lang="en" lid="Id3">The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is made from red granite and white marble, and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex comment="" lang="hi" lid="Id3">बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर से बना है और बाकू की लड़ाई में मारे गए तुर्क सेना के सैनिकों को समर्पित है।</lex>
+    </entry>
+    <entry category="Monument" eid="25" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Baku Turkish Martyrs memorial is made of red granite and white marble and can be found in Azerbaijan. It is also known as Turk Sehitleri Aniti.</lex>
+      <lex comment="" lang="hi" lid="Id1">बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर से बना है और अजरबैजान में पाया जा सकता है। इसे तुर्क सहैतलेरी अनिति के नाम से भी जाना जाता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The red granite and white marble Baku Turkish Martyrs memorial, the native name being Turk Sehitleri Aniti, is found in Azerbaijan.</lex>
+      <lex comment="" lang="hi" lid="Id2">लाल ग्रेनाइट और सफेद संगमरमर से बना बाकू तुर्की शहीदों का स्मारक, जिसका मूल नाम तुर्क सेहत्लेरी अनीती है, अजरबैजान में पाया जाता है।</lex>
+      <lex comment="" lang="en" lid="Id3">The red granite and white marble Baku Turkish Martyrs' Memorial is located in Azerbaijan, where its local name is Turk Sehitleri Aniti.</lex>
+      <lex comment="" lang="hi" lid="Id3">लाल ग्रेनाइट और सफेद संगमरमर वाला बाकू तुर्की शहीदों का स्मारक अजरबैजान में स्थित है, जहां इसका स्थानीय नाम तुर्क सेहत्लेरी अनीती है।</lex>
+    </entry>
+    <entry category="Monument" eid="26" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial from red granite and white marble. The native name for this memorial is Turk Sehitleri Aniti.</lex>
+      <lex comment="" lang="hi" lid="Id1">हुसैन बुटुनर और हिल्मी गुनर ने लाल ग्रेनाइट और सफेद संगमरमर से बाकू तुर्की शहीदों के स्मारक को डिजाइन किया। इस स्मारक का मूल नाम तुर्क सेहतलेरी अनीति है।</lex>
+      <lex comment="" lang="en" lid="Id2">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs memorial in red granite and white marble. The native name of the memorial is Turk Sehitleri Aniti.</lex>
+      <lex comment="" lang="hi" lid="Id2">हुसैन बुटुनर और हिल्मी गुनर ने बाकू तुर्की के शहीदों के स्मारक को लाल ग्रेनाइट और सफेद संगमरमर से डिजाइन किया है। स्मारक का मूल नाम तुर्क सेहतलेरी अनीति है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Baku Turkish Martyrs Memorial was designed in red granite and white marble by Hüseyin Bütüner and Hilmi Güner, and is known in Turkish as Turk Sehitleri Aniti.</lex>
+      <lex comment="" lang="hi" lid="Id3">बाकू तुर्की शहीदों का स्मारक लाल ग्रेनाइट और सफेद संगमरमर से बनाया गया था, जिसे हंगरी सेयिन बाइनर और हिल्मी गुइनर ने बनाया था और तुर्की में इसे तुर्क सेहितलेरी अनीती के नाम से जाना जाता है।</lex>
+    </entry>
+    <entry category="Monument" eid="27" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Dead Man's Plack in England, made with rock, is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="" lang="hi" lid="Id1">इंग्लैंड में डेड मैन्स प्लैक, रॉक से बना है, जो पूर्वी एंग्लिया के एल्डोर्मन, एथेलवाल्ड को समर्पित है।</lex>
+      <lex comment="" lang="en" lid="Id2">Dead Man's Plack in England is made of rock and dedicated to Ethelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="" lang="hi" lid="Id2">इंग्लैंड में डेड मैन का प्लैक चट्टान से बना है और पूर्वी एंग्लिया के इथेलवाल्ड, एल्डरमेन को समर्पित है।</lex>
+    </entry>
+    <entry category="Monument" eid="28" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Dead Man's Plack, which is located in England is dedicated to Ethelwald, Ealdorman of East Anglia. England is also home of the Cornish language which is still spoken.</lex>
+      <lex comment="" lang="hi" lid="Id1">मृत व्यक्ति का प्लैक, जो इंग्लैंड में स्थित है, पूर्वी एंग्लिया के इथेलवाल्ड, एल्डरमेन को समर्पित है। इंग्लैंड कॉर्निश भाषा का भी घर है जो अभी भी बोली जाती है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Dead Man's Plack, dedicated to Æthelwald, Ealdorman of East Anglia, is located in England, where one of the languages spoken is Cornish (in the Cornwall region).</lex>
+      <lex comment="" lang="hi" lid="Id2">पूर्वी एंग्लिया के इल्डोरमैन, इग्लैंड में स्थित है, जहां बोली जाने वाली भाषाओं में से एक कॉर्निश (कॉर्नवाल क्षेत्र में) है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Dead Man's Plack, dedicated to Æthelwald, Ealdorman of East Anglia, is located in England, where the Cornish language is spoken.</lex>
+      <lex comment="" lang="hi" lid="Id3">पूर्वी एंग्लिया के एल्डरमेन, इथेलवाल्ड को समर्पित, मृत व्यक्ति का प्लैक इंग्लैंड में स्थित है, जहां कॉर्निश भाषा बोली जाती है।</lex>
+    </entry>
+    <entry category="Monument" eid="29" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+        <otriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+        <mtriple>Dead_Man's_Plack | dedicatedTo | Æthelwald,_Ealdorman_of_East_Anglia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Dead Man's Plack is found in England (capital: London), and is dedicated to Æthelwald, Ealdorman of East Anglia.</lex>
+      <lex comment="" lang="hi" lid="Id1">मृत व्यक्ति का प्लैक इंग्लैंड में पाया जाता है (राजधानीः लंदन), और पूर्वी एंग्लिया के एल्डरमेन, इथेलवाल्ड को समर्पित है।</lex>
+    </entry>
+    <entry category="Monument" eid="30" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | capital | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | capital | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">One of the ethnic groups in England is the British Arabs. The capital of England is London and England is also the home of Dead Mans Plack.</lex>
+      <lex comment="" lang="hi" lid="Id1">इंग्लैंड में जातीय समूहों में से एक ब्रिटिश अरब है। इंग्लैंड की राजधानी लंदन है और इंग्लैंड भी डेड मैन्स प्लैक का घर है।</lex>
+      <lex comment="" lang="en" lid="Id2">The British Arabs, an English ethnic group, went to visit the DeadMan's Plack, a monument near the capital city of London.</lex>
+      <lex comment="" lang="hi" lid="Id2">ब्रिटिश अरब, एक अंग्रेजी जातीय समूह, राजधानी लंदन के पास एक स्मारक, डेडमैन के प्लैक का दौरा करने के लिए गया था।</lex>
+      <lex comment="" lang="en" lid="Id3">The Dead Man's Plack is located in England whose capital is London; the British Arabs are an English ethnic group.</lex>
+      <lex comment="" lang="hi" lid="Id3">डेड मैन का प्लैक इंग्लैंड में स्थित है जिसकी राजधानी लंदन है ब्रिटिश अरब एक अंग्रेजी जातीय समूह हैं।</lex>
+    </entry>
+    <entry category="Monument" eid="31" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+        <otriple>England | languages | Cornish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+        <mtriple>England | language | Cornish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">England is a country where Cornish is spoken in the Cornwall region, British Arabs are an ethnic group and Dead Man's Plack is found.</lex>
+      <lex comment="" lang="hi" lid="Id1">इंग्लैंड एक ऐसा देश है जहां कॉर्नवाल क्षेत्र में कॉर्निश बोली जाती है, ब्रिटिश अरब एक जातीय समूह हैं और डेड मैन का प्लैक पाया जाता है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Cornish language is still spoken in England where one can find Dead Man's Plack. One of the ethnic groups to be found in England is that of the British Arabs.</lex>
+      <lex comment="" lang="hi" lid="Id2">कॉर्निश भाषा अभी भी इंग्लैंड में बोली जाती है जहां डेड मैन्स प्लेक पाया जा सकता है। इंग्लैंड में पाए जाने वाले जातीय समूहों में से एक ब्रिटिश अरब का है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Dead Man's Plack is in England, a country which includes the ethnic group of British Arabs, and has Cornish as one of its languages.</lex>
+      <lex comment="" lang="hi" lid="Id3">डेड मैन का प्लैक इंग्लैंड में है, एक ऐसा देश जिसमें ब्रिटिश अरबों का जातीय समूह शामिल है और कॉर्निश इसकी भाषाओं में से एक है।</lex>
+    </entry>
+    <entry category="Monument" eid="32" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | religion | Church_of_England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | religion | Church_of_England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Dead Man's Plack, made of rock, is in England, where the established religion in England is The Church of England.</lex>
+      <lex comment="" lang="hi" lid="Id1">रॉक से बना डेड मैन्स प्लैक इंग्लैंड में है, जहां इंग्लैंड में स्थापित धर्म चर्च ऑफ इंग्लैंड है।</lex>
+      <lex comment="" lang="en" lid="Id2">Dead Man's Plack is a rock formation found in England where the established religion is The Church of England.</lex>
+      <lex comment="" lang="hi" lid="Id2">डेड मैन्स प्लैक (अंग्रेज़ीः Dead Man 's Plack) एक चट्टान का निर्माण है जो इंग्लैंड में पाया जाता है जहां स्थापित धर्म चर्च ऑफ इंग्लैंड है।</lex>
+      <lex comment="" lang="en" lid="Id3">Dead Mans Plack is made of rock and located in England where the established religion is The Church of England.</lex>
+      <lex comment="" lang="hi" lid="Id3">डेड मैन्स प्लेक चट्टान से बना है और इंग्लैंड में स्थित है जहां स्थापित धर्म चर्च ऑफ इंग्लैंड है।</lex>
+    </entry>
+    <entry category="Monument" eid="33" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Frederick Maryland is the location of the Monocacy National Battlefield. The Battlefield is the location of the 14th New Jersey Volunteer Infantry Monument and is categorised as a historic district of the US.</lex>
+      <lex comment="" lang="hi" lid="Id1">फ्रेडरिक मैरीलैंड मोनोकेसी नेशनल बैटलफील्ड का स्थान है। बैटलफील्ड 14वें न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक का स्थान है और इसे अमेरिका के ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument, a historical district in the United States, is located in the district of the Monocracy National Battlefield in Frederick County, Maryland.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक, संयुक्त राज्य अमेरिका का एक ऐतिहासिक जिला, मैरीलैंड के फ्रेडरिक काउंटी में मोनोक्रेसी नेशनल बैटलफील्ड के जिले में स्थित है।</lex>
+      <lex comment="" lang="en" lid="Id3">The 14th New Jersey Volunteer Infantry Monument, located on the Monocacy National Battlefield in Frederick County, Maryland, is categorised as a historic district in the United States.</lex>
+      <lex comment="" lang="hi" lid="Id3">मैरीलैंड के फ्रेडरिक काउंटी में मोनोकेसी नेशनल बैटलफील्ड पर स्थित 14वें न्यू जर्सी वॉलंटियर इन्फैंट्री स्मारक को संयुक्त राज्य अमेरिका में एक ऐतिहासिक जिले के रूप में वर्गीकृत किया गया है।</lex>
+    </entry>
+    <entry category="Monument" eid="34" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Frederick Maryland is the nearest city to the Monocacy National Battlefields. This district is the location of the 14th New Jersey Volunteer Infantry Monument.</lex>
+      <lex comment="" lang="hi" lid="Id1">फ्रेडरिक मैरीलैंड मोनोकेसी नेशनल बैटलफील्ड का निकटतम शहर है। यह जिला 14वीं न्यू जर्सी वालंटियर इन्फैंट्री स्मारक का स्थान है।</lex>
+      <lex comment="" lang="en" lid="Id2">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield in Frederick County, Maryland, which is also its nearest city.</lex>
+      <lex comment="" lang="hi" lid="Id2">14वां न्यू जर्सी वालंटियर इन्फैंट्री स्मारक मैरीलैंड के फ्रेडरिक काउंटी में मोनोकेसी नेशनल बैटलफील्ड पर स्थित है, जो इसका निकटतम शहर भी है।</lex>
+    </entry>
+    <entry category="Monument" eid="35" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Ataturk monument was inaugurated on 27 July 1932 in Izmir, Turkey. The capital of Turkey is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id1">अतातुर्क स्मारक का उद्घाटन 27 जुलाई 1932 को इजमिर, तुर्की में किया गया था। तुर्की की राजधानी अंकारा है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Atatürk Monument (inaugurated July 27th, 1932) is located in İzmir, Turkey, where the capital city is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id2">अतातपरस्तिक स्मारक (जिसका उद्घाटन 27 जुलाई, 1932 को किया गया) तुर्की के बेनजमीर में स्थित है, जहां राजधानी अंकारा है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Atatürk Monument in Izmir was inaugurated on the 27th of July, 1932, and is found in Turkey (capital: Ankara).</lex>
+      <lex comment="" lang="hi" lid="Id3">इजमिर में अट्टातपेनेसर्क स्मारक का उद्घाटन 27 जुलाई, 1932 को किया गया था और यह तुर्की में पाया जाता है। अंकारा)।</lex>
+    </entry>
+    <entry category="Monument" eid="36" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">The Ataturk monument (Izmir) is located in Turkey, where the largest city is Istanbul and the capital is Ankara.</lex>
+      <lex comment="" lang="hi" lid="Id1">अतातुर्क स्मारक (इज़मीर) तुर्की में स्थित है, जहां सबसे बड़ा शहर इस्तांबुल है और राजधानी अंकारा है।</lex>
+      <lex comment="" lang="en" lid="Id2">The Atatürk Monument is located in Turkey, where the capital city is Ankara and the largest city is Istanbul.</lex>
+      <lex comment="" lang="hi" lid="Id2">तुर्की में स्थित अतातपेंगीसुर्क स्मारक, जिसकी राजधानी अंकारा है और सबसे बड़ा शहर इस्तांबुल है।</lex>
+      <lex comment="" lang="en" lid="Id3">The Atatürk Monument is located in İzmir, Turkey, where the capital is Ankara and the largest city is Istanbul.</lex>
+      <lex comment="" lang="hi" lid="Id3">अतातपरस्तिक स्मारक तुर्की के फेंजाइज़मीर में स्थित है, जहां राजधानी अंकारा है और सबसे बड़ा शहर इस्तांबुल है।</lex>
+    </entry>
+    <entry category="Monument" eid="37" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lang="en" lid="Id1">Turkey's largest city is Istanbul, it's currency is the lira and has the Ataturk Monument in Izmir.</lex>
+      <lex comment="" lang="hi" lid="Id1">तुर्की का सबसे बड़ा शहर इस्तांबुल है, इसकी मुद्रा लीरा है और इजमिर में अतातुर्क स्मारक है।</lex>
+      <lex comment="" lang="en" lid="Id2">Istanbul is the largest city in Turkey but the Ataturk monument is located in Izmir. The Turkish currency is known as the Turkish lira.</lex>
+      <lex comment="" lang="hi" lid="Id2">इस्तांबुल तुर्की का सबसे बड़ा शहर है लेकिन अतातुर्क स्मारक इजमिर में स्थित है। तुर्की मुद्रा को तुर्की लीरा के रूप में जाना जाता है।</lex>
+    </entry>
+  </entries>
+</benchmark>

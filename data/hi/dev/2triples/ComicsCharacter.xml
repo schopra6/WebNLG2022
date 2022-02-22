@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book character Dane Whitman ( otherwise known as the Black Knight ), was created by both Roy Thomas and John Buscema.</lex>
+      <lex comment="" lid="Id1" lang="hi">कॉमिक पुस्तक चरित्र डेन व्हिटमैन (अन्यथा ब्लैक नाइट के रूप में जाना जाता है), रॉय थॉमस और जॉन बुसेमा दोनों द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Dane Whitman, from the Black Knight was created by John Buscema and Roy Thomas.</lex>
+      <lex comment="" lid="Id2" lang="hi">ब्लैक नाइट से डेन व्हिटमैन को जॉन बुसेमा और रॉय थॉमस ने बनाया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Dane Whitman, aka Black Night was created by John Buscema and Roy Thomas.</lex>
+      <lex comment="" lid="Id3" lang="hi">डेन व्हिटमैन उर्फ ब्लैक नाइट जॉन बुसेमा और रॉय थॉमस द्वारा बनाई गई थी।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>John_Buscema | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dane Whitman, alter ego Black Knight, was created by the American, John Buscema.</lex>
+      <lex comment="" lid="Id1" lang="hi">डेन व्हिटमैन, अल्टर ईगो ब्लैक नाइट, की रचना अमेरिकी जॉन बुसेमा ने की थी।</lex>
+      <lex comment="" lid="Id2" lang="en">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) in the comics genre.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेन व्हिटमैन, ए. के. ब्लैक नाइट का निर्माण जॉन बुसेमा (अमेरिकी) ने कॉमिक्स शैली में किया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (Amercian) and considered to be in the comics genre.</lex>
+      <lex comment="" lid="Id3" lang="hi">डेन व्हिटमैन, ए. के. ब्लैक नाइट का निर्माण जॉन बुसेमा (एमरसियन) द्वारा किया गया था और इसे कॉमिक्स शैली में माना जाता है।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | &quot;Dane Whitman&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | &quot;Dane Whitman&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | &quot;Dane Whitman&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight which was created by Roy Thomas.</lex>
+      <lex comment="" lid="Id1" lang="hi">कॉमिक चरित्र, डेन व्हिटमैन ब्लैक नाइट का वैकल्पिक नाम डेन व्हिटमैन है, जिसे रॉय थॉमस द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book character Dane Whitman Black Knight is also known as simply Dane Whitman or the alter ego Black Knight, and was created by Roy Thomas.</lex>
+      <lex comment="" lid="Id2" lang="hi">कॉमिक पुस्तक चरित्र डेन व्हिटमैन ब्लैक नाइट को केवल डेन व्हिटमैन या द अल्टर ईगो ब्लैक नाइट के रूप में भी जाना जाता है और इसे रॉय थॉमस द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Dane Whitman Black, also known as Dane Whitman was created by Roy Thomas.</lex>
+      <lex comment="" lid="Id3" lang="hi">डेन व्हिटमैन ब्लैक, जिसे डेन व्हिटमैन के नाम से भी जाना जाता है, रॉय थॉमस द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Duncan Rouleau is an American national who created Baymax.</lex>
+      <lex comment="" lid="Id1" lang="hi">डंकन रूलू एक अमेरिकी नागरिक हैं जिन्होंने बेमैक्स बनाया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax was created by American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="hi">बेमैक्स को अमेरिका के डंकन रोउलू ने बनाया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="5" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gene_Colan | nationality | Americans</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gene Colan is the American national who created the character Ben Urich.</lex>
+      <lex comment="" lid="Id1" lang="hi">जीन कोलन अमेरिकी नागरिक हैं जिन्होंने बेन यूरिख का चरित्र बनाया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ben Urich was created by Gene Colan, an American.</lex>
+      <lex comment="" lid="Id2" lang="hi">बेन उरिक की रचना एक अमेरिकी जीन कोलन ने की थी।</lex>
+      <lex comment="" lid="Id3" lang="en">The American Gene Nolan created the character Ben Urich.</lex>
+      <lex comment="" lid="Id3" lang="hi">अमेरिकी जीन नोलन ने बेन यूरिख के चरित्र का निर्माण किया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="6" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book character Auron was created by Karl Kesel, an American.</lex>
+      <lex comment="" lid="Id1" lang="hi">कॉमिक पुस्तक चरित्र औरन का निर्माण एक अमेरिकी कार्ल केज़ल ने किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">American, Karl Kesel, is the creator of the comic character, Auron.</lex>
+      <lex comment="" lid="Id2" lang="hi">अमेरिकी, कार्ल केज़ल, कॉमिक चरित्र, आरोन के निर्माता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">The American Karl Kesel created the comic character Auron.</lex>
+      <lex comment="" lid="Id3" lang="hi">अमेरिकी कार्ल केज़ल ने हास्य चरित्र आरोन का निर्माण किया।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The American Roger McKenzie is a comic book writer who created the character Ben Urich.</lex>
+      <lex comment="" lid="Id1" lang="hi">द अमेरिकन रोजर मैकेंजी एक हास्य पुस्तक लेखक हैं जिन्होंने बेन यूरिच चरित्र का निर्माण किया।</lex>
+      <lex comment="" lid="Id2" lang="en">A United States national, comic book writer, Roger McKenzie, is the creator of Ben Urich.</lex>
+      <lex comment="" lid="Id2" lang="hi">एक संयुक्त राज्य अमेरिका के राष्ट्रीय, हास्य पुस्तक लेखक, रोजर मैकेंजी, बेन यूरिख के निर्माता हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Roger Mckenzie, the american comic book writer is the creator of Ben Urich.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोजर मैकेंजी, अमेरिकी हास्य पुस्तक लेखक बेन यूरिच के निर्माता हैं।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="8" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sheldon Moldoff is the American creator of Black Pirate.</lex>
+      <lex comment="" lid="Id1" lang="hi">शेल्डन मोल्डोफ ब्लैक पाइरेट के अमेरिकी निर्माता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The Black Pirate was created by Sheldon Moldoff, who was an American national.</lex>
+      <lex comment="" lid="Id2" lang="hi">ब्लैक पाइरेट शेल्डन मोल्डोफ द्वारा बनाया गया था, जो एक अमेरिकी नागरिक थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Sheldon Moldoff is an American who created the Black Pirate.</lex>
+      <lex comment="" lid="Id3" lang="hi">शेल्डन मोल्डोफ एक अमेरिकी हैं जिन्होंने ब्लैक पाइरेट बनाया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="9" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Ralph Payne&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Ralph Payne&quot;@en</otriple>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | &quot;Ralph Payne&quot;</mtriple>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Gustavson is the creator of &quot; The Arrow&quot;, otherwise known as Ralph Payne.</lex>
+      <lex comment="" lid="Id1" lang="hi">पॉल गुस्तावसन 'द एरो' के निर्माता हैं, जिन्हें राल्फ पायने के नाम से भी जाना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Arrow, also known as Ralph Payne, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id2" lang="hi">तीर, जिसे राल्फ पायने के नाम से भी जाना जाता है, पॉल गुस्तावसन द्वारा बनाया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Arrow, otherwise known as Ralph Payne, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id3" lang="hi">तीर, जिसे अन्यथा राल्फ पायने के रूप में जाना जाता है, पॉल गुस्तावसन द्वारा बनाया गया था।</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="10" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Rick Parker&quot;@en</otriple>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Rick Parker&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | &quot;Rick Parker&quot;</mtriple>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rick parker, aka the Arrow was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id1" lang="hi">रिक पार्कर उर्फ द ऐरो का निर्माण पॉल गुस्तावसन ने किया था।</lex>
+      <lex comment="" lid="Id2" lang="en">The character Arrow's alter ego is Rick Parker, created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id2" lang="hi">चरित्र एरो का अल्टर इगो रिक पार्कर है, जिसे पॉल गुस्तावसन द्वारा बनाया गया है।</lex>
+      <lex comment="" lid="Id3" lang="en">Rick Parker, aka the Arrow, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id3" lang="hi">रिक पार्कर, उर्फ द ऐरो, पॉल गुस्तावसन द्वारा बनाया गया था।</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,745 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The &quot;1 Decembrie 1918 University&quot; is in the city Alba Iulia.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | 1 Decembrie 1918 विश्वविद्यालय अल्बा लूलिया शहर में है।</lex>
+      <lex comment="" lid="Id2" lang="en">The city of Alba Iulia has a University called &quot;1 Decembrie 1918 University&quot;.</lex>
+      <lex comment="" lid="Id2" lang="hi">अल्बा लूलिया शहर में 1 डिसेम्ब्री 1918 विश्वविद्यालय नामक एक विश्वविद्यालय है।</lex>
+      <lex comment="" lid="Id3" lang="en">The 1 Decembrie 1918 University is located in the city of Alba Iulia.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | upright | upright | 1 Decembrie 1918 विश्वविद्यालय अल्बा लूलिया शहर में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 1 Decembrie 1918 University is located in the country of Romania.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | 1 Decembrie 1918 University in Romania देश में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The 1 Decembrie 1918 University is located in Romania.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | upright | 1 Decembrie 1918 रोमानिया में स्थित एक विश्वविद्यालय।</lex>
+    </entry>
+    <entry category="University" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | &quot;Universitas Apulensis&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | latinName | &quot;Universitas Apulensis&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Latin name of the 1 Decembrie 1918 University is &quot;Universitas Apulensis&quot;.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | upright | 1918 डिसेम्ब्री 1 का लातिनी नाम Universitas Apulensis है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Latin name of 1 Decembrie 1918 University is Universitas Apulensis.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | upright | 1918 डिसेम्ब्री 1 का लातिन नाम Universitas Apulensis है।</lex>
+      <lex comment="" lid="Id3" lang="en">The latin name for 1 Decembrie 1918 University is Universitas Apulensis.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | left | upright | 1decembrie 1918 विश्वविद्यालय का लातिन नाम Universitas Apulensis.</lex>
+    </entry>
+    <entry category="University" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | nickname | Uab</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | nickname | Uab</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 1 Decembrie 1918 University has the nickname Uab.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 150px | 1 Decembrie 1918 में विश्वविद्यालय का उपनाम उआब रखा गया।</lex>
+    </entry>
+    <entry category="University" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | &quot;Breaz Valer Daniel&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | rector | &quot;Breaz Valer Daniel&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Breaz Valer Daniel is rector of the 1 Decembrie 1918 University.</lex>
+      <lex comment="" lid="Id1" lang="hi">breaz valer daniel 1 Decembrie 1918 University के रेक्टर हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The rector of the 1 Decembrie 1918 University is Breaz Valer Daniel.</lex>
+      <lex comment="" lid="Id2" lang="hi">Breaz Valer Daniel 1 Decembrie 1918 University के रेक्टर हैं।</lex>
+    </entry>
+    <entry category="University" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | facultySize | &quot;250&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | faculty | 250</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The academic staff at the AWH Engineering College number 250.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडब्ल्यूएच इंजीनियरिंग कॉलेज नंबर 250 के अकादमिक स्टाफ को शामिल किया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">The AWH Engineering College has academic staff size of 250.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडब्ल्यूएच इंजीनियरिंग कॉलेज में 250 अकादमिक स्टाफ है।</lex>
+      <lex comment="" lid="Id3" lang="en">AWH Engineering College has an academic staff of 250.</lex>
+      <lex comment="" lid="Id3" lang="hi">एडबल्यूएच इंजीनियरिंग कॉलेज में 250 अकादमिक कर्मचारी हैं।</lex>
+    </entry>
+    <entry category="University" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The AWH Engineering College is located in Kuttikkattoor.</lex>
+      <lex comment="" lid="Id1" lang="hi">AWH इंजीनियरिंग कॉलेज कुट्टीकट्टूर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">AWH Engineering College is in the city of Kuttikkattoor.</lex>
+      <lex comment="" lid="Id2" lang="hi">AWH Engineering College कुट्टीकट्टूर शहर में है।</lex>
+      <lex comment="" lid="Id3" lang="en">AWH Engineering College is located in Kuttikkattoor.</lex>
+      <lex comment="" lid="Id3" lang="hi">AWH इंजीनियरिंग कॉलेज कुट्टीकट्टूर में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AWH Engineering College is located in India.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडबल्यूएच इंजीनियरिंग कॉलेज भारत में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The AWH Engineering College was established in 2001.</lex>
+      <lex comment="" lid="Id1" lang="hi">एडब्ल्यूएच इंजीनियरिंग कॉलेज की स्थापना 2001 में की गई थी।</lex>
+    </entry>
+    <entry category="University" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AWH Engineering College is located in Kerala state.</lex>
+      <lex comment="" lid="Id1" lang="hi">ए डब्ल्यू एच इंजीनियरिंग कॉलेज केरल राज्य में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The AWH Engineering College is in the State of Kerala.</lex>
+      <lex comment="" lid="Id2" lang="hi">एडब्ल्यूएच इंजीनियरिंग कॉलेज केरल राज्य में है।</lex>
+    </entry>
+    <entry category="University" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The type of government of Aarhus is magistrate.</lex>
+      <lex comment="" lid="Id1" lang="hi">आरहूस की सरकार का प्रकार मजिस्ट्रेट है।</lex>
+      <lex comment="" lid="Id2" lang="en">The city of Aarhus is governed by Magistrates.</lex>
+      <lex comment="" lid="Id2" lang="hi">आरहुस शहर मजिस्ट्रेटों द्वारा शासित होता है।</lex>
+    </entry>
+    <entry category="University" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Aarhus | northeast | Mols</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Mols is to the northeast of Aarhus.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | right | 300px | आर्हस नदी के उत्तर-पूर्व में साइबरमोल्स.</lex>
+      <lex comment="" lid="Id2" lang="en">Aarhus has to its northeast Mols.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | 250px | उत्तर-पूर्व मॉल की तरफ अरहस</lex>
+      <lex comment="" lid="Id3" lang="en">Mols is the area to the northeast of Aarhus.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | 250px | आर्हुस के उत्तर-पूर्व में साइबेरियन पर्वतीय क्षेत्र</lex>
+    </entry>
+    <entry category="University" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | right | 250px | अक्साडेमिया डी आर्किटेक्ट मेंडिरिसियो मेंडिरिसियो शहर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | upright | अकडेमिया डी आर्किटेक्ट मेंडिरिसियो मेंडिरिसियो शहर में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | स्विट्जरलैंड में अकडेमिया डी आर्किटेक्ट मेंडिरिसियो</lex>
+      <lex comment="" lid="Id2" lang="en">Accademia di Architettura di Mendrisio is located in Switzerland.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | स्विट्जरलैंड में स्थित अकादेमिया डी आर्किटेक्ट मेंडिरिसियो</lex>
+      <lex comment="" lid="Id3" lang="en">Accademia di Architettura di Mendrisio is in Switzerland.</lex>
+      <lex comment="" lid="Id3" lang="hi">Academia di Architectura di Mendrisio is in Switzerland.</lex>
+    </entry>
+    <entry category="University" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The dean of the Accademia di Architettura di Mendrisio is Mario Botta.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकाडेमिया डी आर्किटेक्ट के डीन मारियो बोट्टा हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Accademia di Architettura di Mendrisio's dean is Mario Botta.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | upright | 250px | अकाडेमिया डि आर्किटेक्टूरा डि मेंडिरिसियो के डीन मारियो बोट्टा</lex>
+    </entry>
+    <entry category="University" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Accademia di Architettura di Mendrisio was established in 1996.</lex>
+      <lex comment="" lid="Id1" lang="hi">एकेडेमिया डी आर्किटेक्ट 1996 में स्थापित किया गया था।</lex>
+    </entry>
+    <entry category="University" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | canton | Ticino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | location | Ticino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Accademia di Architettura di Mendrisio is located in Ticino.</lex>
+      <lex comment="" lid="Id1" lang="hi">Ticino में Accademia di Architectura di Mendrisio स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Ticino is the location of the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="" lid="Id2" lang="hi">ticino is location of the Academia di Architectura di Mendrisio. Ticino is the location of the Academia di Architectura di Mendrisio. Ticino is the location of the Academia di Architectura di Architectura di Mendrisio.</lex>
+    </entry>
+    <entry category="University" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | &quot;600&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There are 600 students at the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="" lid="Id1" lang="hi">अकाडेमिया डी आर्किटेक्ट में 600 छात्र हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Six hundred students attend the Accademia di Architettura di Mendriso.</lex>
+      <lex comment="" lid="Id2" lang="hi">आकाडेमिया डी आर्किटेक्ट मेंड्रिसो के दीक्षांत समारोह में 600 छात्रों ने भाग लिया।</lex>
+      <lex comment="" lid="Id3" lang="en">The Accademia di Architettura di Mendrisio has 600 students.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | 200px | अकडेमिया डि आर्किटेक्ट मेंड्रिसियो में 600 विद्यार्थी हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">Accademia di Architettura di Mendrisio has 600 students enrolled.</lex>
+      <lex comment="" lid="Id4" lang="hi">Academia di Architectura di Mendrisio में 600 छात्र नामांकित हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">There are 600 students attending the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="" lid="Id5" lang="hi">अकाडेमिया डी आर्किटेक्चर डी मेंड्रिसियो में 600 छात्र भाग ले रहे हैं।</lex>
+    </entry>
+    <entry category="University" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | academicStaff | &quot;~500&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | academicStaffSize | &quot;~500&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Acharya Institute of Technology's academic staff total is ~500.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्यप्रौद्योगिकी संस्थान के कुल कर्मचारियों की संख्या ~ 500 है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology employs about 500 academic staff.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान में लगभग 500 अकादमिक कर्मचारी कार्यरत हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Approximately 500 employees make up the academic staff at Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में लगभग 500 कर्मचारी अकादमिक स्टाफ हैं।</lex>
+    </entry>
+    <entry category="University" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology is affiliated with Visvesvaraya Technologial University.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology is affiliated to Visvesvaraya Technological University.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lid="Id4" lang="en">Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University.</lex>
+      <lex comment="" lid="Id4" lang="hi">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय से संबद्ध है।</lex>
+      <lex comment="" lid="Id5" lang="en">Acharya Institute of Technology is affilaited with Visvesvaraya Technological University.</lex>
+      <lex comment="" lid="Id5" lang="hi">आचार्य प्रौद्योगिकी संस्थान विश्वेश्वरैया प्रौद्योगिकी विश्वविद्यालय के साथ जुड़ा हुआ है।</lex>
+    </entry>
+    <entry category="University" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology is located in the city of Bangalore.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान बंगलुरु शहर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology is located in Bangalore.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान बैंगलोर में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology is in Bangalore.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान बंगलुरु में है।</lex>
+    </entry>
+    <entry category="University" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Acharya Institute of Technology can be found in India.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान भारत में पाया जा सकता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology is located in India.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान भारत में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Acharya Institute of Technology is located in India.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान भारत में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | director | &quot;Dr. G. P. Prabhukumar&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | director | &quot;Dr. G. P. Prabhukumar&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dr. G. P. Prabhukumar is the director of the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id1" lang="hi">डॉ. जी. पी. प्रभुकुमार आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी के निदेशक हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">The director of Acharya Institute of Technology is Dr. G. P. Prabhukumar.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान के निदेशक डॉ. जी. पी. प्रभुकुमार हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology's director is Dr. G. P. Prabhukumar.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान के निदेशक डॉ. जी. पी. प्रभुकुमार हैं।</lex>
+    </entry>
+    <entry category="University" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology was established in the year 2000.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान की स्थापना वर्ष 2000 में की गई थी।</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology was established in 2000.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान की स्थापना 2000 में की गई थी।</lex>
+    </entry>
+    <entry category="University" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | motto | &quot;Nurturing Excellence&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | motto | &quot;Nurturing Excellence&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Acharya Institute of Technology's motto is Nurturing Excellence.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान के आदर्श वाक्य ‘उत्कृष्टता को पोषित करना’ है।</lex>
+      <lex comment="" lid="Id2" lang="en">The motto of the Acharya Institute of Technology is 'Nurturing Excellence.'.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी का आदर्श वाक्य 'उत्कृष्टता को पोषित करना' है।</lex>
+      <lex comment="" lid="Id3" lang="en">The motto of the Acharya Institute of Technology is &quot;Nurturing Excellence&quot;.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान का आदर्श वाक्य उत्कृष्टता को पोषित करना है।</lex>
+    </entry>
+    <entry category="University" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | nickname | &quot;AIT&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | nickname | &quot;AIT&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AIT is the nickname for the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | upright | upright | upright | आचार्य प्रौद्योगिकी संस्थान का उपनाम एआईटी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The nickname of the Acharya Institute of Technology is AIT.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी का उपनाम एआईटी है।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology is known as AIT.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान को एआईटी के नाम से जाना जाता है।</lex>
+    </entry>
+    <entry category="University" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | &quot;700&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | postgrad | &quot;~700&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The number of post graduate students at the Acharya Institute of Technology is about 700.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान में स्नातकोत्तर छात्रों की संख्या 700 है।</lex>
+      <lex comment="" lid="Id2" lang="en">The number of postgraduate students in Acharya Institute of Technology is ~700.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान में स्नातकोत्तर छात्रों की संख्या ~ 700 है।</lex>
+      <lex comment="" lid="Id3" lang="en">There are around 700 postgraduate students at the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में लगभग 700 स्नातकोत्तर छात्र हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">There are about 700 post graduate students at the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id4" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में लगभग 700 स्नातकोत्तर छात्र हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">Acharya Institute of Technology has 700 postgraduate students.</lex>
+      <lex comment="" lid="Id5" lang="hi">आचार्य प्रौद्योगिकी संस्थान में 700 स्नातकोत्तर छात्र हैं।</lex>
+      <lex comment="" lid="Id6" lang="en">700 students are enrolled in a post-graduate program at Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id6" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में पोस्ट ग्रेजुएट प्रोग्राम के लिए 700 छात्रों को नामांकित किया गया है।</lex>
+    </entry>
+    <entry category="University" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | undergrad | &quot;~10000&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | &quot;10000&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The number of undergraduates attending the Acharya Institute of Technology is roughly 10000 students.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य इंस्टीच्यूट ऑफ टेक्नोलॉजी में लगभग 10000 विद्यार्थी शिक्षा ग्रहण कर रहे हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology's number of Undergraduate students total to ~10000.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान के स्नातक छात्रों की कुल संख्या ~ 10000 है।</lex>
+      <lex comment="" lid="Id3" lang="en">There are around 10000 undergraduate students at the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में लगभग 10000 स्नातक छात्र हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">The Acharya Institude of Technology has 10000 undergraduate students.</lex>
+      <lex comment="" lid="Id4" lang="hi">आचार्य प्रौद्योगिकी संस्थान में 10000 स्नातक छात्र हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">The Acharya Institute of Technology has 10000 undergraduate students.</lex>
+      <lex comment="" lid="Id5" lang="hi">आचार्य प्रौद्योगिकी संस्थान में 10000 स्नातक छात्र हैं।</lex>
+      <lex comment="" lid="Id6" lang="en">Acharya Institute of Technology has 10,000 undergraduate students.</lex>
+      <lex comment="" lid="Id6" lang="hi">आचार्य प्रौद्योगिकी संस्थान में 10,000 स्नातक छात्र हैं।</lex>
+    </entry>
+    <entry category="University" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | colours | &quot;Blue, White and Orange&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | officialSchoolColour | &quot;Blue, White and Orange&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | officialSchoolColour | &quot;Blue, White and Orange&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Blue, white and orange are the colours adopted by Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी द्वारा नीला, सफेद और नारंगी रंगों को अपनाया गया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Blue, white and orange are the colours of Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id2" lang="hi">नीला, सफेद और नारंगी रंग आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी के रंग हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology's official colors are Blue, White and Orange.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान के आधिकारिक रंग नीला सफेद और नारंगी हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">The official school colours of the Acharya Institute of Technology are blue, white and orange.</lex>
+      <lex comment="" lid="Id4" lang="hi">आचार्य प्रौद्योगिकी संस्थान के आधिकारिक स्कूल रंग नीला, सफेद और नारंगी हैं।</lex>
+      <lex comment="" lid="Id5" lang="en">Acharya Institute of Technology official school colors are Blue White and Orange.</lex>
+      <lex comment="" lid="Id5" lang="hi">आचार्य प्रौद्योगिकी संस्थान के आधिकारिक स्कूल के रंग नीला सफेद और नारंगी हैं।</lex>
+      <lex comment="" lid="Id6" lang="en">Acharya Institute of Technology official school colours are blue, white and orange.</lex>
+      <lex comment="" lid="Id6" lang="hi">आचार्य प्रौद्योगिकी संस्थान के आधिकारिक स्कूल के रंग नीला, सफेद और नारंगी हैं।</lex>
+    </entry>
+    <entry category="University" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | outlook | 63</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | outlookRanking | 63</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The outlook ranking for the Acharya Institute of Technology is 63.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी की आउटलुक रैंकिंग 63 है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology's outlook ranking is 63.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान की आउटलुक रैंकिंग 63 है।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology has an outlook ranking of 63.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान आउटलुक रैंकिंग में 63वें स्थान पर है।</lex>
+    </entry>
+    <entry category="University" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tennis is one of the sports offered at the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id1" lang="hi">टेनिस आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में आयोजित होने वाले खेलों में से एक है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology offers Tennis as a sport.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान टेनिस को एक खेल के रूप में प्रदान करता है।</lex>
+      <lex comment="" lid="Id3" lang="en">One of the sports offered at the Acharya Institute of Technology is tennis.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी में टेनिस एक प्रमुख खेल है।</lex>
+      <lex comment="" lid="Id4" lang="en">The Acharya Institute of Technology offers sports including tennis.</lex>
+      <lex comment="" lid="Id4" lang="hi">आचार्य प्रौद्योगिकी संस्थान टेनिस सहित अन्य खेलों की पेशकश करता है।</lex>
+    </entry>
+    <entry category="University" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology is in the state of Karnataka.</lex>
+      <lex comment="" lid="Id1" lang="hi">आचार्य प्रौद्योगिकी संस्थान कर्नाटक राज्य में है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology is located in the state of Karnataka.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान कर्नाटक राज्य में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology is in Karnataka state.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान कर्नाटक राज्य में है।</lex>
+    </entry>
+    <entry category="University" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | free | All_India_Council_for_Technical_Education</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | wasGivenTheTechnicalCampusStatusBy | All_India_Council_for_Technical_Education</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The All India Council for Technical Education was proud to give the Technical Campus status to the Acharya Institute of Technology.</lex>
+      <lex comment="" lid="Id1" lang="hi">अखिल भारतीय तकनीकी शिक्षा परिषद ने आचार्य इंस्टीट्यूट ऑफ टेक्नोलॉजी को टेक्निकल कैंपस का दर्जा दिया है।</lex>
+      <lex comment="" lid="Id2" lang="en">Acharya Institute of Technology was given the Technical Campus status by the All India Council for Technical Education.</lex>
+      <lex comment="" lid="Id2" lang="hi">आचार्य प्रौद्योगिकी संस्थान को अखिल भारतीय तकनीकी शिक्षा परिषद द्वारा तकनीकी कैंपस का दर्जा दिया गया है।</lex>
+      <lex comment="" lid="Id3" lang="en">Acharya Institute of Technology was given the 'Technical Campus' status by All India Council for Technical Education.</lex>
+      <lex comment="" lid="Id3" lang="hi">आचार्य प्रौद्योगिकी संस्थान को अखिल भारतीय तकनीकी शिक्षा परिषद द्वारा 'तकनीकी परिसर' का दर्जा दिया गया था।</lex>
+    </entry>
+    <entry category="University" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>All_India_Council_for_Technical_Education | location | Mumbai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>All_India_Council_for_Technical_Education | location | Mumbai</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">All India Council for Technical Education is located in Mumbai.</lex>
+      <lex comment="" lid="Id1" lang="hi">अखिल भारतीय तकनीकी शिक्षा परिषद मुंबई में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The All India Council for Technical Education is located in Mumbai.</lex>
+      <lex comment="" lid="Id2" lang="hi">अखिल भारतीय तकनीकी शिक्षा परिषद मुंबई में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="35" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Bangalore | founder | Kempe_Gowda_I</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bangalore | founder | Kempe_Gowda_I</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Kempe Gowda I founded Bangalore.</lex>
+      <lex comment="" lid="Id1" lang="hi">kempe gowda I bangalore की स्थापना की।</lex>
+      <lex comment="" lid="Id2" lang="en">The founder of Bangalore was Kempe Gowda.</lex>
+      <lex comment="" lid="Id2" lang="hi">केंपेगौड़ा बंगलुरु के संस्थापक थे।</lex>
+      <lex comment="" lid="Id3" lang="en">Kempe Gowda I was the founder of Bangalore.</lex>
+      <lex comment="" lid="Id3" lang="hi">kempe gowda I was founder of Bangalore.</lex>
+    </entry>
+    <entry category="University" eid="36" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lars Lokke Rasmussen is the leader of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">Lars Locke Rasmussen) डेनमार्क के नेता हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">One of Denmark's leaders is Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id2" lang="hi">डेनमार्क के नेताओं में से एक लार्स लोके रासमुसेन (Lars Locke Rasmussen) हैं।</lex>
+      <lex comment="" lid="Id3" lang="en">Denmark's leader is Lars Løkke Rasmussen.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumbnail | upright | डेनमार्क के नेता लार्स लिलम्स्के रासमुसेन</lex>
+      <lex comment="" lid="Id4" lang="en">The leader of Denmark is Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id4" lang="hi">डेनमार्क के नेता लार्स लोके रासमुसेन (Lars Locke Rasmussen)</lex>
+      <lex comment="" lid="Id5" lang="en">The Leader of Denmark is Lars Løkke Rasmussen.</lex>
+      <lex comment="" lid="Id5" lang="hi">डेनमार्क के नेता लार्स लिलियके रासमुसेन हैं।</lex>
+      <lex comment="" lid="Id6" lang="en">Lars Løkke Rasmussen is the leader of Denmark.</lex>
+      <lex comment="" lid="Id6" lang="hi">thumbnail | upright | Lars Llanguke Rasmussen | Lars Languke Rasmussen is leader of Denmark.</lex>
+    </entry>
+    <entry category="University" eid="37" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Denmark is led by a Monarch.</lex>
+      <lex comment="" lid="Id1" lang="hi">डेनमार्क का नेतृत्व एक सम्राट ने किया।</lex>
+      <lex comment="" lid="Id2" lang="en">The Monarch of Denmark is the country's leader.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | right | 250px | डेनमार्क के सम्राट ने देश का नेतृत्व किया।</lex>
+    </entry>
+    <entry category="University" eid="38" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Denmark | religion | Church_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The official religion of Denmark is the Church of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumbnail | upright | डेनमार्क का आधिकारिक धर्म चर्च ऑफ डेनमार्क है।</lex>
+      <lex comment="" lid="Id2" lang="en">Denmark's religion is led by Church of Denmark.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | डॆन्मार्केर आधुनिक धर्म का नेतृत्व डेनमार्क के चर्च द्वारा किया जाता है।</lex>
+      <lex comment="" lid="Id3" lang="en">Church of Denmark is the religion of Denmark.</lex>
+      <lex comment="" lid="Id3" lang="hi">डेनमार्क का चार्च ऑफ डेनमार्क डेनमार्क का धर्म है।</lex>
+    </entry>
+    <entry category="University" eid="39" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The headquarters of the European University Association is in Brussels.</lex>
+      <lex comment="" lid="Id1" lang="hi">ब्रसेल्स में यूरोपियन यूनिवर्सिटी एसोसिएशन का मुख्यालय है।</lex>
+      <lex comment="" lid="Id2" lang="en">The European University Associatian headquarter is in Brussels.</lex>
+      <lex comment="" lid="Id2" lang="hi">european University Associatian headquarters in Brussels.</lex>
+    </entry>
+    <entry category="University" eid="40" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>India | largestCity | Mumbai</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | largestCity | Mumbai</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The largest city in India is Mumbai.</lex>
+      <lex comment="" lid="Id1" lang="hi">मुंबई भारत का सबसे बड़ा शहर है।</lex>
+      <lex comment="" lid="Id2" lang="en">Mumbai is India's largest city.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | left | upright | मुंबई भारत का सबसे बड़ा शहर है।</lex>
+    </entry>
+    <entry category="University" eid="41" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>India | river | Ganges</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | river | Ganges</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Ganges is a river in India.</lex>
+      <lex comment="" lid="Id1" lang="hi">गंगा भारत की एक प्रमुख नदी है।</lex>
+      <lex comment="" lid="Id2" lang="en">The Ganges is India's most well known river.</lex>
+      <lex comment="" lid="Id2" lang="hi">गंगा भारत की सबसे प्रसिद्ध नदी है।</lex>
+    </entry>
+    <entry category="University" eid="42" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Karnataka | northeast | Telangana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karnataka | hasToItsNortheast | Telangana</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Karnataka neighbors Telangana to its northeast.</lex>
+      <lex comment="" lid="Id1" lang="hi">कर्नाटक के पड़ोसी राज्य तेलंगाना के उत्तर-पूर्व में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">Karnataka has to its northeast Telangana.</lex>
+      <lex comment="" lid="Id2" lang="hi">उत्तर-पूर्व में कर्नाटक है, उत्तर-पूर्व में तेलंगाना है।</lex>
+      <lex comment="" lid="Id3" lang="en">To the northeast of Karnataka is Telagana.</lex>
+      <lex comment="" lid="Id3" lang="hi">thumb | right | 300px | कर्नाटक के उत्तर-पूर्व में तेलंगाना है।</lex>
+    </entry>
+    <entry category="University" eid="43" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Karnataka | west | Arabian_Sea</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karnataka | hasToItsWest | Arabian_Sea</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Arabian Sea is west of Karnataka.</lex>
+      <lex comment="" lid="Id1" lang="hi">अरब सागर कर्नाटक के पश्चिम में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The west of Karnataka is the Arabian Sea.</lex>
+      <lex comment="" lid="Id2" lang="hi">कर्नाटक के पश्चिम में अरब सागर है।</lex>
+      <lex comment="" lid="Id3" lang="en">To the west Karnataka borders on the Arabian Sea.</lex>
+      <lex comment="" lid="Id3" lang="hi">पश्चिम कर्नाटक की सीमा अरब सागर से लगती है।</lex>
+    </entry>
+    <entry category="University" eid="44" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Kerala | leaderName | Kochi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Kerala | leader | Kochi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Kochi is the leader of Kerala.</lex>
+      <lex comment="" lid="Id1" lang="hi">कोच्चि केरल का अग्रणी शहर है।</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Kerala is Kochi.</lex>
+      <lex comment="" lid="Id2" lang="hi">केरल का नेतृत्व कोच्चि कर रहा है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Kerala leader is in Kochi.</lex>
+      <lex comment="" lid="Id3" lang="hi">केरल के मुख्यमंत्री कोच्चि में हैं।</lex>
+    </entry>
+    <entry category="University" eid="45" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The anthem of Romania is called Desteapta te romane.</lex>
+      <lex comment="" lid="Id1" lang="hi">&quot;रोमानिया के संगीत को&quot; &quot;डेस्टिप्टा ते रोमाने&quot; &quot;कहा जाता है।&quot;</lex>
+      <lex comment="" lid="Id2" lang="en">Desteapta te, romane is the Romanan anthem.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | डेस्टिप्टा ते, रोमन रोमन संगीत है।</lex>
+      <lex comment="" lid="Id3" lang="en">The national anthem of Romania is Desteapta-te, romane!</lex>
+      <lex comment="" lid="Id3" lang="hi">&quot;रोमानिया का राष्ट्रगान&quot; &quot;Desteapta-romane!&quot; &quot;&quot;</lex>
+    </entry>
+    <entry category="University" eid="46" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the ethnic groups in Romania are the Germans of Romania.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोमानिया में रहने वाले रोमानिया के लोगों में जर्मनी के लोग भी शामिल हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Germans of Romania is an ethnic group in Romania.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumbnail | upright | upright | रोमानिया के जर्मनों की एक जाति जो रोमानिया में रहती है।</lex>
+      <lex comment="" lid="Id3" lang="en">The Germans of Romania are an ethnic group in Romania.</lex>
+      <lex comment="" lid="Id3" lang="hi">रोमानिया के जर्मन लोग रोमानिया में एक जातीय समूह हैं।</lex>
+      <lex comment="" lid="Id4" lang="en">Romania has many ethnic groups one of which are Germans.</lex>
+      <lex comment="" lid="Id4" lang="hi">रोमानिया में अनेक जातीय समूह हैं जिनमें से एक जर्मन है।</lex>
+    </entry>
+    <entry category="University" eid="47" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Romania is Klaus Iohannis.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोमानिया के नेता क्लाउस इयोहन्निस हैं।</lex>
+      <lex comment="" lid="Id2" lang="en">Romania's leader is Klaus Iohannis.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | 250px | रोमानिया के नेता क्लाउस लोहानी</lex>
+    </entry>
+    <entry category="University" eid="48" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Romania | leaderTitle | Prime_Minister_of_Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leaderTitle | Prime_Minister_of_Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Romania is known as the Prime Minister.</lex>
+      <lex comment="" lid="Id1" lang="hi">रोमानिया के नेता को प्रधानमंत्री के रूप में जाना जाता है।</lex>
+      <lex comment="" lid="Id2" lang="en">Romania's leader is call the Prime Minister of Romania.</lex>
+      <lex comment="" lid="Id2" lang="hi">thumb | right | 250px | रोमानिया के नेता को रोमानिया के प्रधानमंत्री कहते हैं</lex>
+      <lex comment="" lid="Id3" lang="en">The title of the leader of Romania is &quot;Prime Minister&quot;.</lex>
+      <lex comment="" lid="Id3" lang="hi">&quot;रोमानिया के नेता का शीर्षक&quot; &quot;प्रधानमंत्री&quot; &quot;है।&quot;</lex>
+    </entry>
+    <entry category="University" eid="49" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Aarhus University School of Business and Social Sciences is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id1" lang="hi">आरहस यूनिवर्सिटी स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपियन यूनिवर्सिटी एसोसिएशन से संबद्ध है।</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University is affiliated to European University Association.</lex>
+      <lex comment="" lid="Id2" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपियन यूनिवर्सिटी एसोसिएशन से संबद्ध है।</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at Aarhus University is affiliated to the European University Association.</lex>
+      <lex comment="" lid="Id3" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपियन यूनिवर्सिटी एसोसिएशन से संबद्ध है।</lex>
+      <lex comment="" lid="Id4" lang="en">The School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id4" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज यूरोपियन यूनिवर्सिटी एसोसिएशन से संबद्ध है।</lex>
+    </entry>
+    <entry category="University" eid="50" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Aarhus University School of Business and Social Sciences is in the city of Aarhus.</lex>
+      <lex comment="" lid="Id1" lang="hi">thumb | left | 200px | आरहस यूनिवर्सिटी स्कूल ऑफ बिजनेस एंड सोशल साइंसेज, आरहस शहर में स्थित है।</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University is situated in the city of Aarhus.</lex>
+      <lex comment="" lid="Id2" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज आरहस शहर में स्थित है।</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus.</lex>
+      <lex comment="" lid="Id3" lang="hi">आरहस विश्वविद्यालय के स्कूल ऑफ बिजनेस एंड सोशल साइंसेज, आरहस शहर में स्थित है।</lex>
+    </entry>
+    <entry category="University" eid="51" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at Aarhus University was established in 1928.</lex>
+      <lex comment="" lid="Id1" lang="hi">1928 में आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज स्थापित किया गया था।</lex>
+      <lex comment="" lid="Id2" lang="en">Aarhus University School of Business and Social Sciences was established in 1928.</lex>
+      <lex comment="" lid="Id2" lang="hi">1928 में आरहस यूनिवर्सिटी स्कूल ऑफ बिजनेस एंड सोशल साइंसेस की स्थापना की गई।</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University was established in 1928.</lex>
+      <lex comment="" lid="Id3" lang="hi">1928 में आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज स्थापित किया गया था।</lex>
+      <lex comment="" lid="Id4" lang="en">The School of Business and Social Sciences at the Aarhus University is established in 1928.</lex>
+      <lex comment="" lid="Id4" lang="hi">1928 में आरहस विश्वविद्यालय में स्कूल ऑफ बिजनेस एंड सोशल साइंसेज स्थापित किया गया था।</lex>
+    </entry>
+  </entries>
+</benchmark>

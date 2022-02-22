@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | status | &quot;Retired&quot;@en</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | status | &quot;Retired&quot;</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born in in British Hong Kong on October 17th, 1933, was a Fighter pilot, was a member of Apollo 8's crew and retired on 1st September 1969.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स का जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था, वह एक फाइटर पायलट थे, अपोलो 8 के चालक दल के सदस्य थे और 1 सितंबर, 1969 को सेवानिवृत्त हुए थे।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was born in Hong Kong on October 17th 1933. He served as a fighter pilot and became a crew member on Apollo 8 before he retired in 1969.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स का जन्म 17 अक्टूबर, 1933 को हांगकांग में हुआ था। उन्होंने एक फाइटर पायलट के रूप में सेवा की और 1969 में सेवानिवृत्त होने से पहले अपोलो 8 के चालक दल के सदस्य बने।</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In 1963 NASA chose William Anders to become a member of the Apollo 8 crew. Anders was a test pilot before that who was born in British Hong Kong on October 17th, 1933 and retired on September 1st, 1969.</lex>
+      <lex comment="" lid="Id1" lang="hi">1963 में नासा ने विलियम एंडर्स को अपोलो 8 के चालक दल का सदस्य बनने के लिए चुना। एंडर्स इससे पहले एक टेस्ट पायलट थे जिनका जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था और 1 सितंबर, 1969 को सेवानिवृत्त हुए थे।</lex>
+      <lex comment="" lid="Id2" lang="en">Fighter pilot William Anders was picked by NASA in 1963 to join the Apollo 8 space mission. Anders was born in British Hong Kong on October 17th, 1933 and he retired September 1st, 1969.</lex>
+      <lex comment="" lid="Id2" lang="hi">फाइटर पायलट विलियम एंडर्स को 1963 में नासा द्वारा अपोलो 8 अंतरिक्ष मिशन में शामिल होने के लिए चुना गया था। एंडर्स का जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था और वह 1 सितंबर, 1969 को सेवानिवृत्त हुए थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">American William Anders was a test pilot who became a member of the Apollo 8 crew when NASA picked him in 1963. He was born in British Hong Kong and retired on September 1st, 1969.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरिका के विलियम एंडर्स एक टेस्ट पायलट थे जो 1963 में नासा द्वारा अपोलो 8 के चालक दल के सदस्य बने थे। उनका जन्म ब्रिटिश हांगकांग में हुआ था और वे 1 सितंबर, 1969 को सेवानिवृत्त हुए थे।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was born in British Hong Kong and is an American. He was chosen by NASA in 1963 and was a fighter pilot as well as a member of Apollo 8. He retired on Sept 1 1969.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स का जन्म ब्रिटिश हांगकांग में हुआ था और वह एक अमेरिकी हैं। उन्हें 1963 में नासा द्वारा चुना गया था और वह एक फाइटर पायलट के साथ-साथ अपोलो 8 के सदस्य भी थे। वह 1 सितंबर 1969 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born in British Hong Kong. He received an MS from AFIT in 1962 and joined NASA in 1963. He was a fighter pilot and a crew member on Apollo . He retired in 1969.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स का जन्म ब्रिटिश हांगकांग में हुआ था। उन्होंने 1962 में एएफआईटी से एमएस की डिग्री प्राप्त की और 1963 में नासा में शामिल हुए। वह एक फाइटर पायलट और अपोलो में चालक दल के सदस्य थे। वह 1969 में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was born in British Hong Kong. He graduated from AFIT in 1962 with an MS and was chosen by NASA in 1963. He was a fighter pilot and served as a crew member on Apollo 8. Anders retired in 1969.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स का जन्म ब्रिटिश हांगकांग में हुआ था। उन्होंने 1962 में एएफआईटी से एमएस के साथ स्नातक किया और 1963 में नासा द्वारा चुने गए। वह एक फाइटर पायलट थे और उन्होंने अपोलो 8 में चालक दल के सदस्य के रूप में कार्य किया। एन्डर्स 1969 में सेवानिवृत्त हुए।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was born in in British Hong Kong, was a Fighter pilot, graduated from AFIT, M.S. in 1962, was chosen by NASA in 1963, was a member of Apollo 8's crew and retired on 1st September 1969.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स का जन्म ब्रिटिश हांगकांग में हुआ था, वह एक फाइटर पायलट थे, 1962 में एएफआईटी, एमएस से स्नातक थे, 1963 में नासा द्वारा चुने गए थे, अपोलो 8 के चालक दल के सदस्य थे और 1 सितंबर 1969 को सेवानिवृत्त हुए थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | status | &quot;Retired&quot;@en</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | status | &quot;Retired&quot;</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born Oct 17th in British Hong Kong. He was crew member on Apollo 8 in 1963. He retired.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स का जन्म 17 अक्टूबर को ब्रिटिश हांगकांग में हुआ था। वह 1963 में अपोलो 8 के चालक दल के सदस्य थे। वह रिटायर हो गए।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was born in British Hong Kong on the 17th of October 1933. NASA selected him in 1963, and he served as a crew member of Apollo 8. He retired on the 1st of September, 1969.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स का जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था। नासा ने 1963 में उनका चयन किया और उन्होंने अपोलो 8 के चालक दल के सदस्य के रूप में कार्य किया। वह 1 सितंबर, 1969 को सेवानिवृत्त हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" size="6" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>Apollo_8 | crew1Up | Frank_Borman</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>Apollo_8 | commander | Frank_Borman</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as a fighter pilot, and in 1963 he was selected as a crew member on the Apollo 8 operated by NASA. The commander of the Apollo 8 was Frank Borman, and Buzz Aldrin served as backup pilot for the mission.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स ने एक लड़ाकू पायलट के रूप में काम किया और 1963 में उन्हें नासा द्वारा संचालित अपोलो 8 में चालक दल के सदस्य के रूप में चुना गया था। अपोलो 8 के कमांडर फ्रैंक बोर्मन थे और बज़ आल्ड्रिन ने मिशन के लिए बैकअप पायलट के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders is a fighter pilot, who was selected by NASA in 1963 to serve as a crew member aboard the Apollo 8. Frank Borman commanded the mission. Buzz Aldrin was a back up pilot.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स एक लड़ाकू पायलट हैं, जिनका चयन 1963 में नासा द्वारा अपोलो 8 पर चालक दल के सदस्य के रूप में किया गया था। फ्रैंक बोर्मन ने मिशन की कमान संभाली। बज़ आल्ड्रिन एक बैकअप पायलट थे।</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders joined Nasa in 1963 as a test pilot. He then went on to become a member of Apollo 8's crew along with Buzz Aldrin as backup pilot and Frank Borman as commander.</lex>
+      <lex comment="" lid="Id3" lang="hi">विलियम एंडर्स 1963 में एक टेस्ट पायलट के रूप में नासा में शामिल हुए थे। इसके बाद वे अपोलो 8 के चालक दल के सदस्य बने, जिसमें बैकअप पायलट के रूप में बज़ आल्ड्रिन और कमांडर के रूप में फ्रैंक बोर्मन शामिल थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="7" size="6" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+        <otriple>William_Anders | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+        <mtriple>William_Anders | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as a fighter pilot and was a member of Apollo 8's crew. He is now retired. Frank Borman was also a crew member of the NASA operated Apollo 8. Buzz Aldrin was a back up pilot for Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स ने एक लड़ाकू पायलट के रूप में कार्य किया और अपोलो 8 के चालक दल के सदस्य थे। वह अब सेवानिवृत्त हो चुके हैं। फ्रैंक बोरमैन नासा द्वारा संचालित अपोलो 8 के चालक दल के सदस्य भी थे। बज़ आल्ड्रिन अपोलो 8 के बैकअप पायलट थे।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders, now retired, was a fighter pilot and crewed Apollo 8. Buzz Aldrin was a backup pilot on the Apollo 8 mission operated by NASA and Frank Borman was a crew member.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स, जो अब सेवानिवृत्त हो चुके थे, एक लड़ाकू पायलट थे और अपोलो 8 के चालक दल के सदस्य थे। बज़ आल्ड्रिन नासा द्वारा संचालित अपोलो 8 मिशन में एक बैकअप पायलट थे और फ्रैंक बोरमैन चालक दल के सदस्य थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="8" size="6" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+        <otriple>William_Anders | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders joined NASA in 1963 and served as a fighter pilot. He was a member of NASA's Apollo 8 crew where Buzz Aldrin was a backup pilot and Frank Borman a crew member.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स 1963 में नासा में शामिल हुए और एक लड़ाकू पायलट के रूप में कार्य किया। वह नासा के अपोलो 8 चालक दल के सदस्य थे, जहां बज़ आल्ड्रिन एक बैकअप पायलट थे और फ्रैंक बोरमैन एक चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was a fighter pilot who joined NASA in 1963. He was part of Apollo 8's crew, along with Frank Borman and backup pilot Buzz Aldrin.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स एक लड़ाकू पायलट थे जो 1963 में नासा में शामिल हुए थे। वह फ्रैंक बोर्मन और बैकअप पायलट बज़ एल्ड्रिन के साथ अपोलो 8 के चालक दल का हिस्सा थे।</lex>
+      <lex comment="" lid="Id3" lang="en">In 1963 William Anders was selected by NASA to be a member of the Apollo 8 crew, alongside Frank Borman amongst others. He had previously trained as a fighter pilot, and was partnered on the mission by backup pilot Buzz Aldrin.</lex>
+      <lex comment="" lid="Id3" lang="hi">1963 में नासा द्वारा विलियम एंडर्स को फ्रैंक बोरमैन के साथ अपोलो 8 के चालक दल का सदस्य चुना गया था। उन्होंने पहले एक लड़ाकू पायलट के रूप में प्रशिक्षण प्राप्त किया था और बैकअप पायलट बज़ एल्ड्रिन द्वारा मिशन में भागीदारी की थी।</lex>
+    </entry>
+    <entry category="Astronaut" eid="9" size="6" shape="(X (X) (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>William_Anders | timeInSpace | &quot;8820.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+        <otriple>Apollo_8 | crew2Up | Buzz_Aldrin</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>William_Anders | years | 1976</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>William_Anders | timeInSpace | &quot;8820.0&quot;(minutes)</mtriple>
+        <mtriple>Apollo_8 | backupPilot | Buzz_Aldrin</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Apollo 8 was operated by NASA and had the following crew: William Anders who served as Chief of the Astronaut Office in 1976 and spent 8820 minutes in space; Buzz Aldrin who was a backup pilot and Frank Borman who was a crew member.</lex>
+      <lex comment="" lid="Id1" lang="hi">अपोलो 8 का संचालन नासा द्वारा किया गया था और इसमें निम्नलिखित चालक दल थेः विलियम एंडर्स जिन्होंने 1976 में अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया और अंतरिक्ष में 8820 मिनट बिताए बज़ आल्ड्रिन जो एक बैकअप पायलट थे और फ्रैंक बोर्मन जो एक चालक दल के सदस्य थे।</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders served as a crew member of Apollo 8 and as Chief of the Astronaut Office in 1976. He walked in space for 8820 minutes. Buzz Aldrin was the backup pilot and Frank Borman a crew member. Apollo 8 was operated by NASA,.</lex>
+      <lex comment="" lid="Id2" lang="hi">विलियम एंडर्स ने अपोलो 8 के चालक दल के सदस्य और 1976 में अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया। वे अंतरिक्ष में 8820 मिनट तक चले। बज़ आल्ड्रिन बैकअप पायलट थे और फ्रैंक बोर्मन एक चालक दल के सदस्य थे। अपोलो 8 का संचालन नासा द्वारा किया गया था।</lex>
+      <lex comment="" lid="Id3" lang="en">Frank Borman and William Anders served as past of NASA's Apollo 8 crew. Anders served as Chief of the Astronaut Office in 1976 and spend 8820.0 minutes in space. Buzz Aldrin was an Apollo 8 backup pilot.</lex>
+      <lex comment="" lid="Id3" lang="hi">फ्रैंक बोर्मन और विलियम एंडर्स नासा के अपोलो 8 चालक दल के पूर्व सदस्य थे। एंडर्स ने 1976 में अंतरिक्ष यात्री कार्यालय के प्रमुख के रूप में कार्य किया और अंतरिक्ष में 8820 मिनट बिताए। बज़ आल्ड्रिन अपोलो 8 के बैकअप पायलट थे।</lex>
+    </entry>
+    <entry category="Astronaut" eid="10" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United States test pilot William Anders was born in British Hong Kong on the 17th of October, 1933. In 1963, he was chosen by NASA and became a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="hi">अमेरिका के टेस्ट पायलट विलियम एंडर्स का जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था। 1963 में, उन्हें नासा द्वारा चुना गया और अपोलो 8 के चालक दल का सदस्य बन गया।</lex>
+      <lex comment="" lid="Id2" lang="en">Despite being born in British Hong Kong, Williams Anders was a United States national. His birth date is October 17th, 1933. In 1963, he was chosen by NASA and served as a fighter pilot and crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="hi">ब्रिटिश हांगकांग में पैदा होने के बावजूद, विलियम्स एंडर्स एक अमेरिकी नागरिक थे। उनकी जन्म तिथि 17 अक्टूबर, 1933 है। 1963 में, उन्हें नासा द्वारा चुना गया और अपोलो 8 पर एक फाइटर पायलट और चालक दल के सदस्य के रूप में कार्य किया।</lex>
+      <lex comment="" lid="Id3" lang="en">American William Anders (born on October 17, 1933 in British Hong Kong) joined NASA in 1963 as a Fighter pilot and as a crew member on Apollo 8 .</lex>
+      <lex comment="" lid="Id3" lang="hi">अमेरिका के विलियम एंडर्स (17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में पैदा हुए) 1963 में एक फाइटर पायलट और अपोलो 8 के चालक दल के सदस्य के रूप में नासा में शामिल हुए।</lex>
+    </entry>
+    <entry category="Astronaut" eid="11" size="6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | status | &quot;Retired&quot;@en</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | status | &quot;Retired&quot;</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born on October 17th 1933 in British Hong Kong. He joined NASA in 1963 where he worked as a fighter pilot before he retired.</lex>
+      <lex comment="" lid="Id1" lang="hi">विलियम एंडर्स का जन्म 17 अक्टूबर, 1933 को ब्रिटिश हांगकांग में हुआ था। वह 1963 में नासा में शामिल हुए जहां उन्होंने सेवानिवृत्त होने से पहले एक लड़ाकू पायलट के रूप में काम किया।</lex>
+    </entry>
+  </entries>
+</benchmark>
