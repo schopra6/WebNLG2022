@@ -1,22 +1,32 @@
-import wikipediaapi
+import os
+
+import nltk
 from bs4 import BeautifulSoup
 
+import wikipediaapi
 from benchmark_reader import Benchmark
 from benchmark_reader import select_files
 
 
-def find_in_page(pageName,research):
-    soup = BeautifulSoup(open(pageName, "r"), "html.parser")
-    for x in soup.text.splitlines():
-        if research in x:
-            print(x)
-            if o in x:
-                print("double !")
+def find_in_page(pageName, s_alias, o_alias, language):
+    if os.path.exists(pageName):
+        sentence = []
+        soup = BeautifulSoup(open(pageName, "r", encoding="utf8"), "html.parser")
+        p = [nltk.sent_tokenize(x.text.strip()) for x in soup.find_all("p")]  # find better splitting technique
+        p = [val for item in p for val in item]
+        for x in p:
+            for s_a in s_alias:
+                if s_a in x:
+                    temp = x.replace(s_a, " ( S ) ")
+                    for o_a in o_alias:
+                        if o_a in temp:
+                            temp = temp.replace(o_a, " ( O ) ")
+                            sentence.append(x)
+                            break
+        return set(sentence)
+    return []
 
 
-wiki = wikipediaapi.Wikipedia(
-    language='en',
-)
 # where to find the corpus
 path_to_corpus = 'corpus/ru/train/'
 base = "wk/"
@@ -29,28 +39,41 @@ files = select_files(path_to_corpus)
 # load files to Benchmark
 b.fill_benchmark(files)
 
-languages = ["en", "fr", "hi", "ru", "pt", "br"]
+languages = ["fr", "hi", "ru", "pt", "br"]
+
+
+def extract_info_from_pages(s_lang, o_lang, language):
+    s_al = s_lang.alias
+    s_al.extend(s_lang.label)
+    o_al = o_lang.alias
+    o_al.extend(o_lang.label)
+    sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, o_al, language)
+    for item in find_in_page(base + language + "/" + o_name + ".html", o_al, s_al, language):
+        sentence.add(item)
+    langaugesSentence[language] = sentence
+
 
 for entry in b.entries:
     print("Properties: ", entry.relations())
     print("RDF triples: ", entry.list_triples())
     print("Subject:", entry.modifiedtripleset.triples[0].s)
     print("Predicate:", entry.modifiedtripleset.triples[0].p)
-    print("Object:", entry.modifiedtripleset.triples[0].o)
+    print("Object:", entry.modifiedtripleset.triples[0].o.replace("\"", ""))
     s = entry.modifiedtripleset.triples[0].s
     p = entry.modifiedtripleset.triples[0].p
-    o = entry.modifiedtripleset.triples[0].o
-    page = wiki.page(s)
-    if page.exists():
-        s_name = page.title
-        print(page)
-        print(page.title)
-        page = wiki.page(o)
-        if page.exists():
-            o_name = page.title
+    o = entry.modifiedtripleset.triples[0].o.replace("\"", "")
+    langaugesSentence = dict()
+    wiki = wikipediaapi.Wikipedia(language="en")
+    s_page = wiki.page(s)
+    if s_page.exists():
+        s_name = s_page.title
+        o_page = wiki.page(o)
+        if o_page.exists():
+            o_name = o_page.title
+        extract_info_from_pages(s_page, o_page, 'en')
         for x in languages:
-            find_in_page(base + x + "/" + s_name + ".html",s_name)
-            break
-        # soup = BeautifulSoup(open(base + x + "/" + o_name + ".html", "r"))
-
-    break
+            if x in s_page.langlinks:
+                s_lang = s_page.langlinks[x]
+                o_lang = o_page.langlinks[x]
+                extract_info_from_pages(s_lang, o_lang, x)
+    print(langaugesSentence)
