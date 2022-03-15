@@ -7,11 +7,15 @@ import copy
 
 
 class Triple:
-
-    def __init__(self, s, p, o):
+    ### [R] Internal change start
+    def __init__(self, s, p, o, s_code=None, p_code=None, o_code=None):
+        ### [R] Internal change end
         self.s = s
         self.o = o
         self.p = p
+        self.s_code = s_code
+        self.o_code = o_code
+        self.p_code = p_code
 
     def flat_triple(self):
         return self.s + ' | ' + self.p + ' | ' + self.o
@@ -26,7 +30,17 @@ class Tripleset:
     def fill_tripleset(self, t):
         for xml_triple in t:
             s, p, o = xml_triple.text.split(' | ')
-            triple = Triple(s, p, o)
+
+            ### [R] Internal change start
+            s_code, p_code, o_code = None, None, None
+            code = xml_triple.getchildren()
+            if code:
+                assert len(code) == 1
+                code = code[0]
+                if '|' in code.text:
+                    s_code, p_code, o_code = code.text.split(' | ')
+            triple = Triple(s, p, o, s_code, p_code, o_code)
+            ### [R] Internal change end
             self.triples.append(triple)
 
 
@@ -58,7 +72,7 @@ class Entry:
 
     def fill_originaltriple(self, xml_t):
         otripleset = Tripleset()
-        self.originaltripleset.append(otripleset)   # multiple originaltriplesets for one entry
+        self.originaltripleset.append(otripleset)  # multiple originaltriplesets for one entry
         otripleset.fill_tripleset(xml_t)
 
     def fill_modifiedtriple(self, xml_t):
@@ -325,7 +339,12 @@ class Benchmark:
                 orig_triplesets['originaltripleset'].append(orig_tripleset)
 
             for triple in entry.modifiedtripleset.triples:
-                modif_tripleset.append({'subject': triple.s, 'property': triple.p, 'object': triple.o})
+                modif_tripleset.append({'subject': triple.s, 'property': triple.p, 'object': triple.o,
+                                        ### [R] Internal change start
+                                        'subject_code': triple.s_code, 'property_code': triple.p_code,
+                                        'object_code': triple.o_code
+                                        ### [R] Internal change end
+                                        })
 
             for lex in entry.lexs:
                 lexs.append({'comment': lex.comment, 'xml_id': lex.id, 'lex': lex.lex, 'lang': lex.lang})
@@ -367,8 +386,13 @@ class Benchmark:
                     otriple_xml.text = triple.s + ' | ' + triple.p + ' | ' + triple.o
             mtripleset_xml = Et.SubElement(entry_xml, 'modifiedtripleset')
             for mtriple in entry.modifiedtripleset.triples:
+                ### [R] Internal change start
+                # to add the triple as wikidata entity/property codes
                 mtriple_xml = Et.SubElement(mtripleset_xml, 'mtriple')
                 mtriple_xml.text = mtriple.s + ' | ' + mtriple.p + ' | ' + mtriple.o
+                mtriple_code_xml = Et.SubElement(mtriple_xml, 'mtriple_code')
+                mtriple_code_xml.text = mtriple.s_code + ' | ' + mtriple.p_code + ' | ' + mtriple.o_code
+                ### [R] Internal change end
             for lex in entry.lexs:
                 lex_xml = Et.SubElement(entry_xml, 'lex', attrib={'comment': lex.comment, 'lid': lex.id,
                                                                   'lang': lex.lang})
@@ -397,9 +421,10 @@ class Benchmark:
 
 
 def select_files(topdir, category='', size=(1, 8)):
-    finaldirs = [topdir+'/'+str(item)+'triples' for item in range(size[0], size[1])]
+    finaldirs = [topdir + '/' + str(item) + 'triples' for item in range(size[0], size[1])]
 
     finalfiles = []
     for item in finaldirs:
-        finalfiles += [(item, filename) for filename in sorted(listdir(item)) if category in filename and '.xml' in filename]
+        finalfiles += [(item, filename) for filename in sorted(listdir(item)) if
+                       category in filename and '.xml' in filename]
     return finalfiles

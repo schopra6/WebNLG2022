@@ -32,12 +32,8 @@ path_to_corpus = 'corpus/ru/train/'
 base = "wk/"
 # initialise Benchmark object
 b = Benchmark()
-
-# collect xml files
-files = select_files(path_to_corpus)
-
-# load files to Benchmark
-b.fill_benchmark(files)
+for split in ['train', 'dev', 'test']:
+    b.fill_benchmark([('xml', f'webnlg_release_v2.1_{split}_wkdt.xml')])
 
 languages = ["fr", "hi", "ru", "pt", "br"]
 
