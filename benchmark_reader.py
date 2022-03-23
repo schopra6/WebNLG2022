@@ -10,9 +10,9 @@ class Triple:
     ### [R] Internal change start
     def __init__(self, s, p, o, s_code=None, p_code=None, o_code=None):
         ### [R] Internal change end
-        self.s = s
-        self.o = o
-        self.p = p
+        self.s = s.strip()
+        self.o = o.strip()
+        self.p = p.strip()
         self.s_code = s_code
         self.o_code = o_code
         self.p_code = p_code
