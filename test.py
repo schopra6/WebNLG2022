@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 import wikipediaapi
 from benchmark_reader import Benchmark
-from benchmark_reader import select_files
+from units_reader import UnitReader
 
 
 def find_in_page(pageName, s_alias, o_alias, language):
@@ -29,16 +29,36 @@ def find_in_page(pageName, s_alias, o_alias, language):
 
 # where to find the corpus
 path_to_corpus = 'corpus/ru/train/'
+path_to_units = "corpus/units/"
 base = "wk/"
+
+# initialise Units object
+units = UnitReader()
+units.read(path_to_units)
+
 # initialise Benchmark object
 b = Benchmark()
 for split in ['train', 'dev', 'test']:
-    b.fill_benchmark([('xml', f'webnlg_release_v2.1_{split}_wkdt.xml')])
+    b.fill_benchmark([('corpus/xml', f'webnlg_release_v2.1_{split}_wkdt.xml')])
 
 languages = ["fr", "hi", "ru", "pt", "br"]
 
 
+def process_length(text, lang):
+    return units.getUnit("meters", lang)
+
+
+def extract_info_from_page(page, alias, language):
+    s_name = page.title
+    s_al = page.alias
+    s_al.extend(page.label)
+    sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, alias, language)
+    langaugesSentence[language] = sentence
+
+
 def extract_info_from_pages(s_lang, o_lang, language):
+    o_name = o_lang.title
+    s_name = s_lang.title
     s_al = s_lang.alias
     s_al.extend(s_lang.label)
     o_al = o_lang.alias
@@ -49,27 +69,41 @@ def extract_info_from_pages(s_lang, o_lang, language):
     langaugesSentence[language] = sentence
 
 
+wiki = wikipediaapi.Wikipedia(language="en")
 for entry in b.entries:
-    print("Properties: ", entry.relations())
+    # print("Properties: ", entry.relations())
     print("RDF triples: ", entry.list_triples())
-    print("Subject:", entry.modifiedtripleset.triples[0].s)
-    print("Predicate:", entry.modifiedtripleset.triples[0].p)
-    print("Object:", entry.modifiedtripleset.triples[0].o.replace("\"", ""))
+    # print("Subject:", entry.modifiedtripleset.triples[0].s)
+    # print("Predicate:", entry.modifiedtripleset.triples[0].p)
+    # print("Object:", entry.modifiedtripleset.triples[0].o.replace("\"", ""))
     s = entry.modifiedtripleset.triples[0].s
     p = entry.modifiedtripleset.triples[0].p
     o = entry.modifiedtripleset.triples[0].o.replace("\"", "")
     langaugesSentence = dict()
-    wiki = wikipediaapi.Wikipedia(language="en")
     s_page = wiki.page(s)
-    if s_page.exists():
-        s_name = s_page.title
-        o_page = wiki.page(o)
-        if o_page.exists():
-            o_name = o_page.title
-        extract_info_from_pages(s_page, o_page, 'en')
+    if not s_page.exists():
+        print(s_page)
+    if any(map(p.lower().__contains__, ['elevation above sea level', 'length'])):
+        extract_info_from_page(s_page, process_length(o, "en"), "en")
         for x in languages:
             if x in s_page.langlinks:
                 s_lang = s_page.langlinks[x]
-                o_lang = o_page.langlinks[x]
-                extract_info_from_pages(s_lang, o_lang, x)
+                extract_info_from_page(s_lang, process_length(o, x), x)
+    else:
+        o_page = wiki.page(o)
+        if not o_page.exists():
+            for x in languages:
+                if x in s_page.langlinks:
+                    s_lang = s_page.langlinks[x]
+                    extract_info_from_page(s_lang, [o], x)
+        else:
+            extract_info_from_pages(s_page, o_page, 'en')
+            for x in languages:
+                if x in s_page.langlinks:
+                    s_lang = s_page.langlinks[x]
+                    if x in o_page.langlinks:
+                        o_lang = o_page.langlinks[x]
+                        extract_info_from_pages(s_lang, o_lang, x)
+                    else:
+                        extract_info_from_page(s_lang, o_page.alias, x)
     print(langaugesSentence)
