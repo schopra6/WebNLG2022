@@ -16,7 +16,12 @@
       "{text}mètres",
       "{text}mètre"
     ],
-    "hi": [],
+    "hi": [
+      "{text} मीटर",
+      "{text}मीटर",
+      "{text}m",
+      "{text} m"
+    ],
     "ru": [
       "{text} метра",
       "{text}m",
@@ -42,6 +47,20 @@
       "{text} mètre",
       "{text}metr",
       "{text}mètre"
+    ],
+    "de": [
+      "{text}m",
+      "{text} m",
+      "{text}Meter",
+      "{text} Meter",
+      "{text}Meter lang",
+      "{text} Meter lang",
+      "{text}meter lang",
+      "{text} meter lang",
+      "{text}Meter groß",
+      "{text} Meter groß",
+      "{text}meter groß",
+      "{text} meter groß"
     ]
   }
 }
