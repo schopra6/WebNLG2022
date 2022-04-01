@@ -10,12 +10,11 @@ __version__ = (0, 5, 4)
 
 import logging
 import re
+import requests
 from enum import IntEnum
 from typing import Dict, Any, List, Optional
 from typing import Union
 from urllib import parse
-
-import requests
 
 log = logging.getLogger(__name__)
 """
@@ -810,10 +809,7 @@ class Wikipedia(object):
     ) -> PagesDict:
 
         self._common_attributes(extract, page)
-        tempOb = extract.get('terms', [])
-
-        page._pageterms = {'alias': tempOb.get("alias", []), 'label': tempOb.get("label", []),
-                           'description': tempOb.get("description", [])}
+        page._pageterms = extract.get('terms', [])
         return page._pageterms
 
     def _common_attributes(
@@ -980,7 +976,7 @@ class WikipediaPage(object):
         self._backlinks = {}  # type: PagesDict
         self._categories = {}  # type: PagesDict
         self._categorymembers = {}  # type: PagesDict
-        self._pageterms = {'alias': [], 'label': [], 'description': []}  # type : PagesDict
+        self._pageterms = {}  # type : PagesDict
 
         self._called = {
             'extracts': False,
@@ -1206,7 +1202,7 @@ class WikipediaPage(object):
         """
         if not self._called['pageterms']:
             self._fetch('pageterms')
-        return self._pageterms['alias']
+        return self._pageterms.get('alias', [])
 
     @property
     def label(self) -> List[str]:
@@ -1217,7 +1213,7 @@ class WikipediaPage(object):
         """
         if not self._called['pageterms']:
             self._fetch('pageterms')
-        return self._pageterms['label']
+        return self._pageterms.get('label', [])
 
     @property
     def desc(self) -> List[str]:
@@ -1228,7 +1224,7 @@ class WikipediaPage(object):
         """
         if not self._called['pageterms']:
             self._fetch('pageterms')
-        return self._pageterms['description']
+        return self._pageterms.get('description', [])
 
     def _fetch(self, call) -> 'WikipediaPage':
         getattr(self.wiki, call)(self)
