@@ -3,12 +3,13 @@ import os
 import wikipediaapi
 from benchmark_reader import Benchmark
 
-metrics = dict()
+metrics = {'en':0}
 
 
 def get_all_pages(pageName):
     page = wiki_html.page(pageName)
     if page.exists():
+        metrics["en"] += 1
         file = open(base_path + page.title + ".html", "w", encoding="utf-8")
         file.write(page.text)
         file.close()
@@ -17,7 +18,8 @@ def get_all_pages(pageName):
             lpage = page.langlinks[link]
             if lpage.language in language:
                 metrics[lpage.language] += 1
-                file = open(base + lpage.language + "/" + page.title + ".html", "w", encoding="utf-8")
+                print(lpage.title)
+                file = open(base + lpage.language + "/" + lpage.title + ".html", "w", encoding="utf-8")
                 file.write(lpage.text)
                 file.close()
 
@@ -27,7 +29,7 @@ if __name__ == '__main__':
     base_path = "wk/en/"
     base = "wk/"
 
-    language = ["fr", "hi", "ru", "pt", "br"]
+    language = ["fr", "hi", "ru", "pt", "br", "de"]
     wiki_html = wikipediaapi.Wikipedia(
         language='en',
         extract_format=wikipediaapi.ExtractFormat.HTML
@@ -53,7 +55,9 @@ if __name__ == '__main__':
         for entry in b.entries:
             for x in entry.modifiedtripleset.triples:
                 get_all_pages(x.o)
-    except KeyboardInterrupt:
+                get_all_pages(x.s)
+    except BaseException as e :
+        print(e)
         print(metrics)
 
     print(metrics)
