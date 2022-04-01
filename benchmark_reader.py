@@ -1,9 +1,9 @@
+import copy
+import json
 import xml.etree.ElementTree as Et
 from collections import defaultdict
 from os import listdir
-import json
 from xml.dom import minidom
-import copy
 
 
 class Triple:
@@ -105,6 +105,9 @@ class Entry:
 
     def count_lexs(self):
         return len(self.lexs)
+
+    def add_lex(self, txt, id, lang, src="KELM"):
+        self.lexs.append(Lexicalisation(txt, id, src, lang))
 
     def flat_tripleset(self):
         """
