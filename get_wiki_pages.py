@@ -3,7 +3,17 @@ import os
 import wikipediaapi
 from benchmark_reader import Benchmark
 
-metrics = {'en':0}
+base_url = "https://wikipedia.com/wiki/"
+base_path = "wk/en/"
+base = "wk/"
+metrics = {'en': 0}
+language = ["fr", "hi", "ru", "pt", "br", "de"]
+wiki_html = wikipediaapi.Wikipedia(
+    language='en',
+    extract_format=wikipediaapi.ExtractFormat.HTML
+)
+for x in language:
+    metrics.update({x: 0})
 
 
 def get_all_pages(pageName):
@@ -25,18 +35,6 @@ def get_all_pages(pageName):
 
 
 if __name__ == '__main__':
-    base_url = "https://wikipedia.com/wiki/"
-    base_path = "wk/en/"
-    base = "wk/"
-
-    language = ["fr", "hi", "ru", "pt", "br", "de"]
-    wiki_html = wikipediaapi.Wikipedia(
-        language='en',
-        extract_format=wikipediaapi.ExtractFormat.HTML
-    )
-
-    for x in language:
-        metrics.update({x: 0})
 
     if not os.path.exists(base):
         os.makedirs(base_path)
@@ -56,7 +54,7 @@ if __name__ == '__main__':
             for x in entry.modifiedtripleset.triples:
                 get_all_pages(x.o)
                 get_all_pages(x.s)
-    except BaseException as e :
+    except BaseException as e:
         print(e)
         print(metrics)
 

@@ -3,6 +3,7 @@ import os
 import nltk
 from bs4 import BeautifulSoup
 
+import get_wiki_pages
 import wikipediaapi
 from benchmark_reader import Benchmark
 from units_reader import UnitReader
@@ -15,7 +16,7 @@ base = "wk/"
 id = "KELM"
 
 
-def find_in_page(pageName, s_alias, o_alias, language):
+def find_in_page(pageName, s_alias, o_alias, language, engName, retry=True):
     if os.path.exists(pageName):
         sentence = []
         soup = BeautifulSoup(open(pageName, "r", encoding="utf8"), "html.parser")
@@ -34,6 +35,9 @@ def find_in_page(pageName, s_alias, o_alias, language):
         return set(sentence)
     else:
         print(pageName)
+        if retry:
+            get_wiki_pages.get_all_pages(engName)
+            return find_in_page(pageName, s_alias, o_alias, language, engName, retry=False)
     return []
 
 
@@ -42,24 +46,24 @@ def process_length(text, lang):
     return sum([[x.replace("{text}", y) for y in [str(txt), text]] for x in units.get_unit("meters", lang)], [])
 
 
-def extract_info_from_page(page, alias, language):
+def extract_info_from_page(page, alias, language, engName):
     s_name = page.title
     s_al = page.alias
     s_al.extend(page.label)
     s_al.append(s_name)
-    sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, alias, language)
+    sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, alias, language, engName)
     langaugesSentence[language] = sentence
 
 
-def extract_info_from_pages(s_lang, o_lang, language):
+def extract_info_from_pages(s_lang, o_lang, language, eng_name_subj, eng_name_obj):
     o_name = o_lang.title
     s_name = s_lang.title
     s_al = s_lang.alias
     s_al.extend(s_lang.label)
     o_al = o_lang.alias
     o_al.extend(o_lang.label)
-    sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, o_al, language)
-    for item in find_in_page(base + language + "/" + o_name + ".html", o_al, s_al, language):
+    sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, o_al, language, eng_name_subj)
+    for item in find_in_page(base + language + "/" + o_name + ".html", o_al, s_al, language, eng_name_obj):
         sentence.add(item)
     langaugesSentence[language] = sentence
 
@@ -95,28 +99,28 @@ if __name__ == '__main__':
             if not s_page.exists():
                 print(s_page)
             if any(map(p.lower().__contains__, ['elevation above sea level', 'length'])):
-                extract_info_from_page(s_page, process_length(o, "en"), "en")
+                extract_info_from_page(s_page, process_length(o, "en"), "en", s)
                 for x in languages:
                     if x in s_page.langlinks:
                         s_lang = s_page.langlinks[x]
-                        extract_info_from_page(s_lang, process_length(o, x), x)
+                        extract_info_from_page(s_lang, process_length(o, x), x, s)
             else:
                 o_page = wiki.page(o)
                 if not o_page.exists():
                     for x in languages:
                         if x in s_page.langlinks:
                             s_lang = s_page.langlinks[x]
-                            extract_info_from_page(s_lang, [o], x)
+                            extract_info_from_page(s_lang, [o], x, s)
                 else:
-                    extract_info_from_pages(s_page, o_page, 'en')
+                    extract_info_from_pages(s_page, o_page, 'en', s, o)
                     for x in languages:
                         if x in s_page.langlinks:
                             s_lang = s_page.langlinks[x]
                             if x in o_page.langlinks:
                                 o_lang = o_page.langlinks[x]
-                                extract_info_from_pages(s_lang, o_lang, x)
+                                extract_info_from_pages(s_lang, o_lang, x, s, o)
                             else:
-                                extract_info_from_page(s_lang, o_page.alias, x)
+                                extract_info_from_page(s_lang, o_page.alias, x, s)
             print(langaugesSentence)
             c = 0
             for la in langaugesSentence:
