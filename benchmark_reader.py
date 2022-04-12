@@ -55,6 +55,12 @@ class Lexicalisation:
     def chars_length(self):
         return len(self.lex)
 
+    def __str__(self):
+        return f"<id=\"{self.id}\" lang=\"{self.lang}\" comment=\"{self.comment}\">{self.lex}</>"
+
+    def __repr__(self):
+        return self.__str__()
+
 
 class Entry:
 
