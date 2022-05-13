@@ -1,3 +1,4 @@
+import datetime
 import os
 
 import nltk
@@ -44,6 +45,38 @@ def find_in_page(pageName, s_alias, o_alias, language, engName, retry=True):
 def process_length(text, lang):
     txt = int(float(text))
     return sum([[x.replace("{text}", y) for y in [str(txt), text]] for x in units.get_unit("meters", lang)], [])
+
+
+def process_date(text, lang):
+    en = units.get_unit("date", "en")
+    la = units.get_unit("date", lang)
+    if len(text.split("-")) == 3:
+        date_normal = datetime.datetime.strptime(text, "%Y-%m-%d")
+        date_us = datetime.datetime.strptime(text, "%Y-%d-%m")
+    elif len(text) == 4:
+        date_us = datetime.datetime.strptime(text, "%Y")
+        date_normal = date_us
+    elif ',' in text:
+        date_us = datetime.datetime.strptime(text, "%B, %Y")
+        date_normal = date_us
+    else:
+        date_us = datetime.datetime.strptime(text, "%d %B %Y")
+        date_normal = datetime.datetime.strptime(text, "%B %d %Y")
+    pat = ["%d %B %Y", "%B %d %Y", "%Y-%m-%d", "%A %d %B %Y", "%D", "%Y"]
+    datus = [date_us.strftime(x) for x in pat]
+    datno = [date_normal.strftime(x) for x in pat]
+    dat_tr = []
+    for x in datus:
+        tr = x.replace(date_us.strftime('%B'), la[1]['months'][date_us.month - 1])
+        tr = tr.replace(date_us.strftime("%A"), la[0]['days'][date_us.weekday()])
+        dat_tr.append(tr)
+
+    for x in datno:
+        tr = x.replace(date_normal.strftime('%B'), la[1]['months'][date_normal.month - 1])
+        tr = tr.replace(date_normal.strftime("%A"), la[0]['days'][date_normal.weekday()])
+        dat_tr.append(tr)
+
+    return dat_tr
 
 
 def extract_info_from_page(page, alias, language, engName):
@@ -104,6 +137,12 @@ if __name__ == '__main__':
                     if x in s_page.langlinks:
                         s_lang = s_page.langlinks[x]
                         extract_info_from_page(s_lang, process_length(o, x), x, s)
+            elif "date" in p.lower() or "established" in p.lower() or "inception" in p.lower():
+                extract_info_from_page(s_page, process_date(o, "en"), "en", s)
+                for x in languages:
+                    if x in s_page.langlinks:
+                        s_lang = s_page.langlinks[x]
+                        extract_info_from_page(s_lang, process_date(o, x), x, s)
             else:
                 o_page = wiki.page(o)
                 if not o_page.exists():
