@@ -1,0 +1,347 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault's ground is St. Vincent-St. Mary High School in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain d'Akron Summit Assault est l &quot;école secondaire St. Vincent-St. Mary aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent-St Mary High School is the ground of Akron Summit Assault and is located in United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">St Vincent-St Mary High School est le terrain de Akron Summit Assault et est situé aux États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent-St.Mary High School in the United States is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'école secondaire St. Vincent-St.Mary aux États-Unis est à l'origine de l'attentat contre le sommet d'Akron.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St Vincent-St Mary High School in Ohio is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'école secondaire St Vincent-St Mary en Ohio est le terrain de l'assaut d'Akron Summit.</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent-St Mary High School, located in the state of Ohio, is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'école secondaire St Vincent-St Mary, située dans l'État de l'Ohio, est le terrain de l'assaut d'Akron Summit.</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent–St. Mary High School, in the state of Ohio, is the ground of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'école secondaire St. Vincent, dans l'État de l'Ohio, est à l'origine de l'attaque d'Akron Summit.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Premier Development League has K-W United F.C., (who have been champions) and Akron Summit among its competing teams.</lex>
+      <lex comment="" lid="Id1" lang="fr">La Premier Development League compte parmi ses équipes concurrentes K-W United F.C. (qui a été championne) et Akron Summit.</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault play in the Premier Development League, which K-W United FC were once the champions of.</lex>
+      <lex comment="" lid="Id2" lang="fr">Akron Summit Assault joue dans la première ligue de développement, dont le K-W United FC a déjà été le champion.</lex>
+      <lex comment="" lid="Id3" lang="en">In the Premier Development League, Akron Summit Assault play and the champions are K-W United FC.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dans la Première Ligue de développement, Akron Summit Assault joue et les champions sont K-W United FC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+        <otriple>Akron_Summit_Assault | manager | &quot;Denzil Antonio&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Denzil Antonio is the manager of Akron Summit Assault which has 3000 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">Denzil Antonio est le directeur d'Akron Summit Assault qui compte 3000 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">Denzil Antonio was the manager of Akron Summit Assault, it has 3000 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">Denzil Antonio était le directeur d'Akron Summit Assault, il a 3000 membres.</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault, which has got 3000 members, was managed by Denzil Antonio.</lex>
+      <lex comment="" lid="Id3" lang="fr">Akron Summit Assault, qui compte 3000 membres, a été dirigé par Denzil Antonio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+        <otriple>Akron_Summit_Assault | season | 2011_PDL_season</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+        <mtriple>Akron_Summit_Assault | season | 2011_PDL_season</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of Akron Summit Assault, who play in the 2011 PDL season, is Denzil Antonio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gérant d'Akron Summit Assault, qui joue dans la saison 2011 PDL, est Denzil Antonio.</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault, (managed by Denzil Antonio), played in the 2011 PDL season.</lex>
+      <lex comment="" lid="Id2" lang="fr">Akron Summit Assault, (géré par Denzil Antonio), a joué dans la saison 2011 PDL.</lex>
+      <lex comment="" lid="Id3" lang="en">Denzil Antonio was the manager of Akron Summit Assault and they participated in the 2011 PDL season.</lex>
+      <lex comment="" lid="Id3" lang="fr">Denzil Antonio était le directeur d'Akron Summit Assault et ils ont participé à la saison 2011 PDL.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | 3000</otriple>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+        <otriple>Akron_Summit_Assault | capacity | &quot;3000&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+        <mtriple>Akron_Summit_Assault | season | 2011</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault has got 3000 members and are in season 2011.</lex>
+      <lex comment="" lid="Id1" lang="fr">Akron Summit Assault compte 3000 membres et est en saison 2011.</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault has got 3000 members, he played in the 2011 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">Akron Summit Assault compte 3000 membres, il a joué dans la saison 2011.</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault, has 3000 members, and was in the 2011 season.</lex>
+      <lex comment="" lid="Id3" lang="fr">Akron Summit Assault, compte 3000 membres, et était dans la saison 2011.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, dont la capitale est Rome.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located near Rome, capital of Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé près de Rome, capitale de l'Italie.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, which has Rome as its capital.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, dont Rome est la capitale.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Italians inhabit Italy where the ground of A.S. Gubbio 1910 is located.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Italiens habitent l'Italie où se trouve le terrain d'A.S. Gubbio 1910.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the people who live there are called Italians.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, où les gens qui y vivent sont appelés Italiens.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where Italians live.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, où vivent des Italiens.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where Sergio Mattarella is the leader.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie où Sergio Mattarella est le leader.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the leader is Sergio Mattarella.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, où le chef est Sergio Mattarella.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, which has the leader Sergio Mattarella.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, qui a le chef Sergio Mattarella.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where the official language is Italian.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, où la langue officielle est l'italien.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where unsurprisingly they speak Italian.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, où, sans surprise, ils parlent italien.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where the official language is Italian.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie où la langue officielle est l'italien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti, who manages A.S. Roma, played for Udinese Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Luciano Spalletti, qui dirige A.S. Roma, a joué pour Udinese Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti plays for Udinese Calcio and manages AS Roma.</lex>
+      <lex comment="" lid="Id2" lang="fr">Luciano Spalletti joue pour Udinese Calcio et gère AS Roma.</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti manages A S Roma and plays for Udinese Calcio.</lex>
+      <lex comment="" lid="Id3" lang="fr">Luciano Spalletti dirige A S Roma et joue pour Udinese Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago joue pour U.S Castrovillari Calcio et gère A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago, who manages A.C. Cesena, was once a player for US Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago, qui dirige A.C. Cesena, a déjà joué pour US Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago plays for U.S Castrovillari Calcio and has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id3" lang="fr">Massimo Drago joue pour U.S. Castrovillari Calcio et a été le gérant de A C Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago is attached to the club Vigor Lamezia and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago est attaché au club Vigor Lamezia et dirige A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago is attached to the club Vigor Lamezia and he has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago est attaché au club Vigor Lamezia et il a été directeur de A C Cesena.</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago is attached to the club Vigor Lamezia and has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id3" lang="fr">Massimo Drago est attaché au club Vigor Lamezia et a été directeur de A C Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>National_League_North | champions | Barrow_A.F.C.</otriple>
+        <otriple>A.F.C._Fylde | league | National_League_North</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>National_League_North | champions | Barrow_A.F.C.</mtriple>
+        <mtriple>A.F.C._Fylde | league | National_League_North</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Barrow A.F.C. team won the championship before in the National League North, obviously they are in that league.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'équipe des A.F.C. de Barrow a remporté le championnat auparavant dans la Ligue nationale du Nord, de toute évidence ils font partie de cette ligue.</lex>
+      <lex comment="" lid="Id2" lang="en">Barrow A.F.C. are the National League North Champions and A.F.C. Fylde play in the same league.</lex>
+      <lex comment="" lid="Id2" lang="fr">Barrow A.F.C. sont les champions du Nord de la Ligue nationale et A.F.C. Fylde jouent dans la même ligue.</lex>
+      <lex comment="" lid="Id3" lang="en">Fylde played in the National League North league of which Barrow AFC are the champions.</lex>
+      <lex comment="" lid="Id3" lang="fr">Fylde a joué dans la Ligue nationale du Nord dont Barrow AFC sont les champions.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium, located in Athens, is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le stade olympique, situé à Athènes, est le siège de l'AEK Athens FC.</lex>
+      <lex comment="" lid="Id2" lang="en">The Olympic Stadium in Athens is where the AEK Athens football club play.</lex>
+      <lex comment="" lid="Id2" lang="fr">C'est au stade olympique d'Athènes que joue le club de football de l'AEK Athènes.</lex>
+      <lex comment="" lid="Id3" lang="en">The Olympic Stadium, in Athens, is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le stade olympique d'Athènes est le siège de l'AEK Athens FC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Marousi</otriple>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Marousi</mtriple>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium (Athens) is located in Marousi and is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le stade olympique (Athènes) est situé à Marousi et est le siège de l'AEK Athens FC.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground for AEK Athens FC is the Olympic Stadium (Athens) located in Marousi.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de l'AEK Athens FC est le Stade Olympique (Athènes) situé à Marousi.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground for AEK Athens FC is the Olympic Stadium (Athens) in Marousi.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de l'AEK Athens FC est le Stade Olympique (Athènes) à Marousi.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger's club is the FC Admira Wacker Mödling and he is the manager of 1. FC Koln.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le club de Peter Stöger est le FC Admira Wacker Mödling et il est le gérant du 1. FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is the manager of FC Kolin and his club is FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stoger est le directeur du FC Kolin et son club est le FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id3" lang="en">The manager of 1.FC Koln is Peter Stoger, who's club is FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le gérant de 1.FC Koln est Peter Stoger, qui est le club de FC Admira Wacker Modling.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger plays for SK Rapid Wien and is the manager of 1. FC Koln.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stoger joue pour SK Rapid Wien et est le gérant de 1. FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="en">The manager of 1. FC Koln isPeter Stöger, who plays for SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le gérant de 1. FC Koln est Peter Stöger, qui joue pour SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger, the manager of 1. FC Köln, plays for SK Rapid Wien.</lex>
+      <lex comment="" lid="Id3" lang="fr">Peter Stöger, gérant de 1.FC Köln, joue pour SK Rapid Wien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger, manager of 1.FC Koln, is also in the SK Vorwarts Steyr club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stoger, directeur de 1.FC Koln, est également dans le club SK Vorwarts Steyr.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger is in the SK Vorwarts Steyr club and is the manager of 1. FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stoger fait partie du club SK Vorwarts Steyr et est le gérant du 1. FC Koln.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Chievo Verona play in Serie A where Juventus FC have been champions .</lex>
+      <lex comment="" lid="Id1" lang="fr">A.C. Chievo Verona jouer en Serie A où Juventus FC ont été champions.</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus F.C. are former champions of Serie A, and A.C. Chievo Verona are also in the same competition.</lex>
+      <lex comment="" lid="Id2" lang="fr">Juventus F.C. sont d'anciens champions de la Serie A, et A.C. Chievo Verona sont également dans la même compétition.</lex>
+      <lex comment="" lid="Id3" lang="en">AC Chievo Verona play in the Serie A league in which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id3" lang="fr">AC Chievo Verona jouer dans la Serie Une ligue dans laquelle Juventus FC ont été champions.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma play in the Serie A league where the champions are Juventus FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Roma joue dans la Serie Une ligue où les champions sont Juventus FC.</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus FC have been Serie A champions and AS Roma play in the same league.</lex>
+      <lex comment="" lid="Id2" lang="fr">Juventus FC ont été champions de Serie A et AS Roma jouent dans la même ligue.</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus F.C. are former champions of Serie A, A.S. Roma also play in the same competition.</lex>
+      <lex comment="" lid="Id3" lang="fr">Juventus F.C. sont d'anciens champions de la Serie A, A.S. Roma jouent également dans la même compétition.</lex>
+    </entry>
+  </entries>
+</benchmark>

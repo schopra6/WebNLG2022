@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Larry Bolatinsky is the alternative name for the comic book character Bolt, which was created by Ernie Colon and the American Paris Cullins.</lex>
+      <lex comment="" lid="Id1" lang="fr">Larry Bolatinsky est le nom alternatif du personnage de bande dessinée Bolt, créé par Ernie Colon et les Cullins américains de Paris.</lex>
+      <lex comment="" lid="Id2" lang="en">Ernie Colon and the US national Paris Cullins created the comic character of Bolt, who has the alternative name of Larry Bolatinsky.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ernie Colon et le national américain Paris Cullins créent le personnage comique de Bolt, qui porte le nom alternatif de Larry Bolatinsky.</lex>
+      <lex comment="" lid="Id3" lang="en">Ernie Colón and the American Paris Cullins were among the creators of the comic book character Bolt, also known as Larry Bolatinsky.</lex>
+      <lex comment="" lid="Id3" lang="fr">Ernie Colón et les Cullins américains de Paris ont été parmi les créateurs du personnage de bande dessinée Bolt, également connu sous le nom de Larry Bolatinsky.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+        <otriple>Asterix_(character) | creators | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+        <otriple>René_Goscinny | nationality | French_people</otriple>
+        <otriple>Asterix_(character) | alterEgo | &quot;Astérix&quot;@en</otriple>
+        <otriple>Asterix_(character) | creator | Albert_Uderzo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>René_Goscinny | nationality | French_people</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | alternativeName | &quot;Astérix&quot;</mtriple>
+        <mtriple>Asterix_(comicsCharacter) | creator | Albert_Uderzo</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character Asterix is sometimes called &quot;Astérix&quot; and was created by Albert Uderzo and the French national, Rene Goscinny.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le personnage de bande dessinée Asterix est parfois appelé &quot;Astérix&quot; et a été créé par Albert Uderzo et le Français René Goscinny.</lex>
+      <lex comment="" lid="Id2" lang="en">Albert Uderzo and French born René Goscinny, are the creators of the comic character Asterix, also know as Astérix.</lex>
+      <lex comment="" lid="Id2" lang="fr">Albert Uderzo et René Goscinny, né en France, sont les créateurs du personnage de bande dessinée Astérix.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+        <otriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+        <mtriple>Ben_Urich | fullName | &quot;Benjamin Urich&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The American comic book writer Roger McKenzie and Gene Colan created the character Ben Urich, who has the full name Benjamin Urich.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dessinateur de bandes dessinées américain Roger McKenzie et Gene Colan ont créé le personnage Ben Urich, qui porte le nom complet de Benjamin Urich.</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book writer, Roger McKenzie is an American and along with Gene Colan created Ben (Benjamin) Urich.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le dessinateur de bandes dessinées Roger McKenzie est un Américain et avec Gene Colan a créé Ben (Benjamin) Urich.</lex>
+      <lex comment="" lid="Id3" lang="en">The character of Ben Urich, whose full name is Benjamin Urich, was created by Gene Colan and the comic book writer Roger Mckenzie who is American.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le personnage de Ben Urich, dont le nom complet est Benjamin Urich, a été créé par Gene Colan et le dessinateur de bande dessinée Roger Mckenzie qui est américain.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | &quot;Jon Valor&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+        <otriple>Black_Pirate | alterEgo | &quot;Jon Valor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+        <mtriple>Black_Pirate | alternativeName | &quot;Jon Valor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Black Pirate, also know as Jon Valor, was created by the Inkpot Award winning American, Sheldon Moldoff.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Pirate noir, également connu sous le nom de Jon Valor, a été créé par l'Américain Sheldon Moldoff, lauréat du prix Inkpot.</lex>
+      <lex comment="" lid="Id2" lang="en">American Sheldon Moldoff, who has won the Inkpot Award, created The Black Pirate, whose alternative name is Jon Valor.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Américain Sheldon Moldoff, qui a remporté le prix Inkpot, a créé The Black Pirate, dont le nom alternatif est Jon Valor.</lex>
+      <lex comment="" lid="Id3" lang="en">The black pirate, also known as Jon Valor, was created by Sheldon Moldoff, an American who has won the Inkpot award.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le pirate noir, également connu sous le nom de Jon Valor, a été créé par Sheldon Moldoff, un Américain qui a remporté le prix Inkpot.</lex>
+    </entry>
+  </entries>
+</benchmark>

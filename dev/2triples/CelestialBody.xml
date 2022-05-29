@@ -1,0 +1,329 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | formerName | &quot;1928 SJ&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | formerName | &quot;1928 SJ&quot;@en</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | formerName | &quot;1928 SJ&quot;</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The epoch of 1101 Clematis is on the 31st of July 2016 and its former name was &quot;1928 SJ&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'époque de 1101 Clematis est le 31 juillet 2016 et son ancien nom était &quot;1928 SJ&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The epoch of 1101 Clematis-formerly known as &quot;1928 SJ&quot; is 31 December 2006.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'époque de 1101 Clematis - anciennement connue sous le nom de &quot;1928 SJ&quot; - est le 31 décembre 2006.</lex>
+      <lex comment="" lid="Id3" lang="en">1928 SJ was the former name of 1101 Clematis, which has an epoch date of December 31st 2006.</lex>
+      <lex comment="" lid="Id3" lang="fr">1928 SJ était l'ancien nom de 1101 Clematis, dont la date d'époque était le 31 décembre 2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="2" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | Planet/mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis has a mass of 5.7 kilograms and an apoapsis of 520906000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">1101 Clematis a une masse de 5,7 kilogrammes et une apoapsis de 520906000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">At a mass of 5.7 kgs, 1101 Clematis, has an apoapsis of 520906000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="fr">D'une masse de 5,7 kg, le Clematis 1101 a une apoapsis de 520906000.0 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis, has an orbital period of 183309000.0, and an epoch date of December 31st 2006.</lex>
+      <lex comment="" lid="Id1" lang="fr">1101 Clematis, a une période orbitale de 183309000.0, et une époque du 31 décembre 2006.</lex>
+      <lex comment="" lid="Id2" lang="en">The epoch of 1101 Clematis is 31 December 2006 and it has an orbital period of 183309000.0.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'époque de 1101 Clematis est le 31 décembre 2006 et sa période orbitale est de 183309000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="4" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/averageSpeed | &quot;17.99&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | avgSpeed | &quot;17.99&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>110_Lydia | averageSpeed | &quot;64764.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+        <mtriple>110_Lydia | averageSpeed | 17.99 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has an apoapsis of 440756000.0 kilometres and travels at an average speed of 17.99 kmps.</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia a une apoapsis de 440756000.0 kilomètres et se déplace à une vitesse moyenne de 17.99 kmps.</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia travels at an average speed of 17.99 kmps and has an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="fr">110 Lydia se déplace à une vitesse moyenne de 17,99 kmps et présente une apoapsis de 4 40756000,0 (kilomètres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | temperature | &quot;168.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>110_Lydia | Planet/temperature | &quot;168.0&quot;^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+        <mtriple>110_Lydia | temperature | 168.0 (kelvins)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia, with a temperature of 168.0 kelvins, has an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia, avec une température de 168.0 kelvins, a une apoapsis de 440756000.0 (kilomètres).</lex>
+      <lex comment="" lid="Id2" lang="en">The asteroid 110 Lydia, has a temperature of 168.0 kelvins, and an apoapsis of 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'astéroïde 110 Lydia, a une température de 168.0 kelvins, et une apoapsis de 440756000.0 kilomètres.</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia has a temperature of 168 kelvins and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id3" lang="fr">110 Lydia a une température de 168 kelvins et son apoapsis est de 440756000.0 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="6" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has an escape velocity of 0.0455 km per second and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia a une vitesse de fuite de 0,0455 km / s et une apoapsis de 440756000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">The apoapsis for 110 Lydia is 440756000.0 (kilometres) and has an escape velocity of 0.0455 kilometres per second.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'apoapsis de 110 Lydia est de 440756000.0 (kilomètres) et a une vitesse d'échappement de 0.0455 kilomètres par seconde.</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia, with an escape velocity of 0.0455 km/s, has an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id3" lang="fr">110 Lydia, avec une vitesse de fuite de 0,0455 km / s, présente une apoapsis de 4,40756000,0 (kilomètres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="7" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has a mass of 5.7kg and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia a une masse de 5.7kg et une apoapsis de 440756000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia has a mass of 6.7 kilograms and an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="fr">110 Lydia a une masse de 6,7 kilogrammes et une apoapsie de 4 40756000,0 (kilomètres).</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia has a mass of 6.7 kg and an apoapsis of 440756000.0 km.</lex>
+      <lex comment="" lid="Id3" lang="fr">110 Lydia a une masse de 6,7 kg et une apoapsis de 440756000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="8" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia has a periapsis of 377016000000.0 and its epoch was on 31st December 2006.</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia a une périapsis de 377016000000.0 et son époque était le 31 Décembre 2006.</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia has an epoch date of December 31st 2006 and its periapsis is 377016000000.0.</lex>
+      <lex comment="" lid="Id2" lang="fr">110 Lydia a une époque du 31 décembre 2006 et son périapsis est 377016000000.0.</lex>
+      <lex comment="" lid="Id3" lang="en">The periapsis of 110 Lydia is 377016000000.0 and the epoch date is 31.12.2006.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le périapsis de 110 Lydia est 377016000000.0 et la date d'époque est 31.12.2006.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="9" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | rotationPeriod | &quot;39332.9&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | rotationPeriod | 39332.9</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The apoapsis for 110 Lydia is 440756000.0 (kilometres), it has a rotation period of 39332.9.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'apoapsis pour 110 Lydia est de 440756000.0 (kilomètres), il a une période de rotation de 39332.9.</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia has a rotational period of 39332.9 and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="fr">110 Lydia a une période de rotation de 39332.9 et son apoapsis est de 440756000.0 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="10" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | avgSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | averageSpeed | &quot;65844.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has an apoapsis of 475426000 km and an average speed of 18.29 km/s.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Le claudiomaccone a une apoapsis de 475426000 km et une vitesse moyenne de 18,29 km / s.</lex>
+      <lex comment="" lid="Id2" lang="en">The asteroid, called 11264 Claudiomaccone, has an average speed of 18.29 kilometres per second, and an apoapsis of 475426000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'astéroïde, appelé 11264 Claudiomaccone, a une vitesse moyenne de 18,29 kilomètres par seconde et une apoapsis de 475426000,0 kilomètres.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres and an average speed of 18.29 kilometres per second.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Le claudiomaccone a une apoapsis de 475426000,0 kilomètres et une vitesse moyenne de 18,29 kilomètres par seconde.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="11" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/temperature | &quot;173.0&quot;^^&lt;http://dbpedia.org/datatype/kelvin&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | temperature | &quot;173.0&quot;^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | singleTemperature | &quot;~173 K&quot;@en</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | temperature | 173.0 (kelvins)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has a temperature of 173.0 kelvins and its apoapsis is 475426000.0 kilometres.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Claudiomaccone a une température de 173.0 kelvins et son apoapsis est de 475426000.0 kilomètres.</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an apoapsis of 475426000 kilometres and a temperature of 173.0 (kelvins).</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Le claudiomaccone a une apoapsis de 475426000 kilomètres et une température de 173,0 (kelvins).</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has a temperature of 173.0 kelvin and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Le Claudiomaccone a une température de 173.0 kelvin et une apoapsis de 475426000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="12" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has an epoch date of 26th November 2005 and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Claudiomaccone a une date d'époque du 26 novembre 2005 et une apoapsis de 475426000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005 and the apoapsis is 475426000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Claudiomaccone a une époque de Novembre 26 2005 et l'apoapsis est 475426000.0 (kilomètres).</lex>
+      <lex comment="" lid="Id3" lang="en">The apoapsis for 11264 Claudiomaccone is 475426000.0 (kilometres), it has the epoch date of 26 November 2005.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'apoapsis pour 11264 Claudiomaccone est 475426000.0 (kilomètres), il a la date d'époque de 26 Novembre 2005.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="13" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has the epoch date of 26 November 2005 and the orbital period is 1513.722 days.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Le claudiomaccone date du 26 novembre 2005 et sa période orbitale est de 1513.722 jours.</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an epoch date of 26th November 2005 and an orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Le claudiomaccone date du 26 novembre 2005 et sa période orbitale est de 1513.722 jours.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005 and an orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Le claudiomaccone date du 26 novembre 2005 et sa période orbitale est de 1513.722 jours.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="14" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | rotationPeriod | &quot;11473.9&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | &quot;11473.9&quot;^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has the epoch date of 26 November 2005 and a rotation period of 11473.9.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Claudiomaccone date du 26 novembre 2005 et a une période de rotation de 11473.9.</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005 and its rotation period is 11473.9.</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Claudiomaccone date du 26 novembre 2005 et sa période de rotation est 11473.9.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an epoch date of November 26th 2005, and the rotaional period is 11473.9.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Claudiomaccone date du 26 novembre 2005, et la période de rotation est 11473.9.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="15" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | &quot;1513.722&quot;^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone's orbital period is 1513.722 days, and an apoapsis of 475426000.0 (kilometres).</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 La période orbitale du Claudiomaccone est de 1513,722 jours, avec une apoapsis de 475426000,0 (kilomètres).</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres and the orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Claudiomaccone a une apoapsis de 475426000.0 kilomètres et la période orbitale de 1513.722 jours.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone, has an apoapsis of 475426000 kilometres, and an orbital period of 1513.722 days.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Claudiomaccone, a une apoapsis de 475426000 kilomètres, et une période orbitale de 1513.722 jours.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="16" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | rotationPeriod | &quot;11473.9&quot;^^xsd:double</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | rotationPeriod | 11473.9</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone, with a rotation period of 11473.9, has an apoapsis of 475426000 kilometres.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Le claudiomaccone, avec une période de rotation de 11473.9, a une apoapsis de 475426000 kilomètres.</lex>
+      <lex comment="" lid="Id2" lang="en">The celestial body, 11264 Claudiomaccone, has a rotation period of 11473.9 and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le corps céleste, 11264 Claudiomaccone, a une période de rotation de 11473.9 et une apoapsis de 475426000.0 km.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone has an apoapsis of 475426000.0 kilometres and a rotation period of 11473.9.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Claudiomaccone a une apoapsis de 475426000.0 kilomètres et une période de rotation de 11473.9.</lex>
+    </entry>
+  </entries>
+</benchmark>

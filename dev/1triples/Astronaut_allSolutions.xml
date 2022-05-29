@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | dateOfRet | &quot;1969-09-01&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | dateOfRetirement | &quot;1969-09-01&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders retired on September 1st, 1969.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders a pris sa retraite le 1er septembre 1969.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders retired Sept 1st 1969.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders prend sa retraite le 1er septembre 1969.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders retired on September 1, 1969.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders prend sa retraite le 1er septembre 1969.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders retired in 1969-09-01.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders prend sa retraite le 1er septembre 1969.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders retired 1969-09-01.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders a pris sa retraite le 1er septembre 1969.</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders retired on the 1st of September 1969.</lex>
+      <lex comment="" lid="Id6" lang="fr">William Anders prend sa retraite le 1er septembre 1969.</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Willian Anders has a nationality that is of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Willian Anders est de nationalité américaine.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders is an American.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders est un Américain.</lex>
+      <lex comment="" lid="Id3" lang="en">The nationality of William Anders is United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders est de nationalité américaine.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders is from the United States.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders est originaire des États-Unis.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders was from the United STates.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders venait des États-Unis.</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders is a US national.</lex>
+      <lex comment="" lid="Id6" lang="fr">William Anders est de nationalité américaine.</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was a Fighter pilot.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders était pilote de chasse.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders served as a Fighter pilot.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders a servi comme pilote de chasse.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders is a fighter pilot.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders est pilote de chasse.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders is a test pilot.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders est un pilote d'essai.</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | years | 1976</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as Chief of the Astronaut Office in 1976.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders a été chef du Bureau des astronautes en 1976.</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | status | &quot;Retired&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | status | &quot;Retired&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders is retired.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders est à la retraite.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders is now retired.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders est maintenant à la retraite.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders has retired.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders a pris sa retraite.</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | timeInSpace | &quot;8820.0&quot;^^&lt;http://dbpedia.org/datatype/minute&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | timeInSpace | &quot;8820.0&quot;(minutes)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William anders spent 8820 minutes in space.</lex>
+      <lex comment="" lid="Id1" lang="fr">William anders a passé 8820 minutes dans l'espace.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders spent 8820.0 minutes in space.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders a passé 8820,0 minutes dans l'espace.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders time in space has been 8820.0 minutes.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le temps de William Anders dans l'espace a été de 8820,0 minutes.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders walked in space 8820.0 minutes.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders marchait dans l'espace 8820,0 minutes.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders time in space is 8820.0 minutes.</lex>
+      <lex comment="" lid="Id5" lang="fr">Le temps de William Anders dans l'espace est de 8820,0 minutes.</lex>
+    </entry>
+    <entry category="Astronaut" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders serves as Ambassador to Norway in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders est ambassadeur en Norvège aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders official title is the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders est nommé ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id3" lang="en">United States's Ambassador to Norway is William Anders.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'ambassadeur des États-Unis en Norvège est William Anders.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders is the US Ambassador to Norway.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders est l'ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders' title is the US Ambassador to Norway.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders est l'ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders title is the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id6" lang="fr">William Anders est l'Ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id7" lang="en">William Anders is the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id7" lang="fr">William Anders est l'Ambassadeur des États-Unis en Norvège.</lex>
+    </entry>
+    <entry category="Astronaut" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders a servi comme membre d'équipage à bord de l'Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders served as a crew member of Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders a servi comme membre d &quot;équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders crewed Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders était membre de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders was a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders était membre de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders was a member of the Apollo 8 crew.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders faisait partie de l'équipage du Apollo 8.</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders was a member of Apollo 8's crew.</lex>
+      <lex comment="" lid="Id6" lang="fr">William Anders était membre de l'équipage d'Apollo 8.</lex>
+    </entry>
+    <entry category="Astronaut" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was selected by NASA in 1963.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders a été choisi par la NASA en 1963.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders joined NASA in 1963.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders est entré à la NASA en 1963.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was chosen by NASA in 1963.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders a été choisi par la NASA en 1963.</lex>
+    </entry>
+  </entries>
+</benchmark>

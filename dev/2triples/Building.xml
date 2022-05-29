@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | &quot;1904&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths, built in 1904, is located in Manhattan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les bains publics Asser Levy, construits en 1904, sont situés à Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths in Manhattan were constructed in 1904.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy de Manhattan ont été construits en 1904.</lex>
+    </entry>
+    <entry category="Building" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located in Manhattan, which is a part of New York.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les bains publics Asser Levy se trouvent à Manhattan, qui fait partie de New York.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are in Manhattan, New York.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy se trouvent à Manhattan, New York.</lex>
+    </entry>
+    <entry category="Building" eid="3" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | leaderName | Cyrus_Vance,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | leader | Cyrus_Vance,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is the leader.</lex>
+      <lex comment="" lid="Id1" lang="fr">Asser Levy Public Baths est situé à Manhattan où Cyrus Vance Jr. est le leader.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths is located in Manhattan where Cyrus Vance Jr. is one of the leaders.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy sont situés à Manhattan où Cyrus Vance Jr. est l'un des leaders.</lex>
+    </entry>
+    <entry category="Building" eid="4" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | Manhattan</otriple>
+        <otriple>Manhattan | leaderName | Gale_Brewer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | Manhattan</mtriple>
+        <mtriple>Manhattan | leader | Gale_Brewer</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gale Brewer is the leader of Manhattan, which is the location of Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="fr">Gale Brewer est le chef de file de Manhattan, où se trouvent les bains publics Asser Levy.</lex>
+      <lex comment="" lid="Id2" lang="en">Gale Brewer is the leader of Manhattan, where the Asser Levy Public Baths can be found.</lex>
+      <lex comment="" lid="Id2" lang="fr">Gale Brewer est le chef de file de Manhattan, où se trouvent les bains publics Asser Levy.</lex>
+      <lex comment="" lid="Id3" lang="en">Asser Levy Public Baths is located in Manhattan whose leader is Gale Brewer.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les bains publics Asser Levy se trouvent à Manhattan, sous la direction de Gale Brewer.</lex>
+    </entry>
+    <entry category="Building" eid="5" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | &quot;1904&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Asser Levy Public Baths which was built in 1904 is located in New York City.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les bains publics Asser Levy, construits en 1904, se trouvent à New York.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths (constructed in 1904) are located in New York City.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy (construits en 1904) sont situés dans la ville de New York.</lex>
+      <lex comment="" lid="Id3" lang="en">The location of Asser Levy Public Baths, built in 1904, is New York City.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les bains publics Asser Levy, construits en 1904, se trouvent à New York.</lex>
+    </entry>
+    <entry category="Building" eid="6" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths are located in New York City which Manhattan is a part of.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les bains publics Asser Levy sont situés dans la ville de New York dont fait partie Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths are in New York City which is part of Manhattan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy se trouvent dans la ville de New York qui fait partie de Manhattan.</lex>
+    </entry>
+    <entry category="Building" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths are in New York City of which New Netherland is a part.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les bains publics Asser Levy se trouvent dans la ville de New York, dont fait partie le Pays-Bas.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are located in New York City, which is part of New Netherland.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy se trouvent dans la ville de New York, qui fait partie des Pays-Bas.</lex>
+    </entry>
+    <entry category="Building" eid="8" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">New York City, part of New York, has the Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="fr">La ville de New York, qui fait partie de New York, possède les bains publics Asser Levy.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public Baths are located in New York City, which is part of New York.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy sont situés dans la ville de New York, qui fait partie de New York.</lex>
+      <lex comment="" lid="Id3" lang="en">The location of Asser Levy Public Baths are New York City, New York State.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les bains publics Asser Levy se trouvent dans la ville de New York, dans l'État de New York.</lex>
+    </entry>
+    <entry category="Building" eid="9" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">3Arena is located in Dublin, in the Republic of Ireland.</lex>
+      <lex comment="" lid="Id1" lang="fr">3Arena est situé à Dublin, en République d'Irlande.</lex>
+      <lex comment="" lid="Id2" lang="en">3Arena is located in Dublin, Republic of Ireland.</lex>
+      <lex comment="" lid="Id2" lang="fr">3Arena est situé à Dublin, République d'Irlande.</lex>
+    </entry>
+    <entry category="Building" eid="10" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in the country of Ethiopia which is led by Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'hôtel de ville d'Addis-Abeba est situé dans le pays d'Ethiopie qui est dirigé par Hailemariam Desalegn.</lex>
+      <lex comment="" lid="Id2" lang="en">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located.</lex>
+      <lex comment="" lid="Id2" lang="fr">Hailemariam Desalegn est le chef de l'Éthiopie où se trouve l'hôtel de ville d'Addis-Abeba.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Ethipoia is Hailemarian Desalegn and Addis Ababa City Hall is also located in Ethiopia.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le chef éthiopien est Hailemarian Desalegn et l'hôtel de ville d'Addis-Abeba se trouve également en Éthiopie.</lex>
+    </entry>
+    <entry category="Building" eid="11" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Addis Ababa City Hall is located in Ethiopia whose leader is Malatu Teshome.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'hôtel de ville d'Addis-Abeba est situé en Éthiopie, dont le chef est Malatu Teshome.</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of Ethiopia is Malatu Teshome and The Addis Ababa City Hall is located in Ethiopia.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le chef de l'Éthiopie est Malatu Teshome et l'hôtel de ville d'Addis-Abeba se trouve en Éthiopie.</lex>
+      <lex comment="" lid="Id3" lang="en">The Addis Ababa City Hall is in Ethiopia, the country which has Mulatu Teshome as one of its leaders.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'hôtel de ville d'Addis-Abeba se trouve en Éthiopie, pays dont Mulatu Teshome est l'un des dirigeants.</lex>
+    </entry>
+    <entry category="Building" eid="12" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The demonym for people living in India, where Amdavad ni Gufa is located, is Indian.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le démonyme pour les personnes vivant en Inde, où se trouve Amdavad ni Gufa, est indien.</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in India and the demonym for people living in India is Indian.</lex>
+      <lex comment="" lid="Id2" lang="fr">Amdavad ni Gufa est situé en Inde et le démonyme pour les personnes vivant en Inde est indien.</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in India, which is populated by Indian People.</lex>
+      <lex comment="" lid="Id3" lang="fr">Amdavad ni Gufa est situé en Inde, qui est peuplée par des Indiens.</lex>
+    </entry>
+    <entry category="Building" eid="13" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | country | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur is the leader of India; also the location of Amdavad ni Gufa.</lex>
+      <lex comment="" lid="Id1" lang="fr">T S Thakur est le chef de file de l'Inde ; c'est aussi là que se trouve Amdavad ni Gufa.</lex>
+    </entry>
+    <entry category="Building" eid="14" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Marriott International which was founded in Washington, D.C. is the tenant of AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="fr">Marriott International, qui a été fondé à Washington, D.C. est le locataire de l'AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which was founded in Washington, D.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le locataire de l'AC Hotel Bella Sky Copenhagen est le Marriott International Hotel qui a été fondé à Washington, D.C.</lex>
+      <lex comment="" lid="Id3" lang="en">Marriott International is a tenant of AC Hotel Bella Sky Copenhagen and was founded in Washington, D.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Marriott International est locataire de l'AC Hotel Bella Sky Copenhagen et a été fondé à Washington, D.C.</lex>
+    </entry>
+    <entry category="Building" eid="15" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel whose headquarters are in Bethseda, Maryland.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le locataire de l'AC Hotel Bella Sky Copenhagen est le Marriott International Hotel dont le siège est à Bethseda, Maryland.</lex>
+      <lex comment="" lid="Id2" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company that is located in Bethesda, Maryland.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le locataire de l'AC Hotel Bella Sky Copenhagen est Marriott International, la société située à Bethesda, Maryland.</lex>
+      <lex comment="" lid="Id3" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is the Marriott International Hotel which has its office at Bethesda Maryland.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le locataire de l'AC Hotel Bella Sky Copenhagen est le Marriott International Hotel qui a son bureau à Bethesda Maryland.</lex>
+    </entry>
+    <entry category="Building" eid="16" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Mason_School_of_Business | country | United_States</otriple>
+        <otriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mason_School_of_Business | country | United_States</mtriple>
+        <mtriple>Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Mason School of Business is located in the United States, and are the current tenants of Alan B Miller Hall.</lex>
+      <lex comment="" lid="Id1" lang="fr">La Mason School of Business est située aux États-Unis et est actuellement locataire du Alan B Miller Hall.</lex>
+      <lex comment="" lid="Id2" lang="en">The Mason School of Business is the tenant of the Alan B Miller Hall in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">La Mason School of Business est locataire du Alan B Miller Hall aux États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">The Mason School of Business is located in Alan B Miller Hall in the United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">La Mason School of Business est située dans le Alan B Miller Hall aux États-Unis.</lex>
+    </entry>
+    <entry category="Building" eid="17" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, in which English is the main language.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où l'anglais est la langue principale.</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language of the United States, where 250 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'anglais est la langue des États-Unis, où se trouve le 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States where they speak the English language.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis où ils parlent l'anglais.</lex>
+    </entry>
+    <entry category="Building" eid="18" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, which is led by Joe Biden.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis et est dirigé par Joe Biden.</lex>
+      <lex comment="" lid="Id2" lang="en">Joe Biden is a leader of the United States, which is also the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="fr">Joe Biden est un chef de file des États-Unis, où se trouve également le 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is in the United States where Joe Biden is a leader.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue se trouve aux États-Unis, où Joe Biden est un chef de file.</lex>
+    </entry>
+    <entry category="Building" eid="19" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A leader of the United States, which is home to 250 Delaware Avenue, is John Roberts.</lex>
+      <lex comment="" lid="Id1" lang="fr">John Roberts est l'un des chefs de file des États-Unis, où se trouve le 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="20" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States which is led by Paul Ryan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis et est dirigé par Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States whose leader is Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis et son chef est Paul Ryan.</lex>
+    </entry>
+    <entry category="Building" eid="21" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the USA and it's leader is the President.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis et son chef est le président.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States whose leader has the title of President.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis et son chef a le titre de président.</lex>
+    </entry>
+  </entries>
+</benchmark>

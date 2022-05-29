@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders, born in British Hong Kong, was a fighter pilot a member of Apollo 8's crew.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders, né à Hong Kong en Grande-Bretagne, était pilote de chasse et faisait partie de l &quot;équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="en">British Hong Kong born William Anders was a fighter pilot on Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders, né à Hong Kong, était pilote de chasse sur Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was born in British Hong Kong, served as a test pilot and was a member of the Apollo 8 crew.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne. Il a été pilote d'essai et membre de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders (born in British Hong Kong) served as a fighter pilot and was a crew member of Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders (né à Hong Kong, en Grande-Bretagne) a été pilote de chasse et membre de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders( born in British Hong Kong) was a part of Apollo 8 and served as fighter pilot.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders (né à Hong Kong, en Grande-Bretagne) faisait partie d'Apollo 8 et a servi comme pilote de chasse.</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Born in British Hong Kong, William Anders graduated AFIT, M.S. in 1962 and is now the US Ambassador to Norway.</lex>
+      <lex comment="" lid="Id1" lang="fr">Né à Hong Kong, en Grande-Bretagne, William Anders est diplômé de l'AFIT (M.S.) en 1962 et est aujourd'hui ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id2" lang="en">United States Ambassador to Norway, William Anders, was born in British Hong Kong and graduated from his alma Mater, AFIT, in 1962 with an M.S.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders, ambassadeur des États-Unis en Norvège, est né à Hong Kong en Grande-Bretagne et a obtenu son diplôme d'alma Mater, AFIT, en 1962 avec un M.S.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was born in British Hong Kong and went to AFIT, M.S. 1962 and was the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne, et est allé à AFIT, M.S. 1962 et a été l'ambassadeur des États-Unis en Norvège.</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">NASA's Apollo 8 crew included Frank Borman and William Anders.</lex>
+      <lex comment="" lid="Id1" lang="fr">Frank Borman et William Anders font partie de l'équipage d'Apollo 8 de la NASA.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders and Frank Borman were both crew members on Apollo 8 operated by NASA.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders et Frank Borman étaient tous deux membres de l'équipage d'Apollo 8 exploité par la NASA.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders and Frank Borman were crew members of NASA's Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders et Frank Borman étaient membres de l'équipage d'Apollo 8 de la NASA.</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;@en</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders received an MS from his alma Mater, AFIT, in 1962 and served as a crew member of Apollo 8 along with Frank Borman,.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders a reçu une MS de son alma Mater, AFIT, en 1962 et a servi comme membre d'équipage d'Apollo 8 avec Frank Borman,.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders, who graduated from AFIT in 1962 with an M.S., was a crew member of Apollo 8 along with Fr.ank Borman.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders, diplômé de l'AFIT en 1962 avec un M.S., était membre de l &quot;équipage d'Apollo 8 avec Fr.ank Borman.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders, who graduated with an M.S., from AFIT in 1962, served as a crew member on Apollo 8 alongside Frank Borman.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders, qui a obtenu une maîtrise ès sciences de l'AFIT en 1962, a servi comme membre d &quot;équipage sur Apollo 8 aux côtés de Frank Borman.</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;^^xsd:date</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders, born 1933-10-17, joined NASA in 1963 to serve as a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders, né en 1933-10-17, s'est joint à la NASA en 1963 pour servir comme membre d'équipage sur Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders, who was born on the 17th of October, 1933, joined NASA in 1963 and served as a member of the crew of Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders, né le 17 octobre 1933, rejoint la NASA en 1963 et devient membre de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders, born 17 October 1933 was chosen by NASA in 1963 and served as a crew member on Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders, né le 17 octobre 1933, a été choisi par la NASA en 1963 et a servi comme membre d'équipage sur Apollo 8.</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+        <otriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+        <mtriple>William_Anders | almaMater | &quot;AFIT, M.S. 1962&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders, born in British Hong Kong graduated with an MS from AFIT in 1962 and was chosen by NASA in 1963.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders, né à Hong Kong, en Grande-Bretagne, a obtenu une maîtrise en sciences de l'AFIT en 1962 et a été choisi par la NASA en 1963.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was born in British Hong Kong, graduated from AFIT in 1962, and joined NASA in 1963.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne. Il a obtenu son diplôme de l'AFIT en 1962 et a rejoint la NASA en 1963.</lex>
+    </entry>
+    <entry category="Astronaut" eid="7" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders joined NASA in 1963, is an American and was born in British Hong Kong.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders s'est joint à la NASA en 1963, est un Américain et est né à Hong Kong.</lex>
+    </entry>
+    <entry category="Astronaut" eid="8" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born in British Hong Kong, then served as a Fighter pilot when he was chosen by NASA in 1963.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne, puis a servi comme pilote de chasse lorsqu'il a été choisi par la NASA en 1963.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was a fighter pilot who joined NASA in 1963 having been born in British Hong Kong.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders était un pilote de chasse qui s'est joint à la NASA en 1963 après être né à Hong Kong.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was born in British Hong Kong and his occupation was a Fighter pilot when selected by NASA in 1963.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne, et il a été pilote de chasse lors de sa sélection par la NASA en 1963.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,388 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie où Pietro Grasso est le leader et la capitale est Rome.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. whose leader is Pietro Grasso and capital is Rome.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie dont le chef est Pietro Grasso et la capitale Rome.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, the capital of which is Rome and it's leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, dont la capitale est Rome et dont le leader est Pietro Grasso.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader of the Italians.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie où Pietro Grasso est le leader des Italiens.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, the country of Italians where the leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, le pays des Italiens où le leader est Pietro Grasso.</lex>
+      <lex comment="" lid="Id3" lang="en">Italy (led by Pietro Grasso) is home to the Italian people and A.S. Gubbio 1910.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'Italie (menée par Pietro Grasso) est la patrie du peuple italien et A.S. Gubbio 1910.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Pietro Grasso and Sergio Mattarella are leaders in Italy where the ground of AS Gubbio 1910 is located.</lex>
+      <lex comment="" lid="Id1" lang="fr">Pietro Grasso et Sergio Mattarella sont les leaders en Italie où se trouve le terrain de AS Gubbio 1910.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. The leader of Italy is Pietro Grasso and/or Sergio Mattarella.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, le leader de l'Italie est Pietro Grasso et / ou Sergio Mattarella.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, where Sergio Mattarella and Pietro Grasso are leaders.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, où Sergio Mattarella et Pietro Grasso sont les leaders.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie où le leader est Sergio Mattarella et l'italien est la langue parlée.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of A.S. Gubbio 1910 is located in Italy, who's leader is Sergio Mattarella and where they speak Italian.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, dont le chef est Sergio Mattarella et où ils parlent italien.</lex>
+      <lex comment="" lid="Id3" lang="en">The ground of A.S. Gubbio 1910 is located in Italy. The country's leader is Sergio Mattarella and there they speak Italian.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le terrain de A.S. Gubbio 1910 est situé en Italie, le leader du pays est Sergio Mattarella et là on parle italien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | clubs | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | clubs | Empoli_F.C.</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti played for Empoli F.C. and Virtus Entella. He has also been manager of AS Roma.</lex>
+      <lex comment="" lid="Id1" lang="fr">Luciano Spalletti a joué pour Empoli F.C. et Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti is a manager for the AS Roma club and plays for Empoli F. C. as well as Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="fr">Luciano Spalletti est directeur du club AS Roma et joue pour Empoli F. C. ainsi que pour Virtus Entella.</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti plays for Empoli F.C. and Virtus Entella while managing A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="fr">Luciano Spalletti joue pour Empoli F.C. et Virtus Entella tout en gérant A.S. Roma.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Udinese_Calcio</otriple>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Udinese_Calcio</mtriple>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of AS Roma, Luciano Spalletti, plays for Udinese Calcio and was at the club Virtus Entella.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gérant de l'AS Roma, Luciano Spalletti, joue pour Udinese Calcio et était au club Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti manages AS Roma and also plays for Udinese Calcio and Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="fr">Luciano Spalletti dirige AS Roma et joue également pour Udinese Calcio et Virtus Entella.</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti played for Udinese Calcio. He now manages A.S. Roma and plays for Virtus Entella.</lex>
+      <lex comment="" lid="Id3" lang="fr">Luciano Spalletti a joué pour Udinese Calcio, il dirige A.S. Roma et joue pour Virtus Entella.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | S.S._Chieti_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | A.S.D._S.S._Nola_1925</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S._Chieti_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | A.S.D._S.S._Nola_1925</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago has been the manager of A C Cesena whose club is the S.S. Chieti Calcio. and played for A.S.D. S.S. Nola 1925.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago a été le gérant de A C Cesena dont le club est le S.S. Chieti Calcio. et a joué pour A.S.D. S.S. Nola 1925.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago has been the manager of A C Cesena and plays for both S.S. Chieti Calcio and A.S.D. S.S. Nola 1925.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago a été gérant de A C Cesena et joue pour S.S. Chieti Calcio et A.S.D. S.S. Nola 1925.</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago played for. A.S.D. S.S. Nola 1925, he now plays for S.S. Chieti Calcio and manages A.C. Cesana.</lex>
+      <lex comment="" lid="Id3" lang="fr">Massimo Drago a joué pour A.S.D. S.S. Nola 1925, il joue maintenant pour S.S. Chieti Calcio et dirige A.C. Cesana.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | clubs | A.S.D._Licata_1931</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago has been the manager of A C Cesena and was at the club ASD Licita 1931 but he currently plays for U.S Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago a été le gérant de A C Cesena et était au club ASD Licita 1931, mais il joue actuellement pour les États-Unis Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago was once a player for US Castrovillari Calcio and has been the manager of A C Cesena. He was also at the club ASD Licita 1931.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago a été joueur pour US Castrovillari Calcio et a été le directeur de A C Cesena.</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago was at the club ASD Licita 1931. He currently plays for U.S Castrovillari Calcio and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id3" lang="fr">Massimo Drago était au club ASD Licita 1931, il joue actuellement pour US Castrovillari Calcio et gère A.C. Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago's club was Calcio Catania and he played for US Castrovillari Calcio. He is now the manager of A.C. Cesena.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le club de Massimo Drago était Calcio Catania et il a joué pour US Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago once played for US Castrovillari Calcio, is in the club Calcio Catania and manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago une fois joué pour US Castrovillari Calcio, est dans le club Calcio Catania et gère A.C. Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | team | Delfino_Pescara_1936</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | Delfino_Pescara_1936</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Cesena's manager Massimo Drago was once a player for US Castrovillari Calcio and is now attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gérant d'A.C. Cesena, Massimo Drago, a été joueur pour US Castrovillari Calcio et est maintenant attaché au club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago plays for U.S Castrovillari Calcio and manages A.C. Cesena. He is also attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago joue pour U.S Castrovillari Calcio et dirige A.C. Cesena. Il est également attaché au club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago plays for U.S Castrovillari Calcio; he has been the manager of A C Cesena and is attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="" lid="Id3" lang="fr">Massimo Drago joue pour U.S Castrovillari Calcio ; il a été le gérant de A C Cesena et est attaché au club Delfino Pescara 1936.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+        <otriple>Massimo_Drago | clubs | S.S.D._Potenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+        <mtriple>Massimo_Drago | club | S.S.D._Potenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago manages A.C. Cesena and is a former player of Vigor Lamezia and S.S.D. Potenza Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago dirige A.C. Cesena et est un ancien joueur de Vigor Lamezia et de S.S.D. Potenza Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Attached to the club Vigor Lamezia, Massimo Drago manages A.C. Cesena and once played for the club SSD Potenza Calcio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Attachée au club Vigor Lamezia, Massimo Drago dirige A.C. Cesena et a déjà joué pour le club SSD Potenza Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 FC Koln. He also plays for FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stöger est affilié au SC Wiener Neustadt club et dirige 1 FC Koln. Il joue également pour le FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is a player in FC Admira Wacker Mödling. He is also the manager of FC Kolin and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger est un joueur du FC Admira Wacker Mödling, directeur du FC Kolin et membre du club SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stöger is the manager of 1. FC Koln, his club is the FC Admira Wacker Mödling and he is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id3" lang="fr">Peter Stöger est le directeur du 1 FC Koln, son club est le FC Admira Wacker Mödling et il est affilié au SC Wiener Neustadt club.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">PeterStöger, manager of FC Kolin plays for both SK Rapid Wien and SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id1" lang="fr">PeterStöger, directeur du FC Kolin, joue pour SK Rapid Wien et SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger, previously of SK Rapid Wien, is affiliated with the SC Wiener Neustadt club and manages 1. FC Koln.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger, anciennement de SK Rapid Wien, est affilié au club SC Wiener Neustadt et dirige 1. FC Koln.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of 1. FC Koln is Peter Stoger who played football for SK Vorwärts Steyr and is attached to the club First Vienna FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gérant du 1. FC Koln est Peter Stoger qui a joué au football pour SK Vorwärts Steyr et est attaché au club First Vienne FC.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger (football), First Vienna FC, now a manager of 1. FC Koln, played for SK Vorwarts Steyr.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stoger (football), Premier FC Vienne, maintenant un gérant de 1. FC Koln, a joué pour SK Vorwarts Steyr.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of 1. FC Koln is Peter Stoger, he has played for SC Wiener Neustadt and is in the SK Vorwärts Steyr club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gérant du 1. FC Koln est Peter Stoger, il a joué pour SC Wiener Neustadt et est dans le SK Vorwärts Steyr club.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is in the SK Vorwärts Steyr club, is manager of 1. FC Köln and is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger fait partie du club SK Vorwärts Steyr, dirige le 1. FC Köln et est affilié au SC Wiener Neustadt club.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | &quot;Verona, Italy&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | &quot;Verona, Italy&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Verona, Italy is the home to A.C. Chievo Verona who played in Serie A where the champions were Juventus F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Vérone, Italie est le domicile de A.C. Chievo Vérone qui a joué en Serie A où les champions étaient Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Verona, Italy is the home to A.C. Chievo Verona who is in the league, Juventus FC have been Serie A champions.</lex>
+      <lex comment="" lid="Id2" lang="fr">Vérone, Italie est le siège de A.C. Chievo Vérone qui est dans la ligue, Juventus FC ont été champions de la Serie A.</lex>
+      <lex comment="" lid="Id3" lang="en">Verona, Italy is home to A.C. Chievo Verona who play in Serie A. Juventus FC have previously been champions of Serie A.</lex>
+      <lex comment="" lid="Id3" lang="fr">Vérone, Italie est le siège de A.C. Chievo Vérone qui joue dans Serie A. Juventus FC ont déjà été champions de Serie A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Chievo Verona's home ground is Stadio Marc Antonio Bentegodi. They play in the Serie A league of which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'AC Chievo Verona est situé au Stadio Marc Antonio Bentegodi, qui joue dans la ligue Serie A dont Juventus FC a été champion.</lex>
+      <lex comment="" lid="Id2" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi. They play in the Serie A league, which was won by Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">La maison de A.C. Chievo Verona est le Stadio Mars'Antonio Bentegodi qui joue dans la ligue Serie A, qui a été gagnée par Juventus F.C.</lex>
+      <lex comment="" lid="Id3" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, they are in the Serie A league, of which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id3" lang="fr">La maison de A.C. Chievo Verona est Stadio Mars'Antonio Bentegodi, ils sont dans la ligue Serie A, dont Juventus FC ont été champions.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+        <otriple>A.C._Chievo_Verona | ground | Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+        <mtriple>A.C._Chievo_Verona | ground | Verona</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">With grounds in Verona, AC Chievo Verona play in the Serie A league, of which Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id1" lang="fr">Avec des terrains à Vérone, AC Chievo Vérone jouer dans la ligue Serie A, dont Juventus FC ont été champions.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Chievo Verona's playing ground is at Verona and they play in Serie A, where Juventus FC have been champions.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.C. Chievo Verona est à Vérone et ils jouent en Serie A, où Juventus FC ont été champions.</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus F.C. are former champions of Serie A. A.C. Chievo Verona is in that league now and play in Verona.</lex>
+      <lex comment="" lid="Id3" lang="fr">Juventus F.C. sont d'anciens champions de Serie A. A.C. Chievo Vérone est dans cette ligue maintenant et jouer à Vérone.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | &quot;Rome, Italy&quot;@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | &quot;Rome, Italy&quot;</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Roma plays in the Serie A league in Rome, Italy but the Serie A champions are Juventus F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S. Roma joue dans la ligue Serie A à Rome, Italie mais les champions Serie A sont Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S.Roma's ground is in Rome, Italy and they played in Serie A where the champions were Juventus F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain d'A.S.Roma est à Rome, Italie et ils ont joué en Serie A où les champions étaient Juventus F.C.</lex>
+      <lex comment="" lid="Id3" lang="en">Juventus F.C. are former champions of Serie A. AS Roma also play in the same league, their ground is in Rome, Italy.</lex>
+      <lex comment="" lid="Id3" lang="fr">Juventus F.C. sont d'anciens champions de Serie A. AS Roma jouent également dans la même ligue, leur terrain est à Rome, Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma, who have a ground in Rome, play in Serie A alongside Juventus FC who are former champions.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Roma, qui a un terrain à Rome, joue en Serie A aux côtés de Juventus FC qui sont d'anciens champions.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S.Roma play their home games in Serie A in Rome, the current champions are Juventus.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S.Roma joue leurs jeux à domicile en Serie A à Rome, les champions actuels sont Juventus.</lex>
+      <lex comment="" lid="Id3" lang="en">With grounds in Rome, A.S. Roma play in Serie A. Juventus FC have been champions of that league.</lex>
+      <lex comment="" lid="Id3" lang="fr">Avec des terrains à Rome, A.S. Roma joue en Serie A. Juventus FC ont été champions de cette ligue.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+        <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+        <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma, whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Roma, dont le terrain est le Stadio Olimpico jouer dans la Serie A Ligue dont Juventus FC sont d'anciens champions.</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus FC have been Serie A champions. A.S. Roma, who's ground is Stadio Olimpico also play in the same league.</lex>
+      <lex comment="" lid="Id2" lang="fr">Juventus FC ont été champions de Serie A. A.S. Roma, qui est le terrain est Stadio Olimpico également jouer dans la même ligue.</lex>
+      <lex comment="" lid="Id3" lang="en">The Serie A champions are Juventus F.C. A.S Roma also play in the same league and their ground is Stadio Olimpico.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les champions de la Serie A sont Juventus F.C. A.S Roma jouent également dans la même ligue et leur terrain est Stadio Olimpico.</lex>
+    </entry>
+  </entries>
+</benchmark>

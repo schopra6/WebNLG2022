@@ -1,0 +1,460 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="CelestialBody" eid="1" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | formerName | &quot;1928 SJ&quot;@en</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;0.02&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;72.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | formerName | &quot;1928 SJ&quot;@en</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)</mtriple>
+        <mtriple>1101_Clematis | formerName | &quot;1928 SJ&quot;</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis, formerly known as &quot;1928 SJ&quot;, has an epoch date of December 31st 2006, an escape velocity of 0.02 km/sec, an orbital period of 183309000.0, and a periapsis of 445895000000.0.</lex>
+      <lex comment="" lid="Id1" lang="fr">1101 Clematis, anciennement connu sous le nom de &quot;1928 SJ&quot;, a une époque du 31 décembre 2006, une vitesse de fuite de 0,02 km / s, une période orbitale de 183309000.0 et une périapsis de 445895000000.0.</lex>
+      <lex comment="" lid="Id2" lang="en">&quot;1928 SJ&quot; is the former name of the celestial body 1101 Clematis which has the epoch date 31 December 2006 and an escape velocity of 0.02 km per sec. This body has a periapsis measurement of 445895000000.0 and the orbital period of 182209000.0.</lex>
+      <lex comment="" lid="Id2" lang="fr">&quot;1928 SJ&quot; est l'ancien nom du corps céleste 1101 Clematis dont la date d'époque est le 31 décembre 2006 et dont la vitesse d'évasion est de 0,02 km / s. Ce corps a une périapsis de 445895000000.0 et une période orbitale de 182209000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="2" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | &quot;72.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;0.02&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;72.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | escapeVelocity | &quot;72.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;0.02&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;0.02&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;0.02&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | escapeVelocity | &quot;72.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | escapeVelocity | 0.02 (kilometrePerSeconds)</mtriple>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis has a mass of 5.7 kilograms,an escape velocity of 0.02 k.p.s and its epoch date was on December 31st 2006.It has an orbital period of 183309000.0 and its periapsis is 445895000000.0.</lex>
+      <lex comment="" lid="Id1" lang="fr">1101 Clematis a une masse de 5,7 kilogrammes, une vitesse de fuite de 0,02 km / s et sa date d'époque est le 31 décembre 2006. Sa période orbitale est de 183309000.0 et sa périapsis est de 445895000000.0.</lex>
+      <lex comment="" lid="Id2" lang="en">1101 Clematis has a mass of 5.7 kgs,an escape velocity of 0.02 k.p.s and its epoch date was on 31 December 2006.It has an orbital period of 183309000.0 and its periapsis is 445895000000.0.</lex>
+      <lex comment="" lid="Id2" lang="fr">1101 Clematis a une masse de 5,7 kg, une vitesse de fuite de 0,02 km / s et sa date d'époque est le 31 décembre 2006. Sa période orbitale est de 183309000.0 et sa périapsis est de 445895000000.0.</lex>
+      <lex comment="" lid="Id3" lang="en">The epoch of 1101 Clematis, which has a mass of 5.7 kilograms, is December 31st, 2006. Its escape velocity is .02 kilometres per second, its orbital period is 183,309,000 kilometres and its has an periapsis of 445,895,000,000 kilometres.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'époque de 1101 Clematis, d'une masse de 5,7 kilogrammes, est le 31 décembre 2006, avec une vitesse de fuite de 0,02 kilomètre par seconde, une période orbitale de 183 309 000 kilomètres et une périapsis de 445 895 000 000 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="3" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | mass | &quot;5700.0&quot;^^xsd:double</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1101_Clematis | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>1101_Clematis | orbitalPeriod | 1.83309e+08</otriple>
+        <otriple>1101_Clematis | periapsis | 4.45895e+11</otriple>
+        <otriple>1101_Clematis | mass | &quot;5.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>1101_Clematis | Planet/apoapsis | &quot;5.20906E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1101_Clematis | epoch | 2006-12-31</mtriple>
+        <mtriple>1101_Clematis | mass | 5.7 (kilograms)</mtriple>
+        <mtriple>1101_Clematis | orbitalPeriod | 183309000.0</mtriple>
+        <mtriple>1101_Clematis | periapsis | 445895000000.0</mtriple>
+        <mtriple>1101_Clematis | apoapsis | 520906000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1101 Clematis has an epoch date of December 31st 2006, and a mass of 5.7 kgs. With an orbital period of 183309000.0, 1101 Clematis has an apoapsis of 520906000.0 kilometres and a periapsis of 445895000000.</lex>
+      <lex comment="" lid="Id1" lang="fr">Avec une période orbitale de 183309000.0, 1101 Clematis a une apoapsis de 520906000.0 kilomètres et une périapsis de 445895000000.</lex>
+      <lex comment="" lid="Id2" lang="en">31 December 2006 is the epoch date of 1101 Clematis which has a mass of 5.7 kgs. It has an orbital period of 183309000.0, a periapsis of 445895000000.0 and an apoapsis of 520906000.0 Kms.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 31 décembre 2006 est l'époque de 1101 Clematis qui a une masse de 5,7 kg, une période orbitale de 183309000.0, une périapsis de 445895000000.0 et une apoapsis de 520906000.0 Kms.</lex>
+      <lex comment="" lid="Id3" lang="en">The 1101 Clematis has an epoch date of 31st December 2006, and has a mass of 5.7kgs. It has an orbital period of 183309000.0 and a periapsis of 445895000000.0. It also has an apoapsis of 520906000.0 kilometres.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 1101 Clematis date du 31 décembre 2006 et a une masse de 5,7 kg ; il a une période orbitale de 183309000.0 et une périapsis de 445895000000.0 ; il a aussi une apoapsis de 520906000.0 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="4" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The epoch date of 110 Lydia is 31 December 2006 and it has an escape velocity of 0.0455 km per sec. It has an orbital period of 142603000.0, an apoapsis of 440756000.0 kms and a mass of 6.7 kg.</lex>
+      <lex comment="" lid="Id1" lang="fr">L &quot;époque de 110 Lydia est le 31 décembre 2006 avec une vitesse de fuite de 0.0455 km / s, une période orbitale de 142603000.0, une apoapsis de 440756000.0 kms et une masse de 6.7 kg.</lex>
+      <lex comment="" lid="Id2" lang="en">The mass of 110 Lydia is 6.7 kg,has an escape velocity of 0.0455 km/s and its epoch date was on 31st December 2006.It has an orbital period of 142603000 and its apoapsis is 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id2" lang="fr">La masse de 110 Lydia est de 6,7 kg, a une vitesse de fuite de 0,0455 km / s et sa date d'époque était le 31 décembre 2006. Elle a une période orbitale de 142603000 et son apoapsis est de 440756000.0 (kilomètres).</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia has an epoch date of December 31st 2006 and is 6.7 kilos in mass. It has an escape velocity of 0.0455 km/s, an orbital period of 142603000.0 and an apoapsis of 440756000.0 (kilometres).</lex>
+      <lex comment="" lid="Id3" lang="fr">110 Lydia a une époque du 31 décembre 2006 et une masse de 6,7 kilos, une vitesse de fuite de 0,0455 km / s, une période orbitale de 142603000.0 et une apoapsis de 440756000.0 (kilomètres).</lex>
+    </entry>
+    <entry category="CelestialBody" eid="5" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia, which has a mass of 6.7kgs, has the epoch date of 31 December 2006. It has an orbital period of 142603000.0, a periapsis measurement of 377016000000.0 and an apoapsis of 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia, dont la masse est de 6,7 kg, date du 31 décembre 2006, a une période orbitale de 142603000.0, une périapsis de 377016000000.0 et une apoapsis de 440756000.0 kilomètres.</lex>
+      <lex comment="" lid="Id2" lang="en">The mass of 110 Lydia is 6.7 kg,has an orbital period of 142603000.0 and its epoch date was on 31 December 2006.Its periapsis is 377016000000.0 and its apoapsis is 440756000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="fr">La masse de 110 Lydia est 6,7 kg, a une période orbitale de 142603000.0 et sa date d'époque était le 31 Décembre 2006. Sa périapsis est 377016000000.0 et son apoapsis est 440756000.0 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="6" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | discoverer | Alphonse_Borrelly</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | Planet/mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+        <otriple>110_Lydia | discoverer | Alphonse_Borrelly</otriple>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | Planet/apoapsis | &quot;4.40756E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | discoverer | Alphonse_Borrelly</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | apoapsis | 440756000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The celestial body known as 110 Lydia, which has a mass of 6.7kg was discovered by Alphonse Borrelly and has the epoch date 31 December 2006. It's orbital period is 142603000.0 and the apoapsis measures 440756000.0 kms.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le corps céleste connu sous le nom de 110 Lydia, d'une masse de 6,7 kg, a été découvert par Alphonse Borrelly et date du 31 décembre 2006 ; sa période orbitale est de 142603000.0 et son apoapsis mesure 440756000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">The mass of 110 Lydia is 6.7 kg and has an orbital period of 142603000.0.Alphonse Borrelly discovered 110 Lydia,which has an apoapsis of 440756000.0 (kilometres) and its epoch date was on December 31st 2006.</lex>
+      <lex comment="" lid="Id2" lang="fr">La masse de 110 Lydia est de 6,7 kg et a une période orbitale de 142603000.0.Alphonse Borrelly a découvert 110 Lydia, qui a une apoapsis de 440756000.0 (kilomètres) et sa date d'époque était le 31 Décembre 2006.</lex>
+      <lex comment="" lid="Id3" lang="en">Alphonse Borrelly discovered 110 Lydia which has an epoch date of 31 December 2006 and a mass of 6.7 kg. It's orbital period is 142603000.0 and the apoapsis measures 440756000.0 kms.</lex>
+      <lex comment="" lid="Id3" lang="fr">Alphonse Borrelly a découvert 110 Lydia dont la date d'époque est le 31 décembre 2006 et dont la masse est de 6,7 kg, la période orbitale est de 142603000.0 et l'apoapsis mesure 440756000.0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="7" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | epoch | &quot;December 31, 2006 (JD2454100.5)&quot;</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | escapeVelocity | &quot;0.0455&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+        <otriple>110_Lydia | mass | &quot;6.7&quot;^^&lt;http://dbpedia.org/datatype/kilogram&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>110_Lydia | escapeVelocity | &quot;163.8&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | mass | &quot;6700.0&quot;^^xsd:double</otriple>
+        <otriple>110_Lydia | orbitalPeriod | 1.42603e+08</otriple>
+        <otriple>110_Lydia | periapsis | 3.77016e+11</otriple>
+        <otriple>110_Lydia | epoch | &quot;2006-12-31&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>110_Lydia | mass | 6.7 (kilograms)</mtriple>
+        <mtriple>110_Lydia | orbitalPeriod | 142603000.0</mtriple>
+        <mtriple>110_Lydia | periapsis | 377016000000.0</mtriple>
+        <mtriple>110_Lydia | epoch | 2006-12-31</mtriple>
+        <mtriple>110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">110 Lydia, mass 6.7kg, has an orbital period of 142603000.0 and a periapsis of 377016000000.0. Its epoch date is 31 December 2006 and the escape velocity is 0.0455 km/s.</lex>
+      <lex comment="" lid="Id1" lang="fr">110 Lydia, masse 6,7 kg, a une période orbitale de 142603000.0 et une périapsis de 377016000000.0 ; son époque est le 31 décembre 2006 et la vitesse de fuite est de 0,0455 km / s.</lex>
+      <lex comment="" lid="Id2" lang="en">110 Lydia's epoch is 31st December 2006 and it has an escape velocity of 0.0455 km per sec. It has a mass of 6.7 kg, an orbital period of 142603000.0 and a periapsis of 377016000000.0.</lex>
+      <lex comment="" lid="Id2" lang="fr">110 L &quot;époque de Lydia est le 31 décembre 2006 avec une vitesse de fuite de 0.0455 km / s, une masse de 6.7 kg, une période orbitale de 142603000.0 et une périapsis de 377016000000.0.</lex>
+      <lex comment="" lid="Id3" lang="en">110 Lydia, with a mass of 6.7 kg, an epoch of 31st December 2006 and an escape velocity of 0.0455 kmps has an orbital period of 142603000.0. The periapsis measurement for 110 Lydia is 377016000000.0.</lex>
+      <lex comment="" lid="Id3" lang="fr">110 Lydia, avec une masse de 6,7 kg, une époque du 31 décembre 2006 et une vitesse de fuite de 0,0455 kmps a une période orbitale de 142603000.0 La périapsis mesurée pour 110 Lydia est de 377016000000.0.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="8" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone, discovered by Nikolai Chernykh, has an average speed of 18.29 km per second and an epoch date of 26 November 2005. Its periapsis is 296521000.0 and its apoapsis is 475426000 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Le claudiomaccone, découvert par Nikolai Chernykh, a une vitesse moyenne de 18,29 km / s et date du 26 novembre 2005 ; sa périapsis est de 296521000.0 et son apoapsis de 475426000 km.</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone, discovered by Nikolai Chernykh, has an average speed of 18.29 km per second and epoch date of 26 November 2005. Its periapsis is at 296521000.0 km and its apoapsis is 475426000 km.</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Le claudiomaccone, découvert par Nikolai Chernykh, a une vitesse moyenne de 18,29 km / s et date du 26 novembre 2005 ; sa périapsis est de 296521000.0 km et son apoapsis de 475426000 km.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone was discovered by Nikolai Chernykh and it has an average speed of 18.29km/s and its epoch date was on November 26th 2005.It has a periapsis of 296521000.0 (kilometres) and its apoapsis is 475426000 kms.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Claudiomaccone a été découvert par Nikolai Chernykh et il a une vitesse moyenne de 18.29km / s et sa date d'époque était le 26 Novembre 2005.Il a une périapsis de 296521000.0 (kilomètres) et son apoapsis est de 475426000 kms.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="9" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | &quot;1513.722&quot;^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | Planet/orbitalPeriod | &quot;1513.722&quot;^^&lt;http://dbpedia.org/datatype/day&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The asteroid called 11264 Claudiomaccone, discovered by Nikolai Chernykh, has an average speed of 18.29 km/sec, an orbital period is 1513.722 days, an epoch date of 26 November 2005, and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'astéroïde 11264 Claudiomaccone, découvert par Nikolai Chernykh, a une vitesse moyenne de 18,29 km / s, une période orbitale de 1513,722 jours, une date d'époque du 26 novembre 2005 et une apoapsis de 475426000,0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">The celestail body known as 11264 Claudiomaccone was discovered by Nikolai Chernykh and has the epoch date 26 November 2005. It has an apoapsis of 475426000 kilometres, an orbital period of 1513.722 days and an average speed of 18.29 kmps.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le corps céleste connu sous le nom de 11264 Claudiomaccone a été découvert par Nikolai Chernykh et date du 26 novembre 2005 ; il a une apoapsis de 475426000 kilomètres, une période orbitale de 1513.722 jours et une vitesse moyenne de 18.29 kmps.</lex>
+      <lex comment="" lid="Id3" lang="en">The celestial body known as 11264 Claudiomaccone, discovered by Nikolai Chernykh, has an average speed of 18.29km/s, an orbital period of 1513.722 days, an epoch date of 26 November 2005,and an apoapsis of 475426000.0 km.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le corps céleste connu sous le nom de 11264 Claudiomaccone, découvert par Nikolai Chernykh, a une vitesse moyenne de 18,29 km / s, une période orbitale de 1513,722 jours, une date d'époque du 26 novembre 2005 et une apoapsie de 475426000,0 km.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="10" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | averageSpeed | &quot;65844.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | averageSpeed | &quot;65844.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | Planet/averageSpeed | &quot;18.29&quot;^^&lt;http://dbpedia.org/datatype/kilometrePerSecond&gt;</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | averageSpeed | 18.29 (kilometrePerSeconds)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone has a periapsis of 296521000.0 (kilometres),an average speed of 18.29 kms per second and its epoch date was on 26 November 2005.It has an orbital period of 1513.722 days and its apoapsis is 475426000.0 kilometres.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Le Claudiomaccone a une périapsis de 296521000.0 (kilomètres), une vitesse moyenne de 18.29 kms par seconde et sa date d'époque était le 26 Novembre 2005. Il a une période orbitale de 1513.722 jours et son apoapsis est de 475426000.0 kilomètres.</lex>
+      <lex comment="" lid="Id2" lang="en">11264 Claudiomaccone, which has the epoch date of 26 November 2005, is an asteroid with the average speed of 18.29 km per sec and an orbital period of 1513.722 days. It's apoapsis is 475426000 kilometres and the periapsis is 296521000.0 kilometres.</lex>
+      <lex comment="" lid="Id2" lang="fr">11264 Le Claudiomaccone, qui date du 26 novembre 2005, est un astéroïde dont la vitesse moyenne est de 18,29 km / s et la période orbitale de 1513,722 jours ; son apoapsis est de 475426000 kilomètres et la périapsis de 296521000,0 kilomètres.</lex>
+      <lex comment="" lid="Id3" lang="en">The asteroid 11264 Claudiomaccone has an average speed of 18.29 kilometres per second and an orbital period of 1,513.722 days. Its epoch is November 26th, 2005 while its periapsis is 296,521,000 kilometres and it an apoapsis of 475,426,000 kilometres.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'astéroïde 11264 Claudiomaccone a une vitesse moyenne de 18,29 kilomètres par seconde et une période orbitale de 1 513,722 jours ; son âge est le 26 novembre 2005, son périapsis est de 296 521 000 kilomètres et son apoapsis de 475 426 000 kilomètres.</lex>
+    </entry>
+    <entry category="CelestialBody" eid="11" size="5" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | epoch | &quot;2005-11-26&quot;^^xsd:date</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11264_Claudiomaccone | epoch | &quot;November 26, 2005 (JD2453700.5)&quot;</otriple>
+        <otriple>11264_Claudiomaccone | orbitalPeriod | 1.30786e+08</otriple>
+        <otriple>11264_Claudiomaccone | periapsis | 2.96521e+11</otriple>
+        <otriple>11264_Claudiomaccone | Planet/apoapsis | &quot;4.75426E8&quot;^^&lt;http://dbpedia.org/datatype/kilometre&gt;</otriple>
+        <otriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11264_Claudiomaccone | epoch | 2005-11-26</mtriple>
+        <mtriple>11264_Claudiomaccone | orbitalPeriod | 1513.722 (days)</mtriple>
+        <mtriple>11264_Claudiomaccone | periapsis | 296521000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | apoapsis | 475426000.0 (kilometres)</mtriple>
+        <mtriple>11264_Claudiomaccone | discoverer | Nikolai_Chernykh</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">11264 Claudiomaccone, discovered by Nikolai Chernykh, has an epoch date of 26 November 2005 and an orbital period of 1513.722 days. Its periapsis is 296521000.0 km and its apoapsis is 475426000.0 km.</lex>
+      <lex comment="" lid="Id1" lang="fr">11264 Le Claudiomaccone, découvert par Nikolai Chernykh, date du 26 novembre 2005 et a une période orbitale de 1513.722 jours ; sa périapsis est de 296521000.0 km et son apoapsis de 475426000.0 km.</lex>
+      <lex comment="" lid="Id2" lang="en">The orbital period for 11264 Claudiomaccone is 1513.722 days,has a periapsis of 296521000.0 (kilometres) and it was discovered by Nikolai Chernykh.It has an apoapsis of 475426000 kilometres and its epoch date was on November 26th 2005.</lex>
+      <lex comment="" lid="Id2" lang="fr">La période orbitale pour 11264 Claudiomaccone est de 1513.722 jours, a une périapsis de 296521000.0 (kilomètres) et il a été découvert par Nikolai Chernykh.Il a une apoapsis de 475426000 kilomètres et sa date d'époque était le 26 Novembre 2005.</lex>
+      <lex comment="" lid="Id3" lang="en">11264 Claudiomaccone, which was discovered by Nikolai Chernykh has the epoch date of 26 November 2005. It has a periapsis of 296521000.0, an apoapsis of 475426000 kms and the orbital period is 1513.722 days.</lex>
+      <lex comment="" lid="Id3" lang="fr">11264 Le Claudiomaccone, découvert par Nikolai Chernykh, date du 26 novembre 2005, a un périapsis de 296521000.0, une apoapsis de 475426000 km et une période orbitale de 1513.722 jours.</lex>
+    </entry>
+  </entries>
+</benchmark>

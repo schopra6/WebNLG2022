@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | nationality | United_States</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | nationality | United_States</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The American William Anders was born in British Hong Kong,.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Américain William Anders est né à Hong Kong.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders, who was from the United States, was actually born in British Hong Kong.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders, originaire des États-Unis, est en fait né à Hong Kong, en Grande-Bretagne.</lex>
+      <lex comment="" lid="Id3" lang="en">Although William Anders was from the United States, he was actually born in British Hong Kong.</lex>
+      <lex comment="" lid="Id3" lang="fr">Bien que William Anders soit originaire des États-Unis, il est en fait né à Hong Kong, en Grande-Bretagne.</lex>
+      <lex comment="" lid="Id4" lang="en">William Anders nationality is the United States, but he was born in Hong Kong.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders est de nationalité américaine, mais il est né à Hong Kong.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders was born in British Hong Kong but has a United States nationality.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne, mais il a la nationalité américaine.</lex>
+      <lex comment="" lid="Id6" lang="en">William Anders from the United States was born in British Hong Kong.</lex>
+      <lex comment="" lid="Id6" lang="fr">William Anders, des États-Unis, est né à Hong Kong, en Grande-Bretagne.</lex>
+      <lex comment="" lid="Id7" lang="en">William Anders was born in British Hong Kong and is a citizen of the United States.</lex>
+      <lex comment="" lid="Id7" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne, et est citoyen des États-Unis.</lex>
+    </entry>
+    <entry category="Astronaut" eid="2" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | birthPlace | British_Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | birthPlace | British_Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders was born in British Hong Kong and later in life became a fighter pilot.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders est né à Hong Kong, en Grande-Bretagne, et est devenu plus tard pilote de chasse.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was a fighter pilot who was born in British, Hong Kong.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders était un pilote de chasse né en Grande-Bretagne, à Hong Kong.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders (born in British Hong Kong) served as a Fighter pilot.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders (né à Hong Kong, en Grande-Bretagne) a servi comme pilote de chasse.</lex>
+      <lex comment="" lid="Id4" lang="en">Willian Anders born in British Hong Kong served as a fighter pilot.</lex>
+      <lex comment="" lid="Id4" lang="fr">Willian Anders, né à Hong Kong, en Grande-Bretagne, a servi comme pilote de chasse.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders, born in British Hong Kong, was a fighter pilot.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders, né à Hong Kong, en Grande-Bretagne, était pilote de chasse.</lex>
+    </entry>
+    <entry category="Astronaut" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | occupation | Fighter_pilot</otriple>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | occupation | Fighter_pilot</mtriple>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders is a test pilot and member of Apollo 8's crew.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders est pilote d'essai et membre de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders was part of the Apollo 8 crew and was once a fighter pilot.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders faisait partie de l'équipage de l'Apollo 8 et a déjà été pilote de chasse.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was a fighter pilot and a crew member of Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders était pilote de chasse et membre d &quot;équipage d'Apollo 8.</lex>
+    </entry>
+    <entry category="Astronaut" eid="4" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | years | 1976</otriple>
+        <otriple>William_Anders | title | United_States_Ambassador_to_Norway</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | servedAsChiefOfTheAstronautOfficeIn | 1976</mtriple>
+        <mtriple>William_Anders | title | United_States_Ambassador_to_Norway</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">William Anders served as Chief of the Astronaut Office in 1976 and had a title as the United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders a été chef du Bureau des astronautes en 1976 et a reçu le titre d'ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id2" lang="en">William Anders time as Chief of the Astronaut Office in 1976 has prepared him well for his new position as United States Ambassador to Norway.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders a été chef du Bureau des astronautes en 1976, ce qui l'a bien préparé à son nouveau poste d'ambassadeur des États-Unis en Norvège.</lex>
+      <lex comment="" lid="Id3" lang="en">Th United States Ambassador to Norway, William Anders, served as Chief of the Astronaut Office in 1976.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders, ambassadeur des États-Unis en Norvège, a été chef du Bureau des astronautes en 1976.</lex>
+    </entry>
+    <entry category="Astronaut" eid="5" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>William_Anders | mission | Apollo_8</otriple>
+        <otriple>Apollo_8 | crewMembers | Frank_Borman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | mission | Apollo_8</mtriple>
+        <mtriple>Apollo_8 | crewMembers | Frank_Borman</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Both William Anders and Frank Borman were crew members aboard Apollo 8.</lex>
+      <lex comment="" lid="Id1" lang="fr">William Anders et Frank Borman faisaient partie de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="en">Both William Anders and Frank Borman served as crew members on Apollo 8.</lex>
+      <lex comment="" lid="Id2" lang="fr">William Anders et Frank Borman ont tous deux servi comme membres d'équipage sur Apollo 8.</lex>
+      <lex comment="" lid="Id3" lang="en">Among the crew of Apollo 8 were William Anders and Frank Borman.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders et Frank Borman faisaient partie de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id4" lang="en">Among the crew members of Apollo 8 were William Anders and Frank Borman.</lex>
+      <lex comment="" lid="Id4" lang="fr">William Anders et Frank Borman faisaient partie de l'équipage d'Apollo 8.</lex>
+      <lex comment="" lid="Id5" lang="en">William Anders and Frank Borman were Apollo 8 were crew members.</lex>
+      <lex comment="" lid="Id5" lang="fr">William Anders et Frank Borman étaient membres de l'équipage d'Apollo 8.</lex>
+    </entry>
+    <entry category="Astronaut" eid="6" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>William_Anders | selection | 1963</otriple>
+        <otriple>William_Anders | birthDate | &quot;1933-10-17&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>William_Anders | selectedByNasa | 1963</mtriple>
+        <mtriple>William_Anders | birthDate | &quot;1933-10-17&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Born on 17 October, 1933, William Anders joined NASA in 1963.</lex>
+      <lex comment="" lid="Id1" lang="fr">Né le 17 octobre 1933, William Anders entre à la NASA en 1963.</lex>
+      <lex comment="" lid="Id2" lang="en">Born on October 17, 1933, William Anders was selected by NASA in 1963.</lex>
+      <lex comment="" lid="Id2" lang="fr">Né le 17 octobre 1933, William Anders a été choisi par la NASA en 1963.</lex>
+      <lex comment="" lid="Id3" lang="en">William Anders was born on October 17th, 1933 and joined NASA in 1963.</lex>
+      <lex comment="" lid="Id3" lang="fr">William Anders est né le 17 octobre 1933 et s'est joint à la NASA en 1963.</lex>
+    </entry>
+  </entries>
+</benchmark>

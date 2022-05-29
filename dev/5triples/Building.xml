@@ -1,0 +1,407 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Japan | leader | Akihito</otriple>
+        <otriple>Akita,_Akita | subdivisionName | Akita_Prefecture</otriple>
+        <otriple>Japan | ethnicGroup | Brazilians_in_Japan</otriple>
+        <otriple>Akita,_Akita | country | Japan</otriple>
+        <otriple>Akita_Museum_of_Art | location | Akita,_Akita</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Japan | leader | Akihito</mtriple>
+        <mtriple>Akita,_Akita | isPartOf | Akita_Prefecture</mtriple>
+        <mtriple>Japan | ethnicGroup | Brazilians_in_Japan</mtriple>
+        <mtriple>Akita,_Akita | country | Japan</mtriple>
+        <mtriple>Akita_Museum_of_Art | location | Akita,_Akita</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Akita Museum of Art is located in Akita, Akita which is part of Akita Prefecture, Japan. The emperor of Japan is Akihito and one of the ethnic groups in the country is the Brazilians.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Musée d'Art d'Akita est situé à Akita, qui fait partie de la Préfecture d'Akita, Japon. L'empereur du Japon est Akihito et l'un des groupes ethniques du pays est les Brésiliens.</lex>
+      <lex comment="" lid="Id2" lang="en">The Akita Museum of Art is located in Akita, Akita Prefecture, Japan. The Emperor of Japan is Akihito and one of the country's ethnic groups are the Brazilians.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Musée d'Art d'Akita est situé à Akita, Préfecture d'Akita, Japon. L'Empereur du Japon est Akihito et l'un des groupes ethniques du pays sont les Brésiliens.</lex>
+      <lex comment="" lid="Id3" lang="en">The Akita Museum of Art is located in Akita, Akita which is part of Akita Prefecture, Japan. The leader of Japan is called Akihito and the Brazilians in Japan are an ethnic group found in the country.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le Musée d'Art d'Akita est situé à Akita, qui fait partie de la Préfecture d'Akita, Japon. Le chef du Japon s'appelle Akihito et les Brésiliens au Japon sont un groupe ethnique que l'on trouve dans le pays.</lex>
+    </entry>
+    <entry category="Building" eid="2" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+        <otriple>United_Kingdom | currency | Pound_sterling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>London | leader | Boris_Johnson</mtriple>
+        <mtriple>United_Kingdom | currency | Pound_sterling</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Parliament of the United Kingdom, along with Boris Johnson are leaders in London, the capital of the United Kingdom. The UK used the pound sterling as currency and is the location of 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Parlement du Royaume-Uni et Boris Johnson sont les dirigeants de Londres, la capitale du Royaume-Uni, qui utilisait la livre sterling comme monnaie et où se trouve le 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id2" lang="en">20 Fenchurch Street is located within the United Kingdom, the capital of which is London (leader Boris Johnson). The currency of the UK is the Pound Sterling and the Parliament of the United Kingdom is the leader of London.</lex>
+      <lex comment="" lid="Id2" lang="fr">20 Fenchurch Street est situé au Royaume-Uni, dont la capitale est Londres (le leader Boris Johnson). La monnaie du Royaume-Uni est la livre sterling et le Parlement du Royaume-Uni est le leader de Londres.</lex>
+    </entry>
+    <entry category="Building" eid="3" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>London | leader | Boris_Johnson</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Elizabeth II is a leader of the United Kingdom and Boris Johnson is a leader in the capital city of London along with the Parliament of the United Kingdom. The country is the location of 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id1" lang="fr">Elizabeth II est une dirigeante du Royaume-Uni et Boris Johnson est une dirigeante de la capitale, Londres, aux côtés du Parlement du Royaume-Uni.</lex>
+      <lex comment="" lid="Id2" lang="en">London, the capital of the UK, is led by the Parliament of the United Kingdom along with Boris Johnson. Elizabeth II is leader of the United Kingdom which is the location of 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id2" lang="fr">Londres, capitale du Royaume-Uni, est dirigée par le Parlement du Royaume-Uni avec Boris Johnson. Elizabeth II est la dirigeante du Royaume-Uni, qui est situé au 20 Fenchurch Street.</lex>
+    </entry>
+    <entry category="Building" eid="4" size="5" shape="(X (X (X) (X (X) (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>United_Kingdom | demonym | British_people</otriple>
+        <otriple>London | leaderName | Boris_Johnson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>United_Kingdom | demonym | British_people</mtriple>
+        <mtriple>London | leader | Boris_Johnson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The government of the UK is the Parliament and its capital is London. London's leader is Boris Johnson. 20 Fenchurch Street is located in the UK. The demonym for natives of the UK is the British people.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gouvernement du Royaume-Uni est le Parlement et sa capitale est Londres. Le chef de file de Londres est Boris Johnson. 20 Fenchurch Street est situé au Royaume-Uni. Le démonyme pour les natifs du Royaume-Uni est le peuple britannique.</lex>
+      <lex comment="" lid="Id2" lang="en">20 Fenchurch Street is located in the United Kingdom, the capital of which is London. The leader of London is called Boris Johnson, the Parliament of the United Kingdom is also the leader of the city. Natives of the UK are called British people.</lex>
+      <lex comment="" lid="Id2" lang="fr">20 Fenchurch Street est situé au Royaume-Uni, dont la capitale est Londres. Le chef de Londres s'appelle Boris Johnson, le Parlement du Royaume-Uni est également le chef de la ville. Les natifs du Royaume-Uni sont appelés les Britanniques.</lex>
+    </entry>
+    <entry category="Building" eid="5" size="5" shape="(X (X (X) (X) (X (X))))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>London | leaderTitle | Parliament_of_the_United_Kingdom</otriple>
+        <otriple>20_Fenchurch_Street | location | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>United_Kingdom | demonym | British_people</otriple>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>London | leaderTitle | Parliament_of_the_United_Kingdom</mtriple>
+        <mtriple>20_Fenchurch_Street | location | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>United_Kingdom | demonym | British_people</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Natives of the United kingdom are called British people, their leader is Elizabeth II and 20 Fenchurch Street is located there. The capital is London and their leader is the Parliament of the United Kingdom.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les autochtones du Royaume-Uni sont appelés les Britanniques, leur chef est Elizabeth II et 20 Fenchurch Street s'y trouve. La capitale est Londres et leur chef est le Parlement du Royaume-Uni.</lex>
+      <lex comment="" lid="Id2" lang="en">The native people of the United Kingdom are led by Elizabeth II and are known as British. The Parliament of the UK is the leader of London, the capital city, and the country is the location of 20 Fenchurch Street.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les peuples autochtones du Royaume-Uni sont dirigés par Elizabeth II et sont connus sous le nom de Britanniques. Le Parlement du Royaume-Uni est le chef de Londres, la capitale, et le pays est l'emplacement du 20 Fenchurch Street.</lex>
+    </entry>
+    <entry category="Building" eid="6" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leaderName | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+        <otriple>Republic_of_Ireland | currency | Euro</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+        <otriple>Republic_of_Ireland | demonym | Irish_people</otriple>
+        <otriple>Republic_of_Ireland | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+        <mtriple>Republic_of_Ireland | demonym | Irish_people</mtriple>
+        <mtriple>Republic_of_Ireland | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adare Manor is located in the Republic of Ireland, his leader is Enda Kenny. Irish people are the inhabitants and they speak English language. The currency is the euro.</lex>
+      <lex comment="" lid="Id1" lang="fr">Adare Manor est situé en République d'Irlande, son leader est Enda Kenny. Les Irlandais sont les habitants et ils parlent anglais. La devise est l'euro.</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor is in the Republic of Ireland, where English is the main language used by the Irish. The leader of the Republic of Ireland is Enda Kenny, and the currency used is the Euro.</lex>
+      <lex comment="" lid="Id2" lang="fr">Adare Manor est situé en République d'Irlande, où l'anglais est la langue principale utilisée par les Irlandais, le leader de la République d'Irlande est Enda Kenny, et la devise utilisée est l'Euro.</lex>
+    </entry>
+    <entry category="Building" eid="7" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Washington Dc is the capital of the United States, home to 250 Delaware Avenue, and led by Barak Obama and Joe Biden.</lex>
+      <lex comment="" lid="Id1" lang="fr">Washington Dc est la capitale des États-Unis, siège du 250 Delaware Avenue, et est dirigée par Barak Obama et Joe Biden.</lex>
+    </entry>
+    <entry category="Building" eid="8" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan and Joe Biden are leaders in the United States which is led by the President. The capital city is Washington DC and the country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Ryan et Joe Biden sont les chefs de file aux États-Unis, sous la direction du président. La capitale est Washington DC et le pays est situé au 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, where the capital is Washington DC and the leader has the title President of the United States. Joe Biden and Paul Ryan are leaders of the US.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où la capitale est Washington DC et où le dirigeant a le titre de président des États-Unis. Joe Biden et Paul Ryan sont les dirigeants des États-Unis.</lex>
+    </entry>
+    <entry category="Building" eid="9" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The President is the leader of the United States where John Roberts and Joe Biden are both leaders. The US is the location of 250 Delaware Avenue and has the capital of Washington DC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le président est le leader des États-Unis, où John Roberts et Joe Biden sont tous les deux leaders. Les États-Unis sont situés au 250 Delaware Avenue et ont la capitale de Washington DC.</lex>
+      <lex comment="" lid="Id2" lang="en">Washington DC is the capital of the United States where the country's leader is known as the President. Joe Biden is a leader in the US and the Chief Justice of the USA is John Roberts. The country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="fr">Washington DC est la capitale des États-Unis où le dirigeant du pays est connu sous le nom de président. Joe Biden est un dirigeant aux États-Unis et le président de la Cour suprême des États-Unis est John Roberts. Le pays est situé au 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="10" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | John_Roberts</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is a leader in the United States where the leader is the President and the current Chief Justice is John Roberts. The capital city is Washington DC and the country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Ryan est un chef de file aux États-Unis, où il est le président et où le juge en chef actuel est John Roberts. La capitale est Washington DC et le pays est situé au 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="11" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, where Washington DC is the capital. The leader of the United States is known as the President of the United States, and other key leaders include Paul Ryan and Barack Obama.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux Etats-Unis, où Washington DC est la capitale, le leader des Etats-Unis est connu sous le nom de Président des Etats-Unis, et d'autres leaders importants sont Paul Ryan et Barack Obama.</lex>
+      <lex comment="" lid="Id2" lang="en">The current leader of the United States which has the capital city of Washington DC is President Barack Obama. Another leader is Paul Ryan and the country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le président Barack Obama est le dirigeant actuel des États-Unis, dont la capitale est Washington D.C. Un autre dirigeant est Paul Ryan et le pays est situé au 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="12" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United States is led by a President who was Barack Obama, the language spoken is English and one of the ethnic groups are the African Americans. The US is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les États-Unis sont dirigés par un président qui était Barack Obama, la langue parlée est l'anglais et l'un des groupes ethniques est les Afro-Américains.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States. A country where the leader is known as President of the United States. Barack Obama is the President in this English speaking country where one of the ethnic groups is African Americans.</lex>
+      <lex comment="" lid="Id2" lang="fr">250 Delaware Avenue is located in the United States. A country where the leader is known as President of the United States. Barack Obama is the President in this English speaking country where one of the ethnic groups is African Americans.</lex>
+    </entry>
+    <entry category="Building" eid="13" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located within the United States where English is the language and the Native Americans are an ethnic group. John Roberts is a leader in the United States where the country's leader is titled the President of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où l'anglais est la langue et où les Amérindiens constituent un groupe ethnique, tandis que John Roberts est un chef de file aux États-Unis, où le chef du pays porte le titre de président des États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States which has English as it's language and the ethnic group of Native Americans can be found. The leader of the US is titled the President and the current Chief Justice is John Roberts.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, dont la langue est l'anglais et où l'on trouve le groupe ethnique des Amérindiens. Le chef des États-Unis porte le titre de président et le juge en chef actuel est John Roberts.</lex>
+    </entry>
+    <entry category="Building" eid="14" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, where a leader is Paul Ryan. Native Americans are an ethnic group in the United States, where the language spoken is English and the leader is President of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où le chef est Paul Ryan, tandis que les Amérindiens constituent un groupe ethnique aux États-Unis, où la langue parlée est l'anglais et où le chef est le président des États-Unis.</lex>
+    </entry>
+    <entry category="Building" eid="15" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the United States of America (where English is the primary language) is President Barack Obama. One United States ethnic group is White Americans . Additionally 250 Delaware Avenue is located in the USA.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dirigeant des États-Unis d'Amérique (où l'anglais est la langue principale) est le président Barack Obama. Un groupe ethnique des États-Unis est composé de Blancs américains et le 250 Delaware Avenue est situé aux États-Unis.</lex>
+    </entry>
+    <entry category="Building" eid="16" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, where the English language is spoken, and one of the ethnic groups is Asians. The President of the United States is the most important leader, and Joe Biden is also a leader.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où l'on parle l'anglais, et l'un des groupes ethniques est asiatique ; le président des États-Unis est le chef le plus important, et Joe Biden est aussi un chef.</lex>
+      <lex comment="" lid="Id2" lang="en">The Asians are an ethnic group in the United States which uses the English language. The leader of the country is Joe Biden who has the title of President. The country is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Asiatiques sont un groupe ethnique aux États-Unis qui utilise la langue anglaise. Le chef du pays est Joe Biden qui a le titre de président. Le pays est situé au 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States, where the leader is know as the President of the United States. One of the leaders in the US is Joe Biden and an ethnic group of the United States (where English is the language) is Asian Americans.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où le chef est connu sous le nom de président des États-Unis, dont Joe Biden et un groupe ethnique des États-Unis (dont l'anglais est la langue) est composé d'Américains d'origine asiatique.</lex>
+    </entry>
+    <entry category="Building" eid="17" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States where the English language is spoken. One of the leaders is John Roberts and the country is led by the President. The Asian Americans are an ethnic group within the country.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où l'on parle l'anglais. L'un des dirigeants est John Roberts et le pays est dirigé par le président. Les Américains d'origine asiatique constituent un groupe ethnique à l'intérieur du pays.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, where English is the official language, and an ethnic group present is Asians. The title of the leader is President of the United States; John Roberts is also a leader.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où l'anglais est la langue officielle et où les Asiatiques sont un groupe ethnique présent. Le titre du chef est président des États-Unis ; John Roberts est également un chef.</lex>
+    </entry>
+    <entry category="Building" eid="18" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John Roberts is the Chief Justice of the USA which is led by the President. 250 Delaware Avenue is located in the country which uses the English language and where one of the ethnic groups are White Americans.</lex>
+      <lex comment="" lid="Id1" lang="fr">John Roberts est le président des États-Unis, dirigé par le président. Le 250 Delaware Avenue est situé dans le pays où l'on parle anglais et où l'un des groupes ethniques est constitué de Blancs américains.</lex>
+    </entry>
+    <entry category="Building" eid="19" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The White Americans are an ethnic group in the United States which uses the English language. The country is the location of 250 Delaware Avenue and is led by the President. One of the leaders in the country is Paul Ryan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Américains blancs sont un groupe ethnique des États-Unis qui utilise l'anglais. Le pays est situé au 250 Delaware Avenue et est dirigé par le président. Un des dirigeants du pays est Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language of the United States which is led by a President and has the ethnic group of White Americans. The country is the location of 250 Delaware Avenue and has Paul Ryan as one of it's leaders.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'anglais est la langue des États-Unis, avec à sa tête un président et un groupe ethnique de Blancs américains. Le pays est situé au 250 Delaware Avenue et Paul Ryan en est l'un des dirigeants.</lex>
+    </entry>
+  </entries>
+</benchmark>

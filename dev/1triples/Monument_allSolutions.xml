@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The currency of Turkey is Turkish Lira.</lex>
+      <lex comment="" lid="Id1" lang="fr">La monnaie de la Turquie est la lire turque.</lex>
+      <lex comment="" lid="Id2" lang="en">The currency of Turkey is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="fr">La monnaie de la Turquie est la lire turque.</lex>
+      <lex comment="" lid="Id3" lang="en">The currency in Turkey is the Turkish Lira.</lex>
+      <lex comment="" lid="Id3" lang="fr">La devise turque est la lire turque.</lex>
+      <lex comment="" lid="Id4" lang="en">Turkey's currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id4" lang="fr">La monnaie de la Turquie est la lire turque.</lex>
+      <lex comment="" lid="Id5" lang="en">the currency used in Turkey is lira.</lex>
+      <lex comment="" lid="Id5" lang="fr">la devise utilisée en Turquie est la lire.</lex>
+      <lex comment="" lid="Id6" lang="en">The Turkish currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id6" lang="fr">La monnaie turque est la lire turque.</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The largest city in Turkey is Istanbul.</lex>
+      <lex comment="" lid="Id1" lang="fr">Istanbul est la plus grande ville de Turquie.</lex>
+      <lex comment="" lid="Id2" lang="en">Istanbul is the largest city in Turkey.</lex>
+      <lex comment="" lid="Id2" lang="fr">Istanbul est la plus grande ville de Turquie.</lex>
+      <lex comment="" lid="Id3" lang="en">Turkey's largest City is Istanbul.</lex>
+      <lex comment="" lid="Id3" lang="fr">Istanbul est la plus grande ville de Turquie.</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ahmet Davutoglu is a leader of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ahmet Davutoglu est un dirigeant de la Turquie.</lex>
+      <lex comment="" lid="Id2" lang="en">Ahmet Davutoglu is the leader of Turkey.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ahmet Davutoglu est le dirigeant de la Turquie.</lex>
+      <lex comment="" lid="Id3" lang="en">Leader of Turkey is Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le dirigeant de la Turquie est Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id4" lang="en">Ahmet_Davutoğlu is Turkey's leader.</lex>
+      <lex comment="" lid="Id4" lang="fr">Ahmet _ Davutoğlu est le dirigeant de la Turquie.</lex>
+      <lex comment="" lid="Id5" lang="en">The Leader Of Turkey is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id5" lang="fr">Le dirigeant de la Turquie est Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id6" lang="en">Ahmet Davutoglu is the Turkish leader.</lex>
+      <lex comment="" lid="Id6" lang="fr">Ahmet Davutoglu est le dirigeant turc.</lex>
+      <lex comment="" lid="Id7" lang="en">Turkey's leader is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id7" lang="fr">Le dirigeant de la Turquie est Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id8" lang="en">Turkey leader name is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id8" lang="fr">Le nom du dirigeant turc est Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id9" lang="en">The Turkish leader's name is Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id9" lang="fr">Le nom du dirigeant turc est Ahmet Davutoglu.</lex>
+    </entry>
+    <entry category="Monument" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader's title in Turkey is the President of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le titre de dirigeant en Turquie est celui de président de la Turquie.</lex>
+      <lex comment="" lid="Id2" lang="en">Turkey's leader is the President of Turkey.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le dirigeant de la Turquie est le président de la Turquie.</lex>
+      <lex comment="" lid="Id3" lang="en">President of Turkey is the official title of the Turkish leader.</lex>
+      <lex comment="" lid="Id3" lang="fr">Président de la Turquie est le titre officiel du dirigeant turc.</lex>
+    </entry>
+  </entries>
+</benchmark>

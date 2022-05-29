@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Ernie_Colón</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ernie Colton and Paris Cullins created the comic character Bolt. Cullins is from the US.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ernie Colton et Paris Cullins ont créé le personnage de bande dessinée Bolt.</lex>
+      <lex comment="" lid="Id2" lang="en">Bolt was created by Ernie Colon and Paris Cullins who is an American.</lex>
+      <lex comment="" lid="Id2" lang="fr">Bolt a été créé par Ernie Colon et Paris Cullins, un Américain.</lex>
+      <lex comment="" lid="Id3" lang="en">The comic character of Bolt is created by Ernie Colon and the US National, Paris Cullins.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le personnage comique de Bolt est créé par Ernie Colon et le National américain, Paris Cullins.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Gary_Cohn_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paris_Cullins | nationality | United_States</otriple>
+        <otriple>Bolt_(DC_Comics) | creators | Gary_Cohn_(comics)</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Paris_Cullins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Paris_Cullins | nationality | United_States</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Gary_Cohn_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book writer Gary Cohn and US National Paris Cullins created the comic character of Bolt.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dessinateur de bandes dessinées Gary Cohn et le National Paris Cullins américain ont créé le personnage de bande dessinée de Bolt.</lex>
+      <lex comment="" lid="Id2" lang="en">The comic character Bolt was created by Paris Cullins and Gary Cohn, the former being a United States national.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le personnage de bande dessinée Bolt a été créé par Paris Cullins et Gary Cohn, le premier étant un ressortissant des États-Unis.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | &quot;Dane Whitman&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | &quot;Dane Whitman&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | &quot;Dane Whitman&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character Dane Whitman Black Knight, created by Roy Thomas and John Buscema, is also known as simply Dane Whitman.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le personnage comique Dane Whitman Black Knight, créé par Roy Thomas et John Buscema, est aussi connu simplement sous le nom de Dane Whitman.</lex>
+      <lex comment="" lid="Id2" lang="en">Dane Whitman, aka Black Knight, was created by John Buschema and Roy Thomas.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dane Whitman, alias Black Knight, a été créé par John Buschema et Roy Thomas.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>John_Buscema | nationality | Americans</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character, Dane Whitman Black Knight was created by Roy Thomas and the American, John Buscema.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le personnage comique Dane Whitman Black Knight a été créé par Roy Thomas et l'Américain John Buscema.</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book character Dane Whitman, also known as the Black Knight, was created by Roy Thomas and the American, John Buscema in the comics genre.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le personnage de bande dessinée Dane Whitman, également connu sous le nom de Black Knight, a été créé par Roy Thomas et l'Américain John Buscema dans le genre des bandes dessinées.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="5" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax was created by Steven T Seagle and the American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id1" lang="fr">Baymax a été créé par Steven T Seagle et l'Américain Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax was created by Steven T. Seagle and Duncan Rouleau who is an American.</lex>
+      <lex comment="" lid="Id2" lang="fr">Baymax a été créé par Steven T. Seagle et Duncan Rouleau, un Américain.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="6" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | fullName | &quot;Lambien&quot;@en</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | fullName | &quot;Lambien&quot;</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic character Auron's full name is Lambien and he was created by the American, Karl Kesel.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet du personnage de bande dessinée Auron est Lambien et il a été créé par l'américain Karl Kesel.</lex>
+      <lex comment="" lid="Id2" lang="en">Auron - full name Lambien - is a comic character created by the American Karl Kesel.</lex>
+      <lex comment="" lid="Id2" lang="fr">Auron - nom complet Lambien - est un personnage de bande dessinée créé par l'américain Karl Kesel.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="7" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | alterEgo | &quot;Jon Valor&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Black_Pirate | alterEgo | &quot;Jon Valor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Black_Pirate | alternativeName | &quot;Jon Valor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">American Sheldon Moldoff created the Black Pirate who is sometimes known as Jon Valor.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Américain Sheldon Moldoff a créé le Pirate Noir parfois connu sous le nom de Jon Valor.</lex>
+      <lex comment="" lid="Id2" lang="en">Sheldon Moldoff, an American national is the creator of Black Pirate AKA Jon Valor.</lex>
+      <lex comment="" lid="Id2" lang="fr">Sheldon Moldoff, de nationalité américaine, est le créateur de Black Pirate AKA Jon Valor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="8" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The American, Sheldon Moldoff, won the Inkpot Award for creating the Black Pirate.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Américaine Sheldon Moldoff a remporté le prix Inkpot pour la création du Pirate noir.</lex>
+      <lex comment="" lid="Id2" lang="en">The Black Pirate was created by the American Sheldon Moldoff, who went on to win the Inkpot Award.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Pirate noir a été créé par l'Américain Sheldon Moldoff, qui a gagné le prix Inkpot.</lex>
+      <lex comment="" lid="Id3" lang="en">Sheldon Moldoff was an American National who won the Inkpot Award and created the Black Pirate.</lex>
+      <lex comment="" lid="Id3" lang="fr">Sheldon Moldoff était un ressortissant américain qui a remporté le prix Inkpot et a créé le Pirate noir.</lex>
+    </entry>
+  </entries>
+</benchmark>

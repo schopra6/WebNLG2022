@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+        <otriple>Big_Hero_6_(film) | starring | Maya_Rudolph</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+        <mtriple>Big_Hero_6_(film) | starring | Maya_Rudolph</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Baymax a character in Big Hero 6 was created by the american Duncan Rouleau and by Steve T. Seagle. Maya Rudolph was one of the stars in the film version of Big Hero 6.</lex>
+      <lex comment="" lid="Id1" lang="fr">Baymax, un personnage de Big Hero 6, a été créé par l'américain Duncan Rouleau et Steve T. Seagle. Maya Rudolph était une des vedettes de la version cinématographique de Big Hero 6.</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax, is a character in Big Hero 6 whose creators are Steve T. Seagle and Duncan Rouleau, an American and it stars Maya Rudolph.</lex>
+      <lex comment="" lid="Id2" lang="fr">Baymax, est un personnage de Big Hero 6 dont les créateurs sont Steve T. Seagle et Duncan Rouleau, un Américain et il met en vedette Maya Rudolph.</lex>
+      <lex comment="" lid="Id3" lang="en">Baymax was created by American Duncan Rouleau and Steven T. Seagle. Baymax is a character in Big Hero 6 which stars Maya Rudolph.</lex>
+      <lex comment="" lid="Id3" lang="fr">Créé par l'Américain Duncan Rouleau et Steven T. Seagle, Baymax est un personnage de Big Hero 6 qui met en vedette Maya Rudolph.</lex>
+    </entry>
+  </entries>
+</benchmark>

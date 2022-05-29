@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="1" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University at Arhus was established in 1928. Arhus has a Magistrate government.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus d'Aarhus a été créée en 1928.</lex>
+      <lex comment="" lid="Id2" lang="en">The city of Aarhus has a magistrate type of government and is the location of the School of Business and Social Sciences at Aarhus University which was established in 1928.</lex>
+      <lex comment="" lid="Id2" lang="fr">La ville d'Aarhus est dotée d'un gouvernement de type magistrat et abrite la School of Business and Social Sciences de l'Université d'Aarhus, créée en 1928.</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University was established in 1928. Aarus is governed by a magistrate.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus a été créée en 1928. Aarus est dirigé par un magistrat.</lex>
+    </entry>
+    <entry category="University" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Denmark | religion | Church_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark's leader is Lars Lokke Rasmussen and Denmark's religion is the Church of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="fr">L &quot;École de commerce et de sciences sociales de l'Université d'Aarhus est située au Danemark ; son chef est Lars Lokke Rasmussen, et la religion danoise est l&quot; Église du Danemark.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Denmark. The leader of the country is Lars Lokke Rasmussen, and the state religion is the Church of Denmark.</lex>
+      <lex comment="" lid="Id2" lang="fr">L &quot;École de commerce et des sciences sociales de l'Université d'Aarhus est située au Danemark, le chef du pays est Lars Lokke Rasmussen, et la religion d&quot; État est l &quot;Église du Danemark.</lex>
+    </entry>
+    <entry category="University" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leaderTitle | Monarchy_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | leaderTitle | Monarchy_of_Denmark</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Denmark. Denmark has a monarch and Denmark's leader is called Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Ecole de commerce et de sciences sociales de l'Université d'Aarhus est située au Danemark. Le Danemark a un monarque et le leader danois s'appelle Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id2" lang="en">Lars Lokke Rasmussen is the leader of Denmark and has the title of Monarchy of Denmark. The country is the location of the School of Business and Social Sciences at the Aarhus University.</lex>
+      <lex comment="" lid="Id2" lang="fr">Lars Lokke Rasmussen est le chef du Danemark et porte le titre de monarchie danoise. Le pays est le siège de l &quot;École de commerce et des sciences sociales de l'Université d'Aarhus.</lex>
+    </entry>
+    <entry category="University" eid="4" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | &quot;Universitas Aarhusiensis&quot;@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | &quot;Universitas Aarhusiensis&quot;</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University (Latin name - &quot;Universitas Aarhusiensis&quot; was established in 1928 and it is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus (nom latin : &quot;Universitas Aarhusiensis&quot;) a été créée en 1928 et est affiliée à l'Association européenne des universités.</lex>
+      <lex comment="" lid="Id2" lang="en">&quot;Universias Aarhusiensis&quot; is the latin name of the School of Business and Social Sciences at Aarhus University which is affiliated to the European University Association. The School was established in 1928.</lex>
+      <lex comment="" lid="Id2" lang="fr">&quot;Universias Aarhusiensis&quot; est le nom latin de l &quot;École de commerce et des sciences sociales de l'Université d'Aarhus, affiliée à l'Association européenne des universités, fondée en 1928.</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University, affiliated with the European University Association, was established in 1928. Its Latin name is Universitas Aarhusiensis.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus, affiliée à l'Association européenne des universités, a été créée en 1928 sous le nom latin d'Universitas Aarhusiensis.</lex>
+    </entry>
+    <entry category="University" eid="5" size="3" shape="(X (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Denmark, has 16,000 students and was established in 1928.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus est située au Danemark ; elle compte 16,000 étudiants et a été créée en 1928.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University in Denmark was established in 1928 and has 16000 students.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus au Danemark a été créée en 1928 et compte 16,000 étudiants.</lex>
+      <lex comment="" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University in Denmark was established in 1928 and currently has a student body of 16000.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus au Danemark a été créée en 1928 et compte actuellement 16,000 étudiants.</lex>
+    </entry>
+    <entry category="University" eid="6" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology was established in 2000, and is affiliated with the Visvesvaraya Technological University based in Belgaum.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Institut de technologie Acharya a été créé en 2000 et est affilié à l'Université technologique Visvesvaraya de Belgaum.</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology was established in 2000 and is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Institut de technologie d'Acharya a été créé en 2000 et est affilié à l'Université technologique de Visvesvaraya à Belgaum.</lex>
+    </entry>
+    <entry category="University" eid="7" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | &quot;700&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University and has 700 postgraduate students. The university is located in Belgaum.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Institut de Technologie d'Acharya est affilié à l'Université Technologique de Visvesvaraya et compte 700 étudiants de troisième cycle.</lex>
+      <lex comment="" lid="Id2" lang="en">The Visvesvaraya Technological university in Belgaum, is affiliated with the Acharya Institute of Technology, which has 700 postgraduate students.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'université technologique de Visvesvaraya, à Belgaum, est affiliée à l'Institut de technologie d'Acharya, qui compte 700 étudiants de troisième cycle.</lex>
+    </entry>
+  </entries>
+</benchmark>
