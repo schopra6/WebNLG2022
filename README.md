@@ -1,5 +1,5 @@
 # Preparation of French Corpus
-French Corpus is a translated version of WebNLG release3.0 English dataset. We used English to French [NMT model](https://storage.googleapis.com/samanantar-public/V0.3/models/en-indic.zip)  provided by  https://github.com/AI4Bharat/indicTrans to generate hindi sentences. 
+French Corpus is a translated version of WebNLG release3.0 English dataset. We used English to French [NMT model][[(https://storage.googleapis.com/samanantar-public/V0.3/models/en-indic.zip)]] provide by https://pytorch.org/hub/pytorch_fairseq_translation/ to generate french sentences. 
 ## To generate the french corpus
 ### download the required packages
 `pip install -r requirements.txt`
