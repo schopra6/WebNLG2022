@@ -43,10 +43,24 @@ class Tripleset:
             ### [R] Internal change end
             self.triples.append(triple)
 
+    def __str__(self):
+        if len(self.triples) == 1:
+            res = f'<t><sj>{self.triples[0].s}<p>{self.triples[0].p}<o>{self.triples[0].o}'
+            print(res)
+            return res
+        else:
+            res = ""
+            for x in self.triples:
+                res += f'<t><sj>{x.s}<p>{x.p}<o>{x.o}\n'
+            return res
+
+    def __repr__(self):
+        return self.__str__()
+
 
 class Lexicalisation:
 
-    def __init__(self, lex, lid, comment='', lang=''):
+    def __init__(self, lex, lid, comment='', lang='en'):
         self.lex = lex
         self.id = lid
         self.comment = comment

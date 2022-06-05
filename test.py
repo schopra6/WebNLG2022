@@ -1,5 +1,6 @@
 import datetime
 import os
+import re
 
 import nltk
 from bs4 import BeautifulSoup
@@ -39,11 +40,12 @@ def find_in_page(pageName, s_alias, o_alias, language, engName, retry=True):
         if retry:
             get_wiki_pages.get_all_pages(engName)
             return find_in_page(pageName, s_alias, o_alias, language, engName, retry=False)
-    return []
+    return set()
 
 
 def process_length(text, lang):
-    txt = int(float(text))
+    print(text)
+    txt = int(float(re.search(r"(\b\d+\b(\.\b\d+\b)*)", text).groups()[0]))
     return sum([[x.replace("{text}", y) for y in [str(txt), text]] for x in units.get_unit("meters", lang)], [])
 
 
@@ -51,17 +53,37 @@ def process_date(text, lang):
     en = units.get_unit("date", "en")
     la = units.get_unit("date", lang)
     if len(text.split("-")) == 3:
-        date_normal = datetime.datetime.strptime(text, "%Y-%m-%d")
-        date_us = datetime.datetime.strptime(text, "%Y-%d-%m")
+        try:
+            date_normal = datetime.datetime.strptime(text, "%Y-%m-%d")
+            date_us = datetime.datetime.strptime(text, "%Y-%d-%m")
+        except BaseException:
+            if "date_normal" in locals():
+                date_us = date_normal
+            else:
+                date_us = datetime.datetime.strptime(text, "%Y-%d-%m")
+                date_normal = date_us
     elif len(text) == 4:
         date_us = datetime.datetime.strptime(text, "%Y")
         date_normal = date_us
     elif ',' in text:
         date_us = datetime.datetime.strptime(text, "%B, %Y")
         date_normal = date_us
+    elif "c. " in text:
+        date_us = datetime.datetime.strptime(text.replace("c. ", ""), "%Y")
+        date_normal = date_us
+    elif len(text.split(" ")) == 3:
+        try:
+            date_us = datetime.datetime.strptime(text, "%d %B %Y")
+            date_normal = datetime.datetime.strptime(text, "%B %d %Y")
+        except BaseException:
+            if "date_us" in locals():
+                date_normal = date_us
+            else:
+                date_normal = datetime.datetime.strptime(text, "%B %d %Y")
+                date_us = date_normal
     else:
-        date_us = datetime.datetime.strptime(text, "%d %B %Y")
-        date_normal = datetime.datetime.strptime(text, "%B %d %Y")
+        date_us = datetime.datetime.strptime(text, "%B %Y")
+        date_normal = date_us
     pat = ["%d %B %Y", "%B %d %Y", "%Y-%m-%d", "%A %d %B %Y", "%D", "%Y"]
     datus = [date_us.strftime(x) for x in pat]
     datno = [date_normal.strftime(x) for x in pat]
@@ -82,7 +104,12 @@ def process_date(text, lang):
 def extract_info_from_page(page, alias, language, engName):
     s_name = page.title
     s_al = page.alias
-    s_al.extend(page.label)
+    if s_al is None:
+        s_al = []
+    labs = page.label
+    if not labs:
+        labs = []
+    s_al.extend(labs)
     s_al.append(s_name)
     sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, alias, language, engName)
     langaugesSentence[language] = sentence
@@ -92,9 +119,19 @@ def extract_info_from_pages(s_lang, o_lang, language, eng_name_subj, eng_name_ob
     o_name = o_lang.title
     s_name = s_lang.title
     s_al = s_lang.alias
-    s_al.extend(s_lang.label)
+    if not s_al:
+        s_al = []
+    labs = s_lang.label
+    if not labs:
+        labs = []
+    s_al.extend(labs)
     o_al = o_lang.alias
-    o_al.extend(o_lang.label)
+    if not o_al:
+        o_al = []
+    labo = o_lang.label
+    if not labo:
+        labo = []
+    o_al.extend(labo)
     sentence = find_in_page(base + language + "/" + s_name + ".html", s_al, o_al, language, eng_name_subj)
     for item in find_in_page(base + language + "/" + o_name + ".html", o_al, s_al, language, eng_name_obj):
         sentence.add(item)
@@ -117,8 +154,10 @@ if __name__ == '__main__':
         metrics.update({x: 0})
 
     wiki = wikipediaapi.Wikipedia(language="en")
+    count = 0
+    start = 0
     try:
-        for entry in b.entries:
+        for entry in b.entries[start:]:
             # print("Properties: ", entry.relations())
             print("RDF triples: ", entry.list_triples())
             # print("Subject:", entry.modifiedtripleset.triples[0].s)
@@ -167,8 +206,15 @@ if __name__ == '__main__':
                 for x in sent:
                     c += 1
                     entry.add_lex(x, id + str(c), la)
+            count += 1
     except BaseException as e:
         print("Saving work done ! ")
         print(metrics)
-        b.b2xml(".", filename="test.xml")
+        print('endNumber ', start + count)
+        b.b2xml(".", filename="testStart" + str(start) + ".xml")
+        print("last identify ", entry.id, entry.category, "        ", entry.__str__())
         raise e
+    print("Saving work done ! ")
+    print(metrics)
+    print('endNumber ', start + count)
+    b.b2xml(".", filename="testStart" + str(start) + ".xml")

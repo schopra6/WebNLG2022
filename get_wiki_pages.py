@@ -20,7 +20,8 @@ def get_all_pages(pageName):
     page = wiki_html.page(pageName)
     if page.exists():
         metrics["en"] += 1
-        file = open(base_path + page.title + ".html", "w", encoding="utf-8")
+        title = page.title.replace("/", "")
+        file = open(base_path + title + ".html", "w", encoding="utf-8")
         file.write(page.text)
         file.close()
 
@@ -29,7 +30,8 @@ def get_all_pages(pageName):
             if lpage.language in language:
                 metrics[lpage.language] += 1
                 print(lpage.title)
-                file = open(base + lpage.language + "/" + lpage.title + ".html", "w", encoding="utf-8")
+                title = lpage.title.replace("/", "")
+                file = open(base + lpage.language + "/" + title + ".html", "w", encoding="utf-8")
                 file.write(lpage.text)
                 file.close()
 
