@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The official title of the Turkish leader is President of Turkey. Ahmet Davutoglu is Turkeys leader. The largest city in Turkey is Istanbul. Lira is the currency used in Turkey. In Izmir is the Ataturk Monument, which was designed by Pietro Canonica and is made of Bronze.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le titre officiel du dirigeant turc est le président de la Turquie. Ahmet Davutoglu est le dirigeant turc. La plus grande ville de Turquie est Istanbul. La lire est la monnaie utilisée en Turquie. A Izmir, on trouve le monument Ataturk, conçu par Pietro Canonica et en bronze.</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument is a bronze structure located in Izmir, and designed by Pietro Canonica. It is found in Turkey, where the largest city is Istanbul, the currency is the Turkish Lira, and the leader, the President of Turkey, is named Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Monument Atatürk est une structure en bronze située à Izmir, et dessinée par Pietro Canonica, il se trouve en Turquie, où la plus grande ville est Istanbul, la devise est la lire turque, et le chef, le Président de la Turquie, est nommé Ahmet Davutoglu.</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="7" shape="(X (X) (X) (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument in İzmir was designed by Pietro Canonica and was inaugurated on 27th July, 1932. It can be found in Turkey, a country with Istanbul as its largest city and the lira as its currency, and led by the President of Turkey, Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Monument Atatürk à Izmir a été conçu par Pietro Canonica et a été inauguré le 27 juillet 1932 en Turquie, un pays avec Istanbul comme plus grande ville et la lire comme monnaie, et dirigé par le Président de la Turquie, Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id2" lang="en">The Leader Of Turkey (official title President of Turkey) is Ahmet Davutoğlu. Ataturk Monument, located in İzmir was designed by Pietro Canonica and was inaugurated on 27th of July, 1932. Turkey's largest city is Istanbul and their currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le chef de la Turquie (titre officiel de président de la Turquie) est Ahmet Davutoğlu. Le monument Ataturk, situé à Izmir, a été conçu par Pietro Canonica et a été inauguré le 27 juillet 1932. La plus grande ville de Turquie est Istanbul et sa devise est la lire turque.</lex>
+      <lex comment="" lid="Id3" lang="en">The Turkish leader (official title President of Turkey) is Ahmet Davutoglu. Pietro Canonica designed the Ataturk Monument in Izmir and it was inaugurated on 27th of July, 1932. Turkey's largest City is Istanbul and the currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le chef turc (titre officiel de président de la Turquie) est Ahmet Davutoglu. Pietro Canonica a conçu le monument Ataturk à Izmir et il a été inauguré le 27 juillet 1932. La plus grande ville de Turquie est Istanbul et la devise est la lire turque.</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="7" shape="(X (X) (X (X) (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Turkey's leader is Ahmet Davutoglu, who is the President of Turkey. Its capital is Ankara and the largest city is Istanbul. The currency used in Turkey is Turkish Lira. The ataturk Monument (Izmir), that is located in Turkey, is made of bronze.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dirigeant de la Turquie est Ahmet Davutoglu, qui est le président de la Turquie. Sa capitale est Ankara et la plus grande ville est Istanbul. La devise utilisée en Turquie est la lire turque. Le monument ataturk (Izmir), qui est situé en Turquie, est en bronze.</lex>
+      <lex comment="" lid="Id2" lang="en">The bronze Ataturk monument is located in Turkey where President Ahmet Davutoglu is the leader. The capital city is Ankara, although the largest city is Istanbul and the local currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le monument Ataturk de bronze se trouve en Turquie, sous la direction du président Ahmet Davutoglu, à Ankara, la capitale, bien que la plus grande ville soit Istanbul et que la monnaie locale soit la lire turque.</lex>
+      <lex comment="" lid="Id3" lang="en">President Ahmet Davutoglu is the leader of Turkey which has the capital city of Ankara, although the largest city is Istanbul. The currency of the country is the Turkish lira and the country is the location of the bronze Ataturk monument.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le président Ahmet Davutoglu est le leader de la Turquie qui a la capitale Ankara, bien que la plus grande ville soit Istanbul. La devise du pays est la lire turque et le pays est l'emplacement du monument de bronze Ataturk.</lex>
+    </entry>
+  </entries>
+</benchmark>

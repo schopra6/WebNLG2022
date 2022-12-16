@@ -1,0 +1,2852 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Köln | capacity | 50000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | numberOfMembers | 50000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1. FC Köln has 50000 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">1.FC Köln a 50000 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">F.C. Koln have 50000 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">F. C. Koln compte 50 000 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Köln | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1 FC Köln played in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">1 FC Köln a joué dans la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">2014 saw 1. FC Koln participating.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le FC Koln y a participé en 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Köln | season | 2014–15_Bundesliga</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | season | 2014–15_Bundesliga</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1. FC Köln were in the 2014–15 Bundesliga season.</lex>
+      <lex comment="" lid="Id1" lang="fr">1) FC Köln étaient dans la 2014 - 15 Bundesliga saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">FC Köln played the 2014-15 season in the Bundesliga.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le FC Köln a joué la saison 2014-15 dans la Bundesliga.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | league | 3._Liga</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | league | 3._Liga</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1 FC Magdeburg is in the 3 Liga league.</lex>
+      <lex comment="" lid="Id1" lang="fr">1 FC Magdeburg est dans la ligue 3 Liga.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | manager | Jens_Härtel</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | manager | Jens_Härtel</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The manager of FC Magdeburg is Jens Härtel.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le directeur du FC Magdeburg est Jens Härtel.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Härtel has been the manager of 1 FC Magdeburg.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jens Härtel a été directeur du 1 FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | capacity | 27250</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | numberOfMembers | 27250</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">1.FC Magdeburg has 27250 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">1.FC Magdeburg compte 27250 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | season | 2014–15_Regionalliga</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">FC Magdeburg played in the Regionalliga in 2014-15 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le FC Magdeburg a joué dans la Regionalliga en 2014-15 saison.</lex>
+      <lex comment="" lid="Id2" lang="en">In 2014-15 season, 1 FC Magdeburg played in the Regionalliga.</lex>
+      <lex comment="" lid="Id2" lang="fr">En 2014-15 saison, 1 FC Magdeburg joué dans la Regionalliga.</lex>
+      <lex comment="" lid="Id3" lang="en">FC Magedburg was in Regionalliga in 2014.</lex>
+      <lex comment="" lid="Id3" lang="fr">FC Magedburg était à Regionalliga en 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Cesena | ground | Cesena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | ground | Cesena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A&gt;C Cesena ground is in Cesena.</lex>
+      <lex comment="" lid="Id1" lang="fr">A &gt; C Cesena terrain est à Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Cesena | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Cesena's ground is located in Italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain d'A.C. Cesena est situé en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | ground | Stadio_Dino_Manuzzi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Cesena's ground is Stadio Dino Manuzzi.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.C. Cesena est le Stadio Dino Manuzzi.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Cesana's ground is the Stadio Dino Manuzzi.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.C. Cesana est le Stadio Dino Manuzzi.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Cesena | league | Serie_B</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | league | Serie_B</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Cesena are in the Serie B league.</lex>
+      <lex comment="" lid="Id1" lang="fr">AC Cesena sont dans la Serie B ligue.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Cesena is in the Serie B league.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C. Cesena fait partie de la ligue de Serie B.</lex>
+      <lex comment="" lid="Id3" lang="en">A.C. Cesana play in Serie B.</lex>
+      <lex comment="" lid="Id3" lang="fr">A. C. Cesana joue dans Serie B.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago has been the manager of A C Cesena.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago a été directeur de A C Cesena.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago manages A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago dirige A.C. Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Cesena | capacity | 23900</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | numberOfMembers | 23900</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Cesena has 23900 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.C. Cesena compte 23900 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | fullname | &quot;Associazione Calcio ChievoVerona S.r.l.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | fullName | &quot;Associazione Calcio ChievoVerona S.r.l.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of AC Chievo Verona is &quot;Associazione Calcio ChievoVerona S.r.l.&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet de AC Chievo Verona est &quot;Associazione Calcio ChievoVerona S.r.l.&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The fullname of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de A.C. Chievo Verona est Associazione Calcio ChievoVerona S.r.l.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | ground | &quot;Verona, Italy&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | ground | &quot;Verona, Italy&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Verona, Italy is the home to A.C. Chievo Verona.</lex>
+      <lex comment="" lid="Id1" lang="fr">Vérone, en Italie, abrite A.C. Chievo Vérone.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi.</lex>
+      <lex comment="" lid="Id1" lang="fr">La maison de A.C. Chievo Verona est le Stadio Mars'Antonio Bentegodi.</lex>
+      <lex comment="" lid="Id2" lang="en">AC Chievo Verona's home ground is Stadio Marc Antonio Bentegodi.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'AC Chievo Verona est situé au Stadio Marc Antonio Bentegodi.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | ground | Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | ground | Verona</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Chievo Verona is playing in his ground at Verona.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.C. Chievo Vérone joue dans son terrain à Vérone.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Chievo Verona play in Verona.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C. Chievo Verona jouer à Vérone.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Chievo Verona play in the Serie A league.</lex>
+      <lex comment="" lid="Id1" lang="fr">AC Chievo Verona jouer dans la Serie A ligue.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Chievo Verona is in the league, Serie A.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C. Chievo Verona is in the league, Serie A.</lex>
+      <lex comment="" lid="Id3" lang="en">A.C. Chievo Verona play in Serie A.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.C. Chievo Verona jouer dans Serie A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | capacity | 39371</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | numberOfMembers | 39371</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Chievo Verona has 39371 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">A. C. Chievo Verona compte 39371 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Chievo Verona competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AC Chievo Verona a participé à la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. ChievoVerona played in the 2014 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C. ChievoVerona a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | season | 2014–15_Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | season | 2014–15_Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Chievo Verona played the 2014-15 season in Serie A.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.C. Chievo Verona a joué la saison 2014-15 en Serie A.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Chievo Verona were in the 2014–15 Serie A season.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C. Chievo Vérone ont été dans la 2014 - 15 Serie A saison 2014.</lex>
+      <lex comment="" lid="Id3" lang="en">A.C. Chievo Verona were in Serie A in 2014-15.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.C. Chievo Verona étaient en Serie A en 2014-15.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | fullname | &quot;Associazione Calcio Lumezzane SpA&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | fullName | &quot;Associazione Calcio Lumezzane SpA&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The &quot;Associazione Calcio Lumezzane SpA&quot; is the full name of A.C. Lumezzane.</lex>
+      <lex comment="" lid="Id1" lang="fr">L '&quot;Associazione Calcio Lumezzane SpA&quot; est le nom complet de A.C. Lumezzane.</lex>
+      <lex comment="" lid="Id2" lang="en">Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane.</lex>
+      <lex comment="" lid="Id2" lang="fr">Associazione Calcio Lumezzane SpA est abrégé en A.C. Lumezzane.</lex>
+      <lex comment="" lid="Id3" lang="en">The fullname of A.C. Lumezzane is Associazione Calcio Lumezzane SpA.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le nom complet de A.C. Lumezzane est Associazione Calcio Lumezzane SpA.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Lumezzane play in italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.C. Lumezzane jouer en italique.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Lumezzane's ground is in Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain d'A.C. Lumezzane se trouve en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | &quot;Lega Pro/A&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | league | &quot;Lega Pro/A&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.C. Lumezzane is in the Lega Pro/A league.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.C. Lumezzane fait partie de la ligue Lega Pro / A.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C Lumezzane play in the Lega Pro/A.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C Lumezzane jouer dans le Lega Pro / A.</lex>
+      <lex comment="" lid="Id3" lang="en">A.C. Lumezzane play in Lega Pro/A.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.C. Lumezzane jouer dans Lega Pro / A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | league | Lega_Pro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | league | Lega_Pro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Lumezzane play in the Lega Pro league.</lex>
+      <lex comment="" lid="Id1" lang="fr">AC Lumezzane jouer dans la Ligue Lega Pro.</lex>
+      <lex comment="" lid="Id2" lang="en">A.C. Lumezzane play in the Lega Pro.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.C. Lumezzane jouer dans le Lega Pro.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | manager | Michele_Marcolini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | manager | Michele_Marcolini</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini has been manager of AC Lumezzane.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini a été directrice d'AC Lumezzane.</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini manages the A.C. Lumezzane.</lex>
+      <lex comment="" lid="Id2" lang="fr">Michele Marcolini dirige l'A.C. Lumezzane.</lex>
+      <lex comment="" lid="Id3" lang="en">The manager of A.C. Lumezzane is Michele Marcolini.</lex>
+      <lex comment="" lid="Id3" lang="fr">La gérante d'A.C. Lumezzane est Michele Marcolini.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | capacity | 4150</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | numberOfMembers | 4150</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Lumezzane has 4150 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AC Lumezzane compte 4150 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">The A.C. Lumezzane has 4150 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'A.C. Lumezzane compte 4 150 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AC Lumezzane played in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AC Lumezzane a joué dans la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">I am interested in the 2014 A.C. Lumezzane season.</lex>
+      <lex comment="" lid="Id2" lang="fr">Je suis intéressé par la saison 2014 A.C. Lumezzane.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | fullname | &quot;Isidro Metapán&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | fullName | &quot;Isidro Metapán&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of A.D. Isidro Metapan is Isidro Metapan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet d'A.D. Isidro Metapan est Isidro Metapan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | &quot;Metapán, El Salvador&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | ground | &quot;Metapán, El Salvador&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of AD Isidro Metapán is located in Metapán, El Salvador.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de l'AD Isidro Metapán est situé à Metapán, El Salvador.</lex>
+      <lex comment="" lid="Id2" lang="en">A.D. Isidro Metapan's ground is in Metapan, El Salvador.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain d'Isidro Metapan se trouve à Metapan, au Salvador.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | ground | Estadio_Jorge_Calero_Suárez</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.D. Isidro Metapán are at Estadio Jorge Calero Suárez.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.D. Isidro Metapán sont à Estadio Jorge Calero Suárez.</lex>
+      <lex comment="" lid="Id2" lang="en">A.D. Isidro Metapan play at the Estadio Jorge Calero Suarez.</lex>
+      <lex comment="" lid="Id2" lang="fr">A. D. Isidro Metapan à l'Estadio Jorge Calero Suarez.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | ground | Metapán</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | ground | Metapán</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.D. Isidro Metapán's ground is in Metapán.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain d'Isidro Metapán se trouve à Metapán.</lex>
+      <lex comment="" lid="Id2" lang="en">A.D. Isidro Metapán is playing in it's ground at Metapán.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.D. Isidro Metapán joue dans son terrain à Metapán.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jorge Humberto Rodriguez has been manager of A D Isidro Metapán.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jorge Humberto Rodriguez a été directeur de A D Isidro Metapán.</lex>
+      <lex comment="" lid="Id2" lang="en">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jorge Humberto Rodríguez dirige l'A.D. Isidro Metapan.</lex>
+      <lex comment="" lid="Id3" lang="en">A.D. Isidro Metapan's manager is Jorge Humberto Rodriguez.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le gérant d'Isidro Metapan est Jorge Humberto Rodriguez.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | capacity | 10000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | numberOfMembers | 10000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AD Isidro Metapan has 10000 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AD Isidro Metapan compte 10 000 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">A.D. Isidro Metapán has 10000 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.D. Isidro Metapán compte 10 000 membres.</lex>
+      <lex comment="" lid="Id3" lang="en">The number of members of Isidro Metapán is 10000.</lex>
+      <lex comment="" lid="Id3" lang="fr">Isidro Metapán compte 10 000 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="35" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | chairman | Antonis_Milionis</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Antonis Milionis is chairman of A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="" lid="Id1" lang="fr">Antonis Milionis est président de A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="" lid="Id2" lang="en">Antonis Milionis is the chairman of A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="" lid="Id2" lang="fr">Antonis Milionis est le président de A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="" lid="Id3" lang="en">The chairman of A.E Dimitra Efxeinoupolis is Antonis Milionis.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le président de A.E Dimitra Efxeinoupolis est Antonis Milionis.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="36" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | ground | Efxeinoupoli</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.E Dimitra Efxeinoupolis est situé dans la ville d'Efxeinoupoli.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="37" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis is in the league, EPSTH 2nd GROUP.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.E Dimitra Efxeinoupolis est dans la ligue, EPSTH 2ème GROUPE.</lex>
+      <lex comment="" lid="Id2" lang="en">A.E Dimitra Efxeinoupolis play in the A EPSTH 2nd GROUP.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.E Dimitra Efxeinoupolis joue dans le 2ème GROUPE A EPSTH.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="38" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | location | Greece</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | location | Greece</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The A.E Dimitra Efxeinoupolis club is located in Greece.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le club A.E Dimitra Efxeinoupolis est situé en Grèce.</lex>
+      <lex comment="" lid="Id2" lang="en">A.E Dimitra Efxeinoupolis is located in Greece.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.E Dimitra Efxeinoupolis est situé en Grèce.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="39" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | &quot;1500&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AE Dimitra Efxeinoupolis has 1500 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AE Dimitra Efxeinoupolis compte 1500 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">A.E. Dimitra Efxeinoupolis has 1500 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">A. E. Dimitra Efxeinoupolis compte 1 500 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="40" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | ground | &quot;Jepson Way,&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | ground | &quot;Jepson Way,&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jepson Way is the grounds for A.F.C. Blackpool.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jepson Way est le site de A.F.C. Blackpool.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="41" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | league | English_football_league_system</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | league | English_football_league_system</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.F.C Blackpool play in the English Football League system.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.F.C Blackpool jouer dans le système anglais Football League.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Blackpool play in the English Football League.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.F.C. Blackpool joue dans la Ligue anglaise de football.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="42" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | league | North_West_Counties_Football_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | league | North_West_Counties_Football_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Blackpool play in the North West Counties Football League.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Blackpool joue dans la Ligue de football des comtés du Nord-Ouest.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Blackpool is part of the North West Counties Football League.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.F.C. Blackpool fait partie de la Ligue de football des comtés du Nord-Ouest.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="43" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Blackpool have had Stuart Parker as their manager.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker est le gérant de l'AFC Blackpool.</lex>
+      <lex comment="" lid="Id2" lang="en">The manager of A.F.C. Blackpool is Stuart Parker (footballer).</lex>
+      <lex comment="" lid="Id2" lang="fr">Le gérant de A.F.C. Blackpool est Stuart Parker (footballeur).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="44" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Blackpool competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'AFC Blackpool a participé à la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Blackpool play in season 2014.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.F.C. Blackpool jouer dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="45" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | season | 2014–15_North_West_Counties_Football_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | season | 2014–15_North_West_Counties_Football_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the season 2014-2015 Blackpool played in the North West Counties Football League.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dans la saison 2014-2015 Blackpool a joué dans la Ligue de football des comtés du Nord-Ouest.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Blackpool played in the 2014-15 North West Counties Football League season.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'AFC Blackpool a joué dans la saison 2014-15 de la Ligue de football des comtés du Nord-Ouest.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="46" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | fullname | &quot;Association Football Club Fylde&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | fullName | &quot;Association Football Club Fylde&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of the A.F.C. Fylde is &quot;Association Football Club Fylde.&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet de la Fylde A.F.C. est &quot;Association Football Club Fylde&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Fylde has the full name &quot;Association Football Club Fylde&quot;.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Fylde a le nom complet &quot;Association Football Club Fylde&quot;.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="47" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | &quot;Bryning Lane&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | &quot;Bryning Lane&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.F.C. Fylde are based at Bryning Lane.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.F.C. Fylde est basée à Bryning Lane.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="48" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | &quot;Kellamergh Park&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | &quot;Kellamergh Park&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.F.C.Fylde's ground is Kellamergh Park.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.F.C. Fylde est le parc Kellamergh.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="49" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | &quot;Warton, Fylde, Lancashire&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | &quot;Warton, Fylde, Lancashire&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.F.C. Fylde are based at Warton, Fylde, Lancashire.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.F.C. Fylde est basée à Warton, Fylde, Lancashire.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Fylde's ground is in Warton, Fylde, Lancashire.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.F.C. Fylde se trouve à Warton, Fylde, Lancashire.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="50" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | Lancashire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | Lancashire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of AFC Fylde can be found in the county of Lancashire.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de l'AFC Fylde se trouve dans le comté de Lancashire.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Fylde's ground is in Lancashire.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.F.C. Fylde se trouve dans le Lancashire.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="51" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | Warton,_Fylde</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | Warton,_Fylde</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Fylde's ground is located in Warton, Fylde.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de l'AFC Fylde est situé à Warton, Fylde.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Fylde ground is Warton Fylde.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de l'A.F.C. Fylde est Warton Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="52" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | league | National_League_North</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | league | National_League_North</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.F.C. is a member of the National League North.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.F.C. est membre de la Ligue nationale du Nord.</lex>
+      <lex comment="" lid="Id2" lang="en">Fylde played in the National League North league.</lex>
+      <lex comment="" lid="Id2" lang="fr">Fylde a joué dans la Ligue nationale de ligue du Nord.</lex>
+      <lex comment="" lid="Id3" lang="en">A.F.C. Fylde play in National League North.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.F.C. Fylde joue dans la Ligue nationale du Nord.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="53" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | manager | Dave_Challinor</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | manager | Dave_Challinor</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Fylde's manager is Dave Challinor.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le gestionnaire du CFA Fylde est Dave Challinor.</lex>
+      <lex comment="" lid="Id2" lang="en">Dave Challinor is the manager of AFC Fylde.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dave Challinor est le gestionnaire de l'AFC Fylde.</lex>
+      <lex comment="" lid="Id3" lang="en">Dave Challinor manages A.F.C. Fylde.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dave Challinor dirige A.F.C. Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="54" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | capacity | &quot;3180&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Fylde has 3180 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Fylde compte 3180 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Fylde has 3180 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.F.C. Fylde compte 3 180 membres.</lex>
+      <lex comment="" lid="Id3" lang="en">A.F.C Fylde has 3180 members.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.F.C Fylde compte 3180 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="55" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Fylde competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'AFC Fylde a participé à la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">A.F.C. Fylde played in 2014.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.F.C. Fylde a joué en 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="56" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | season | 2014–15_Football_Conference</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | season | 2014–15_Football_Conference</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Fylde played the 2014-15 season in the Football Conference.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Fylde a joué la saison 2014-15 dans le Football Conference.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="57" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | fullname | &quot;Associazione Sportiva Gubbio 1910 Srl&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | fullName | &quot;Associazione Sportiva Gubbio 1910 Srl&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of AS Gubbio 1910 is &quot;Associazione Sportiva Gubbio 1910 Srl&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet de l'AS Gubbio 1910 est &quot;Associazione Sportiva Gubbio 1910 Srl&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de A.S. Gubbio 1910 est Associazione Sportiva Gubbio 1910 Srl.</lex>
+      <lex comment="" lid="Id3" lang="en">The fullname of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le nom complet de A.S. Gubbio 1910 est Associazione Sportiva Gubbio 1910 Srl.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="58" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | ground | Stadio_Pietro_Barbetti</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The ground of AS Gubbio 1910 is called Stadio Pietro Barbetti.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de l'AS Gubbio 1910 est appelé Stadio Pietro Barbetti.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="59" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | league | Serie_D</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | league | Serie_D</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The A.S. Gubbio 1910 football club play in Serie D.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le club de football A.S. Gubbio 1910 joue en Serie D.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Gubbio 1910 is in the Serie D league.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Gubbio 1910 est dans la série D de la ligue.</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Gubbio 1910 play in Serie D.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.S. Gubbio 1910 jouent dans Serie D.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="60" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Gubbio 1910 competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Gubbio 1910 a concouru dans la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S Gubbio played in the 2014 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Gubbio a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="61" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | season | 2014–15_Lega_Pro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | season | 2014–15_Lega_Pro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Gubbio 1910 was a part of the 2014–15 Lega Pro season.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S. Gubbio 1910 a participé à la saison 2014 de Lega Pro 15.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Gubbio 1910 were in the Lega Pro in the 2014-15 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Gubbio 1910 étaient dans le Lega Pro dans la saison 2014-15.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="62" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | fullname | &quot;Associazione Sportiva&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | fullName | &quot;Associazione Sportiva&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Associazione Sportiva Livorno Calcio is the fullname of A.S.Livorno Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Associazione Sportiva Livorno Calcio est le nom complet de A.S. Livorno Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">The fullname of A.S. Livorno Calcio is Associazione Sportiva.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de A.S. Livorno Calcio est Associazione Sportiva.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="63" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | fullname | &quot;Livorno Calcio S.p.A.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | fullName | &quot;Livorno Calcio S.p.A.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Livorno Calcio has the full name of &quot;Livorno Calcio S.p.A&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Livorno Calcio a le nom complet de &quot;Livorno Calcio S.p.A&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Livorno Calcio S.p.A. est abrégé en A.S. Livorno Calcio.</lex>
+      <lex comment="" lid="Id3" lang="en">The fullname of A.S. Livorno Calcio is Livorno Calcio S.p.A.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le nom complet de A.S. Livorno Calcio est Livorno Calcio S.p.A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="64" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | ground | &quot;Livorno, Italy&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | ground | &quot;Livorno, Italy&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Livorno, Italy is the location of the ground of AS Livorno Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Livorno, Italie est l'emplacement du terrain de AS Livorno Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Livorno Calcio is based in Livorno, Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Livorno Calcio est basée à Livorno, Italie.</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Livorno Calcio's ground is in Livorno, Italy.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.S. Livorno Le Calcio se trouve à Livorno, en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="65" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | ground | Livorno</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | ground | Livorno</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S Livorno Calcio ground is in Livorno.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S Livourne Le terrain de Calcio se trouve à Livourne.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="66" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | ground | Stadio_Armando_Picchi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | ground | Stadio_Armando_Picchi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A S Livorno Calcio's home ground is the Stadio Armando Picchi.</lex>
+      <lex comment="" lid="Id1" lang="fr">A S Livorno Calcio se trouve le Stadio Armando Picchi.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Livorno Calcio has the ground Stadio Armando Picchi.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Livorno Calcio a le sol Stadio Armando Picchi.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="67" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | league | Serie_B</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | league | Serie_B</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The league that A.S. Livorno Calcio play in is Serie B.</lex>
+      <lex comment="" lid="Id1" lang="fr">La ligue dans laquelle A.S. Livorno Calcio joue est la Serie B.</lex>
+      <lex comment="" lid="Id2" lang="en">AS Livorno Calcio play in Serie B.</lex>
+      <lex comment="" lid="Id2" lang="fr">AS Livorno Calcio jouer dans Serie B.</lex>
+      <lex comment="" lid="Id3" lang="en">AS Livorno club plays in Serie B.</lex>
+      <lex comment="" lid="Id3" lang="fr">AS Livorno club joue en Serie B.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="68" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | manager | Christian_Panucci</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | manager | Christian_Panucci</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Livorno Calcio is managed by Christian Panucci.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S. Livorno Calcio est géré par Christian Panucci.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Livorno Calcio are managed by Christian Panucci.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Livorno Le calcio est géré par Christian Panucci.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="69" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Livorno Calcio played in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S. Livorno Calcio a joué dans la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Livorno Calcio played in season 2014.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Livorno Calcio a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="70" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | season | 2014–15_Serie_B</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | season | 2014–15_Serie_B</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Livorno Calcio played season 2014-15 in Serie B.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Livorno Calcio a joué la saison 2014-15 en Serie B.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Livorno Calcio were in the 2014–15 Serie B season.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Livorno Calcio étaient dans la 2014 - 15 Saison de Serie B 2014.</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Livorno Calcio were in Serie B in the 2014-15 season.</lex>
+      <lex comment="" lid="Id3" lang="fr">A.S. Livorno Calcio étaient en Serie B dans la saison 2014-15.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="71" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | chairman | James_Pallotta</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | chairman | James_Pallotta</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The chairman of the A.S. Roma is James Pallotta.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le président de l'A.S. Roma est James Pallotta.</lex>
+      <lex comment="" lid="Id2" lang="en">James Pallotta is the chairman of A.S. Roma.</lex>
+      <lex comment="" lid="Id2" lang="fr">James Pallotta est le président de A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="en">A.S. Roma's chairman is James Pallotta.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le président de A.S. Roma est James Pallotta.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="72" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | fullname | &quot;Associazione Sportiva Roma S.p.A.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | fullName | &quot;Associazione Sportiva Roma S.p.A.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The &quot;Associazione Sportiva Roma S.p.A.&quot; is the non-abbreviated name of A.S. Roma.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Associazione Sportiva Roma S.p.A. est le nom non abrégé d'A.S. Roma.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Roma's fullname is Associazione Sportiva Roma S.p.A.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le prénom de A.S. Roma est Associazione Sportiva Roma S.p.A.</lex>
+      <lex comment="" lid="Id3" lang="en">The fullname of A.S. Roma is Associazione Sportiva Roma S.p.A.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le nom complet de A.S. Roma est Associazione Sportiva Roma S.p.A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="73" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | ground | &quot;Rome, Italy&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | ground | &quot;Rome, Italy&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Roma's ground is in Rome, Italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S. Roma a son siège à Rome, en Italie.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S.Roma's ground is in Rome, Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de A.S.Roma se trouve à Rome, en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="74" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | ground | Rome</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | ground | Rome</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S. Roma have a ground in Rome.</lex>
+      <lex comment="" lid="Id1" lang="fr">A.S. Roma have a ground in Rome.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="75" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | ground | Stadio_Olimpico</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | ground | Stadio_Olimpico</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">A.S Roma ground is Stadio Olimpico.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain de A.S Roma est le Stadio Olimpico.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="76" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma play in the Serie A league.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Roma joue dans la ligue Serie A.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Roma play in Serie A.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Roms jouent dans la série A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="77" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | manager | Luciano_Spalletti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | manager | Luciano_Spalletti</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma's manager is Luciano Spalletti.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le directeur de AS Roma est Luciano Spalletti.</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti manages A.S. Roma.</lex>
+      <lex comment="" lid="Id2" lang="fr">Luciano Spalletti dirige A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="en">The manager of A.S. Roma is Luciano Spalletti.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le directeur de A.S. Roma est Luciano Spalletti.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="78" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | capacity | &quot;70634&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | numberOfMembers | 70634</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma has 70634 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Roma compte 70634 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Roma has 70634 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">A. S. Roma compte 70634 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="79" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>A.S._Roma | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AS Roma competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AS Roma a participé à la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">A.S. Roma was in the 2014 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">A.S. Roma était dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="80" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | fullname | &quot;ACF Fiorentina S.p.A.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | fullName | &quot;ACF Fiorentina S.p.A.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of ACF Fiorentia is &quot;ACF Fiorentina S.p.A.&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet d'ACF Fiorentia est &quot;ACF Fiorentina S.p.A.&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The full name of ACF Fiorentina is ACF Fiorentina S.p.A.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet d'ACF Fiorentina est ACF Fiorentina S.p.A.</lex>
+      <lex comment="" lid="Id3" lang="en">ACF Fiorentina fullname is ACF Fiorentina S.p.A.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le prénom ACF Fiorentina est ACF Fiorentina S.p.A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="81" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">ACF Fiorentina play in Serie A.</lex>
+      <lex comment="" lid="Id1" lang="fr">ACF Fiorentina joue dans la série A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="82" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | manager | Paulo_Sousa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | manager | Paulo_Sousa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paulo Sousa is the manager of the ACF Fiorentina.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paulo Sousa est le directeur de l'ACF Fiorentina.</lex>
+      <lex comment="" lid="Id2" lang="en">The manager of ACF Fiorentina is Paulo Sousa.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le directeur d'ACF Fiorentina est Paulo Sousa.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="83" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | capacity | 47290</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | numberOfMembers | 47290</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">ACF Fiorentina has 47290 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">ACF Fiorentina compte 47290 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">ACF Fiorentina have 47290 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">ACF Fiorentina compte 47290 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="84" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">ACF Fiorentina competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">ACF Fiorentina a participé à la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="85" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | season | 2014–15_Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | season | 2014–15_Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">ACF Fiorentina played the 2014-15 season in Serie A.</lex>
+      <lex comment="" lid="Id1" lang="fr">ACF Fiorentina a joué la saison 2014-15 en Serie A.</lex>
+      <lex comment="" lid="Id2" lang="en">ACF Fiorentina played in the 2014-15 Serie A season.</lex>
+      <lex comment="" lid="Id2" lang="fr">ACF Fiorentina a joué dans la saison Serie A 2014-15.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="86" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | ground | Greece</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | ground | Greece</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AEK Athens's ground is in Greece.</lex>
+      <lex comment="" lid="Id1" lang="fr">AEK Athènes est située en Grèce.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="87" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | ground | Olympic_Stadium_(Athens)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium (Athens) is the home ground of AEK Athens FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le stade olympique (Athènes) est le siège de l'AEK Athens FC.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground for AEK Athens FC is the Olympic Stadium (Athens).</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain de l'AEK Athènes FC est le stade olympique (Athènes).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="88" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | league | Superleague_Greece</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | league | Superleague_Greece</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AEK Athens FC compete in the Superleague Greece.</lex>
+      <lex comment="" lid="Id1" lang="fr">AEK Athènes FC concourir dans la Superleague Grèce.</lex>
+      <lex comment="" lid="Id2" lang="en">AEK Athens F.C. is in the Superleague of Greece.</lex>
+      <lex comment="" lid="Id2" lang="fr">AEK Athens F.C. fait partie de la Superleague de Grèce.</lex>
+      <lex comment="" lid="Id3" lang="en">AEK Athens F.C. play in the Superleague Greece.</lex>
+      <lex comment="" lid="Id3" lang="fr">AEK Athènes F.C. jouent dans la Superleague Grèce.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="89" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | manager | Gus_Poyet</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | manager | Gus_Poyet</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AEK Athens FC had the manager Gus Poyet.</lex>
+      <lex comment="" lid="Id1" lang="fr">AEK Athens FC avait le directeur Gus Poyet.</lex>
+      <lex comment="" lid="Id2" lang="en">AEK Athens F.C. manager is Gus Poyet.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le directeur de l'AEK Athens est Gus Poyet.</lex>
+      <lex comment="" lid="Id3" lang="en">AEK Athens are managed by Gus Poyet.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'AEK Athènes est gérée par Gus Poyet.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="90" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | capacity | &quot;69618&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | numberOfMembers | 69618</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AEK Athens F.C. has 69618 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AEK Athens F.C. compte 69618 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="91" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AEK_Athens_F.C. | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AEK_Athens_F.C. | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AEK Athens FC played in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AEK Athens FC a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="92" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax | fullname | &quot;Amsterdamsche Football Club Ajax&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | fullName | &quot;Amsterdamsche Football Club Ajax&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of AFC Ajax is &quot;Amsterdamsche Football Club Ajax&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet de l'AFC Ajax est &quot;Amsterdamsche Football Club Ajax&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The full name of AFC Ajax is Amsterdamsche Football Club Ajax.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de l'AFC Ajax est Amsterdamsche Football Club Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="93" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax | capacity | &quot;53502&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax has 53502 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax compte 53502 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="94" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | owner | AFC_Ajax_N.V.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The owner of AFC Ajax is AFC Ajax N.V.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le propriétaire d'AFC Ajax est AFC Ajax N.V.</lex>
+      <lex comment="" lid="Id2" lang="en">The owner of AFC Ajax is AFC Ajax NV.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le propriétaire d'AFC Ajax est AFC Ajax NV.</lex>
+      <lex comment="" lid="Id3" lang="en">AFC Ajax N.V. owns AFC Ajax.</lex>
+      <lex comment="" lid="Id3" lang="fr">AFC Ajax N.V. est propriétaire d'AFC Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="95" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax played in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax a joué dans la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax played in season 2014.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Ajax a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="96" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax | season | 2014–15_Eredivisie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | season | 2014–15_Eredivisie</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax were in the Eredivisie for the season 2014-2015.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax étaient dans l'Eredivisie pour la saison 2014-2015.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax played in the 2014-15 Eredivisie season.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Ajax a joué dans la saison 2014-15 Eredivisie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="97" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | fullname | &quot;Amsterdamsche Football Club Ajax Amateurs&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | fullName | &quot;Amsterdamsche Football Club Ajax Amateurs&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The full name of AFC Ajax (amateurs) is &quot;Amsterdamsche Football Club Ajax Amateurs&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet d'AFC Ajax (amateurs) est &quot;Amsterdamsche Football Club Ajax Amateurs&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The full name of AFC Ajax (amateurs) is Amsterdamsche Football Club Ajax Amateurs.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de AFC Ajax (amateurs) est Amsterdamsche Football Club Ajax Amateurs.</lex>
+      <lex comment="" lid="Id3" lang="en">The AFC Ajax (amateurs) complete name is the &quot;Amsterdamsche Football Club Ajax Amateurs.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'AFC Ajax (amateurs) nom complet est le &quot;Amsterdamsche Football Club Ajax Amateurs.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="98" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Amsterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax is based in Amsterdam.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax est basée à Amsterdam.</lex>
+      <lex comment="" lid="Id2" lang="en">The ground of AFC Ajax (amateurs) can be found in Amsterdam.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le terrain d'AFC Ajax (amateurs) se trouve à Amsterdam.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="99" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Sportpark_De_Toekomst</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax (amateurs)'s ground is Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax (amateurs) 's terrain est Sportpark De Toekomst.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="100" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | league | Hoofdklasse</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax (amateurs) play in the Hoofdklasse league.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax (amateurs) jouent dans la ligue Hoofdklasse.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="101" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | nickname | &quot;Lucky Ajax&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | nickname | &quot;Lucky Ajax&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax (amateurs) has the nickname &quot;Lucky Ajax&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax (amateurs) a le surnom de &quot;Lucky Ajax&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax is nicknamed Lucky Ajax.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Ajax est surnommé Lucky Ajax.</lex>
+      <lex comment="" lid="Id3" lang="en">The nickname of AFC Ajax (amateurs) is Lucky Ajax.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le surnom d'AFC Ajax (amateurs) est Lucky Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="102" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax (Amateurs) competed in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax (Amateurs) a participé à la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax (amateurs) played in the 2014 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Ajax (amateurs) a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="103" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax (amateurs) played in the Topklasse in the 2014-2015 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax (amateurs) a joué dans la Topklasse dans la saison 2014-2015.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax (amateurs) played in the 2014-15 Topklasse season.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Ajax (amateurs) a joué dans la saison 2014-15 Topklasse.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="104" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_Arena | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_Arena | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">the AZAL Arena is located in Azerbaijan.</lex>
+      <lex comment="" lid="Id1" lang="fr">l'AZAL Arena est situé en Azerbaïdjan.</lex>
+      <lex comment="" lid="Id2" lang="en">The AZAL arena is in Azerbaijan.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'arène de l'AZAL se trouve en Azerbaïdjan.</lex>
+      <lex comment="" lid="Id3" lang="en">AZAL Arena is located in Azerbaijan.</lex>
+      <lex comment="" lid="Id3" lang="fr">AZAL Arena est situé en Azerbaïdjan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="105" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_Arena | location | Shuvalan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The AZAL Arena is located in Shuvulan.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'AZAL Arena est situé à Shuvulan.</lex>
+      <lex comment="" lid="Id2" lang="en">AZAL Arena is located in Shuvalan.</lex>
+      <lex comment="" lid="Id2" lang="fr">AZAL Arena est situé à Shuvalan.</lex>
+      <lex comment="" lid="Id3" lang="en">The AZAL Arena is in Shuvalan.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'AZAL Arena se trouve à Shuvalan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="106" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_PFK | fullname | &quot;AZAL Peşəkar Futbol Klubu&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | fullName | &quot;AZAL Peşəkar Futbol Klubu&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZAL PFK stands for &quot;AZAL Peşəkar Futbol Klubu&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZAL PFK signifie &quot;AZAL Peşəkar Futbol Klubu&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">AZAL PFK's full name is AZAL Peşəkar Futbol Klubu.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de AZAL PFK est AZAL Peşəkar Futbol Klubu.</lex>
+      <lex comment="" lid="Id3" lang="en">The fullname of AZAL PFK is AZAL Pesokar Futbol Klubu.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le nom complet d'AZAL PFK est AZAL Pesokar Futbol Klubu.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="107" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZAL PFK play their home matches at the AZAL Arena.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZAL PFK joue leurs matchs à domicile à l'arène AZAL.</lex>
+      <lex comment="" lid="Id2" lang="en">AZAL Arena is the ground of AZAL PFK.</lex>
+      <lex comment="" lid="Id2" lang="fr">AZAL Arena est le terrain d'AZAL PFK.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="108" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_PFK | capacity | &quot;3500&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | numberOfMembers | 3500</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">There are 3500 members of AZAL PFK.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZAL PFK compte 3 500 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">The number of members of Azal Pfk is 3500.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nombre de membres d'Azal Pfk est de 3500.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="109" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_PFK | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZAL PFK competed in the season 2014.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZAL PFK a concouru dans la saison 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">AZAL PFK are in season 2014.</lex>
+      <lex comment="" lid="Id2" lang="fr">AZAL PFK sont dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="110" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | season | 2014–15_Azerbaijan_Premier_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZAL PFK Bakou is playing Azerbaijan PremierLeague, 2014–15.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZAL PFK Bakou joue à Azerbaijan PremierLeague, 2014.</lex>
+      <lex comment="" lid="Id2" lang="en">AZAL PFK were in the Azerbaijan Premier League in 2014-15.</lex>
+      <lex comment="" lid="Id2" lang="fr">AZAL PFK faisait partie de la Ligue des premiers ministres d'Azerbaïdjan en 2014-2015.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="111" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | fullname | &quot;Alkmaar Zaanstreek&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | fullName | &quot;Alkmaar Zaanstreek&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZ Alkmaar full name is &quot;Alkmaar Zaanstreek&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZ Alkmaar a pour nom complet &quot;Alkmaar Zaanstreek&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">Alkmaar Zaanstreek is the full name of AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="fr">Alkmaar Zaanstreek est le nom complet de AZ Alkmaar.</lex>
+      <lex comment="" lid="Id3" lang="en">AZ Alkmaar's fullname is Alkmaar Zaanstreek.</lex>
+      <lex comment="" lid="Id3" lang="fr">AZ Le prénom d'Alkmaar est Alkmaar Zaanstreek.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="112" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | ground | AFAS_Stadion</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | ground | AFAS_Stadion</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZ Alkmaar's ground is the AFAS Stadion.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le terrain d'AZ Alkmaar est le stade AFAS.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="113" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | manager | John_van_den_Brom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | manager | John_van_den_Brom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom has been manager of AZ Alkmaar.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom a été directeur de AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="en">John van den Brom manages the AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="fr">John van den Brom dirige l'AZ Alkmaar.</lex>
+      <lex comment="" lid="Id3" lang="en">the manager of AZ Alkmaar is john van den Brom.</lex>
+      <lex comment="" lid="Id3" lang="fr">le gérant d'AZ Alkmaar est john van den Brom.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="114" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | owner | &quot;Max Huiberts&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | owner | Max_Huiberts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Max Huiberts is the owner of AZ Alkmaar.</lex>
+      <lex comment="" lid="Id1" lang="fr">Max Huiberts est propriétaire d'AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="en">Max Huiberts owns AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="fr">Max Huiberts est propriétaire d'AZ Alkmaar.</lex>
+      <lex comment="" lid="Id3" lang="en">The owner of AZ Alkmaar is Max Huiberts.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le propriétaire d'AZ Alkmaar est Max Huiberts.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="115" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | owner | Robert_Eenhoorn</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | owner | Robert_Eenhoorn</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZ Alkmaar is owned by Robert Eenhoorn.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZ Alkmaar est la propriété de Robert Eenhoorn.</lex>
+      <lex comment="" lid="Id2" lang="en">Robert Eehoorn owns AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="fr">Robert Eehoorn est propriétaire d'AZ Alkmaar.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="116" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AZ Alkmaar played in the 2014 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">AZ Alkmaar a joué dans la saison 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="117" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | chrtitle | &quot;President&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | chairmanTitle | &quot;President&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The title of the chairman of Agremiacao Sportiva Arapiraquense is President.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le titre du président de Agremiacao Sportiva Arapiraquense est président.</lex>
+      <lex comment="" lid="Id2" lang="en">The chairman of Agremiação Sportiva Arapiraquens has the title of 'President'.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le président de l'Agremiação Sportiva Arapiraquens a le titre de &quot;président&quot;.</lex>
+      <lex comment="" lid="Id3" lang="en">The &quot;President&quot; is the chairman title of the Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le &quot;Président&quot; est le titre de président de l'Agremiação Sportiva Arapiraquense.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="118" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | fullname | &quot;Agremiação Sportiva Arapiraquense&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | fullName | &quot;Agremiação Sportiva Arapiraquense&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense's full name is &quot;Agremiação Sportiva Arapiraquense&quot;.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom complet de Agremiação Sportiva Arapiraquense est &quot;Agremiação Sportiva Arapiraquense&quot;.</lex>
+      <lex comment="" lid="Id2" lang="en">The full name of Agremiação Sportiva Arapiraquense is &quot;Agremiação Sportiva Arapiraquense&quot;.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom complet de Agremiação Sportiva Arapiraquense est &quot;Agremiação Sportiva Arapiraquense&quot;.</lex>
+      <lex comment="" lid="Id3" lang="en">The Agremiação Sportiva Arapiraquense's full name is&quot;Agremiação Sportiva Arapiraquense&quot;.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le nom complet de l'Agremiação Sportiva Arapiraquense est &quot;Agremiação Sportiva Arapiraquense&quot;.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="119" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id1" lang="fr">Estádio Municipal Coaracy da Mata Fonseca est le nom du terrain de Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id2" lang="en">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca.</lex>
+      <lex comment="" lid="Id2" lang="fr">Agremiacao Sportiva Arapiraquense est le terrain de l'Estadio Municipal Coaracy da Mata Fonseca.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="120" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | league | Campeonato_Brasileiro_Série_C</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league.</lex>
+      <lex comment="" lid="Id1" lang="fr">Agremiação Sportiva Arapiraquense jouer dans le Campeonato Brasileiro Série C ligue.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="121" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | nickname | &quot;''Alvinegro&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | nickname | &quot;''Alvinegro&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Alvinegro is the nickname of Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id1" lang="fr">Alvinegro est le surnom de Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id2" lang="en">Alvinegro is the nickname for Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id2" lang="fr">Alvinegro est le surnom de Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="" lid="Id3" lang="en">The nickname of Agremiacao Sportiva Arapiraquense is &quot;Alvinegro&quot;.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le surnom d'Agremiacao Sportiva Arapiraquense est &quot;Alvinegro&quot;.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="122" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | nickname | &quot;Asa Gigante ''&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | nickname | &quot;Asa Gigante ''&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Agremiação Sportiva Arapiraquense is nicknamed Asa Gigante.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Agremiação Sportiva Arapiraquense est surnommé Asa Gigante.</lex>
+      <lex comment="" lid="Id2" lang="en">Agremiação Sportiva Arapiraquense nickname is Asa Gigante.</lex>
+      <lex comment="" lid="Id2" lang="fr">Agremiação Sportiva Arapiraquense surnommé Asa Gigante.</lex>
+      <lex comment="" lid="Id3" lang="en">Agremiacao Sportiva Arapiraquense have the nickname Asa Gigante.</lex>
+      <lex comment="" lid="Id3" lang="fr">Agremiacao Sportiva Arapiraquense ont le surnom Asa Gigante.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="123" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | &quot;17000&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense has 17000 members.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Agremiação Sportiva Arapiraquense compte 17000 membres.</lex>
+      <lex comment="" lid="Id2" lang="en">Agremiação Sportiva Arapiraquense club has 17000 members.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le club Agremiação Sportiva Arapiraquense compte 17000 membres.</lex>
+      <lex comment="" lid="Id3" lang="en">Agremiacao Sportiva Arapiraquense has 17000 members.</lex>
+      <lex comment="" lid="Id3" lang="fr">Agremiacao Sportiva Arapiraquense compte 17000 membres.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="124" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense played in the 2015 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">Agremiação Sportiva Arapiraquense joué dans la saison 2015.</lex>
+      <lex comment="" lid="Id2" lang="en">Agremiacao Sportiva Arapiraquense play in 2015.</lex>
+      <lex comment="" lid="Id2" lang="fr">Agremiacao Sportiva Arapiraquense jouer en 2015.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="125" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akron,_Ohio | subdivisionName | Summit_County,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | isPartOf | Summit_County,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron, Ohio is part of Summit County, Ohio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Akron (Ohio) fait partie du comté de Summit (Ohio).</lex>
+      <lex comment="" lid="Id2" lang="en">Akron, Ohio is a part of Summit County, Ohio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Akron (Ohio) fait partie du comté de Summit (Ohio).</lex>
+      <lex comment="" lid="Id3" lang="en">Akron is located in Summit County, Ohio.</lex>
+      <lex comment="" lid="Id3" lang="fr">Akron est située dans le comté de Summit, en Ohio.</lex>
+      <lex comment="" lid="Id4" lang="en">Akron, Ohio is located in Summit County, Ohio,.</lex>
+      <lex comment="" lid="Id4" lang="fr">Akron (Ohio) est situé dans le comté de Summit (Ohio).</lex>
+      <lex comment="" lid="Id5" lang="en">Akron, Ohio is in Summit County, Ohio.</lex>
+      <lex comment="" lid="Id5" lang="fr">Akron (Ohio) se trouve dans le comté de Summit (Ohio).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="126" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | leaderName | Dan_Horrigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | leader | Dan_Horrigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron, Ohio is led by Dan Horrigan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Akron (Ohio) est dirigé par Dan Horrigan.</lex>
+      <lex comment="" lid="Id2" lang="en">Dan Horrigan is the leader of Akron, Ohio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dan Horrigan est le chef d'Akron, en Ohio.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Akron, Ohio is Dan Horrigan.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le chef d'Akron, en Ohio, est Dan Horrigan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="127" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron,_Ohio | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron,_Ohio | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron, Ohio is located in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Akron (Ohio) est située aux États-Unis.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="128" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | chairman | Dave_Laughlin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | chairman | Dave_Laughlin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akrons Summit Assault chairman is Dave Laughlin.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le président de l'assaut du sommet d'Akrons est Dave Laughlin.</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault's chairman is Dave Laughlin.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le président d'Akron Summit Assault est Dave Laughlin.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="129" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Akron Summit Assault team is based in Akron, Ohio.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'équipe d'assaut du sommet d'Akron est basée à Akron, Ohio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="130" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | league | Premier_Development_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | league | Premier_Development_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault play in the Premier Development League.</lex>
+      <lex comment="" lid="Id1" lang="fr">Akron Summit Assault joue dans la première ligue de développement.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="131" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | manager | Denzil_Antonio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | manager | Denzil_Antonio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Denzil Antonio was the manager of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id1" lang="fr">Denzil Antonio était le directeur de l'assaut d'Akron Summit.</lex>
+      <lex comment="" lid="Id2" lang="en">Denzil Antonio is the manager of Akron Summit Assault.</lex>
+      <lex comment="" lid="Id2" lang="fr">Denzil Antonio est le directeur de Akron Summit Assault.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="132" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | season | 2011</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | season | 2011</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault played in the 2011 season.</lex>
+      <lex comment="" lid="Id1" lang="fr">Akron Summit Assault a joué dans la saison 2011.</lex>
+      <lex comment="" lid="Id2" lang="en">Akron Summit Assault was in the 2011 season.</lex>
+      <lex comment="" lid="Id2" lang="fr">Akron Summit Assault était dans la saison 2011.</lex>
+      <lex comment="" lid="Id3" lang="en">Akron Summit Assault are in season 2011.</lex>
+      <lex comment="" lid="Id3" lang="fr">Akron Summit Assault sont dans la saison 2011.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="133" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | season | 2011_PDL_season</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | season | 2011_PDL_season</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Akron Summit Assault play in the 2011 PDL season.</lex>
+      <lex comment="" lid="Id1" lang="fr">Joue d'assaut au sommet d'Akron dans la saison PDL 2011.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="134" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Amsterdam | part | Amsterdam-Noord</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam | p | Amsterdam-Noord</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam | part | Amsterdam-Noord</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amsterdam Noord is part of Amsterdam.</lex>
+      <lex comment="" lid="Id1" lang="fr">Amsterdam Noord fait partie d'Amsterdam.</lex>
+      <lex comment="" lid="Id2" lang="en">Amsterdam-Noord is part of Amsterdam.</lex>
+      <lex comment="" lid="Id2" lang="fr">Amsterdam-Noord fait partie d'Amsterdam.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="135" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Athens | mayor | Giorgos_Kaminis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens | mayor | Giorgos_Kaminis</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The mayor of Athens is Giorgos Kaminis.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le maire d'Athènes est Giorgos Kaminis.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="136" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan_Premier_League | champions | Qarabağ_FK</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The name of the championship football team in the Azerbaijan Premier League Os the Qarabag FK.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom de l'équipe de football de championnat dans la Azerbaïdjan Premier League Os le Qarabag FK.</lex>
+      <lex comment="" lid="Id2" lang="en">Qarabağ FK are the champions of the Azerbaijan Premier League.</lex>
+      <lex comment="" lid="Id2" lang="fr">Qarabağ FK est le champion de la Ligue du Premier ministre d'Azerbaïdjan.</lex>
+      <lex comment="" lid="Id3" lang="en">The champions of the Azerbaijan Premier League are Qarabag FK.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les champions de la Ligue des premiers ministres d'Azerbaïdjan sont Qarabag FK.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="137" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Blackpool | leaderName | Conservative_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blackpool | leader | Conservative_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Blackpool is the Conservative Party (UK).</lex>
+      <lex comment="" lid="Id1" lang="fr">Le chef de Blackpool est le Parti conservateur (Royaume-Uni).</lex>
+    </entry>
+    <entry category="SportsTeam" eid="138" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Blackpool | leaderName | Gordon_Marsden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blackpool | leader | Gordon_Marsden</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Blackpool is led by Gordon Marsden.</lex>
+      <lex comment="" lid="Id1" lang="fr">Blackpool est dirigé par Gordon Marsden.</lex>
+      <lex comment="" lid="Id2" lang="en">Gordon Marsden is one of Blackpool's leaders.</lex>
+      <lex comment="" lid="Id2" lang="fr">Gordon Marsden est l'un des dirigeants de Blackpool.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Blackpool is Gordon Marsden.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le chef de Blackpool est Gordon Marsden.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="139" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Blackpool | leaderName | Labour_Party_(UK)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blackpool | leader | Labour_Party_(UK)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Blackpool council is the Labour Party (UK).</lex>
+      <lex comment="" lid="Id1" lang="fr">Le chef du conseil de Blackpool est le parti travailliste (UK).</lex>
+      <lex comment="" lid="Id2" lang="en">Blackpool's council is Labour.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le conseil de Blackpool est formé de travailleurs.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="140" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Campeonato_Brasileiro_Série_C | champions | Vila_Nova_Futebol_Clube</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Vila Nova Futebol Clube have been champions of Campeonato Brasileiro Série C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Vila Nova Futebol Clube a été championne de Campeonato Brasileiro Série C.</lex>
+      <lex comment="" lid="Id2" lang="en">Vila Nova Futebol Clube are the champions of Campeonato Brasileiro Serie C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Vila Nova Futebol Clube sont les champions de Campeonato Brasileiro Serie C.</lex>
+      <lex comment="" lid="Id3" lang="en">The Vila Nova Futebol Clube were champions at the Campeonato Brasileiro Série C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le Vila Nova Futebol Clube était champion à la Campeonato Brasileiro Série C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="141" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Campeonato_Brasileiro_Série_C | country | Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Campeonato_Brasileiro_Série_C | country | Brazil</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Campeonato Brasileiro Série C is from Brazil.</lex>
+      <lex comment="" lid="Id1" lang="fr">Campeonato Brasileiro Série C est brésilien.</lex>
+      <lex comment="" lid="Id2" lang="en">Campeonato Brasileiro Serie C is based in Brazil.</lex>
+      <lex comment="" lid="Id2" lang="fr">Campeonato Brasileiro Serie C est basée au Brésil.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="142" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Christian_Panucci | team | A.S._Livorno_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Christian_Panucci | managerClub | A.S._Livorno_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Panucci | club | A.S._Livorno_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Christian Panucci has been manager of A S Livorno Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Christian Panucci a été directeur de A S Livorno Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Christian Panucci plays for A.S. Livorno Calcio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Christian Panucci joue pour A.S. Livorno Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="143" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Christian_Panucci | team | A.S._Roma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Christian_Panucci | clubs | A.S._Roma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Panucci | club | A.S._Roma</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Christian Panucci plays at the A.S. Roma.</lex>
+      <lex comment="" lid="Id1" lang="fr">Christian Panucci joue au A.S. Roma.</lex>
+      <lex comment="" lid="Id2" lang="en">Christian Panucci is in the A.S. Roma club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Christian Panucci est dans le club A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="en">Christian Panucci plays for A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="fr">Christian Panucci joue pour A.S. Roma.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="144" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Christian_Panucci | clubs | Genoa_C.F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Christian_Panucci | team | Genoa_C.F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Panucci | club | Genoa_C.F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Christian Panucci played football for Genoa C.F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Christian Panucci a joué au football pour Gênes C.F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Christian Panucci is attached to the club Genoa CFC.</lex>
+      <lex comment="" lid="Id2" lang="fr">Christian Panucci est attaché au club de Gênes CFC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="145" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Christian_Panucci | team | Italy_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Panucci | club | Italy_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Christian Panucci played for the Italy national football team.</lex>
+      <lex comment="" lid="Id1" lang="fr">Christian Panucci a joué pour l'équipe nationale de football d'Italie.</lex>
+      <lex comment="" lid="Id2" lang="en">Christian Panucci plays for the Italy national football team.</lex>
+      <lex comment="" lid="Id2" lang="fr">Christian Panucci joue pour l'équipe nationale de football d'Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="146" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Christian_Panucci | team | Real_Madrid_C.F.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Christian_Panucci | clubs | Real_Madrid_C.F.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Christian_Panucci | club | Real_Madrid_C.F.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Christian Panucci was attached to the Real Madrid CF club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Christian Panucci était attaché au club CF du Real Madrid.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="147" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dave_Challinor | managerClub | A.F.C._Fylde</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dave_Challinor | club | A.F.C._Fylde</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dave Challinor is a player at the A.F.C. Fylde .</lex>
+      <lex comment="" lid="Id1" lang="fr">Dave Challinor est joueur à la Fylde A.F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Dave Challinor is at the A.F.C. Flyde club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dave Challinor est au club A.F.C. Flyde.</lex>
+      <lex comment="" lid="Id3" lang="en">Dave Challinor plays for A.F.C. Fylde.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dave Challinor joue pour A.F.C. Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="148" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dave_Challinor | clubs | Bury_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dave_Challinor | team | Bury_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dave_Challinor | club | Bury_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dave Challinor played football for Bury FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dave Challinor a joué au football pour le Bury FC.</lex>
+      <lex comment="" lid="Id2" lang="en">Dave Challinor played for Bury F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dave Challinor a joué pour Bury F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="149" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dave_Challinor | clubs | Colwyn_Bay_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dave_Challinor | managerClub | Colwyn_Bay_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dave_Challinor | team | Colwyn_Bay_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dave_Challinor | club | Colwyn_Bay_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dave Challinor is at Colwyn Bay FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dave Challinor est au Centre d'amitié de Colwyn Bay.</lex>
+      <lex comment="" lid="Id2" lang="en">Dave Challinor is a player of Colwyn Bay F.C. club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dave Challinor est un joueur du club de Colwyn Bay F.C.</lex>
+      <lex comment="" lid="Id3" lang="en">Dave Challinor plays for Colwyn Bay F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dave Challinor joue pour Colwyn Bay F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="150" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dave_Challinor | team | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dave_Challinor | clubs | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dave_Challinor | club | Stockport_County_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dave Challinor plays at the Stockport County F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dave Challinor joue au Stockport County F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Dave Challinor played for Stockport County F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dave Challinor a joué pour Stockport County F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="151" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Dave_Challinor | team | Tranmere_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dave_Challinor | clubs | Tranmere_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dave_Challinor | club | Tranmere_Rovers_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dave Challinor is affiliated with Tranmere Rovers F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dave Challinor est affilié à Tranmere Rovers F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Dave Challinor plays for Tranmere Rovers F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dave Challinor joue pour Tranmere Rovers F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="152" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Alagoas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Estadio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Estadio Municipal Coaracy da Mata Fonseca est situé à Alagoas.</lex>
+      <lex comment="" lid="Id2" lang="en">The Estádio Municipal Coaracy da Mata Fonseca is located in Alagoas.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Estádio Municipal Coaracy da Mata Fonseca est situé à Alagoas.</lex>
+      <lex comment="" lid="Id3" lang="en">Estadio Municipal Coaracy da Mata Fonseca is locatedd in Alagoas.</lex>
+      <lex comment="" lid="Id3" lang="fr">Estadio Municipal Coaracy da Mata Fonseca est situé à Alagoas.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="153" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Arapiraca</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Estádio Municipal Coaracy da Mata Fonseca is located in Arapiraca.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Estádio Municipal Coaracy da Mata Fonseca est situé à Arapiraca.</lex>
+      <lex comment="" lid="Id2" lang="en">The Estádio Municipal Coaracy da Mata Fonseca is located in Arapiraca.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Estádio Municipal Coaracy da Mata Fonseca est situé à Arapiraca.</lex>
+      <lex comment="" lid="Id3" lang="en">The Estadio Municipal Coaracy da Mata Fonseca is in Arapiraca.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'Estadio Municipal Coaracy da Mata Fonseca se trouve à Arapiraca.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="154" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Estádio Municipal Coaracy da Mata Fonesca is in Brazil.</lex>
+      <lex comment="" lid="Id1" lang="fr">Estádio Municipal Coaracy da Mata Fonesca se trouve au Brésil.</lex>
+      <lex comment="" lid="Id2" lang="en">Estádio Municipal Coaracy da Mata Fonseca is located in Brazil.</lex>
+      <lex comment="" lid="Id2" lang="fr">Estádio Municipal Coaracy da Mata Fonseca est situé au Brésil.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="155" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Frank_de_Boer | managerClub | AFC_Ajax</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Frank_de_Boer | team | AFC_Ajax</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Frank_de_Boer | clubs | AFC_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Frank_de_Boer | club | AFC_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank de Boer played for AFC Ajax.</lex>
+      <lex comment="" lid="Id1" lang="fr">Frank de Boer a joué pour AFC Ajax.</lex>
+      <lex comment="" lid="Id2" lang="en">Frank de Boer plays for AFC Ajax.</lex>
+      <lex comment="" lid="Id2" lang="fr">Frank de Boer joue pour AFC Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="156" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Frank_de_Boer | team | Ajax_Youth_Academy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Frank_de_Boer | club | Ajax_Youth_Academy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank de Boer is in the Ajax Youth Academy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Frank de Boer est à l'Académie de Jeunesse d'Ajax.</lex>
+      <lex comment="" lid="Id2" lang="en">Frank de Boer played for the Ajax Youth Academy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Frank de Boer a joué pour l'Académie de la Jeunesse d'Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="157" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Frank_de_Boer | team | Al-Shamal_Sports_Club</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Frank_de_Boer | clubs | Al-Shamal_Sports_Club</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Frank_de_Boer | club | Al-Shamal_Sports_Club</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank de Boer played for Al-Shamal Sports Club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Frank de Boer a joué pour Al-Shamal Sports Club.</lex>
+      <lex comment="" lid="Id2" lang="en">Frank de Boer plays for Al-Shamal Sports Club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Frank de Boer joue pour Al-Shamal Sports Club.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="158" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Frank_de_Boer | managerClub | Netherlands_national_football_team</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Frank_de_Boer | team | Netherlands_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Frank_de_Boer | club | Netherlands_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Frank de Boer played for the Netherlands national football team.</lex>
+      <lex comment="" lid="Id1" lang="fr">Frank de Boer a joué pour l'équipe nationale de football des Pays-Bas.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="159" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Greece | capital | Athens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | capital | Athens</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Athens is the capital of Greece.</lex>
+      <lex comment="" lid="Id1" lang="fr">Athènes est la capitale de la Grèce.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="160" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Greece | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The currency in Greece is the euro.</lex>
+      <lex comment="" lid="Id1" lang="fr">La monnaie grecque est l'euro.</lex>
+      <lex comment="" lid="Id2" lang="en">The Euro is the currency in Greece.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'euro est la monnaie en Grèce.</lex>
+      <lex comment="" lid="Id3" lang="en">Money used in Greece is the Euro.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'argent utilisé en Grèce est l'euro.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="161" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Greece | demonym | Greeks</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | demonym | Greeks</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Greece is inhabited by Greeks.</lex>
+      <lex comment="" lid="Id1" lang="fr">La Grèce est habitée par des Grecs.</lex>
+      <lex comment="" lid="Id2" lang="en">The people from Greece are called Greeks.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Grecs sont appelés Grecs.</lex>
+      <lex comment="" lid="Id3" lang="en">Greeks inhabit Greece.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Grecs habitent en Grèce.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="162" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Greek is the language of Greece.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le grec est la langue de la Grèce.</lex>
+      <lex comment="" lid="Id2" lang="en">Greek is spoken in Greece.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le grec est parlé en Grèce.</lex>
+      <lex comment="" lid="Id3" lang="en">The language spoken in Greece is Greek.</lex>
+      <lex comment="" lid="Id3" lang="fr">La langue parlée en Grèce est le grec.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="163" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Greece | leader | Alexis_Tsipras</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Greece | leaderName | Alexis_Tsipras</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | leader | Alexis_Tsipras</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Greece's leader is Alexis Tsipras.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le leader de la Grèce est Alexis Tsipras.</lex>
+      <lex comment="" lid="Id2" lang="en">Alexis Tsipras heads Greece.</lex>
+      <lex comment="" lid="Id2" lang="fr">Alexis Tsipras dirige la Grèce.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Greece is Alexis Tsipras.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le dirigeant de la Grèce est Alexis Tsipras.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="164" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Greece | leaderName | Prokopis_Pavlopoulos</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Greece | leader | Prokopis_Pavlopoulos</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | leader | Prokopis_Pavlopoulos</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Greece's leader is Prokopis Pavlopoulos.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dirigeant de la Grèce est Prokopis Pavlopoulos.</lex>
+      <lex comment="" lid="Id2" lang="en">Prokopis Pavloopoulos is a leader of Greece.</lex>
+      <lex comment="" lid="Id2" lang="fr">Prokopis Pavloopoulos est un dirigeant de la Grèce.</lex>
+      <lex comment="" lid="Id3" lang="en">Prokopis Pavlopoulos is a leader in Greece.</lex>
+      <lex comment="" lid="Id3" lang="fr">Prokopis Pavlopoulos est un leader en Grèce.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="165" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Gubbio | leaderParty | Left_Ecology_Freedom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gubbio | leaderParty | Left_Ecology_Freedom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Left Ecology Freedom are the leading party in Gubbio.</lex>
+      <lex comment="" lid="Id1" lang="fr">La gauche Ecology Freedom est le principal parti de Gubbio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="166" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Gus_Poyet | clubs | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Gus_Poyet | team | Chelsea_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gus_Poyet | club | Chelsea_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gus Poyet played for Chelsea F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Gus Poyet a joué pour Chelsea F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="167" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Gus_Poyet | team | Real_Zaragoza</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Gus_Poyet | clubs | Real_Zaragoza</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gus_Poyet | club | Real_Zaragoza</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gus Poyet is associated with the Real Zaragoza,a football club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Gus Poyet est associé au Real Saragosse, un club de football.</lex>
+      <lex comment="" lid="Id2" lang="en">Gus Poyet is in the Real Zaragoza club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Gus Poyet est dans le club Real Saragosse.</lex>
+      <lex comment="" lid="Id3" lang="en">Gus Poyet's club is Real Zaragoza.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le club de Gus Poyet est le vrai Saragosse.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="168" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Italy | capital | Rome</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | capital | Rome</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rome is the capital of Italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rome est la capitale de l'Italie.</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of Italy is Rome.</lex>
+      <lex comment="" lid="Id2" lang="fr">La capitale de l'Italie est Rome.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="169" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Italy is inhabited by Italians.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Italie est habitée par des Italiens.</lex>
+      <lex comment="" lid="Id2" lang="en">Italians are the people who live in Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Italiens sont les personnes qui vivent en Italie.</lex>
+      <lex comment="" lid="Id3" lang="en">Italians inhabit Italy.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Italiens habitent l'Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="170" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Italy | language | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | language | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The language spoken in italy is Italian language.</lex>
+      <lex comment="" lid="Id1" lang="fr">La langue parlée en italique est l'italien.</lex>
+      <lex comment="" lid="Id2" lang="en">The Italian language is spoken in Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'italien est parlé en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="171" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Italy's leader is Pietro Grasso.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le leader de l'Italie est Pietro Grasso.</lex>
+      <lex comment="" lid="Id2" lang="en">Pietro Grasso is the leader in Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Pietro Grasso est le leader en Italie.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader of Italy is Pietro Grasso.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le leader de l'Italie est Pietro Grasso.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="172" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Italy | officialLanguage | Italian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | officialLanguage | Italian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The official language of Italy is the Italian language.</lex>
+      <lex comment="" lid="Id1" lang="fr">La langue officielle de l'Italie est l'italien.</lex>
+      <lex comment="" lid="Id2" lang="en">Italian is the official language of Italy.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'italien est la langue officielle de l'Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="173" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>James_Pallotta | birthPlace | Boston</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>James_Pallotta | birthPlace | Boston</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Boston is the birthplace of James Pallotta.</lex>
+      <lex comment="" lid="Id1" lang="fr">Boston est le lieu de naissance de James Pallotta.</lex>
+      <lex comment="" lid="Id2" lang="en">James Pallota was born in Boston.</lex>
+      <lex comment="" lid="Id2" lang="fr">James Pallota est né à Boston.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="174" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | 1._FC_Lokomotive_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | 1._FC_Lokomotive_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The first club Jens Härtel played for was FC Lokomotive Leipzig.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le premier club Jens Härtel a joué pour le FC Lokomotive Leipzig.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Hartel plays for 1. FC Lokomotive Leipzig.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jens Hartel joue pour 1. Lokomotive FC Leipzig.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="175" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | 1._FC_Magdeburg</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | 1._FC_Magdeburg</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | 1._FC_Magdeburg</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jens Hartel is a member of the ! FC Magdeburgs.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jens Hartel est membre du ! FC Magdeburgs.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Härtel is in the 1. FC Magdeburg club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jens Härtel est dans le 1. FC Magdeburg club.</lex>
+      <lex comment="" lid="Id3" lang="en">Jens Hartel plays for 1. FC Magdeburg.</lex>
+      <lex comment="" lid="Id3" lang="fr">Jens Hartel joue pour 1. FC Magdeburg.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="176" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | 1._FC_Union_Berlin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | 1._FC_Union_Berlin</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jens Härtel is part of the club 1. FC Union Berlin.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jens Härtel fait partie du club 1. FC Union Berlin.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="177" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | Berliner_AK_07</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | Berliner_AK_07</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jens Härtel played for Berliner AK 07.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jens Härtel a joué pour Berliner AK 07.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Hartel club is Berliner AK 07.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le club Jens Hartel est Berliner AK 07.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="178" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | FSV_Zwickau</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | FSV_Zwickau</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jens Hartel is attached to the club FSV Zwickau.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jens Hartel est attaché au club FSV Zwickau.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Härtel is a member of the FSV Zwickau club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jens Härtel est membre du club FSV Zwickau.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="179" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | RB_Leipzig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | RB_Leipzig</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jens Härtel is in the RB Leipzig club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jens Härtel se trouve dans le club RB de Leipzig.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Härtel played for RB Leipzig.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jens Härtel a joué pour RB Leipzig.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="180" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | team | SV_Babelsberg_03</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | SV_Babelsberg_03</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jens Härtel is part of the SV Babelsberg 03 club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jens Härtel fait partie du club SV Babelsberg 03.</lex>
+      <lex comment="" lid="Id2" lang="en">Jens Hartel plays for SV Babelsberg 03.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jens Hartel joue pour SV Babelsberg 03.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="181" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | managerClub | ADO_Den_Haag</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | ADO_Den_Haag</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom plays for ADO Den Haag.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom joue pour l'ADO Den Haag.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="182" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | clubs | AFC_Ajax</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_van_den_Brom | team | AFC_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | AFC_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom plays for AFC Ajax.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom joue pour AFC Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="183" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | clubs | De_Graafschap</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_van_den_Brom | team | De_Graafschap</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | De_Graafschap</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom plays for De Graafschap.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom joue pour De Graafschap.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="184" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | managerClub | Jong_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | Jong_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom is in the Jong Ajax club.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom fait partie du club Jong Ajax.</lex>
+      <lex comment="" lid="Id2" lang="en">John van den Brom plays for Jong Ajax.</lex>
+      <lex comment="" lid="Id2" lang="fr">John van den Brom joue pour Jong Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="185" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | team | Netherlands_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | Netherlands_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom played for the Netherlands national football team.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom a joué pour l'équipe nationale de football des Pays-Bas.</lex>
+      <lex comment="" lid="Id2" lang="en">John van den Brom plays for the Netherlands national football team.</lex>
+      <lex comment="" lid="Id2" lang="fr">John van den Brom joue pour l'équipe nationale de football des Pays-Bas.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="186" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | managerClub | R.S.C._Anderlecht</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | R.S.C._Anderlecht</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom plays for R.S.C. Anderlecht.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom joue pour R.S.C. Anderlecht.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="187" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | team | Vitesse_Arnhem</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_van_den_Brom | managerClub | Vitesse_Arnhem</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_van_den_Brom | clubs | Vitesse_Arnhem</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | Vitesse_Arnhem</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom is in Vitesse Arnhem.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom est à Vitesse Arnhem.</lex>
+      <lex comment="" lid="Id2" lang="en">John van den Brom plays for Vitesse Arnhem.</lex>
+      <lex comment="" lid="Id2" lang="fr">John van den Brom joue pour Vitesse Arnhem.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="188" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | team | İstanbulspor_A.Ş.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_van_den_Brom | clubs | İstanbulspor_A.Ş.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | İstanbulspor_A.Ş.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John van den Brom is a player in İstanbulspor A.Ş.</lex>
+      <lex comment="" lid="Id1" lang="fr">John van den Brom est un joueur de İstanbulspor A.Ş.</lex>
+      <lex comment="" lid="Id2" lang="en">John van den Brom plays for Istanbulspor A.S.</lex>
+      <lex comment="" lid="Id2" lang="fr">John van den Brom joue pour Istanbulspor A.S.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="189" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | Alianza_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | Alianza_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | Alianza_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jorge Humberto Rodgriguez plays for the Alianza F.C. club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jorge Humberto Rodgriguez joue pour le club Alianza F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Jorge Humberto Rodríguez club is Alianza F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jorge Humberto Rodríguez club est Alianza F.C.</lex>
+      <lex comment="" lid="Id3" lang="en">Jorge Humberto Rodriguez plays for Alianza F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Jorge Humberto Rodriguez joue pour Alianza F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="190" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._FAS</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jorge Humberto Rodriquez plays for the C.D. FAS.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jorge Humberto Rodriquez joue pour le C.D. FAS.</lex>
+      <lex comment="" lid="Id2" lang="en">Jorge Humberto Rodríguez is in C.D. FAS.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jorge Humberto Rodríguez est à C.D. FAS.</lex>
+      <lex comment="" lid="Id3" lang="en">Jorge Humberto Rodriguez plays for C.D. FAS.</lex>
+      <lex comment="" lid="Id3" lang="fr">Jorge Humberto Rodriguez joue pour C.D. FAS.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="191" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | C.D._Águila</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | C.D._Águila</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._Águila</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jorge Humberto Rodriguez is attached to the club CD Aguila.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jorge Humberto Rodriguez est attaché au CD club Aguila.</lex>
+      <lex comment="" lid="Id2" lang="en">Jorge Humberto Rodriguez is a member of C.D. Aguila.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jorge Humberto Rodriguez est membre de C.D. Aguila.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="192" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | managerClub | El_Salvador_national_football_team</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | El_Salvador_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | El_Salvador_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Jorge Humberto Rodríguez is a member of the El Salvador national football team.</lex>
+      <lex comment="" lid="Id1" lang="fr">Jorge Humberto Rodríguez est membre de l'équipe nationale de football d'El Salvador.</lex>
+      <lex comment="" lid="Id2" lang="en">Jorge Humberto Rodriguez plays for the El Salvador national football team.</lex>
+      <lex comment="" lid="Id2" lang="fr">Jorge Humberto Rodriguez joue pour l'équipe nationale de football d'El Salvador.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="193" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerclubs | A.S._Roma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | A.S._Roma</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | team | A.S._Roma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | A.S._Roma</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti is in the A.S. Roma club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Luciano Spalletti est dans le club A.S. Roma.</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti's club is A.S. Roma.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le club de Luciano Spalletti est A.S.</lex>
+      <lex comment="" lid="Id3" lang="en">Luciano Spalletti plays for A.S. Roma.</lex>
+      <lex comment="" lid="Id3" lang="fr">Luciano Spalletti joue pour A.S. Roma.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="194" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | team | Empoli_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | clubs | Empoli_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | managerClub | Empoli_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Empoli_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti plays for Empoli F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Luciano Spalletti joue pour Empoli F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="195" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | team | Virtus_Entella</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Luciano_Spalletti | clubs | Virtus_Entella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Luciano_Spalletti | club | Virtus_Entella</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Luciano Spalletti was at the club Virtus Entella.</lex>
+      <lex comment="" lid="Id1" lang="fr">Luciano Spalletti était au club Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="en">Luciano Spalletti plays for Virtus Entella.</lex>
+      <lex comment="" lid="Id2" lang="fr">Luciano Spalletti joue pour Virtus Entella.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="196" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | A.C._Cesena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | A.C._Cesena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago is in the A.C. Cesena club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago est membre du club A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago plays for A.C. Cesena.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago joue pour A.C. Cesena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="197" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | A.S.D._Licata_1931</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | A.S.D._Licata_1931</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | A.S.D._Licata_1931</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago was at the club ASD Licita 1931.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago était au club ASD Licita 1931.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago plays for A.S.D. Licata 1931.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago joue pour A.S.D. Licata 1931.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="198" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago is in club Calcio Catania.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago est dans le club Calcio Catania.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago's club was Calcio Catania.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le club de Massimo Drago était Calcio Catania.</lex>
+      <lex comment="" lid="Id3" lang="en">Massimo Drago plays for Calcio Catania.</lex>
+      <lex comment="" lid="Id3" lang="fr">Massimo Drago joue pour Calcio Catania.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="199" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | S.S.D._Potenza_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | S.S.D._Potenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S.D._Potenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago played for S.S.D. Potenza Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago a joué pour S.S.D. Potenza Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago played for the club SSD Potenza Calcio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago a joué pour le club SSD Potenza Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="200" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | U.S._Castrovillari_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | U.S._Castrovillari_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | U.S._Castrovillari_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago was once a player for US Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago a déjà joué pour US Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Massimo Drago plays for U.S Castrovillari Calcio.</lex>
+      <lex comment="" lid="Id2" lang="fr">Massimo Drago joue pour U.S. Castrovillari Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="201" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | Vigor_Lamezia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Vigor_Lamezia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Vigor_Lamezia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Massimo Drago is attached to the club Vigor Lamezia.</lex>
+      <lex comment="" lid="Id1" lang="fr">Massimo Drago est attaché au club Vigor Lamezia.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="202" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Max_Huiberts | team | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Max_Huiberts | club | AZ_Alkmaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Max Huiberts is associated with the club AZ Alkmaar.</lex>
+      <lex comment="" lid="Id1" lang="fr">Max Huiberts est associé au club AZ Alkmaar.</lex>
+      <lex comment="" lid="Id2" lang="en">Max Huiberts is in the AZ Alkmaar club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Max Huiberts est membre du club AZ Alkmaar.</lex>
+      <lex comment="" lid="Id3" lang="en">Max Huiberts plays for AZ Alkmaar.</lex>
+      <lex comment="" lid="Id3" lang="fr">Max Huiberts joue pour AZ Alkmaar.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="203" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Michele_Marcolini | team | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michele_Marcolini | clubs | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michele_Marcolini | club | A.C._Chievo_Verona</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini plays for A.C. Chievo Verona.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini joue pour A.C. Chievo Verona.</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini club is A.C&gt; Chievo Verona.</lex>
+      <lex comment="" lid="Id2" lang="fr">Michele Marcolini club est A.C &gt; Chievo Vérone.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="204" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Michele_Marcolini | managerClub | A.C._Lumezzane</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michele_Marcolini | clubs | A.C._Lumezzane</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michele_Marcolini | team | A.C._Lumezzane</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michele_Marcolini | club | A.C._Lumezzane</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini is attached to the club AC Lumezzane.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini est attachée au club AC Lumezzane.</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini is a member of the A.C. Lumezzane club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Michele Marcolini est membre du club A.C. Lumezzane.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="205" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Michele_Marcolini | clubs | F.C._Bari_1908</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michele_Marcolini | team | F.C._Bari_1908</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michele_Marcolini | club | F.C._Bari_1908</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini has been associated with F.C. Bari 1908.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini a été associée à F.C. Bari en 1908.</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini was at FC Bari 1908.</lex>
+      <lex comment="" lid="Id2" lang="fr">Michele Marcolini était au FC Bari 1908.</lex>
+      <lex comment="" lid="Id3" lang="en">Michele Marcolini plays for F.C. Bari 1908.</lex>
+      <lex comment="" lid="Id3" lang="fr">Michele Marcolini joue pour F.C. Bari 1908.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="206" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Michele_Marcolini | team | Torino_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Michele_Marcolini | clubs | Torino_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michele_Marcolini | club | Torino_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini owns Torino F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini est propriétaire de Torino F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini is at the Torino F.C. club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Michele Marcolini est au club de Turin F.C.</lex>
+      <lex comment="" lid="Id3" lang="en">Michele Marcolini plays for Torino F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Michele Marcolini joue pour Torino F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="207" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Michele_Marcolini | placeOfBirth | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michele_Marcolini | birthPlace | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini was born in Italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini est née en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="208" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Michele_Marcolini | youthclubs | Torino_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Michele_Marcolini | youthclub | Torino_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Michele Marcolini played youth football for Torino FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Michele Marcolini a joué le football des jeunes pour le FC Torino.</lex>
+      <lex comment="" lid="Id2" lang="en">Michele Marcolini is affiliated with the youthclub Torino F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Michele Marcolini est affilié au Youth Club Torino F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="209" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>National_League_North | champions | Barrow_A.F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>National_League_North | champions | Barrow_A.F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Barrow AFC are previous champions of the National League North.</lex>
+      <lex comment="" lid="Id1" lang="fr">Barrow AFC ont déjà été champions de la Ligue nationale du Nord.</lex>
+      <lex comment="" lid="Id2" lang="en">Barrow A.F.C. team won the championship before in the National League North.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'équipe de Barrow A.F.C. remporte le championnat auparavant dans le Nord de la Ligue nationale.</lex>
+      <lex comment="" lid="Id3" lang="en">Barrow A.F.C. are the National League North Champions.</lex>
+      <lex comment="" lid="Id3" lang="fr">Barrow A.F.C. sont les champions de la Ligue nationale du Nord.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="210" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Athens</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Athens</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Olympic Stadium (Athens) is located in the city of Athens.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le stade olympique (Athènes) est situé dans la ville d'Athènes.</lex>
+      <lex comment="" lid="Id2" lang="en">The Olympic Stadium (Athens) is located in Athens.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le stade olympique (Athènes) est situé à Athènes.</lex>
+      <lex comment="" lid="Id3" lang="en">The Olympic Stadium is in Athens.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le stade olympique se trouve à Athènes.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="211" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Paulo_Sousa | managerClub | ACF_Fiorentina</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paulo_Sousa | team | ACF_Fiorentina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paulo_Sousa | club | ACF_Fiorentina</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paulo Sousa plays for ACF Fiorentina.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paulo Sousa joue pour ACF Fiorentina.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="212" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Paulo_Sousa | clubs | Inter_Milan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paulo_Sousa | team | Inter_Milan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paulo_Sousa | club | Inter_Milan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paulo Sousa once played for Inter Milan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paulo Sousa a joué un jour pour l'Inter Milan.</lex>
+      <lex comment="" lid="Id2" lang="en">Paulo Sousa is attached to the club Inter Milan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Paulo Sousa est attaché au club Inter Milan.</lex>
+      <lex comment="" lid="Id3" lang="en">Paulo Sousa plays at the Inter Milan club.</lex>
+      <lex comment="" lid="Id3" lang="fr">Paulo Sousa joue au club Inter Milan.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="213" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Paulo_Sousa | team | Juventus_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Paulo_Sousa | clubs | Juventus_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paulo_Sousa | club | Juventus_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paulo Sousa played for Juventus FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paulo Sousa a joué pour Juventus FC.</lex>
+      <lex comment="" lid="Id2" lang="en">Paulo Sousa club is Juventus.</lex>
+      <lex comment="" lid="Id2" lang="fr">Paulo Sousa club est Juventus.</lex>
+      <lex comment="" lid="Id3" lang="en">Paulo Sousa plays for Juventus F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Paulo Sousa joue pour Juventus F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="214" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Paulo_Sousa | managerClub | Maccabi_Tel_Aviv_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paulo_Sousa | club | Maccabi_Tel_Aviv_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paulo Sousa played for Maccabi Tel Aviv F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paulo Sousa a joué pour Maccabi Tel Aviv F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Paulo Sousa plays for Maccabi Tel Aviv F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Paulo Sousa joue pour Maccabi Tel Aviv F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="215" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Paulo_Sousa | team | Portugal_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paulo_Sousa | club | Portugal_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paulo Sousa plays for the Portugal national football team.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paulo Sousa joue pour l'équipe nationale de football du Portugal.</lex>
+      <lex comment="" lid="Id2" lang="en">Paulo Sousa is a member of the Portugal National Football Team.</lex>
+      <lex comment="" lid="Id2" lang="fr">Paulo Sousa est membre de l'équipe nationale de football du Portugal.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="216" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | Austria_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | Austria_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Footballer, Peter Stöger, plays for the Austria National Football team.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stöger, footballeur, joue pour l'équipe nationale de football d'Autriche.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger plays for the Austria national football team.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stoger joue pour l'équipe nationale autrichienne de football.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="217" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FC_Admira_Wacker_Mödling</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | FC_Admira_Wacker_Mödling</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FC_Admira_Wacker_Mödling</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger's club is the FC Admira Wacker Mödling.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le club de Peter Stöger est le FC Admira Wacker Mödling.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is a player in FC Admira Wacker Mödling.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger est un joueur de FC Admira Wacker Mödling.</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger plays for FC Admira Wacker Modling.</lex>
+      <lex comment="" lid="Id3" lang="fr">Peter Stoger joue pour le FC Admira Wacker Modling.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="218" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | FK_Austria_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | FK_Austria_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger is a member of the FK Austria Wien soccer club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stoger est membre du club de football FK Austria Wien.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is at the FK Austria Wien club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger est au club FK Austria Wien.</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger plays for FK Austria Wien.</lex>
+      <lex comment="" lid="Id3" lang="fr">Peter Stoger joue pour FK Austria Wien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="219" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | Favoritner_AC</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | Favoritner_AC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | Favoritner_AC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger plays for Favoritner AC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stoger joue pour Favoritner AC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="220" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | First_Vienna_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | First_Vienna_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stoger is attached to the club First Vienna FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stoger est attaché au club First Vienna FC.</lex>
+    </entry>
+  </entries>
+</benchmark>

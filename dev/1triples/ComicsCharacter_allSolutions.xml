@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book writer, Roger McKenzie, is a United States national.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dessinateur de bandes dessinées, Roger McKenzie, est de nationalité américaine.</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book writer, Roger McKenzie is an American.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le dessinateur de bandes dessinées, Roger McKenzie, est un Américain.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roy_Thomas | award | Academy_of_Comic_Book_Arts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Roy Thomas was an award winner at the Academy of Comic Book Arts.</lex>
+      <lex comment="" lid="Id1" lang="fr">Roy Thomas a été lauréat de l'Academy of Comic Book Arts.</lex>
+      <lex comment="" lid="Id2" lang="en">Roy Thomas received an award from the Academy of Comic Book Arts.</lex>
+      <lex comment="" lid="Id2" lang="fr">Roy Thomas a reçu un prix de l'Academy of Comic Book Arts.</lex>
+      <lex comment="" lid="Id3" lang="en">Roy Thomas won an award from the Academy of Comic Book Arts.</lex>
+      <lex comment="" lid="Id3" lang="fr">Roy Thomas a remporté un prix de l'Academy of Comic Book Arts.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Roy_Thomas | award | Alley_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roy_Thomas | award | Alley_Award</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Roy Thomas was awarded the Alley Award.</lex>
+      <lex comment="" lid="Id1" lang="fr">Roy Thomas a reçu le prix Alley.</lex>
+      <lex comment="" lid="Id2" lang="en">Roy Thomas won the Alley Award.</lex>
+      <lex comment="" lid="Id2" lang="fr">Roy Thomas a remporté le prix Alley.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | award | Inkpot_Award</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | awards | Inkpot_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | award | Inkpot_Award</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sheldon Moldoff won the Inkpot Award.</lex>
+      <lex comment="" lid="Id1" lang="fr">Sheldon Moldoff a remporté le prix Inkpot.</lex>
+      <lex comment="" lid="Id2" lang="en">Sheldon Moldoff has won the Inkpot Award.</lex>
+      <lex comment="" lid="Id2" lang="fr">Sheldon Moldoff a remporté le prix Inkpot.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sheldon Moldoff was an American national.</lex>
+      <lex comment="" lid="Id1" lang="fr">Sheldon Moldoff était de nationalité américaine.</lex>
+      <lex comment="" lid="Id2" lang="en">Sheldon Moldoff is an American.</lex>
+      <lex comment="" lid="Id2" lang="fr">Sheldon Moldoff est un Américain.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Ralph Payne&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | &quot;Ralph Payne&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Arrow is otherwise known as Ralph Payne.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Arrow est aussi connu sous le nom de Ralph Payne.</lex>
+      <lex comment="" lid="Id2" lang="en">The alternative name for the comic character, the Arrow, is Ralph Payne.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom alternatif du personnage de bande dessinée, The Arrow, est Ralph Payne.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Rick Parker&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | &quot;Rick Parker&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rick Parker, is the alternative name for the comic character, the Arrow.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rick Parker, est le nom alternatif du personnage de bande dessinée, l'Arrow.</lex>
+      <lex comment="" lid="Id2" lang="en">The alternative name for The Arrow (comics character) is &quot;Rick Parker&quot;.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom alternatif de The Arrow (personnage de bande dessinée) est &quot;Rick Parker&quot;.</lex>
+      <lex comment="" lid="Id3" lang="en">The comic book character The Arrow's alter ego is Rick Parker.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le personnage de bande dessinée de The Arrow est Rick Parker.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Gustavson created The Arrow.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Gustavson a créé The Arrow.</lex>
+      <lex comment="" lid="Id2" lang="en">The comic character, The Arrow, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le personnage comique, The Arrow, a été créé par Paul Gustavson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Buxton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Buxton</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tim Brooke-Taylor was born in Buxton.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tim Brooke-Taylor est né à Buxton.</lex>
+      <lex comment="" lid="Id2" lang="en">Buxton is the birthplace of Tim Brooke-Taylor.</lex>
+      <lex comment="" lid="Id2" lang="fr">Buxton est le lieu de naissance de Tim Brooke-Taylor.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | Derbyshire</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tim Brooke Taylor was born in Derbyshire.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tim Brooke Taylor est né dans le Derbyshire.</lex>
+      <lex comment="" lid="Id2" lang="en">Tim Brooke-Taylor was born in Derbyshire.</lex>
+      <lex comment="" lid="Id2" lang="fr">Tim Brooke-Taylor est né dans le Derbyshire.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | England</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | England</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tim Brooke Taylor was born in England.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tim Brooke Taylor est né en Angleterre.</lex>
+      <lex comment="" lid="Id2" lang="en">Tim Brooke-Taylor was born in England.</lex>
+      <lex comment="" lid="Id2" lang="fr">Tim Brooke-Taylor est né en Angleterre.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tim_Brooke-Taylor | birthPlace | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tim Brooke-Taylor's birth place is the United Kingdom.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tim Brooke-Taylor est né au Royaume-Uni.</lex>
+      <lex comment="" lid="Id2" lang="en">Tim Brooke-Taylor was born in the UK.</lex>
+      <lex comment="" lid="Id2" lang="fr">Tim Brooke-Taylor est né au Royaume-Uni.</lex>
+      <lex comment="" lid="Id3" lang="en">The birth place of Tim Brooke-Taylor is United Kingdom.</lex>
+      <lex comment="" lid="Id3" lang="fr">Tim Brooke-Taylor est né au Royaume-Uni.</lex>
+    </entry>
+  </entries>
+</benchmark>

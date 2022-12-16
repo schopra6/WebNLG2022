@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="1" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+        <otriple>New_York_City | isPartOf | New_Netherland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+        <mtriple>New_York_City | isPartOf | New_Netherland</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Manhattan is part of New York City, which was part of New Netherland, and is the location of Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="fr">Manhattan fait partie de la ville de New York, qui faisait partie des Pays-Bas, et est l'emplacement des bains publics Asser Levy.</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths are in New York City, Manhattan ( a part of New Netherland).</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy se trouvent dans la ville de New York, à Manhattan (une partie des Pays-Bas).</lex>
+      <lex comment="" lid="Id3" lang="en">The Asser Levy Public Baths in Manhattan, New York City are part of New Netherland.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les bains publics Asser Levy à Manhattan, New York font partie du territoire néo-zélandais.</lex>
+    </entry>
+    <entry category="Building" eid="2" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+        <otriple>New_York_City | subdivisionName | Brooklyn</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+        <mtriple>New_York_City | isPartOf | Brooklyn</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asser Levy Public Baths are located in New York City, New York. Brooklyn is a part of New York City.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les bains publics Asser Levy se trouvent à New York City, New York, Brooklyn fait partie de New York City.</lex>
+      <lex comment="" lid="Id2" lang="en">The Asser Levy Public Baths are located in New York City which is part of New York and also incorporates Brooklyn.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les bains publics Asser Levy sont situés dans la ville de New York qui fait partie de New York et comprend également Brooklyn.</lex>
+    </entry>
+    <entry category="Building" eid="3" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | New_York_City</otriple>
+        <otriple>New_York_City | isPartOf | New_York</otriple>
+        <otriple>New_York_City | subdivisionName | Manhattan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | New_York_City</mtriple>
+        <mtriple>New_York_City | isPartOf | New_York</mtriple>
+        <mtriple>New_York_City | isPartOf | Manhattan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">New York City, New York, Manhattan is the location of the Asser Levy Public Baths.</lex>
+      <lex comment="" lid="Id1" lang="fr">New York City, New York, Manhattan est l'emplacement des bains publics Asser Levy.</lex>
+      <lex comment="" lid="Id2" lang="en">Asser Levy Public baths are in Manhattan, New York City, New York.</lex>
+      <lex comment="" lid="Id2" lang="fr">Asser Levy Bains publics sont à Manhattan, New York City, New York.</lex>
+      <lex comment="" lid="Id3" lang="en">Asser Levy Public baths are located in New York City, New York, Manhattan.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les bains publics Asser Levy sont situés à New York City, New York, Manhattan.</lex>
+    </entry>
+    <entry category="Building" eid="4" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Conservative_Party_(UK)</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | birthPlace | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Conservative_Party_(UK)</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | birthPlace | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">103 Colmore Row was designed by the architect Jhon Madin who was born in birgmingham where the leader is the conservative party (UK).</lex>
+      <lex comment="" lid="Id1" lang="fr">103 Colmore Row a été conçu par l'architecte Jhon Madin qui est né à birgmingham où le chef est le parti conservateur (Royaume-Uni).</lex>
+      <lex comment="" lid="Id2" lang="en">Birmingham, led by the Conservative Party, was the birthplace of John Madin who designed 103 Colmore Row.</lex>
+      <lex comment="" lid="Id2" lang="fr">Birmingham, dirigée par le Parti conservateur, est le lieu de naissance de John Madin, qui a conçu le 103, Colmore Row.</lex>
+    </entry>
+    <entry category="Building" eid="5" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Birmingham | leaderName | Liberal_Democrats</otriple>
+        <otriple>103_Colmore_Row | architect | John_Madin</otriple>
+        <otriple>John_Madin | hometown | Birmingham</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Birmingham | leader | Liberal_Democrats</mtriple>
+        <mtriple>103_Colmore_Row | architect | John_Madin</mtriple>
+        <mtriple>John_Madin | origin | Birmingham</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Liberal Democrats lead Birmingham, home town of architect John Madin, who designed 103 Colmore Row.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les libéraux-démocrates dirigent Birmingham, ville natale de l'architecte John Madin, qui a conçu le 103, Colmore Row.</lex>
+      <lex comment="" lid="Id2" lang="en">John Madin, who designed 103 Colmore Row, comes from Birmingham, which is run by the Liberal Democrats.</lex>
+      <lex comment="" lid="Id2" lang="fr">John Madin, qui a conçu le 103 Colmore Row, vient de Birmingham, qui est dirigé par les libéraux démocrates.</lex>
+    </entry>
+    <entry category="Building" eid="6" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        <otriple>Dublin | isPartOf | Leinster</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Dublin | country | Republic_of_Ireland</otriple>
+        <otriple>3Arena | location | Dublin</otriple>
+        <otriple>Dublin | subdivisionName | Leinster</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dublin | country | Republic_of_Ireland</mtriple>
+        <mtriple>3Arena | location | Dublin</mtriple>
+        <mtriple>Dublin | isPartOf | Leinster</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 3Arena is located in Dublin, which is a part of Leinster, in the Republic of Ireland.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 3Arena est situé à Dublin, qui fait partie de Leinster, en République d'Irlande.</lex>
+      <lex comment="" lid="Id2" lang="en">3 Arena is located in Dublin (in the Republic of Ireland) which is a part of Leinster.</lex>
+      <lex comment="" lid="Id2" lang="fr">3 Arena est situé à Dublin (en République d'Irlande) qui fait partie de Leinster.</lex>
+      <lex comment="" lid="Id3" lang="en">3Arena is located in Dublin, Leinster, Republic of Ireland.</lex>
+      <lex comment="" lid="Id3" lang="fr">3Arena est situé à Dublin, Leinster, République d'Irlande.</lex>
+    </entry>
+    <entry category="Building" eid="7" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Hailemariam_Desalegn</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Hailemariam_Desalegn</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ethiopia is led by Hailemariam Desalegn and is the location of the Addis Ababa City Hall in Addis Ababa.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Éthiopie est dirigée par Hailemariam Desalegn et c'est là que se trouve l'hôtel de ville d'Addis-Abeba.</lex>
+      <lex comment="" lid="Id2" lang="en">Hailemariam Desalegn is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Ababa.</lex>
+      <lex comment="" lid="Id2" lang="fr">Hailemariam Desalegn est le dirigeant de l'Éthiopie où se trouve l'hôtel de ville d'Addis-Abeba.</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall is located in Addis Ababa, Ethiopia where Hailemariam Desalegn is the leader.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'hôtel de ville d'Addis-Abeba est situé à Addis-Abeba, en Éthiopie, où Hailemariam Desalegn en est le chef.</lex>
+    </entry>
+    <entry category="Building" eid="8" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | country | Ethiopia</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | country | Ethiopia</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Malatu Teshome is the leader of Ethiopia where Addis Ababa City Hall is located in Addis Abiba.</lex>
+      <lex comment="" lid="Id1" lang="fr">Malatu Teshome est le chef de l'Éthiopie où se trouve l'hôtel de ville d'Addis-Abeba à Addis-Abeba.</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall is in Addis Ababa, Ethiopia, which is led by Malatu Teshome.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'hôtel de ville d'Addis-Abeba se trouve à Addis-Abeba, en Éthiopie, et est dirigé par Malatu Teshome.</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa City Hall is located in the city of the same name in Ethiopia, a leader of which is Mulatu Teshome.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'hôtel de ville d'Addis-Abeba est situé dans la ville éthiopienne du même nom, dont l'un des dirigeants est Mulatu Teshome.</lex>
+    </entry>
+    <entry category="Building" eid="9" size="3" shape="(X (X (X (X))))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Ethiopia | leaderName | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ethiopia | leader | Mulatu_Teshome</otriple>
+        <otriple>Addis_Ababa_City_Hall | location | Addis_Ababa</otriple>
+        <otriple>Addis_Ababa | country | Ethiopia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ethiopia | leader | Mulatu_Teshome</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | location | Addis_Ababa</mtriple>
+        <mtriple>Addis_Ababa | country | Ethiopia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Mulatu Teshome is an Ethiopian leader. Addis Ababa City Hall is located in Addis Ababa in Ethiopia.</lex>
+      <lex comment="" lid="Id1" lang="fr">Mulatu Teshome est un leader éthiopien, et l'hôtel de ville d'Addis-Abeba est situé à Addis-Abeba, en Éthiopie.</lex>
+      <lex comment="" lid="Id2" lang="en">Addis Ababa City Hall is located in Ethopia's Addis Ababa, which is run by Mulatu Teshome.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'hôtel de ville d'Addis-Abeba est situé dans la ville d'Ethopia, qui est gérée par Mulatu Teshome.</lex>
+      <lex comment="" lid="Id3" lang="en">Addis Ababa is located in Ethiopia. The current leader in Ethiopia is Malatu Teshome also Addis Ababa City Hall is located in Addis Ababa Ethiopia.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le chef de file actuel en Éthiopie est Malatu Teshome, et l'hôtel de ville d'Addis-Abeba se trouve à Addis-Abeba, en Éthiopie.</lex>
+    </entry>
+    <entry category="Building" eid="10" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leader | Anandiben_Patel</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Anandiben Patel was the leader of Gujarat, India, the location of Amdavad ni Gufa.</lex>
+      <lex comment="" lid="Id1" lang="fr">Anandiben Patel était le dirigeant du Gujarat, en Inde, où se trouvait Amdavad ni Gufa.</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat, India, which is led by Anandiben Patel.</lex>
+      <lex comment="" lid="Id2" lang="fr">Amdavad ni Gufa est situé à Gujarat, en Inde, et est dirigé par Anandiben Patel.</lex>
+      <lex comment="" lid="Id3" lang="en">Anandiben Patel is the leader of Guarat, India, home to Amadavad ni Gufa.</lex>
+      <lex comment="" lid="Id3" lang="fr">Anandiben Patel est le chef de Guarat, en Inde, où se trouve Amadavad ni Gufa.</lex>
+    </entry>
+    <entry category="Building" eid="11" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">People who live in India are known as Indian. Amdavad ni Gufa is located in the country which is led by Sumitra Mahajan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Amdavad ni Gufa est situé dans le pays qui est dirigé par Sumitra Mahajan.</lex>
+      <lex comment="" lid="Id2" lang="en">The residents of India are the Indian people and the country is led by Sumitra Mahajan. Amdavad ni Gufa is located in the country.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les résidents de l'Inde sont les Indiens et le pays est dirigé par Sumitra Mahajan. Amdavad ni Gufa est situé dans le pays.</lex>
+    </entry>
+    <entry category="Building" eid="12" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leader | Narendra_Modi</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+        <otriple>India | leaderName | Narendra_Modi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+        <mtriple>India | leader | Narendra_Modi</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur and Narendra Modi are leaders in India where Amdavad ni Gufa is located.</lex>
+      <lex comment="" lid="Id1" lang="fr">T S Thakur et Narendra Modi sont des chefs de file en Inde, où se trouve Amdavad ni Gufa.</lex>
+      <lex comment="" lid="Id2" lang="en">While the leader of India is Narendra Modi, another leader is TS Thakur, and Amdavad ni Gufa is a location in India.</lex>
+      <lex comment="" lid="Id2" lang="fr">Alors que le leader de l'Inde est Narendra Modi, un autre leader est TS Thakur, et Amdavad ni Gufa est situé en Inde.</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in India, the country where the leader is T S Thakur and the prime minister is Narendra Modi.</lex>
+      <lex comment="" lid="Id3" lang="fr">Amdavad ni Gufa est situé en Inde, le pays où le leader est T S Thakur et le Premier ministre est Narendra Modi.</lex>
+    </entry>
+    <entry category="Building" eid="13" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Ahmedabad</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Ahmedabad</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">T S Thakur is a leader of India where Amdavad ni Gufa is located in Ahmedabad.</lex>
+      <lex comment="" lid="Id1" lang="fr">T S Thakur est un chef de file de l'Inde où se trouve Amdavad ni Gufa à Ahmedabad.</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Ahmedabad in India which is has a leader called T.S. Thakur.</lex>
+      <lex comment="" lid="Id2" lang="fr">Amdavad ni Gufa est situé à Ahmedabad en Inde qui a un leader appelé T.S. Thakur.</lex>
+      <lex comment="" lid="Id3" lang="en">T S Thakur is a leader in India, which is the country where Amdavad ni Gufa (Ahmedabad) is located.</lex>
+      <lex comment="" lid="Id3" lang="fr">T S Thakur est un chef de file en Inde, pays où se trouve Amdavad ni Gufa (Ahmedabad).</lex>
+    </entry>
+    <entry category="Building" eid="14" size="3" shape="(X (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amdavad_ni_Gufa | location | Gujarat</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in Gujarat, India. T S Thakur is a leader of India.</lex>
+      <lex comment="" lid="Id1" lang="fr">Amdavad ni Gufa est situé à Gujarat, en Inde. T S Thakur est un leader de l'Inde.</lex>
+      <lex comment="" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat in India, which is led by T S Thakur.</lex>
+      <lex comment="" lid="Id2" lang="fr">Amdavad ni Gufa est situé à Gujarat en Inde, qui est dirigé par T S Thakur.</lex>
+    </entry>
+    <entry category="Building" eid="15" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>Amdavad_ni_Gufa | locationCountry | India</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>Amdavad_ni_Gufa | country | India</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Amdavad ni Gufa is located in India, where the leader isT S Thakur and the demonym for people living there is Indian.</lex>
+      <lex comment="" lid="Id1" lang="fr">Amdavad ni Gufa est situé en Inde, où le leader est Thakur et le démonym pour les gens qui y vivent est indien.</lex>
+      <lex comment="" lid="Id2" lang="en">The residents of India are known as the Indian people. Amdavad ni Gufa is located in the country which is led by T S Thakur.</lex>
+      <lex comment="" lid="Id2" lang="fr">Amdavad ni Gufa est situé dans le pays qui est dirigé par T. S. Thakur.</lex>
+      <lex comment="" lid="Id3" lang="en">Amdavad ni Gufa is located in India, where the leader is called T S Thakur and the people are called Indian.</lex>
+      <lex comment="" lid="Id3" lang="fr">Amdavad ni Gufa est situé en Inde, où le chef est appelé T S Thakur et le peuple est appelé Indien.</lex>
+    </entry>
+    <entry category="Building" eid="16" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundation | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Marriott_International | location | Bethesda,_Maryland</otriple>
+        <otriple>Marriott_International | foundationPlace | Washington,_D.C.</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marriott_International | location | Bethesda,_Maryland</mtriple>
+        <mtriple>Marriott_International | foundationPlace | Washington,_D.C.</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Based in Bethesda, Maryland, the Marriot International was founded in Washington DC and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id1" lang="fr">Basé à Bethesda, Maryland, le Marriot International a été fondé à Washington DC et est le locataire de l'AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="en">Marriott International, founded in Washington DC, is located in Bethesda, Maryland and is the tenant of the AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id2" lang="fr">Marriott International, fondé à Washington DC, est situé à Bethesda, Maryland et est le locataire de l'AC Hotel Bella Sky Copenhagen.</lex>
+      <lex comment="" lid="Id3" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen is Marriott International, the company which was founded in Washington, D.C. and is now based in Bethesda, Maryland.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le locataire de l'AC Hotel Bella Sky Copenhagen est Marriott International, la société qui a été fondée à Washington, D.C. et qui est maintenant basée à Bethesda, Maryland.</lex>
+    </entry>
+    <entry category="Building" eid="17" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Republic_of_Ireland | language | English_language</otriple>
+        <otriple>Adare_Manor | locationCountry | Republic_of_Ireland</otriple>
+        <otriple>Republic_of_Ireland | leader | Enda_Kenny</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Republic_of_Ireland | language | English_language</mtriple>
+        <mtriple>Adare_Manor | country | Republic_of_Ireland</mtriple>
+        <mtriple>Republic_of_Ireland | leader | Enda_Kenny</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Irish English is the official language of Ireland, which is led by Enda Kenny and home to Adare Manor.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'anglais irlandais est la langue officielle de l'Irlande, dirigée par Enda Kenny et qui abrite Adare Manor.</lex>
+      <lex comment="" lid="Id2" lang="en">Adare Manor is located in the Republic of Ireland, the leader of this country is Enda Kenny and one of the languages used is English.</lex>
+      <lex comment="" lid="Id2" lang="fr">Adare Manor est situé en République d'Irlande, le chef de ce pays est Enda Kenny et l'une des langues utilisées est l'anglais.</lex>
+    </entry>
+    <entry category="Building" eid="18" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States which capital is Washington D.C. and John Roberts is the Chief of Justice.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, dont la capitale est Washington D.C., et John Roberts est le juge en chef.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, the capital of which is Washington D.C. and where John Roberts is a leader.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, dont la capitale est Washington D.C. et où John Roberts est un chef de file.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is in the United States. The capital is Washington DC and John Roberts is a leader.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue se trouve aux États-Unis, la capitale est Washington et John Roberts est un chef de file.</lex>
+    </entry>
+    <entry category="Building" eid="19" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is a leader of the United States where the capital city is Washington DC. 250 Delaware Avenue is located in the country.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Ryan est un chef de file des États-Unis, où se trouve la capitale, Washington, D.C. Le 250 Delaware Avenue est situé dans le pays.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, which are led by Paul Ryan and whose capital is Washington D.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, qui sont dirigés par Paul Ryan et dont la capitale est Washington D.C.</lex>
+    </entry>
+    <entry category="Building" eid="20" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joe Biden is the leader of the United States where the native language is English. 250 Delaware Avenue is also located there.</lex>
+      <lex comment="" lid="Id1" lang="fr">Joe Biden est le chef de file des États-Unis, où la langue maternelle est l'anglais et où se trouve également le 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States where English is the main language and one of its leaders is Joe Biden.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où l'anglais est la langue principale et où l'un de ses dirigeants est Joe Biden.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States, English is the language of the United States and Joe Biden is the leader of the United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, l'anglais est la langue des États-Unis et Joe Biden est le leader des États-Unis.</lex>
+    </entry>
+    <entry category="Building" eid="21" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is a leader of the United States in which English is the language and is home to 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Ryan est un chef de file des États-Unis où l'anglais est la langue parlée et où se trouve le 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="en">250 Delaware Avenue is located in the United States, which is led by Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis et est dirigé par Paul Ryan.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States where they speak English and are led by Paul Ryan.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis où ils parlent anglais et sont dirigés par Paul Ryan.</lex>
+    </entry>
+    <entry category="Building" eid="22" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">President Barack Obama is the leader of the United States where 250 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le président Barack Obama est le leader des États-Unis où se trouve le 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id2" lang="en">President Barack Obama is leader of the United States where 250 Delaware Avenue is located.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le président Barack Obama est à la tête des États-Unis, où se trouve le 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="23" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Joe_Biden</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">President Joe Biden leads the United States which is the location of 250 Delaware Avenue.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le président Joe Biden est à la tête des États-Unis, où se trouve le 250 Delaware Avenue.</lex>
+    </entry>
+    <entry category="Building" eid="24" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | John_Roberts</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States where President John Roberts is leader.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où le président John Roberts est le chef de file.</lex>
+      <lex comment="" lid="Id2" lang="en">The United States is led by the President of the United States. One of the leaders is John Roberts, and 250 Delaware Avenue is located in the country.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les États-Unis sont dirigés par le Président des États-Unis, dont l'un des dirigeants est John Roberts, et le 250 Delaware Avenue est situé dans le pays.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States where the Chief Justice is John Roberts and the leader's title is President of the United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, où le juge en chef est John Roberts et le titre de chef est Président des États-Unis.</lex>
+    </entry>
+    <entry category="Building" eid="25" size="3" shape="(X (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+        <otriple>United_States | leaderName | Paul_Ryan</otriple>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, with Paul Ryan being the President of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le 250 Delaware Avenue est situé aux États-Unis, Paul Ryan en étant le président.</lex>
+      <lex comment="" lid="Id2" lang="en">Paul Ryan's title as leader is President of the United States. 250 Delaware Avenue is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le titre de chef de Paul Ryan est celui de président des États-Unis. Le 250 Delaware Avenue est situé aux États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">250 Delaware Avenue is located in the United States. The leader of this country has the title President of the United States, which in this case is Paul Ryan.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'avenue Delaware est située au 250, avenue Delaware, aux États-Unis, et le chef de ce pays a le titre de président des États-Unis, en l'occurrence Paul Ryan.</lex>
+    </entry>
+  </entries>
+</benchmark>

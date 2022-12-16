@@ -1,0 +1,633 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="1" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Javanese dish, Ayam penyet, is also found in Singapore. This Chinese-speaking nation, led by Tony Tan, is known for ayam penyet, which is a national dish of Java.</lex>
+      <lex comment="" lid="Id1" lang="fr">On trouve aussi à Singapour le plat javanais Ayam penyet, une nation de langue chinoise dirigée par Tony Tan et connue pour ayam penyet, un plat national de Java.</lex>
+    </entry>
+    <entry category="Food" eid="2" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">English is spoken in Singapore where the leader is Halimah Yacob. Ayam penet is from Singapore and Java where the Javanese people are an ethnic group.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'anglais est parlé à Singapour, où le chef est Halimah Yacob, tandis que le penet Ayam vient de Singapour et de Java, où le peuple javanais est un groupe ethnique.</lex>
+      <lex comment="" lid="Id2" lang="en">The Javenese people are an ethnic group in Java, where there is a dish called ayam penyet. The dish originates from Singapore, where the leader is Halimah Yacob and one of the languages spoken is English.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le peuple Javenese est un groupe ethnique de Java, où il y a encore un plat appelé ayam penyet, qui provient de Singapour, où le chef est Halimah Yacob et l'une des langues parlées est l'anglais.</lex>
+      <lex comment="" lid="Id3" lang="en">Halimah leds the country of Singapore, where English is spoken. Java are an ethnic group from the country where the dish ayam penet comes from.</lex>
+      <lex comment="" lid="Id3" lang="fr">Halimah se trouve dans le pays de Singapour, où l'on parle anglais, et Java est un groupe ethnique originaire du pays d'où provient le pénis en ayam plat.</lex>
+    </entry>
+    <entry category="Food" eid="3" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Javanese_people</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Javanese_people</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ayam penyet comes from the country of Java where the Javanese are the ethnic people. Ayam penyet is also from the Singapore region where Standard Chinese is spoken and Halimah Yacob is the leader.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ayam penyet vient du pays de Java où les Javanais sont les ethnies, Ayam penyet est aussi de la région de Singapour où le chinois standard est parlé et Halimah Yacob est le leader.</lex>
+      <lex comment="" lid="Id2" lang="en">Standard Chinese is spoken in Singapore and the leader is Halimah Yacob. The Javanese people are an ethnic group of Java and this is one of the places that Ayam penyet comes from, the other being Singapore.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le chinois standard est parlé à Singapour et le chef est Halimah Yacob. Le peuple javanais est un groupe ethnique de Java et c'est l'un des endroits d'où vient Ayam, l'autre étant Singapour.</lex>
+      <lex comment="" lid="Id3" lang="en">Ayam penyet is a dish from the region of Singapore where they speak Standard Chinese and the leader is Halimah Yacob. The Javanese people are an ethnic group of Java and Ayam penyet is eaten there.</lex>
+      <lex comment="" lid="Id3" lang="fr">Ayam penyet est un plat de la région de Singapour où ils parlent le chinois standard et le chef est Halimah Yacob. Le peuple javanais est un groupe ethnique de Java et Ayam penyet y est mangé.</lex>
+    </entry>
+    <entry category="Food" eid="4" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy is eaten in the Philippines where Philippine Spanish and Arabic are spoken. It is also where the Zamboangans and Ilocano people are two of the ethnic groups.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Batchoy est consommé aux Philippines, où l'on parle l'espagnol et l'arabe philippins, et où les Zamboangans et les Ilocanos font partie des deux groupes ethniques.</lex>
+      <lex comment="" lid="Id2" lang="en">Zamboangans and Ilocano people are ethnic groups from the Philippines which is home to the dish batchoy and where Philippine Spanish and Arabic are spoken.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Zamboangans et les Ilocanos sont des groupes ethniques des Philippines, où se trouve le batchoy et où l'on parle l'espagnol et l'arabe philippins.</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy comes from the Philippines, where Philippine Spanish and Arabic are among the languages spoken, and the Zamboangans and IIocano people are ethnic groups.</lex>
+      <lex comment="" lid="Id3" lang="fr">Batchoy vient des Philippines, où l'espagnol et l'arabe sont parmi les langues parlées, tandis que les Zamboangans et les IIocano sont des groupes ethniques.</lex>
+    </entry>
+    <entry category="Food" eid="5" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy comes from the Philippines, a country where the official language is Philippine English. It is also where one of the other languages is Arabic. Additionally, it is where the Ilocano people and Zamboangans are two of the ethnic groups.</lex>
+      <lex comment="" lid="Id1" lang="fr">Batchoy vient des Philippines, un pays où la langue officielle est l'anglais philippin et où l'une des autres langues est l'arabe. De plus, c'est là que le peuple ilocano et les Zamboangans sont deux des groupes ethniques.</lex>
+      <lex comment="" lid="Id2" lang="en">Philippines is the country where the dish Batchoy comes from. Ethnic groups there include Zamboangans and the llocano people. Languages spoken are Philippine English and Arabic.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Philippines sont le pays d'où vient le Batchoy, qui est composé de Zamboangans et de Llocanos. Les langues parlées sont l'anglais et l'arabe philippins.</lex>
+      <lex comment="" lid="Id3" lang="en">Philippines is the country Batchoy comes from. The country's ethnic groups include the llocano and Zamboangan people. Philippine English is the official language but Arabic is also spoken there.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Philippines sont le pays d'origine de Batchoy. Les groupes ethniques du pays comprennent les peuples llocano et Zamboangan. L'anglais philippin est la langue officielle, mais l'arabe y est également parlé.</lex>
+    </entry>
+    <entry category="Food" eid="6" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In the Philippines, where batchoy is eaten, they speak Philippine Spanish and Arabic. Ethnic groups include the Ilocano people and the Igorot people.</lex>
+      <lex comment="" lid="Id1" lang="fr">Aux Philippines, où l'on mange du batchoy, on parle l'espagnol et l'arabe philippins, entre autres les Ilocanos et les Igorots.</lex>
+      <lex comment="" lid="Id2" lang="en">Ethnic groups in the Philippines include the Igorot people and the Ilocano people. Languages used in the country are Philippine Spanish and Arabic and one of the traditional dishes that can be found there is batchoy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les groupes ethniques des Philippines comprennent le peuple Igorot et le peuple Ilocano. Les langues utilisées dans le pays sont l'espagnol et l'arabe, et l'un des plats traditionnels que l'on peut y trouver est le batchoy.</lex>
+    </entry>
+    <entry category="Food" eid="7" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ilocano people and Moro people are ethnic groups from the Philippines. Two of the languages used in the Philipines are Arabic and Philippine Spanish. One of the foods that is eaten in the Philippines is Batchoy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Ilocanos et les Moros sont des groupes ethniques philippins. Deux des langues utilisées aux Philippines sont l'arabe et l'espagnol. Aux Philippines, le Batchoy est l'un des aliments consommés.</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy is found in Philippine Spanish and Arabic speaking Philippines. The Philippines is home to the llocano and Moro people.</lex>
+      <lex comment="" lid="Id2" lang="fr">Batchoy se trouve dans les Philippines hispanophones et arabophones, où vivent les peuples llocano et moro.</lex>
+    </entry>
+    <entry category="Food" eid="8" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Igorot people and the Ilocano people are ethnic groups from the Philippines where Philippine English is the official language and where Philippine Spanish is also spoken. Batchoy is a traditional dish from this country.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le peuple Igorot et le peuple Ilocano sont des groupes ethniques des Philippines où l'anglais philippin est la langue officielle et où l'espagnol philippin est également parlé.</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy is a dish eaten in the Phillipines, where Philippine English is the official language and where Philippine Spanish is also spoken. Ethnic groups from the Philippines include the Ilocano people and the Igorot people.</lex>
+      <lex comment="" lid="Id2" lang="fr">Batchoy est un plat que l'on mange aux Philippines, où l'anglais philippin est la langue officielle et où l'on parle aussi l'espagnol philippin.</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy comes from the Philippines, where Philippine English and Philippine Spanish are both spoken. Two of its ethnic groups are the llocano and Igoro people.</lex>
+      <lex comment="" lid="Id3" lang="fr">Batchoy vient des Philippines, où l'on parle l'anglais philippin et l'espagnol philippin. Deux de ses groupes ethniques sont les peuples llocano et Igoro.</lex>
+    </entry>
+    <entry category="Food" eid="9" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ethnic groups in the Philippines include the Zamboangans and the Chinese Filipino. The official language in the country is Philippine English and Philippine Spanish is also spoken there. A traditional dish from the Philippines is Batchoy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les groupes ethniques des Philippines comprennent les Zamboangans et les Chinois philippins. La langue officielle du pays est l'anglais philippin et l'espagnol philippin y est également parlé. Batchoy est un plat traditionnel des Philippines.</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy is a dish found in Philippine Spanish and English speaking Philippines. Home to the Zamboangans and Chinese Filipinos.</lex>
+      <lex comment="" lid="Id2" lang="fr">Batchoy est un plat que l'on trouve dans les Philippines hispanophones et anglophones, où vivent les Zamboangans et les Chinois philippins.</lex>
+    </entry>
+    <entry category="Food" eid="10" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Among the languages spoken in the Philippines are Arabic and Philippine Spanish. The Zamboangans are a group in the Philippines and another group is the Chinese Filipino. Batchoy comes from the Philippines.</lex>
+      <lex comment="" lid="Id1" lang="fr">Parmi les langues parlées aux Philippines figurent l'arabe et l'espagnol philippin. Les Zamboangans forment un groupe aux Philippines et un autre groupe est le philippin chinois. Batchoy vient des Philippines.</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy comes from the Philippines, whose ethnic groups include the Zamboangans and the Chinese Filipino, and where Arabic and Philippine Spanish are among the languages spoken.</lex>
+      <lex comment="" lid="Id2" lang="fr">Batchoy vient des Philippines, dont les groupes ethniques comprennent les Zamboangans et les Philippins chinois, et où l'arabe et l'espagnol philippin figurent parmi les langues parlées.</lex>
+    </entry>
+    <entry category="Food" eid="11" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Igorot_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The languages spoken in the Philippines are Philippine Spanish and Arabic. Batchoy is eaten there and the ethnic groups are the Zamboangans and the Igorot people.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les langues parlées aux Philippines sont l'espagnol et l'arabe, le batchoy, et les Zamboangans et les Igorot.</lex>
+      <lex comment="" lid="Id2" lang="en">In the Philippines they speak Arabic and Philippine Spanish and eat Batchoy. Ethnic groups there include Zamboangans and the Igorot people.</lex>
+      <lex comment="" lid="Id2" lang="fr">Aux Philippines, ils parlent l'arabe et l'espagnol et mangent des Batchoy, dont les Zamboangans et les Igorots.</lex>
+      <lex comment="" lid="Id3" lang="en">Batchoy originated from the Philippines. The Philippines is also home to the Igorot and Zamboangans people and has the Arabic and Philippine Spanish languages.</lex>
+      <lex comment="" lid="Id3" lang="fr">Batchoy est originaire des Philippines, où vivent également les Igorot et les Zamboangans et où l'on parle l'arabe et l'espagnol philippin.</lex>
+    </entry>
+    <entry category="Food" eid="12" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroups | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Moro_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Philippines | languages | Arabic</otriple>
+        <otriple>Philippines | ethnicGroup | Zamboangans</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Moro_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | ethnicGroup | Zamboangans</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Moro people and the Zamboangans are ethnic groups in the Philippines, which is home to the dish called batchoy. Philippine Spanish and Arabic are both spoken in the Philippines.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Moro et les Zamboangans sont des groupes ethniques des Philippines, où l'on trouve le plat appelé batchoy, et où l'on parle l'espagnol et l'arabe.</lex>
+    </entry>
+    <entry category="Food" eid="13" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Chinese_Filipino</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy is a dish from the Philippines, where the official language is Philippine English and where Arabic is also spoken. Ethnic groups from the country include the Ilocano people and the Chinese Filpino.</lex>
+      <lex comment="" lid="Id1" lang="fr">Batchoy est un plat des Philippines, où la langue officielle est l'anglais philippin et où l'on parle aussi l'arabe. Les groupes ethniques du pays comprennent les Ilocanos et les Filpino chinois.</lex>
+      <lex comment="" lid="Id2" lang="en">Philippines is the country Batchoy comes from. Chinese Filipino and the llocano are ethnic groups there and both Philippine English and Arabic are spoken.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Philippines sont le pays d'origine de Batchoy, où les Philippins chinois et les Llocanos sont des groupes ethniques et où l'on parle à la fois l'anglais et l'arabe philippins.</lex>
+    </entry>
+    <entry category="Food" eid="14" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+        <otriple>Philippines | ethnicGroups | Chinese_Filipino</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Philippines is the country Batchoy comes from. they speak Arabic and Philippine English, the ethnic groups are Igorot people and Chinese Filipino.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Philippines est le pays Batchoy vient de fro. ils parlent arabe et philippin anglais, les groupes ethniques sont Igorot peuple et chinois philippin.</lex>
+      <lex comment="" lid="Id2" lang="en">The Philippines contains different enthnicities including Chinese Filipino and Igorot. They speak Arabic and English and eat batchoy.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Philippines sont très envoûtantes, notamment les Philippines chinoises et les Igorot, qui parlent arabe et anglais et mangent du batchoy.</lex>
+    </entry>
+    <entry category="Food" eid="15" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Moro_people</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Moro_people</mtriple>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batchoy is a dish that comes from the Philippines, where the Ilocano people and people of Moro ethnicity are ethnic groups. The official language in the Philippines is Philippine English, but Arabic is also spoken there.</lex>
+      <lex comment="" lid="Id1" lang="fr">Batchoy est un plat qui vient des Philippines, où les Ilocanos et les Moros sont des groupes ethniques. Aux Philippines, la langue officielle est l'anglais philippin, mais on y parle aussi l'arabe.</lex>
+      <lex comment="" lid="Id2" lang="en">Batchoy is eaten in the Philippines where Philippine English is the official language but Arabic is also spoken. Ethnic groups of the region include the Moro and Ilocano peoples.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Batchoy est consommé aux Philippines où l'anglais philippin est la langue officielle mais où l'arabe est également parlé. Les groupes ethniques de la région comprennent les Moro et les Ilocano.</lex>
+      <lex comment="" lid="Id3" lang="en">Languages spoken in the Philippines include English and Arabic. Two ethnic groups include Moro and Ilocano people. Batchoy comes from the country.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les langues parlées aux Philippines sont l'anglais et l'arabe. Les Moro et les Ilocano sont deux groupes ethniques. Les Batchoy viennent du pays.</lex>
+    </entry>
+    <entry category="Food" eid="16" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Philippines | language | Philippine_Spanish</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroups | Chinese_Filipino</otriple>
+        <otriple>Philippines | ethnicGroup | Ilocano_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Philippines | language | Philippine_Spanish</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Chinese_Filipino</mtriple>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Philippine English is the official language of the Philippines (where batchoy is eaten), but the spoken language is Philippine Spanish. The Chinese Filipino and the llocano people are both ethnic groups in the Philippines.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'anglais philippin est la langue officielle des Philippines (où l'on mange du batchoy), mais la langue parlée est l'espagnol philippin. Le philippin chinois et le peuple llocano sont deux groupes ethniques aux Philippines.</lex>
+    </entry>
+    <entry category="Food" eid="17" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+        <otriple>Catalonia | leaderName | Parliament_of_Catalonia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+        <mtriple>Catalonia | leader | Parliament_of_Catalonia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Euro is the currency in Spain and the leader is Felipe VI. Arròs negre is a traditional dish from Spain in the Catalonia region where the leaders are the Parliament of Catalonia.</lex>
+      <lex comment="" lid="Id1" lang="fr">Arròs negre est un plat traditionnel d'Espagne dans la région de Catalogne où les leaders sont le Parlement de Catalogne.</lex>
+      <lex comment="" lid="Id2" lang="en">Arròs negre is from the Catalonia region, which leader is the Parliament of Catalonia, in Spain, where the currency is Euro and the leader is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">Arròs negre est originaire de la région de Catalogne, dont le chef est le Parlement de Catalogne, en Espagne, où la monnaie est l'euro et le chef est Felipe VI d'Espagne.</lex>
+      <lex comment="" lid="Id3" lang="en">Arros begre originates from the Catalonia region of Spain. Spain uses the Euro and is led by Felipe VI. The Parliament of Catalonia is Catalonia's governing body.</lex>
+      <lex comment="" lid="Id3" lang="fr">Arros naît de la région de Catalogne en Espagne. L'Espagne utilise l'euro et est dirigée par Felipe VI. Le Parlement de Catalogne est l'organe directeur de la Catalogne.</lex>
+    </entry>
+    <entry category="Food" eid="18" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leader | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajoblanco originates in Andalusia, where the leader is Susana Diaz. It is a dish from Spain, which is home to Spaniards and where the Spanish language is spoken.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ajoblanco est originaire d'Andalousie, dont le chef est Susana Diaz, un plat d'Espagne qui abrite des Espagnols et où l'on parle l'espagnol.</lex>
+      <lex comment="" lid="Id2" lang="en">Ajoblanco is from the Andalusia region of Spain where Susana Diaz is the leader and Spanish is spoken. The population are known as Spaniards.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ajoblanco est originaire de la région d'Andalousie en Espagne où Susana Diaz est le leader et où l'espagnol est parlé.</lex>
+      <lex comment="" lid="Id3" lang="en">Spanish is the language of Spain and the people are Spaniards. Ajoblanco, a food found in Andalusia (whose leader is Susana Diaz) originates from Spain.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'espagnol est la langue de l'Espagne et les Espagnols sont les habitants de cette région. Ajoblanco, une nourriture que l'on trouve en Andalousie (dont le chef est Susana Diaz) est originaire d'Espagne.</lex>
+    </entry>
+    <entry category="Food" eid="19" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+        <otriple>Catalonia | leaderName | Parliament_of_Catalonia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+        <mtriple>Catalonia | leader | Parliament_of_Catalonia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Spain, where Spanish is spoken, is Felipe VI. Arros negre is from the region of Catalonia in Spain. Catalonia is led by the Parliament of Catalonia.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le leader de l'Espagne, où l'espagnol est parlé, est Felipe VI. Arros negre est originaire de la région de Catalogne en Espagne. La Catalogne est dirigée par le Parlement de Catalogne.</lex>
+      <lex comment="" lid="Id2" lang="en">The leaders of Catalonia in Spain are the Parliament of Catalonia and a traditional dish from that region is Arròs negre. The Spanish language is spoken in Spain and the leader of the country is Felipe VI.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les chefs de la Catalogne en Espagne sont le Parlement de Catalogne et un plat traditionnel de cette région est Arròs negre. L'espagnol est parlé en Espagne et le chef du pays est Felipe VI.</lex>
+    </entry>
+    <entry category="Food" eid="20" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Catalonia | leaderName | Carles_Puigdemont</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Arròs_negre | region | Catalonia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Catalonia | leader | Carles_Puigdemont</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Arròs_negre | region | Catalonia</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Arròs negre is a traditional dish from Catalonia, Spain. The leader of the former is Carles Puigdemont and the latter, Felipe VI. Naturally, Spanish is spoken in the country.</lex>
+      <lex comment="" lid="Id1" lang="fr">Arròs negre est un plat traditionnel de Catalogne, dont le chef est Carles Puigdemont et le chef Felipe VI. Naturellement, l'espagnol est parlé dans le pays.</lex>
+      <lex comment="" lid="Id2" lang="en">Arros negre is found in the Catalonia region of Carles Puigdemont and Felipe VI led, Spanish speaking, Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">Arros negre se trouve dans la région catalane de Carles Puigdemont et Felipe VI mené, hispanophone, Espagne.</lex>
+      <lex comment="" lid="Id3" lang="en">The food Arros negre is from the Catalonia (led by Carles Puigdemont) region of Spain (led by Felipe VI).</lex>
+      <lex comment="" lid="Id3" lang="fr">L'alimentation Arros negre est de la Catalogne (menée par Carles Puigdemont) de l'Espagne (menée par Felipe VI).</lex>
+    </entry>
+    <entry category="Food" eid="21" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Arròs negre is a traditional dish from Spain, where Spanish is the language spoken and Spaniards are an ethnic group. Spain uses the euro for its currency and the leader of the country is Felipe VI.</lex>
+      <lex comment="" lid="Id1" lang="fr">Arròs negre est un plat traditionnel d'Espagne, où l'espagnol est la langue parlée et où les Espagnols sont un groupe ethnique.</lex>
+      <lex comment="" lid="Id2" lang="en">Spain is led by Felipe VI. The country's currency is the Euro and the language spoken is Spanish. Spaniards are the main ethnic group. Arròs negre comes from Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Espagne est dominée par Felipe VI. La monnaie du pays est l'euro et la langue parlée est l'espagnol. Les Espagnols sont le principal groupe ethnique. Arròs negre vient d'Espagne.</lex>
+    </entry>
+    <entry category="Food" eid="22" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leader | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Felipe VI is the leader of Spain, whose people are called Spaniards. In a part of the country called Andalusia, led by Susana Diaz, a popular food is ajoblanco.</lex>
+      <lex comment="" lid="Id1" lang="fr">Felipe VI est le chef de l'Espagne, dont le peuple est appelé Espagnols, et dans une partie du pays appelée Andalousie, dirigée par Susana Diaz, un aliment populaire est ajoblanco.</lex>
+      <lex comment="" lid="Id2" lang="en">Spain is led by Felipe VI. Spaniards are the main ethnic group in the country. Ajoblanco is a food found in Andalusia, Spain. One of the leaders of Andulucia is Susana Diaz.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Espagne est dirigée par Felipe VI. Les Espagnols sont le principal groupe ethnique du pays. Ajoblanco est un aliment que l'on trouve en Andalousie, en Espagne. Susana Diaz est l'un des dirigeants de l'Andulucia.</lex>
+      <lex comment="" lid="Id3" lang="en">Felipe VI is the leader of Spain, a country where the Spaniards are the main ethnic group. Ajoblanco is from Andalusia in Spain. One of the leaders of Andalusia Is Susana Diaz.</lex>
+      <lex comment="" lid="Id3" lang="fr">Felipe VI est le leader de l'Espagne, un pays où les Espagnols sont le principal groupe ethnique. Ajoblanco est originaire d'Andalousie en Espagne. Un des leaders d'Andalousie est Susana Diaz.</lex>
+    </entry>
+    <entry category="Food" eid="23" size="5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | ingredient | Olive_oil</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leader | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | ingredient | Olive_oil</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Olive oil is an ingredient in Ajoblanco which is from Andalusia, the leader of which is Susana Diaz. Andalusia is in Spain where the leader is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'huile d'olive est un ingrédient d'Ajoblanco qui est originaire d'Andalousie, dont le leader est Susana Diaz.</lex>
+      <lex comment="" lid="Id2" lang="en">Ajoblanco is from the Andalusia region. It has olive oil in it. Susana Diaz is a leader in that region. Felipe VI is the leader of Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ajoblanco est originaire d'Andalousie et possède de l'huile d'olive. Susana Diaz est un leader dans cette région. Felipe VI est le leader de l'Espagne.</lex>
+      <lex comment="" lid="Id3" lang="en">Ajoblanco, which includes olive oil is a dish from Andalusia (Spain) where the leader is Susana Diaz. Spain's leader is Felipe VI.</lex>
+      <lex comment="" lid="Id3" lang="fr">Ajoblanco, qui contient de l'huile d'olive, est un plat d'Andalousie (Espagne) dont le chef est Susana Diaz.</lex>
+    </entry>
+    <entry category="Food" eid="24" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leader | Susana_Díaz</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajoblanco is from Spain where the currency is the Euro and the leaders are Susana Diaz and Felipe VI.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ajoblanco est originaire d'Espagne où la devise est l'euro et les leaders sont Susana Diaz et Felipe VI.</lex>
+      <lex comment="" lid="Id2" lang="en">Felipe VI is the leader of Spain, but Susana Diaz is the leader of Andalusia. They use the Euro as currency. Ajobkanci, found in Andalusia is a food that originated in Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">Felipe VI est le chef de l'Espagne, mais Susana Diaz est le chef de l'Andalousie, qui utilise l'euro comme monnaie. Ajobkanci, trouvé en Andalousie, est un aliment d'origine espagnole.</lex>
+      <lex comment="" lid="Id3" lang="en">Ajoblanco has its origins in Spain(led by Felipe VI) and is also found in Susana Diaz led Andalusia. In Spain it can be purchased via the Euro.</lex>
+      <lex comment="" lid="Id3" lang="fr">Ajoblanco a ses origines en Espagne (mené par Felipe VI) et se trouve aussi en Andalousie dirigée par Susana Diaz.</lex>
+    </entry>
+    <entry category="Food" eid="25" size="5" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajoblanco is from the Andalusia region of Spain where Felipe VI is the leader and Spanish is Spoken. The population are known as Spaniards.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ajoblanco est originaire de la région d'Andalousie en Espagne où Felipe VI est le leader et où l'espagnol est parlé.</lex>
+      <lex comment="" lid="Id2" lang="en">Ajoblanco originates from Andalusia, Spain. The leader of Spain is Felipe VI, the spoken language is Spanish, and Spaniards are the ethnic group of the country.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ajoblanco est originaire d'Andalousie, Espagne, dont le chef est Felipe VI, la langue parlée est l'espagnol et les Espagnols sont le groupe ethnique du pays.</lex>
+    </entry>
+    <entry category="Food" eid="26" size="5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leader | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In Spain, the language spoken is Spanish. Spain contains regions such as Andalusia, where Ajoblanco originates from. Susana Diaz is the leader of Andalusia, where as Felipe Vl is the leader of Spain.</lex>
+      <lex comment="" lid="Id1" lang="fr">En Espagne, la langue parlée est l'espagnol. L'Espagne comprend des régions comme l'Andalousie, d'où vient Ajoblanco. Susana Diaz est le chef de l'Andalousie, où Felipe Vl est le chef de l'Espagne.</lex>
+      <lex comment="" lid="Id2" lang="en">Felipe VI is the leader of Spain, a country where the Spanish language is spoken. Ajoblanco is a food that comes from Andalusia in Spain. Susana Diaz is a leader of Andalusia.</lex>
+      <lex comment="" lid="Id2" lang="fr">Felipe VI est le chef de file de l'Espagne, un pays où l'on parle l'espagnol. Ajoblanco est un aliment qui vient d'Andalousie en Espagne. Susana Diaz est un chef de file de l'Andalousie.</lex>
+      <lex comment="" lid="Id3" lang="en">In Spain they speak Spanish. The leader of the country is Felipe VI and the leader of the Andalusia region is Susana Diaz. This region is where Ajoblanco is from.</lex>
+      <lex comment="" lid="Id3" lang="fr">En Espagne, ils parlent espagnol. Le chef du pays est Felipe VI et le chef de la région d'Andalousie est Susana Diaz. Cette région est d'où vient Ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="27" size="5" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajoblanco is from Spain where Felipe VI of Spain is the leader. In this country, where the currency is the euro, the Spaniards are the ethnic group and the language is Spanish.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ajoblanco est originaire d'Espagne où Felipe VI d'Espagne est le leader, dans ce pays, où la monnaie est l'euro, les Espagnols sont le groupe ethnique et la langue est l'espagnol.</lex>
+      <lex comment="" lid="Id2" lang="en">The Euro is the currency in Spain where ajoblanco is originated from and they speak Spanish there. Felipe VI is the leader and the main ethnic group are Spaniards.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Euro est la devise en Espagne d'où vient l'ajoblanco et ils parlent l'espagnol, Felipe VI est le chef et le principal groupe ethnique sont espagnols.</lex>
+      <lex comment="" lid="Id3" lang="en">The dish ajoblanco is from Spain where an ethnic group are the Spaniards, the currency is the Euro, the language spoken is Spanish and the leader is Felipe VI.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le plat ajoblanco est d'Espagne où un groupe ethnique sont les Espagnols, la monnaie est l'euro, la langue parlée est l'espagnol et le chef est Felipe VI.</lex>
+    </entry>
+    <entry category="Food" eid="28" size="5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>United_Kingdom | leader | David_Cameron</otriple>
+        <otriple>BLT | variations | Club_sandwich</otriple>
+        <otriple>Bacon_sandwich | hasVariant | BLT</otriple>
+        <otriple>Bacon_sandwich | ingredient | Brown_sauce</otriple>
+        <otriple>Bacon_sandwich | country | United_Kingdom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leader | David_Cameron</mtriple>
+        <mtriple>BLT | dishVariation | Club_sandwich</mtriple>
+        <mtriple>Bacon_sandwich | dishVariation | BLT</mtriple>
+        <mtriple>Bacon_sandwich | ingredient | Brown_sauce</mtriple>
+        <mtriple>Bacon_sandwich | country | United_Kingdom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United Kingdom is led by David Cameron. Among popular sandwiches in the U.K. are bacon sandwiches, which has brown sauce as one of its ingredients. The BLT is one type of a bacon club sandwich.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Royaume-Uni est dirigé par David Cameron. Parmi les sandwichs populaires au Royaume-Uni, on retrouve les sandwichs au bacon, dont l'un des ingrédients est de la sauce brune. Le BLT est un type de sandwich au bacon.</lex>
+      <lex comment="" lid="Id2" lang="en">The Bacon sandwich is a food from the United Kingdom, a country where David Cameron is a leader. Brown sauce is one of its ingredients. The Club sandwich and the BLT are both variants of the bacon sandwich.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le sandwich Bacon est un aliment du Royaume-Uni, un pays où David Cameron est un chef de file, dont la sauce brune est l'un des ingrédients. Le sandwich Club et le BLT sont deux variantes du sandwich au bacon.</lex>
+      <lex comment="" lid="Id3" lang="en">Bacon sandwiches are from the UK where David Cameron was once Prime Minister. It often is served with brown sauce and variations on the sandwich include the BLT and club sandwich.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les sandwichs Bacon proviennent du Royaume-Uni, où David Cameron était premier ministre, et sont souvent servis avec de la sauce brune.</lex>
+    </entry>
+  </entries>
+</benchmark>

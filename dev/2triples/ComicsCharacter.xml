@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="1" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book character Dane Whitman ( otherwise known as the Black Knight ), was created by both Roy Thomas and John Buscema.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le personnage de bande dessinée Dane Whitman (aussi connu sous le nom de Black Knight) a été créé par Roy Thomas et John Buscema.</lex>
+      <lex comment="" lid="Id2" lang="en">Dane Whitman, from the Black Knight was created by John Buscema and Roy Thomas.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dane Whitman, du Black Knight, a été créé par John Buscema et Roy Thomas.</lex>
+      <lex comment="" lid="Id3" lang="en">Dane Whitman, aka Black Night was created by John Buscema and Roy Thomas.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dane Whitman, alias Black Night a été créé par John Buscema et Roy Thomas.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="2" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | John_Buscema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | John_Buscema</otriple>
+        <otriple>John_Buscema | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | John_Buscema</mtriple>
+        <mtriple>John_Buscema | nationality | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dane Whitman, alter ego Black Knight, was created by the American, John Buscema.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dane Whitman, alter ego Black Knight, a été créé par l'Américain John Buscema.</lex>
+      <lex comment="" lid="Id2" lang="en">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (American) in the comics genre.</lex>
+      <lex comment="" lid="Id2" lang="fr">Dane Whitman, alias Black Knight, a été créé par John Buscema (américain) dans le genre des bandes dessinées.</lex>
+      <lex comment="" lid="Id3" lang="en">Dane Whitman, a.k.a. Black Knight, was created by John Buscema (Amercian) and considered to be in the comics genre.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dane Whitman, alias Black Knight, a été créé par John Buscema (Amercian) et est considéré comme faisant partie du genre des bandes dessinées.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creators | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | &quot;Dane Whitman&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Knight_(Dane_Whitman) | creator | Roy_Thomas</otriple>
+        <otriple>Black_Knight_(Dane_Whitman) | alterEgo | &quot;Dane Whitman&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | creator | Roy_Thomas</mtriple>
+        <mtriple>Dane_Whitman_Black_Knight_(comicsCharacter) | alternativeName | &quot;Dane Whitman&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Dane Whitman is the alternative name for the comic character, Dane Whitman Black Knight which was created by Roy Thomas.</lex>
+      <lex comment="" lid="Id1" lang="fr">Dane Whitman est le nom alternatif pour le personnage de bande dessinée, Dane Whitman Black Knight qui a été créé par Roy Thomas.</lex>
+      <lex comment="" lid="Id2" lang="en">The comic book character Dane Whitman Black Knight is also known as simply Dane Whitman or the alter ego Black Knight, and was created by Roy Thomas.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le personnage de bande dessinée Dane Whitman Black Knight est aussi connu simplement comme Dane Whitman ou l'alter ego Black Knight, et a été créé par Roy Thomas.</lex>
+      <lex comment="" lid="Id3" lang="en">Dane Whitman Black, also known as Dane Whitman was created by Roy Thomas.</lex>
+      <lex comment="" lid="Id3" lang="fr">Dane Whitman Black, aussi connu sous le nom de Dane Whitman, a été créé par Roy Thomas.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="4" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Duncan_Rouleau | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Duncan_Rouleau | nationality | Americans</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Duncan Rouleau is an American national who created Baymax.</lex>
+      <lex comment="" lid="Id1" lang="fr">Duncan Rouleau est un ressortissant américain qui a créé Baymax.</lex>
+      <lex comment="" lid="Id2" lang="en">Baymax was created by American, Duncan Rouleau.</lex>
+      <lex comment="" lid="Id2" lang="fr">Baymax a été créé par l'Américain Duncan Rouleau.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="5" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Gene_Colan</otriple>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Gene_Colan | nationality | Americans</otriple>
+        <otriple>Ben_Urich | creators | Gene_Colan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gene_Colan | nationality | Americans</mtriple>
+        <mtriple>Ben_Urich | creator | Gene_Colan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Gene Colan is the American national who created the character Ben Urich.</lex>
+      <lex comment="" lid="Id1" lang="fr">Gene Colan est le national américain qui a créé le personnage Ben Urich.</lex>
+      <lex comment="" lid="Id2" lang="en">Ben Urich was created by Gene Colan, an American.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ben Urich a été créé par Gene Colan, un Américain.</lex>
+      <lex comment="" lid="Id3" lang="en">The American Gene Nolan created the character Ben Urich.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le Gene Nolan américain a créé le personnage Ben Urich.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="6" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The comic book character Auron was created by Karl Kesel, an American.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le personnage de bande dessinée Auron a été créé par Karl Kesel, un Américain.</lex>
+      <lex comment="" lid="Id2" lang="en">American, Karl Kesel, is the creator of the comic character, Auron.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Américain Karl Kesel est le créateur du personnage comique Auron.</lex>
+      <lex comment="" lid="Id3" lang="en">The American Karl Kesel created the comic character Auron.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'Américain Karl Kesel a créé le personnage comique Auron.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+        <otriple>Ben_Urich | creators | Roger_McKenzie_(comics)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ben_Urich | creator | Roger_McKenzie_(comics)</otriple>
+        <otriple>Roger_McKenzie_(comics) | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Roger_McKenzie_(comic_book_writer) | nationality | United_States</mtriple>
+        <mtriple>Ben_Urich | creator | Roger_McKenzie_(comic_book_writer)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The American Roger McKenzie is a comic book writer who created the character Ben Urich.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Américain Roger McKenzie est un auteur de bandes dessinées qui a créé le personnage Ben Urich.</lex>
+      <lex comment="" lid="Id2" lang="en">A United States national, comic book writer, Roger McKenzie, is the creator of Ben Urich.</lex>
+      <lex comment="" lid="Id2" lang="fr">Un dessinateur de bandes dessinées des États-Unis, Roger McKenzie, est le créateur de Ben Urich.</lex>
+      <lex comment="" lid="Id3" lang="en">Roger Mckenzie, the american comic book writer is the creator of Ben Urich.</lex>
+      <lex comment="" lid="Id3" lang="fr">Roger Mckenzie, auteur américain de bandes dessinées, est le créateur de Ben Urich.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="8" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+        <otriple>Black_Pirate | creators | Sheldon_Moldoff</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Black_Pirate | creator | Sheldon_Moldoff</otriple>
+        <otriple>Sheldon_Moldoff | nationality | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sheldon_Moldoff | nationality | Americans</mtriple>
+        <mtriple>Black_Pirate | creator | Sheldon_Moldoff</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sheldon Moldoff is the American creator of Black Pirate.</lex>
+      <lex comment="" lid="Id1" lang="fr">Sheldon Moldoff est le créateur américain du Pirate noir.</lex>
+      <lex comment="" lid="Id2" lang="en">The Black Pirate was created by Sheldon Moldoff, who was an American national.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Pirate noir a été créé par Sheldon Moldoff, de nationalité américaine.</lex>
+      <lex comment="" lid="Id3" lang="en">Sheldon Moldoff is an American who created the Black Pirate.</lex>
+      <lex comment="" lid="Id3" lang="fr">Sheldon Moldoff est un Américain qui a créé le Pirate noir.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="9" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Ralph Payne&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Ralph Payne&quot;@en</otriple>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | &quot;Ralph Payne&quot;</mtriple>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Gustavson is the creator of &quot; The Arrow&quot;, otherwise known as Ralph Payne.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Gustavson est le créateur de &quot;The Arrow&quot;, aussi connu sous le nom de Ralph Payne.</lex>
+      <lex comment="" lid="Id2" lang="en">Arrow, also known as Ralph Payne, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id2" lang="fr">Arrow, aussi connu sous le nom de Ralph Payne, a été créé par Paul Gustavson.</lex>
+      <lex comment="" lid="Id3" lang="en">Arrow, otherwise known as Ralph Payne, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id3" lang="fr">Arrow, aussi connu sous le nom de Ralph Payne, a été créé par Paul Gustavson.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="10" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Rick Parker&quot;@en</otriple>
+        <otriple>Arrow_(comics) | creators | Paul_Gustavson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Arrow_(comics) | creator | Paul_Gustavson</otriple>
+        <otriple>Arrow_(comics) | alterEgo | &quot;Rick Parker&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>The_Arrow_(comicsCharacter) | alternativeName | &quot;Rick Parker&quot;</mtriple>
+        <mtriple>The_Arrow_(comicsCharacter) | creator | Paul_Gustavson</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rick parker, aka the Arrow was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rick parker, alias the Arrow a été créé par Paul Gustavson.</lex>
+      <lex comment="" lid="Id2" lang="en">The character Arrow's alter ego is Rick Parker, created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'alter ego du personnage d'Arrow est Rick Parker, créé par Paul Gustavson.</lex>
+      <lex comment="" lid="Id3" lang="en">Rick Parker, aka the Arrow, was created by Paul Gustavson.</lex>
+      <lex comment="" lid="Id3" lang="fr">Rick Parker, alias l'Arrow, a été créé par Paul Gustavson.</lex>
+    </entry>
+  </entries>
+</benchmark>

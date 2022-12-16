@@ -1,0 +1,477 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Singapore | currency | Singapore_dollar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | currency | Singapore_dollar</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The currency of Singapore is the Singapore dollar.</lex>
+      <lex comment="" lid="Id1" lang="fr">La devise de Singapour est le dollar singapourien.</lex>
+      <lex comment="" lid="Id2" lang="en">Singapore dollar is the currency in Singapore.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le dollar de Singapour est la devise de Singapour.</lex>
+    </entry>
+    <entry category="Food" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The English language is spoken in Singapore.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'anglais est parlé à Singapour.</lex>
+      <lex comment="" lid="Id2" lang="en">One of the languages spoken in Singapore is English.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'une des langues parlées à Singapour est l'anglais.</lex>
+      <lex comment="" lid="Id3" lang="en">English is spoken in Singapore.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'anglais est parlé à Singapour.</lex>
+    </entry>
+    <entry category="Food" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Standard Chinese is a language spoken in Singapore.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le chinois standard est une langue parlée à Singapour.</lex>
+      <lex comment="" lid="Id2" lang="en">Standard Chinese is spoken in Singapore.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le chinois standard est parlé à Singapour.</lex>
+    </entry>
+    <entry category="Food" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Halimah Yacob is a leader of Singapore.</lex>
+      <lex comment="" lid="Id1" lang="fr">Halimah Yacob est un dirigeant de Singapour.</lex>
+      <lex comment="" lid="Id2" lang="en">Halimah Yacob is the name of Singapore's leader.</lex>
+      <lex comment="" lid="Id2" lang="fr">Halimah Yacob est le nom du dirigeant de Singapour.</lex>
+      <lex comment="" lid="Id3" lang="en">Halimah Yacob leads Singapore.</lex>
+      <lex comment="" lid="Id3" lang="fr">Halimah Yacob dirige Singapour.</lex>
+    </entry>
+    <entry category="Food" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Singapore is Tony Tan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dirigeant de Singapour est Tony Tan.</lex>
+      <lex comment="" lid="Id2" lang="en">Tony Tan is a leader in Singapore.</lex>
+      <lex comment="" lid="Id2" lang="fr">Tony Tan est un leader à Singapour.</lex>
+      <lex comment="" lid="Id3" lang="en">Tony Tan is the leader of Singapore.</lex>
+      <lex comment="" lid="Id3" lang="fr">Tony Tan est le dirigeant de Singapour.</lex>
+    </entry>
+    <entry category="Food" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Siomay | hasVariant | Batagor</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Siomay | variations | Batagor</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Siomay | dishVariation | Batagor</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batagor and Siomay are variation of the same dish.</lex>
+      <lex comment="" lid="Id1" lang="fr">Batagor et Siomay sont des variantes du même plat.</lex>
+      <lex comment="" lid="Id2" lang="en">Batagor is a dish variation of Siomay.</lex>
+      <lex comment="" lid="Id2" lang="fr">Batagor est une variante de Siomay.</lex>
+      <lex comment="" lid="Id3" lang="en">Batagor is a variation of Siomay.</lex>
+      <lex comment="" lid="Id3" lang="fr">Batagor est une variante de Siomay.</lex>
+    </entry>
+    <entry category="Food" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Spain | currency | Euro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | currency | Euro</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spain uses the euro for its currency.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Espagne utilise l'euro pour sa monnaie.</lex>
+      <lex comment="" lid="Id2" lang="en">The Euro is the currency in Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'euro est la devise en Espagne.</lex>
+      <lex comment="" lid="Id3" lang="en">The currency of Spain is Euro.</lex>
+      <lex comment="" lid="Id3" lang="fr">La devise de l'Espagne est l'euro.</lex>
+    </entry>
+    <entry category="Food" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spaniards are from Spain.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Espagnols sont espagnols.</lex>
+      <lex comment="" lid="Id2" lang="en">Spaniards is the name for the people of Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">Espagnols est le nom pour le peuple d'Espagne.</lex>
+    </entry>
+    <entry category="Food" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Spain | ethnicGroup | Spaniards</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | ethnicGroups | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | ethnicGroup | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spaniards are the ethnic group of Spain.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Espagnols sont le groupe ethnique espagnol.</lex>
+      <lex comment="" lid="Id2" lang="en">The ethnic group for Spain is Spaniards.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'ethnie espagnole est celle des Espagnols.</lex>
+    </entry>
+    <entry category="Food" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Spain | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">In Spain the language spoken is the Spanish language.</lex>
+      <lex comment="" lid="Id1" lang="fr">En Espagne, la langue parlée est l'espagnol.</lex>
+      <lex comment="" lid="Id2" lang="en">The Spanish language is spoken in Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'espagnol est parlé en Espagne.</lex>
+      <lex comment="" lid="Id3" lang="en">the language of Spain is Spanish.</lex>
+      <lex comment="" lid="Id3" lang="fr">la langue de l'Espagne est l'espagnol.</lex>
+    </entry>
+    <entry category="Food" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Spain | leaderName | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of Spain is Felipe VI of Spain.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le leader de l'Espagne est Felipe VI d'Espagne.</lex>
+      <lex comment="" lid="Id2" lang="en">Felipe VI of Spain is the leader of Spain.</lex>
+      <lex comment="" lid="Id2" lang="fr">Felipe VI d'Espagne est le leader de l'Espagne.</lex>
+    </entry>
+    <entry category="Food" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroup | Acehnese_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sumatra | ethnicGroup | Acehnese_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One the ethnic groups on Sumatra is the Acehnese people.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'un des groupes ethniques de Sumatra est celui des Acehnais.</lex>
+      <lex comment="" lid="Id2" lang="en">Acehnese people form one of the ethnic groups in Sumatra.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Acehnais constituent l'un des groupes ethniques de Sumatra.</lex>
+      <lex comment="" lid="Id3" lang="en">Acehnese people are an ethnic group in Sumatra.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Acehnais constituent un groupe ethnique à Sumatra.</lex>
+    </entry>
+    <entry category="Food" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroup | Batak</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroups | Batak</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sumatra | ethnicGroup | Batak</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Batak is the ethnic group in Sumatra.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Bataks sont le groupe ethnique de Sumatra.</lex>
+      <lex comment="" lid="Id2" lang="en">Batak is an ethnic group found in Sumatra.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Bataks sont un groupe ethnique présent à Sumatra.</lex>
+      <lex comment="" lid="Id3" lang="en">Batak is an ethnic group in Sumatra.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Bataks sont un groupe ethnique de Sumatra.</lex>
+    </entry>
+    <entry category="Food" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroups | Minangkabau_people</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sumatra | ethnicGroup | Minangkabau_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sumatra | ethnicGroup | Minangkabau_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Minangkabau people are an ethnic group of Sumatra.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le peuple Minangkabau est un groupe ethnique de Sumatra.</lex>
+      <lex comment="" lid="Id2" lang="en">Sumatra has an ethnic group called the Minangkabau people.</lex>
+      <lex comment="" lid="Id2" lang="fr">Sumatra a un groupe ethnique appelé le peuple Minangkabau.</lex>
+    </entry>
+    <entry category="Food" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sweet_potato | division | Flowering_plant</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Sweet_potato | unrankedDivisio | Flowering_plant</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sweet_potato | division | Flowering_plant</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sweet potato belongs to flowering plants.</lex>
+      <lex comment="" lid="Id1" lang="fr">La patate douce appartient aux plantes à fleurs.</lex>
+    </entry>
+    <entry category="Food" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sweet_potato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sweet_potato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sweet potato belongs to the Solanales order of plants.</lex>
+      <lex comment="" lid="Id1" lang="fr">La patate douce appartient à l'ordre des Solanales.</lex>
+      <lex comment="" lid="Id2" lang="en">Sweet potato are part of the order of Solanales.</lex>
+      <lex comment="" lid="Id2" lang="fr">La patate douce fait partie de l'ordre des Solanales.</lex>
+      <lex comment="" lid="Id3" lang="en">Sweet potato is of the order Solanales.</lex>
+      <lex comment="" lid="Id3" lang="fr">La patate douce est de l'ordre des Solanales.</lex>
+    </entry>
+    <entry category="Food" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tomato | division | Flowering_plant</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Tomato | unrankedDivisio | Flowering_plant</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | division | Flowering_plant</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tomato is part of the flowering plant division.</lex>
+      <lex comment="" lid="Id1" lang="fr">La tomate fait partie de la division des plantes à fleurs.</lex>
+    </entry>
+    <entry category="Food" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tomato | family | Solanaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | family | Solanaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tomato belongs to the family of solanaceae.</lex>
+      <lex comment="" lid="Id1" lang="fr">La tomate appartient à la famille des solanacées.</lex>
+      <lex comment="" lid="Id2" lang="en">The tomato comes from the Solanaceae family.</lex>
+      <lex comment="" lid="Id2" lang="fr">La tomate vient de la famille des Solanacées.</lex>
+      <lex comment="" lid="Id3" lang="en">The tomato belongs to the family of Solanaceae.</lex>
+      <lex comment="" lid="Id3" lang="fr">La tomate appartient à la famille des Solanacées.</lex>
+    </entry>
+    <entry category="Food" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tomato | genus | Solanum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | genus | Solanum</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tomato belongs to the genus Solanum.</lex>
+      <lex comment="" lid="Id1" lang="fr">La tomate appartient au genre Solanum.</lex>
+    </entry>
+    <entry category="Food" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tomato | order | Solanales</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tomato | order | Solanales</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The tomato is of the order Solanales.</lex>
+      <lex comment="" lid="Id1" lang="fr">La tomate est de l'ordre des Solanales.</lex>
+      <lex comment="" lid="Id2" lang="en">Tomato is one of the members of the order Solanales.</lex>
+      <lex comment="" lid="Id2" lang="fr">La tomate est l'un des membres de l'ordre des Solanales.</lex>
+    </entry>
+    <entry category="Food" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_Kingdom | capital | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">London is the Capital of the United Kingdom.</lex>
+      <lex comment="" lid="Id1" lang="fr">Londres est la capitale du Royaume-Uni.</lex>
+      <lex comment="" lid="Id2" lang="en">London is the capital city of the United Kingdom.</lex>
+      <lex comment="" lid="Id2" lang="fr">Londres est la capitale du Royaume-Uni.</lex>
+      <lex comment="" lid="Id3" lang="en">London is the capital of the UK.</lex>
+      <lex comment="" lid="Id3" lang="fr">Londres est la capitale du Royaume-Uni.</lex>
+    </entry>
+    <entry category="Food" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_Kingdom | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The language of the United Kingdom is the English language.</lex>
+      <lex comment="" lid="Id1" lang="fr">La langue du Royaume-Uni est l'anglais.</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language spoken in the United Kingdom.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'anglais est la langue parlée au Royaume-Uni.</lex>
+      <lex comment="" lid="Id3" lang="en">English is spoken in the UK.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'anglais est parlé au Royaume-Uni.</lex>
+    </entry>
+    <entry category="Food" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Elizabeth II is the leader of the United Kingdom.</lex>
+      <lex comment="" lid="Id1" lang="fr">Elizabeth II est la dirigeante du Royaume-Uni.</lex>
+      <lex comment="" lid="Id2" lang="en">Elizabeth II is the leader of the UK.</lex>
+      <lex comment="" lid="Id2" lang="fr">Elizabeth II est la dirigeante du Royaume-Uni.</lex>
+      <lex comment="" lid="Id3" lang="en">Elizabeth II is the head of state in the United Kingdom.</lex>
+      <lex comment="" lid="Id3" lang="fr">Elizabeth II est le chef d &quot;État du Royaume-Uni.</lex>
+    </entry>
+    <entry category="Food" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The capital of the U.S. is Washington, D.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">La capitale des États-Unis est Washington.</lex>
+      <lex comment="" lid="Id2" lang="en">Washington, D.C is the capital of the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Washington, D.C. est la capitale des États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">The capital of the United States is Washington, D.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">La capitale des États-Unis est Washington.</lex>
+    </entry>
+    <entry category="Food" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">African Americans are an ethic group in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Afro-Américains constituent un groupe éthique aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">African Americans are one of the ethnic groups in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Afro-Américains constituent l'un des groupes ethniques des États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">African Americans are an ethnic group in the U.S.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Afro-Américains constituent un groupe ethnique aux États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Asian Americans are an ethnic group in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Américains d'origine asiatique constituent un groupe ethnique aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Asian Americans are one of the ethnic groups in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Américains d'origine asiatique constituent l'un des groupes ethniques des États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">White Americans are an ethnic group in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Américains de race blanche constituent un groupe ethnique aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">White Americans are one of the ethnic groups in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Américains de race blanche sont l'un des groupes ethniques des États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The English language is used in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">La langue anglaise est utilisée aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language of the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'anglais est la langue des États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">English is a language spoken in the United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'anglais est une langue parlée aux États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Barack Obama is a leader of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Barack Obama est un dirigeant des États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Barack Obama is the leader of the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Barack Obama est le dirigeant des États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">Barack Obama is the leader of United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">Barack Obama est le leader des Etats-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Joe Biden is a leader of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Joe Biden est un chef de file des États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Joe Biden is one of the leaders of the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Joe Biden est l'un des dirigeants des États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">Joe Biden is a political leader in the U.S.</lex>
+      <lex comment="" lid="Id3" lang="fr">Joe Biden est un leader politique aux États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leader | John_Roberts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | John_Roberts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">John Roberts is a leader in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">John Roberts est un leader aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">John Roberts is the leader of the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">John Roberts est le chef de file des États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leader | Paul_Ryan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Paul_Ryan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Paul Ryan is a leader in United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Paul Ryan est un leader aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">United States leader is called Paul Ryan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le leader américain s'appelle Paul Ryan.</lex>
+      <lex comment="" lid="Id3" lang="en">Paul Ryan is a leader in the U.S.</lex>
+      <lex comment="" lid="Id3" lang="fr">Paul Ryan est un leader aux États-Unis.</lex>
+    </entry>
+    <entry category="Food" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the United States is called the President.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le dirigeant des États-Unis s'appelle le Président.</lex>
+      <lex comment="" lid="Id2" lang="en">The leader of the United States has a title of President.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le dirigeant des États-Unis a un titre de président.</lex>
+    </entry>
+    <entry category="Food" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Valencian_Community | leaderName | Ximo_Puig</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Valencian_Community | leader | Ximo_Puig</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The leader of the community of Valencia is Ximo Puig.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le chef de la communauté de Valence est Ximo Puig.</lex>
+      <lex comment="" lid="Id2" lang="en">Ximo Puig is a leader in the Valencian Community.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ximo Puig est un leader de la Communauté Valencienne.</lex>
+      <lex comment="" lid="Id3" lang="en">Ximo Puig is a leader of the Valencian Community.</lex>
+      <lex comment="" lid="Id3" lang="fr">Ximo Puig est un leader de la Communauté Valencienne.</lex>
+    </entry>
+  </entries>
+</benchmark>

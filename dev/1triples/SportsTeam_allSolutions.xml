@@ -1,0 +1,442 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | LASK_Linz</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | LASK_Linz</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | LASK_Linz</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger played for the club LASK Linz.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stöger a joué pour le club LASK Linz.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stoger plays for LASK Linz.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stoger joue pour LASK Linz.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | managerClub | SC_Wiener_Neustadt</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SC_Wiener_Neustadt</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger is affiliated with the SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stöger est affilié au SC Wiener Neustadt club.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger played for SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger a joué pour SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger plays for SC Wiener Neustadt.</lex>
+      <lex comment="" lid="Id3" lang="fr">Peter Stoger joue pour SC Wiener Neustadt.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Rapid_Wien</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Rapid_Wien</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger was at the club SK Rapid Wien.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stöger était au club SK Rapid Wien.</lex>
+      <lex comment="" lid="Id2" lang="en">PeterStöger plays for SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id2" lang="fr">PeterStöger joue pour le SK Rapid Wien club.</lex>
+      <lex comment="" lid="Id3" lang="en">Peter Stoger plays for SK Rapid Wien.</lex>
+      <lex comment="" lid="Id3" lang="fr">Peter Stoger joue pour SK Rapid Wien.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Peter_Stöger | clubs | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Peter_Stöger | team | SK_Vorwärts_Steyr</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peter_Stöger | club | SK_Vorwärts_Steyr</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Peter Stöger played football for SK Vorwärts Steyr.</lex>
+      <lex comment="" lid="Id1" lang="fr">Peter Stöger a joué au football pour SK Vorwärts Steyr.</lex>
+      <lex comment="" lid="Id2" lang="en">Peter Stöger is in the SK Vorwärts Steyr club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Peter Stöger fait partie du club SK Vorwärts Steyr.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | team | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | clubs | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | A.C._Chievo_Verona</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | A.C._Chievo_Verona</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran is attached to AC Chievo Verona .</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran est attaché à AC Chievo Vérone.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Calcio_Catania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Calcio_Catania</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran is attached to the club Calcio Catania.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran est attaché au club Calcio Catania.</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is a member of the Calcio Cantania.</lex>
+      <lex comment="" lid="Id2" lang="fr">Rolando Maran est membre du Calcio Cantania.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | team | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Rolando_Maran | clubs | Carrarese_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Carrarese_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran plays at the Carrarese Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran joue au Carrarese Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is in the Carrarese Calcio club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Rolando Maran est dans le club de Calcio Carrarese.</lex>
+      <lex comment="" lid="Id3" lang="en">Rolando Maran plays for Carrarese Calcio.</lex>
+      <lex comment="" lid="Id3" lang="fr">Rolando Maran joue pour Carrarese Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Unione_Triestina_2012_S.S.D.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Unione_Triestina_2012_S.S.D.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran is in the Unione Triestina 2012 S.S.D. club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran fait partie du club Unione Triestina 2012 S.S.D.</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran plays for Unione Triestina 2012 S.S.D.</lex>
+      <lex comment="" lid="Id2" lang="fr">Rolando Maran joue pour Unione Triestina 2012 S.S.D.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Varese_Calcio_S.S.D.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Varese_Calcio_S.S.D.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran used to be at Varese Calcio S.S.D.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran était à Varese Calcio S.S.D.</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is in Varese Calcio S.S.D. club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Rolando Maran est dans le club Varese Calcio S.S.D.</lex>
+      <lex comment="" lid="Id3" lang="en">Rolando Maran plays for Varese Calcio S.S.D.</lex>
+      <lex comment="" lid="Id3" lang="fr">Rolando Maran joue pour Varese Calcio S.S.D.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | managerClub | Vicenza_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | club | Vicenza_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran plays at the Vicenza Calcio.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran joue au Vicenza Calcio.</lex>
+      <lex comment="" lid="Id2" lang="en">Rolando Maran is in the Vicenza Calcio club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Rolando Maran est dans le club de Vicence Calcio.</lex>
+      <lex comment="" lid="Id3" lang="en">Rolando Maran plays for Vicenza Calcio.</lex>
+      <lex comment="" lid="Id3" lang="fr">Rolando Maran joue pour Vicenza Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Rolando_Maran | placeOfBirth | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Rolando_Maran | birthPlace | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Rolando Maran was born in Italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">Rolando Maran est né en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_A | champions | Juventus_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | champions | Juventus_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Juventus FC have been Serie A champions.</lex>
+      <lex comment="" lid="Id1" lang="fr">Juventus FC ont été champions de la Serie A.</lex>
+      <lex comment="" lid="Id2" lang="en">Juventus F.C. are former champions of Serie A.</lex>
+      <lex comment="" lid="Id2" lang="fr">Juventus F.C. sont d'anciens champions de la Serie A.</lex>
+      <lex comment="" lid="Id3" lang="en">The Serie A champions are Juventus F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les champions de la série A sont Juventus F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_A | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_A | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Serie A is based in Italy.</lex>
+      <lex comment="" lid="Id1" lang="fr">La série A est basée en Italie.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_B | champions | Carpi_F.C._1909</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_B | champions | Carpi_F.C._1909</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Carpi FC 1909 are previous champions of Serie B.</lex>
+      <lex comment="" lid="Id1" lang="fr">Carpi FC 1909 sont les champions précédents de Serie B.</lex>
+      <lex comment="" lid="Id2" lang="en">Carpi FC 1909 are the champions of Serie B.</lex>
+      <lex comment="" lid="Id2" lang="fr">Carpi FC 1909 sont les champions de Serie B.</lex>
+      <lex comment="" lid="Id3" lang="en">Carpi F.C. 1909 won the Serie B championship before.</lex>
+      <lex comment="" lid="Id3" lang="fr">Carpi F.C. 1909 remporte le championnat de la série B avant.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Serie_D | champions | S.S._Robur_Siena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Serie_D | champions | S.S._Robur_Siena</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Serie D champions include S S Robur Siena.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les champions de la série D sont S S Robur Siena.</lex>
+      <lex comment="" lid="Id2" lang="en">S.S. Robur Siena are champions of Serie D.</lex>
+      <lex comment="" lid="Id2" lang="fr">S.S. Robur Siena sont les champions de Serie D.</lex>
+      <lex comment="" lid="Id3" lang="en">The champions of Serie D are S.S. Robur Siena.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les champions de la Serie D sont S.S. Robur Siena.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | operator | AFC_Ajax</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | operator | AFC_Ajax</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Sportpark De Toekomst is operated by AFC Ajax.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Sportpark De Toekomst est exploité par AFC Ajax.</lex>
+      <lex comment="" lid="Id2" lang="en">AFC Ajax operate Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id2" lang="fr">AFC Ajax exploite le Sportpark De Toekomst.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | owner | AFC_Ajax_N.V.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">AFC Ajax N.V. own Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id1" lang="fr">AFC Ajax N.V. possède le Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id2" lang="en">Sportpark De Toekomst is owned by AFC Ajax N.V.</lex>
+      <lex comment="" lid="Id2" lang="fr">Sportpark De Toekomst appartient à AFC Ajax N.V.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Sportpark_De_Toekomst | tenant | Ajax_Youth_Academy</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ajax Youth Academy is a tenant of Sportpark De Toekomst.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Académie de Jeunesse d'Ajax est locataire du Sportpark De Toekomst.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Vincent–St._Mary_High_School | city | Akron,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St. Vincent–St. Mary High School is located in the city of Akron, Ohio.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'école secondaire St. Vincent est située dans la ville d'Akron, en Ohio.</lex>
+      <lex comment="" lid="Id2" lang="en">St Vincent St Mary High School is located in the city of Akron, Ohio.</lex>
+      <lex comment="" lid="Id2" lang="fr">St Vincent St Mary High School est située dans la ville d'Akron, Ohio.</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent-St. Mary High School is in Akron, Ohio.</lex>
+      <lex comment="" lid="Id3" lang="fr">La St. Vincent-St. Mary High School est située à Akron, en Ohio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>St._Vincent–St._Mary_High_School | state | Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>St._Vincent–St._Mary_High_School | state | Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">St Vincent-St Mary High School is located in the state of Ohio.</lex>
+      <lex comment="" lid="Id1" lang="fr">La St Vincent-St Mary High School est située dans l'État de l'Ohio.</lex>
+      <lex comment="" lid="Id2" lang="en">St. Vincent–St. Mary High School is in the state of Ohio.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'école secondaire St. Vincent, St. Mary, est située dans l'État de l'Ohio.</lex>
+      <lex comment="" lid="Id3" lang="en">St. Vincent-St. Mary High School is in Ohio.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'école secondaire St. Vincent-St. Mary est située en Ohio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | A.F.C._Blackpool</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | managerClub | A.F.C._Blackpool</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | A.F.C._Blackpool</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker is a footballer in the A.F.C Blackpool club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker est footballeur au club de Blackpool A.F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) has represented AFC Blackpool.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker (footballeur) a représenté l'AFC Blackpool.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Blackburn_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Blackburn_Rovers_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackburn_Rovers_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) was at Blackburn Rovers FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker (footballeur) était au Blackburn Rovers FC.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) plays for Blackburn Rovers F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker (footballeur) joue pour Blackburn Rovers F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Blackpool_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Blackpool_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) plays for Blackpool F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker (footballeur) joue pour Blackpool F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Chesterfield_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Chesterfield_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Chesterfield_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker was a footballer for Chesterfield FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker était footballeur pour Chesterfield FC.</lex>
+      <lex comment="" lid="Id2" lang="en">The footballer Stuart Parker is attached to Chesterfield football club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le footballeur Stuart Parker est attaché au club de football de Chesterfield.</lex>
+      <lex comment="" lid="Id3" lang="en">Stuart Parker is a member of the Chesterfield F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Stuart Parker est membre du Chesterfield F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Drogheda_United_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Drogheda_United_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Drogheda_United_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker is a footballer with the Drogheda United F.C.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker est footballeur avec Drogheda United F.C.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) was at Drogheda United FC.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker (footballeur) était au Drogheda United FC.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Irlam_Town_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Irlam_Town_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Irlam_Town_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The footballer Stuart Parker is attached to Irlam Town Football Club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le footballeur Stuart Parker est attaché au club de football d'Irlam Town.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker is a member of the Irlam Town F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker est membre de l'Irlam Town F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | KV_Mechelen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | KV_Mechelen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | KV_Mechelen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker has represented the club KV Mechelen.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker a représenté le club KV Malines.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker the football player is part of the KV Mechelen club.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker le joueur de football fait partie du club Mechelen KV.</lex>
+      <lex comment="" lid="Id3" lang="en">the football player Stuart Parker plays for KV Mechelen.</lex>
+      <lex comment="" lid="Id3" lang="fr">le joueur de football Stuart Parker joue pour KV Malines.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) was a player for Runcorn FC Halton.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker (footballeur) était un joueur de Runcorn FC Halton.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker (footballer) plays for Runcorn F.C. Halton.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker (footballeur) joue pour Runcorn F.C. Halton.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Sparta_Rotterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker plays at the Sparta Rotterdam club.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker joue au club de Sparte Rotterdam.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker is in the club Sparta Rotterdam.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stuart Parker est dans le club Sparte Rotterdam.</lex>
+      <lex comment="" lid="Id3" lang="en">Stuart Parker (footballer) plays for Sparta Rotterdam.</lex>
+      <lex comment="" lid="Id3" lang="fr">Stuart Parker (footballeur) joue pour Sparte Rotterdam.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | clubs | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Stockport_County_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Stockport_County_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Stuart Parker (footballer) once played for Stockport County FC.</lex>
+      <lex comment="" lid="Id1" lang="fr">Stuart Parker (footballeur) a déjà joué pour le Stockport County FC.</lex>
+      <lex comment="" lid="Id2" lang="en">Stuart Parker's football club was Stockport County F.C.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le club de football de Stuart Parker était Stockport County F.C.</lex>
+      <lex comment="" lid="Id3" lang="en">Stuart Parker (footballer) plays for Stockport County F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Stuart Parker (footballeur) pour Stockport County F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Superleague_Greece | champions | Olympiacos_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Superleague_Greece | champions | Olympiacos_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Olympiacos FC are previous champions of the Superleague Greece.</lex>
+      <lex comment="" lid="Id1" lang="fr">Olympiacos FC sont précédents champions de la Grèce Superleague.</lex>
+      <lex comment="" lid="Id2" lang="en">Olympiacos F.C. were past champions in the Greece Superleague.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Olympiacos F.C. étaient d'anciens champions de la superligue de Grèce.</lex>
+      <lex comment="" lid="Id3" lang="en">The Superleague Greece champions are Olympiacos F.C.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les champions de la Superleague Grèce sont Olympiacos F.C.</lex>
+    </entry>
+  </entries>
+</benchmark>

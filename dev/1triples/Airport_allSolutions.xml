@@ -1,0 +1,503 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="1" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Punjab,_Pakistan | leaderTitle | Provincial_Assembly_of_the_Punjab</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Punjab, Pakistan, is led by the Provincial Assembly of the Punjab.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Pendjab, au Pakistan, est dirigé par l'Assemblée provinciale du Pendjab.</lex>
+      <lex comment="" lid="Id2" lang="en">Punjab, Pakistan is led by the Provincial Assembly of the Punjab.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Pendjab (Pakistan) est dirigé par l'Assemblée provinciale du Pendjab.</lex>
+    </entry>
+    <entry category="Airport" eid="2" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | isPartOf | Community_of_Madrid</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">San Sebastian de los Reyes is part of the Community of Madrid.</lex>
+      <lex comment="" lid="Id1" lang="fr">San Sebastian de los Reyes fait partie de la Communauté de Madrid.</lex>
+      <lex comment="" lid="Id2" lang="en">San Sebastián de los Reyes is part of the Community of Madrid.</lex>
+      <lex comment="" lid="Id2" lang="fr">San Sebastián de los Reyes fait partie de la Communauté de Madrid.</lex>
+    </entry>
+    <entry category="Airport" eid="3" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | leaderParty | People's_Party_(Spain)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The People's Party is the lead party of San Sebastian de los Reyes, Spain.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Parti populaire est le principal parti de San Sebastian de los Reyes (Espagne).</lex>
+    </entry>
+    <entry category="Airport" eid="4" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York is located in the U.S.</lex>
+      <lex comment="" lid="Id1" lang="fr">Saranac Lake, New York est situé aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Saranac Lake New York is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Saranac Lake New York est situé aux États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">Saranac Lake, New York is located in the United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le lac Saranac, dans l'État de New York, est situé aux États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="5" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York is part of Essex County, New York.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le lac Saranac (New York) fait partie du comté d'Essex (New York).</lex>
+    </entry>
+    <entry category="Airport" eid="6" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Saranac Lake, New York is part of Harrietstown, New York.</lex>
+      <lex comment="" lid="Id1" lang="fr">Saranac Lake, New York fait partie de Harrietstown, New York.</lex>
+      <lex comment="" lid="Id2" lang="en">Saranac Lake, New York, is part of Harrietstown, New York.</lex>
+      <lex comment="" lid="Id2" lang="fr">Saranac Lake, New York, fait partie de Harrietstown, New York.</lex>
+    </entry>
+    <entry category="Airport" eid="7" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">South Jersey Transportation Authority's leader name is Stephen Dilts.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le nom du chef de file de la South Jersey Transportation Authority est Stephen Dilts.</lex>
+      <lex comment="" lid="Id2" lang="en">Stephen Dilts is the head of the South Jersey Transportation Authority.</lex>
+      <lex comment="" lid="Id2" lang="fr">Stephen Dilts dirige la South Jersey Transportation Authority.</lex>
+      <lex comment="" lid="Id3" lang="en">Stephen Dilts is the leader of the South Jersey Transportation Authority.</lex>
+      <lex comment="" lid="Id3" lang="fr">Stephen Dilts est le chef de la South Jersey Transportation Authority.</lex>
+    </entry>
+    <entry category="Airport" eid="8" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | isPartOf | Paraná_(state)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | subdivisionName | Paraná_(state)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>São_José_dos_Pinhais | isPartOf | Paraná_(state)</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">São José dos Pinhais is part Of Paraná (state).</lex>
+      <lex comment="" lid="Id1" lang="fr">São José dos Pinhais fait partie de l'État du Paraná.</lex>
+      <lex comment="" lid="Id2" lang="en">São José dos Pinhais is part of the state of Paraná.</lex>
+      <lex comment="" lid="Id2" lang="fr">São José dos Pinhais fait partie de l'État de Paraná.</lex>
+      <lex comment="" lid="Id3" lang="en">Sao Jose dos Pinhais is part of Parana.</lex>
+      <lex comment="" lid="Id3" lang="fr">Sao Jose dos Pinhais fait partie du Parana.</lex>
+    </entry>
+    <entry category="Airport" eid="9" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | isPartOf | South_Region,_Brazil</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>São_José_dos_Pinhais | subdivisionName | South_Region,_Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>São_José_dos_Pinhais | isPartOf | South_Region,_Brazil</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">São José dos Pinhais is part of the south region of Brazil.</lex>
+      <lex comment="" lid="Id1" lang="fr">São José dos Pinhais fait partie de la région sud du Brésil.</lex>
+      <lex comment="" lid="Id2" lang="en">Sao Jose dos Pinhais is part of the South Region, Brazil.</lex>
+      <lex comment="" lid="Id2" lang="fr">Sao Jose dos Pinhais fait partie de la région sud du Brésil.</lex>
+    </entry>
+    <entry category="Airport" eid="10" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | capital | Austin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | capital | Austin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Austin is the capital of Texas.</lex>
+      <lex comment="" lid="Id1" lang="fr">Austin est la capitale du Texas.</lex>
+      <lex comment="" lid="Id2" lang="en">The capital of Texas is Austin.</lex>
+      <lex comment="" lid="Id2" lang="fr">La capitale du Texas est Austin.</lex>
+    </entry>
+    <entry category="Airport" eid="11" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Texas is in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Texas est situé aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Texas is located in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Texas est situé aux États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="12" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | demonym | Tejano</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | demonym | Tejano</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Texas demonym is Tejano.</lex>
+      <lex comment="" lid="Id1" lang="fr">Texas demonym est Tejano.</lex>
+      <lex comment="" lid="Id2" lang="en">The inhabitants of Texas have the demonym of Tejano.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les habitants du Texas ont le démonyme de Tejano.</lex>
+      <lex comment="" lid="Id3" lang="en">A Tejano is a demonym term used in Texas.</lex>
+      <lex comment="" lid="Id3" lang="fr">Un tejano est un terme démonyme utilisé au Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="13" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | demonym | Texan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | demonym | Texan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The people of Texas are known as Texans.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les habitants du Texas sont connus sous le nom de Texans.</lex>
+      <lex comment="" lid="Id2" lang="en">The inhabitants of Texas have the demonym Texan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les habitants du Texas ont le Texan démoniaque.</lex>
+      <lex comment="" lid="Id3" lang="en">The people of Texas are called Texans.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les habitants du Texas sont appelés Texans.</lex>
+    </entry>
+    <entry category="Airport" eid="14" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">English is spoken in Texas.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'anglais est parlé au Texas.</lex>
+      <lex comment="" lid="Id2" lang="en">English is the language of Texas.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'anglais est la langue du Texas.</lex>
+      <lex comment="" lid="Id3" lang="en">The language spoken in Texas is English.</lex>
+      <lex comment="" lid="Id3" lang="fr">La langue parlée au Texas est l'anglais.</lex>
+    </entry>
+    <entry category="Airport" eid="15" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Texas | language | Spanish_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Texas | language | Spanish_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Spanish is spoken in Texas.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'espagnol est parlé au Texas.</lex>
+      <lex comment="" lid="Id2" lang="en">Spanish is a language spoken in Texas.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'espagnol est une langue parlée au Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="16" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tirstrup | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tirstrup is located in the country of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tirstrup est situé au Danemark.</lex>
+      <lex comment="" lid="Id2" lang="en">Tirstrup is in the country of Denmark.</lex>
+      <lex comment="" lid="Id2" lang="fr">Tirstrup se trouve au Danemark.</lex>
+      <lex comment="" lid="Id3" lang="en">Tirstrup is in Denmark.</lex>
+      <lex comment="" lid="Id3" lang="fr">Tirstrup se trouve au Danemark.</lex>
+    </entry>
+    <entry category="Airport" eid="17" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tirstrup | isPartOf | Central_Denmark_Region</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Tirstrup | subdivisionName | Central_Denmark_Region</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | isPartOf | Central_Denmark_Region</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tirstrup is part of the Central Denmark region.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tirstrup fait partie de la région du Danemark central.</lex>
+    </entry>
+    <entry category="Airport" eid="18" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Tirstrup | subdivisionName | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Tirstrup | isPartOf | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Tirstrup is part of Denmark.</lex>
+      <lex comment="" lid="Id1" lang="fr">Tirstrup fait partie du Danemark.</lex>
+    </entry>
+    <entry category="Airport" eid="19" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Ashgabat</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Ashgabat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Ashgabat</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The headquarters of Turkmenistan Airlines are located in Ashgabat.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le siège de Turkmenistan Airlines se trouve à Achgabat.</lex>
+      <lex comment="" lid="Id2" lang="en">The headquarters of Turkmenistan Airlines are in Ashgabat.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le siège de Turkmenistan Airlines se trouve à Achgabat.</lex>
+    </entry>
+    <entry category="Airport" eid="20" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarters | Turkmenistan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | headquarter | Turkmenistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | headquarter | Turkmenistan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The headquarters of Turkmenistan Airlines are located in Turkmenistan.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le siège de Turkmenistan Airlines est situé au Turkménistan.</lex>
+      <lex comment="" lid="Id2" lang="en">The headquarters of Turkmenistan Airlines are in Turkmenistan.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le siège de Turkmenistan Airlines se trouve au Turkménistan.</lex>
+    </entry>
+    <entry category="Airport" eid="21" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | hubs | Ashgabat_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Ashgabat_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The hub airport for Turkmenistan airlines is Ashgabat International airport.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport principal des compagnies turkmènes est l'aéroport international d'Achgabat.</lex>
+      <lex comment="" lid="Id2" lang="en">Turkmenistan Airlines utilizes the Ashgabat International Airport as its hub.</lex>
+      <lex comment="" lid="Id2" lang="fr">Turkmenistan Airlines utilise l'aéroport international d'Achgabat comme plaque tournante.</lex>
+    </entry>
+    <entry category="Airport" eid="22" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenabat_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenabat_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The hub airport for Turkmenistan Airlines is Turkmenabat Airport.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport pivot de Turkmenistan Airlines est l'aéroport de Turkmenabat.</lex>
+      <lex comment="" lid="Id2" lang="en">Turkmenabat airport is the hub for Turkmenistan airlines.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport de Turkmenabat est la plaque tournante des compagnies turkmènes.</lex>
+    </entry>
+    <entry category="Airport" eid="23" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Turkmenistan_Airlines | targetAirport | Turkmenbashi_International_Airport</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkmenistan_Airlines | hubAirport | Turkmenbashi_International_Airport</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The hub airport for Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport pivot de Turkmenistan Airlines est l'aéroport international de Turkmenbashi.</lex>
+      <lex comment="" lid="Id2" lang="en">The hub Airport of Turkmenistan Airlines is Turkmenbashi International Airport.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport de Turkmenistan Airlines est l'aéroport international de Turkmenbashi.</lex>
+    </entry>
+    <entry category="Airport" eid="24" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | aircraftFighter | General_Dynamics_F-16_Fighting_Falcon</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">United States Air FOrce aircraft fighter is General Dynamics F-16 Fighting Falcon.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le chasseur FOrce de la United States Air est un F-16 Fighting Falcon de General Dynamics.</lex>
+      <lex comment="" lid="Id2" lang="en">The General Dynamics F-16 Fighting Falcon is an aircraft fighter in the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le F-16 Fighting Falcon de General Dynamics est un chasseur d'aéronefs de la United States Air Force.</lex>
+    </entry>
+    <entry category="Airport" eid="25" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | aircraftFighter | McDonnell_Douglas_F-15_Eagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">United States Air Force's aircraft fighter is called McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le chasseur de la United States Air Force s'appelle McDonnell Douglas F-15 Eagle.</lex>
+      <lex comment="" lid="Id2" lang="en">The McDonnell Douglas F-15 Eagle is an aircraft fighter in the U.S. Air Force.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le McDonnell Douglas F-15 Eagle est un chasseur d'aéronefs de la U.S. Air Force.</lex>
+      <lex comment="" lid="Id3" lang="en">McDonnell Douglas F-15 Eagle was a Fighter Aircraft of the United States Air Force.</lex>
+      <lex comment="" lid="Id3" lang="fr">McDonnell Douglas F-15 Eagle était un avion de chasse de la United States Air Force.</lex>
+    </entry>
+    <entry category="Airport" eid="26" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftAttack | Lockheed_AC-130</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | attackAircraft | Lockheed_AC-130</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Lockheed AC-130 can be found on USAF aircraft carriers.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Lockheed AC-130 se trouve sur les porte-avions de l'USAF.</lex>
+      <lex comment="" lid="Id2" lang="en">The Lockheed AC-130 is an attack aircraft of the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le Lockheed AC-130 est un avion d'attaque de la United States Air Force.</lex>
+    </entry>
+    <entry category="Airport" eid="27" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Invasion_of_Grenada</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Invasion_of_Grenada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Invasion_of_Grenada</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">One of the noted United States Air Force battles was the Invasion of Grenada.</lex>
+      <lex comment="" lid="Id1" lang="fr">Une des batailles notoires de l'armée de l'air américaine a été l'invasion de la Grenade.</lex>
+      <lex comment="" lid="Id2" lang="en">The United States Air Force was involved in battles at the Invasion of Grenada.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'armée de l'air des États-Unis a participé à des batailles lors de l'invasion de la Grenade.</lex>
+      <lex comment="" lid="Id3" lang="en">The United States Air Force battled in the Invasion of Grenada.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'armée de l'air des États-Unis a combattu dans l'invasion de la Grenade.</lex>
+    </entry>
+    <entry category="Airport" eid="28" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Korean_War</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Korean_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Korean_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The United States Air Force fought battles in the Korean war.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'armée de l'air des États-Unis a mené des batailles pendant la guerre de Corée.</lex>
+      <lex comment="" lid="Id2" lang="en">The United States Air Force has fought in the Korean War.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'armée de l'air des États-Unis a participé à la guerre de Corée.</lex>
+    </entry>
+    <entry category="Airport" eid="29" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battles | Operation_Enduring_Freedom</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | Operation_Enduring_Freedom</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Operation Enduring Freedom is one of the battles of the United States Air Force.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'opération Liberté immuable est l'une des batailles de l'armée de l'air des États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Operation Enduring Freedom was a battle involving the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'opération Enduring Freedom a été une bataille entre les forces aériennes des États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="30" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | battle | United_States_invasion_of_Panama</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The USAF was involved in the Invasion of Panama.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'USAF a participé à l'invasion du Panama.</lex>
+      <lex comment="" lid="Id2" lang="en">The United States invasion of Panama was a battle involving the United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'invasion du Panama par les États-Unis a été une bataille entre les forces aériennes des États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="31" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>United_States_Air_Force | aircraftTransport | Lockheed_C-130_Hercules</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States_Air_Force | transportAircraft | Lockheed_C-130_Hercules</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lockheed C-130 Hercules is a transport aircraft in the United States Air Force.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Lockheed C-130 Hercules est un avion de transport de la United States Air Force.</lex>
+      <lex comment="" lid="Id2" lang="en">The transport aircraft for the United States Air Force is the Lockheed C-130 Hercules.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'avion de transport de la United States Air Force est le Lockheed C-130 Hercules.</lex>
+    </entry>
+    <entry category="Airport" eid="32" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | subdivisionName | Awadh</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | isPartOf | Awadh</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | isPartOf | Awadh</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Uttar Pradesh is part of Awadh.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Uttar Pradesh fait partie d'Awadh.</lex>
+    </entry>
+    <entry category="Airport" eid="33" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | isPartOf | Bundelkhand</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | isPartOf | Bundelkhand</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Uttar Pradesh is part of Bundelkhand.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Uttar Pradesh fait partie de Bundelkhand.</lex>
+    </entry>
+    <entry category="Airport" eid="34" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Uttar_Pradesh | leaderName | Ram_Naik</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uttar_Pradesh | leader | Ram_Naik</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ram Naik is the leader in Uttar Pradesh.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ram Naik est le dirigeant de l'Uttar Pradesh.</lex>
+      <lex comment="" lid="Id2" lang="en">The leader name of Uttar Pradesh is Ram Naik.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le nom du chef de l'Uttar Pradesh est Ram Naik.</lex>
+    </entry>
+    <entry category="Airport" eid="35" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Wilson Township, in Alpena County, Michigan is in the U.S.A.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le canton de Wilson, dans le comté d'Alpena, au Michigan, se trouve aux É.-U.</lex>
+      <lex comment="" lid="Id2" lang="en">Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le canton de Wilson, comté d'Alpena, au Michigan, se trouve aux États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">The Wilson Township, Alpena County, Michigan is in the United States.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le canton de Wilson, comté d'Alpena, au Michigan, se trouve aux États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="36" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Wilson_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Wilson_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Wilson Township, Alpena County, Michigan is part of the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le canton de Wilson, comté d'Alpena, au Michigan, fait partie des États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="37" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | country | Angola</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | country | Angola</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ícolo e Bengo is in Angola.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ícolo e Bengo se trouve en Angola.</lex>
+      <lex comment="" lid="Id2" lang="en">Ícolo e Bengo is located in Angola.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ícolo e Bengo est situé en Angola.</lex>
+    </entry>
+    <entry category="Airport" eid="38" size="1" shape="(X (X))" shape_type="NA">
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ícolo_e_Bengo | subdivisionName | Luanda_Province</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ícolo_e_Bengo | isPartOf | Luanda_Province</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ícolo e Bengo is in the Luanda Province.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ícolo e Bengo se trouve dans la province de Luanda.</lex>
+      <lex comment="" lid="Id2" lang="en">Ícolo e bengo is part of Luanda Province.</lex>
+      <lex comment="" lid="Id2" lang="fr">Ícolo e bengo fait partie de la province de Luanda.</lex>
+    </entry>
+  </entries>
+</benchmark>

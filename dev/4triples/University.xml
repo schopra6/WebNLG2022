@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="1" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | numberOfStudents | &quot;16000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | &quot;737&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Aarhus, Denmark. There are 737 academic staff and 16000 students.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus, située à Aarhus (Danemark), compte 737 enseignants et 16,000 étudiants.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University in Denmark has a staff compliment of 737 and 16000 students.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'École de commerce et des sciences sociales de l'Université d'Aarhus au Danemark emploie 737 et 16,000 étudiants.</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at theAarhus University in Aarhus, Denmark has 737 academic staff and 16,000 students.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus, au Danemark, compte 737 enseignants et 16,000 étudiants.</lex>
+    </entry>
+    <entry category="University" eid="2" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University, Aarhus, Denmark, has 16000 students and is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id1" lang="fr">La School of Business and Social Sciences de l'Université d'Aarhus, au Danemark, compte 16,000 étudiants et est affiliée à l'Association de l'Université européenne.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark has 16,000 students and is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'École de commerce et de sciences sociales de l'Université Aarhus d'Aarhus (Danemark) compte 16,000 étudiants et est affiliée à l'Association européenne de l'université.</lex>
+      <lex comment="" lid="Id3" lang="en">An affiliate of the European University Association, the School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark has 16,000 students enrolled.</lex>
+      <lex comment="" lid="Id3" lang="fr">Affiliée à l'Association des universités européennes, l'École de commerce et des sciences sociales de l'Université Aarhus d'Aarhus (Danemark) accueille 16,000 étudiants.</lex>
+    </entry>
+    <entry category="University" eid="3" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus | northeast | Mols</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Aarhus in Denmark, which lies southwest of Mols is the location of the School of Business and Social Sciences at the Aarhus University. The leader of Denmark is Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id1" lang="fr">Aarhus, au Danemark, au sud-ouest de Mols, est le siège de l &quot;École de commerce et des sciences sociales de l'Université d'Aarhus, dont le dirigeant est Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Denmark, southwest of Mols. The country's leader is Lars Løkke Rasmussen.</lex>
+      <lex comment="" lid="Id2" lang="fr">La School of Business and Social Sciences de l'université d'Aarhus est située au Danemark, au sud-ouest de Mols, sous la direction de Lars Løkke Rasmussen.</lex>
+      <lex comment="" lid="Id3" lang="en">The School of Business and Social Sciences at the Aaarhus University is located in Aarhus, Denmark. Aarhus has Mols to its northeast. Denmark's leader is Lars Lokke Rasmussen.</lex>
+      <lex comment="" lid="Id3" lang="fr">La School of Business and Social Sciences de l'Université d'Aarhus, située à Aarhus, au Danemark, a pour chef de file Lars Lokke Rasmussen.</lex>
+    </entry>
+    <entry category="University" eid="4" size="4" shape="(X (X) (X) (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University, Aarhus, Denmark was established in 1928 and is affiliated to the European University Association.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'École de commerce et de sciences sociales de l'Université d'Aarhus (Danemark) a été créée en 1928 et est affiliée à l'Association des universités européennes.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University in Aarhus, Denmark was established in 1928. It is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'École de commerce et de sciences sociales de l'Université Aarhus d'Aarhus (Danemark) a été créée en 1928 et est affiliée à l'Association des universités européennes.</lex>
+      <lex comment="" lid="Id3" lang="en">In 1928 a School of Business and Social Sciences was established at the Aarhus University in Aarhus, Denmark. This school is affiliated with the European University Association.</lex>
+      <lex comment="" lid="Id3" lang="fr">En 1928, une École de commerce et de sciences sociales a été créée à l'Université Aarhus d'Aarhus, au Danemark, qui est affiliée à l'Association européenne des universités.</lex>
+    </entry>
+    <entry category="University" eid="5" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>European_University_Association | headquarters | Brussels</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | &quot;737&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>European_University_Association | headquarter | Brussels</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is affiliated to the European University Association. It has 737 academic staff and 16,000 students. The European University Association has headquarters in Brussels.</lex>
+      <lex comment="" lid="Id1" lang="fr">L &quot;École de commerce et des sciences sociales de l'Université d'Aarhus est affiliée à l'Association européenne de l'université, qui compte 737 enseignants et 16 000 étudiants. L'Association européenne de l'université a son siège à Bruxelles.</lex>
+      <lex comment="" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University is affiliated to the European Universiity Association based in Brussels. The School has 16000 students and 737 academic staff.</lex>
+      <lex comment="" lid="Id2" lang="fr">L &quot;École de commerce et des sciences sociales de l'Université d'Aarhus est affiliée à l'Association européenne de l'université, dont le siège est à Bruxelles.</lex>
+    </entry>
+    <entry category="University" eid="6" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | postgrad | &quot;~700&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | &quot;700&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology is located in India and it has 700 postgraduate students. It is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Institut de Technologie d'Acharya est situé en Inde et compte 700 étudiants de troisième cycle ; il est affilié à l'Université Technologique de Visvesvaraya à Belgaum.</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology in India which has 700 postgraduate students is affiliated to the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Institut de technologie Acharya en Inde, qui compte 700 étudiants de troisième cycle, est affilié à l'Université technologique Visvesvaraya de Belgaum.</lex>
+      <lex comment="" lid="Id3" lang="en">The Acharya Institute of Technology in India has 700 post-graduate students and is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'Institut de technologie Acharya, en Inde, compte 700 étudiants de troisième cycle et est affilié à l'Université technologique Visvesvaraya de Belgaum.</lex>
+    </entry>
+    <entry category="University" eid="7" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | director | &quot;Dr. G. P. Prabhukumar&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | director | &quot;Dr. G. P. Prabhukumar&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology in Karnataka is affiliated with the Visvesvaraya Technological University in Belgaum. It's director is Dr. G. P. Prabhukumar.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Institut de Technologie d'Acharya à Karnataka est affilié à l'Université Technologique de Visvesvaraya à Belgaum et est dirigé par le Dr G. P. Prabhukumar.</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology is located in Karnataka. It is affiliated with the Visvesvaraya Technological University in Belgaum and its director is Dr. G. P. Prabhukumar.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Institut de Technologie Acharya est situé à Karnataka, affilié à l'Université Technologique Visvesvaraya de Belgaum et dirigé par le Dr G. P. Prabhukumar.</lex>
+      <lex comment="" lid="Id3" lang="en">The Acharya Institute of Technology based in the state of Karnataka has the director Dr. G. P. Prabhukumar. The Institute is affiliated with Visvesvaraya Technological University which is located in the city of Belgaum.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'Institut de Technologie d'Acharya, basé dans l &quot;état de Karnataka, est dirigé par le Dr G. P. Prabhukumar, affilié à l'Université Technologique de Visvesvaraya, située dans la ville de Belgaum.</lex>
+    </entry>
+    <entry category="University" eid="8" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | &quot;700&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | numberOfPostgraduateStudents | 700</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology campus has 700 postgraduate students and is affiliated with the Visvesvaraya Technological University in the city of Belgaum. The campus is located at In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le campus de l'Institut de Technologie d'Acharya compte 700 étudiants de troisième cycle et est affilié à l'Université Technologique de Visvesvaraya à Belgaum, situé à In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore, 560090.</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology has its campus in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090. It has 700 postgraduate students and it is affiliated with the Visvesvaraya Technological University in Belgaum.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Institut de Technologie d'Acharya a son campus à Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+    </entry>
+    <entry category="University" eid="9" size="4" shape="(X (X (X)) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Tennis | union | International_Tennis_Federation</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Visvesvaraya_Technological_University | city | Belgaum</otriple>
+        <otriple>Acharya_Institute_of_Technology | sport | Tennis</otriple>
+        <otriple>Tennis | sportGoverningBody | International_Tennis_Federation</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Visvesvaraya_Technological_University | city | Belgaum</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | sportsOffered | Tennis</mtriple>
+        <mtriple>Tennis | sportGoverningBody | International_Tennis_Federation</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Acharya Institute of Technology offers tennis as its sport. It is affiliated with the Visvesvaraya Technological University in Belgaum. The governing tennis body is the International Tennis Federation.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Institut de Technologie d'Acharya, affilié à l'Université Technologique de Visvesvaraya à Belgaum, propose le tennis comme sport, sous la direction de la Fédération Internationale de Tennis.</lex>
+      <lex comment="" lid="Id2" lang="en">The Acharya Institute of Technology is affiliated to the Visvesvaraya Technological University in the city of Belgaum. The Institute offers tennis, a sport governed by the International Tennis Federation.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Institut de Technologie d'Acharya est affilié à l'Université Technologique de Visvesvaraya dans la ville de Belgaum.</lex>
+    </entry>
+  </entries>
+</benchmark>

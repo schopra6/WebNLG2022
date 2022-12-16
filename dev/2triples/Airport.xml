@@ -1,0 +1,417 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="1" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | subdivisionName | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | Atlantic_County,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Atlantic City International Airport is in Egg Harbor Township which is part of Atlantic County, New Jersey.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport international d'Atlantic City se trouve dans le canton d'Egg Harbor, qui fait partie du comté d'Atlantic, au New Jersey.</lex>
+      <lex comment="" lid="Id2" lang="en">Atlantic City International Airport is located at Egg Harbour Township, which is located in Atlantic City, New Jersey, United States.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport international d'Atlantic City est situé dans le canton d'Egg Harbour, à Atlantic City, au New Jersey, aux États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport is in Egg Harbor Township, NJ, which is part of Atlantic County.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport international d'Atlantic City se trouve dans le canton d'Egg Harbor, au New Jersey, qui fait partie du comté d'Atlantic.</lex>
+    </entry>
+    <entry category="Airport" eid="2" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | elevation | &quot;22.86&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | elevationAboveTheSeaLevel | 23.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Atlantic City International Airport is operated by the Port Authority of New York and New Jersey and is 23.0 metres above sea level.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Atlantic City International Airport est exploité par la Port Authority of New York et le New Jersey et se trouve à 23 mètres au-dessus du niveau de la mer.</lex>
+      <lex comment="" lid="Id2" lang="en">The Atlantic City International Airport is run by the Port Authority of New York and New Jersey and is 23 m above sea level.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Atlantic City International Airport est géré par la Port Authority de New York et du New Jersey et se trouve à 23 m au-dessus du niveau de la mer.</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport is 23.0 metres above sea level and is operated by the Port Authority of New York.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport international d'Atlantic City est situé à 23 mètres au-dessus du niveau de la mer et est exploité par la Port Authority of New York.</lex>
+    </entry>
+    <entry category="Airport" eid="3" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | &quot;Port Authority of New York and New Jersey &amp; SJTA&quot;@en</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayDesignation | &quot;13/31&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | runwayDesignation | &quot;13/31&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | runwayName | &quot;13/31&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">13/31 is the name of a runway at Atlantic City International Airport, operated by Port Authorities of New York and New Jersey.</lex>
+      <lex comment="" lid="Id1" lang="fr">13 / 31 est le nom d'une piste de l'aéroport international d'Atlantic City, exploitée par les administrations portuaires de New York et du New Jersey.</lex>
+      <lex comment="" lid="Id2" lang="en">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, which has the runway name of 13/31.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'autorité portuaire de New York et du New Jersey est l'organisme d'exploitation de l'aéroport international d'Atlantic City, dont la piste porte le nom de 13 / 31.</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport, operated by the Port Authority of New York and New Jersey, has a runway named &quot;13/31&quot;.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport international d'Atlantic City, exploité par la Port Authority de New York et du New Jersey, possède une piste d'atterrissage nommée &quot;13 / 31&quot;.</lex>
+    </entry>
+    <entry category="Airport" eid="4" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, which has its headquarters at the Four World Trade Centre.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Atlantic City International Airport est exploité par la Port Authority of New York et le New Jersey, dont le siège se trouve au Four World Trade Centre.</lex>
+      <lex comment="" lid="Id2" lang="en">The Port Authority of New York and New Jersey is based at the Four World Trade Centre and operates Atlantic City international airport.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'Administration portuaire de New York et du New Jersey est basée au Four World Trade Centre et exploite l'aéroport international d'Atlantic City.</lex>
+    </entry>
+    <entry category="Airport" eid="5" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+        <otriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+        <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, based in New York.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Atlantic City International Airport est exploité par la Port Authority of New York et le New Jersey, dont le siège est à New York.</lex>
+      <lex comment="" lid="Id2" lang="en">The Port Authority of New York and New Jersey, headquartered in New York, is the operating organisation of Atlantic City International airport.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'administration portuaire de New York et du New Jersey, dont le siège est à New York, est l'organisation opérationnelle de l'aéroport international d'Atlantic City.</lex>
+      <lex comment="" lid="Id3" lang="en">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport with its headquarters in New York.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'Autorité portuaire de New York et du New Jersey est l'organisation opérationnelle de l'aéroport international d'Atlantic City, dont le siège est à New York.</lex>
+    </entry>
+    <entry category="Airport" eid="6" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</otriple>
+        <otriple>South_Jersey_Transportation_Authority | chief1Name | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</mtriple>
+        <mtriple>South_Jersey_Transportation_Authority | chief | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Atlantic City International Airport is owned by South Jersey Transportation Authority whose chief is Stephen Dilts.</lex>
+      <lex comment="" lid="Id1" lang="fr">Atlantic City International Airport appartient à la South Jersey Transportation Authority, dont le chef est Stephen Dilts.</lex>
+      <lex comment="" lid="Id2" lang="en">Atlantic City International Airport owned by South Jersey Transportation Authority who's chief is Stephen Dilts.</lex>
+      <lex comment="" lid="Id2" lang="fr">Atlantic City International Airport, propriété de la South Jersey Transportation Authority et dont le chef est Stephen Dilts.</lex>
+    </entry>
+    <entry category="Airport" eid="7" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</otriple>
+        <otriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | owner | South_Jersey_Transportation_Authority</mtriple>
+        <mtriple>South_Jersey_Transportation_Authority | leader | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Atlantic City International Airport is owned by the South Jersey Transportation Authority whose leader is Stephen Dilts.</lex>
+      <lex comment="" lid="Id1" lang="fr">Atlantic City International Airport appartient à la South Jersey Transportation Authority dont le chef est Stephen Dilts.</lex>
+      <lex comment="" lid="Id2" lang="en">Atlantic City International Airport owner is South Jersey Transportation Authority headed by Stephen Dilts .</lex>
+      <lex comment="" lid="Id2" lang="fr">Atlantic City International Airport appartient à la South Jersey Transportation Authority, dirigée par Stephen Dilts.</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport is owned by the South Jersey Transportation Authority which is headed by Stephen Dilts.</lex>
+      <lex comment="" lid="Id3" lang="fr">Atlantic City International Airport appartient à la South Jersey Transportation Authority, dirigée par Stephen Dilts.</lex>
+    </entry>
+    <entry category="Airport" eid="8" size="2" shape="(X (X) (X))" shape_type="sibling">
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | &quot;1873.0&quot;^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | &quot;Port Authority of New York and New Jersey &amp; SJTA&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | &quot;1873.0&quot;^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | &quot;1872.69&quot;^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | &quot;Port Authority of New York and New Jersey &amp; SJTA&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Atlantic_City_International_Airport | runwayLength | &quot;1872.69&quot;^^xsd:double</otriple>
+        <otriple>Atlantic_City_International_Airport | operator | Port_Authority_of_New_York_and_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlantic_City_International_Airport | runwayLength | 1873.0</mtriple>
+        <mtriple>Atlantic_City_International_Airport | operatingOrganisation | Port_Authority_of_New_York_and_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atlantic City International Airport is operated by the Port Authority of New York and New Jersey, its runway length is 1,873.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'Atlantic City International Airport est exploité par la Port Authority de New York et du New Jersey et sa piste est d'une longueur de 1,873 m.</lex>
+      <lex comment="" lid="Id2" lang="en">The Port Authority of New York and New Jersey is the operating organisation of Atlantic City International airport, where the runway length is 1873.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'autorité portuaire de New York et du New Jersey est l'organisme d'exploitation de l'aéroport international d'Atlantic City, dont la longueur de la piste est de 1873.</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport, run by the port authorities of New York and New jersey, ha a runway length of 1,873.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport international d'Atlantic City, exploité par les administrations portuaires de New York et de New York, a une piste d'une longueur de 1 873 pieds.</lex>
+    </entry>
+    <entry category="Airport" eid="9" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>ENAIRE | locationCity | Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | operator | ENAIRE</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ENAIRE | city | Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | operatingOrganisation | ENAIRE</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">ENAIRE is the operating organisation for Adolfo Suarez Madrid-Barajas airport in Madrid.</lex>
+      <lex comment="" lid="Id1" lang="fr">ENAIRE est l'opérateur de l'aéroport Adolfo Suarez Madrid-Barajas de Madrid.</lex>
+      <lex comment="" lid="Id2" lang="en">Adolfo Suarez Madrid-Barajas Airport is operated by ENAIRE, Madrid.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport Adolfo Suarez Madrid-Barajas est exploité par ENAIRE, Madrid.</lex>
+      <lex comment="" lid="Id3" lang="en">The Adolfo Suárez Madrid–Barajas Airport is operated by ENAIRE in Madrid.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport Adolfo Suárez de Madrid, à Barajas, est exploité par ENAIRE à Madrid.</lex>
+    </entry>
+    <entry category="Airport" eid="10" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</otriple>
+        <otriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Egg_Harbor_Township,_New_Jersey | isPartOf | New_Jersey</mtriple>
+        <mtriple>Atlantic_City_International_Airport | location | Egg_Harbor_Township,_New_Jersey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Atlantic City International Airport can be found in New Jersey in Egg Harbor Township.</lex>
+      <lex comment="" lid="Id1" lang="fr">Atlantic City International Airport se trouve au New Jersey, dans le canton d'Egg Harbor.</lex>
+      <lex comment="" lid="Id2" lang="en">Atlantic City International Airport is located in Egg Harbor Township, in New Jersey.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport international d'Atlantic City est situé dans le canton d'Egg Harbor, au New Jersey.</lex>
+      <lex comment="" lid="Id3" lang="en">Atlantic City International Airport is located in Egg Harbor Township in New Jersey.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport international d'Atlantic City est situé dans le canton d'Egg Harbor au New Jersey.</lex>
+    </entry>
+    <entry category="Airport" eid="11" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Flemish_Government | jurisdiction | Flemish_Region</otriple>
+        <otriple>Antwerp_International_Airport | operator | Flemish_Government</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Flemish_Government | jurisdiction | Flemish_Region</mtriple>
+        <mtriple>Antwerp_International_Airport | operatingOrganisation | Flemish_Government</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Antwerp international airport is operated by the Flemish government which has full jurisdiction.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport international d'Anvers est géré par le gouvernement flamand qui a pleine juridiction.</lex>
+      <lex comment="" lid="Id2" lang="en">Antwerp International Airport is operated by the Flemish government, which has jurisdiction over the Flemish Region.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport international d'Anvers est géré par le gouvernement flamand, qui a juridiction sur la Région flamande.</lex>
+      <lex comment="" lid="Id3" lang="en">The operating organisation of Antwerp International airport is the Flemish government who have jurisdiction of the Flemish Region.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'organisation opérationnelle de l'aéroport international d'Anvers est le gouvernement flamand qui relève de la compétence de la Région flamande.</lex>
+    </entry>
+    <entry category="Airport" eid="12" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</otriple>
+        <otriple>Agra_Airport | operator | Indian_Air_Force</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indian_Air_Force | aircraftHelicopter | HAL_Light_Combat_Helicopter</mtriple>
+        <mtriple>Agra_Airport | operatingOrganisation | Indian_Air_Force</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">India's Air Force has a helicopter known as the HAL Light Combat Helicopter and also operates Agra Airport.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'armée de l'air indienne possède un hélicoptère connu sous le nom d'hélicoptère de combat léger HAL et exploite également l'aéroport d'Agra.</lex>
+      <lex comment="" lid="Id2" lang="en">The HAL Light Combat Helicopter is a Helicopter used by the Indian Air Force who operates the Agra Airport.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'hélicoptère de combat léger HAL est un hélicoptère utilisé par l'armée de l'air indienne qui exploite l'aéroport d'Agra.</lex>
+      <lex comment="" lid="Id3" lang="en">The operating organization for Agra Airport is the Indian Air Force who use the HAL Light Combat Helicopter.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'organisation opérationnelle de l'aéroport d'Agra est l'armée de l'air indienne qui utilise l'hélicoptère de combat léger HAL.</lex>
+    </entry>
+    <entry category="Airport" eid="13" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Lahore | country | Pakistan</otriple>
+        <otriple>Allama_Iqbal_International_Airport | cityServed | Lahore</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allama_Iqbal_International_Airport | city | Lahore</otriple>
+        <otriple>Lahore | country | Pakistan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lahore | country | Pakistan</mtriple>
+        <mtriple>Allama_Iqbal_International_Airport | cityServed | Lahore</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Allama Iqbal International airport serves the city of Lahore in Pakistan.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport international Allama Iqbal dessert la ville de Lahore au Pakistan.</lex>
+      <lex comment="" lid="Id2" lang="en">The city of Lahore in Pakistan is served by Allama Iqbal International airport.</lex>
+      <lex comment="" lid="Id2" lang="fr">La ville de Lahore au Pakistan est desservie par l'aéroport international Allama Iqbal.</lex>
+    </entry>
+    <entry category="Airport" eid="14" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lake_Placid,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport serves the city of Lake Placid, New York which is part of Essex County, New York.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Lake Placid, New York, qui fait partie du comté d'Essex, New York.</lex>
+      <lex comment="" lid="Id2" lang="en">Lake Placid, New York is part of Essex County, NY and it is served by the Adirondack Regional Airport.</lex>
+      <lex comment="" lid="Id2" lang="fr">Lake Placid, dans l'État de New York, fait partie du comté d'Essex, dans l'État de New York, et il est desservi par l'aéroport régional d'Adirondack.</lex>
+      <lex comment="" lid="Id3" lang="en">Lake Placid, is part of Essex County, New York and is served by the Adirondack Regional Airport.</lex>
+      <lex comment="" lid="Id3" lang="fr">Lake Placid, qui fait partie du comté d'Essex, dans l &quot;État de New York, est desservie par l'aéroport régional d'Adirondack.</lex>
+    </entry>
+    <entry category="Airport" eid="15" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Lake_Placid,_New_York | isPartOf | New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Lake_Placid,_New_York | isPartOf | New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Lake_Placid,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Lake Placid, New York is part of New York and is served by the Adirondack Regional Airport.</lex>
+      <lex comment="" lid="Id1" lang="fr">Lake Placid, New York, fait partie de New York et est desservie par l'aéroport régional des Adirondack.</lex>
+      <lex comment="" lid="Id2" lang="en">Adirondack Regional Airport serves the city of Lake Placid which is in and is a part of New York.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Lake Placid, qui fait partie de New York.</lex>
+    </entry>
+    <entry category="Airport" eid="16" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Madrid | isPartOf | Community_of_Madrid</otriple>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Madrid | isPartOf | Community_of_Madrid</mtriple>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | Madrid</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adolfo Suarez Madrid-Barajas Airport is located in Madrid, which is part of the community of Madrid.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport Adolfo Suarez Madrid-Barajas est situé à Madrid, qui fait partie de la communauté de Madrid.</lex>
+      <lex comment="" lid="Id2" lang="en">The Adolfo Suárez Madrid–Barajas Airport is in Madrid, which is part of the community known by the same name.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport Adolfo Suárez de Madrid à Barajas se trouve à Madrid, qui fait partie de la communauté connue sous le même nom.</lex>
+    </entry>
+    <entry category="Airport" eid="17" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Maple_Ridge_Township,_Alpena_County,_Michigan | subdivisionName | United_States</otriple>
+        <otriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Maple_Ridge_Township,_Alpena_County,_Michigan | isPartOf | United_States</mtriple>
+        <mtriple>Alpena_County_Regional_Airport | location | Maple_Ridge_Township,_Alpena_County,_Michigan</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Maple Ridge Township, Alpena County, Michigan is in the United States. The Alpena County Regional Airport is located there.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le canton de Maple Ridge, dans le comté d'Alpena, au Michigan, est situé aux États-Unis, tout comme l'aéroport régional du comté d'Alpena.</lex>
+      <lex comment="" lid="Id2" lang="en">Alpena County Regional Airport is located in the United States in the Maple Ridge Township, Alpena County, Michigan.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport régional du comté d'Alpena est situé aux États-Unis, dans le canton de Maple Ridge, comté d'Alpena, au Michigan.</lex>
+      <lex comment="" lid="Id3" lang="en">Alpena County Regional Airport is located in Maple Ridge Township, Alpena County, Michigan, USA.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport régional du comté d'Alpena est situé dans le canton de Maple Ridge, comté d'Alpena, Michigan, États-Unis.</lex>
+    </entry>
+    <entry category="Airport" eid="18" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Poaceae | class | Monocotyledon</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | class | Monocotyledon</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae, which is classed as a Monocotyledon.</lex>
+      <lex comment="" lid="Id1" lang="fr">La deuxième piste de l'aéroport d'Ardmore (Nouvelle-Zélande) est faite de Poaceae, qui est classifié comme un Monocotyledon.</lex>
+      <lex comment="" lid="Id2" lang="en">Poaceae, of the class Monocotyledon, is the surface type of the second runway at Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Poaceae, de la classe des Monocotyledon, est le type de surface de la seconde piste à l'aéroport d'Ardmore, en Nouvelle-Zélande.</lex>
+      <lex comment="" lid="Id3" lang="en">Poaceae is in the class Monocotyledon and is used as the surface of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id3" lang="fr">Les Poaceae appartiennent à la classe des Monocotyledon et sont utilisées comme surface de la deuxième piste de l'aéroport d'Ardmore, en Nouvelle-Zélande.</lex>
+    </entry>
+    <entry category="Airport" eid="19" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Alderney_Airport | r1Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Alderney_Airport | 1stRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The surface of the 1st runway at Alderney Airport is covered with poaceae, which belongs to the division of flowering plants.</lex>
+      <lex comment="" lid="Id1" lang="fr">La surface de la 1ère piste de l'aéroport d'Aurigny est couverte de poaceae, qui appartient à la division des plantes à fleurs.</lex>
+      <lex comment="" lid="Id2" lang="en">The 1st runway at Alderney Airport is made from Poaceae which belongs to the division of flowering plants.</lex>
+      <lex comment="" lid="Id2" lang="fr">La 1ère piste à l'aéroport d'Aurigny est faite de Poaceae qui appartient à la division des plantes à fleurs.</lex>
+      <lex comment="" lid="Id3" lang="en">The surface of the 1st runway at Alderney airport is poaceae which is a type of flowering plant.</lex>
+      <lex comment="" lid="Id3" lang="fr">La surface de la 1Ã ¨ re piste Ã l'aÃ © roport d'Aurigny est de la famille des poacÃ © es.</lex>
+    </entry>
+    <entry category="Airport" eid="20" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Poaceae | division | Flowering_plant</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | division | Flowering_plant</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Poaceae belongs to the division of flowering plants and it is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Poaceae appartiennent à la division des plantes à fleurs et il s'agit du type de surface de la deuxième piste de l'aéroport d'Ardmore, en Nouvelle-Zélande.</lex>
+      <lex comment="" lid="Id2" lang="en">Poaceae belongs to the division of flowering plants and is the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id2" lang="fr">Les Poaceae appartiennent à la division des plantes à fleurs et sont le type de surface de la deuxième piste de l'aéroport d'Ardmore, en Nouvelle-Zélande.</lex>
+      <lex comment="" lid="Id3" lang="en">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae which belongs to the division of flowering plants.</lex>
+      <lex comment="" lid="Id3" lang="fr">La deuxième piste de l'aéroport d'Ardmore (Nouvelle-Zélande) est faite de Poaceae qui appartiennent à la division des plantes à fleurs.</lex>
+    </entry>
+    <entry category="Airport" eid="21" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Poaceae | order | Commelinids</otriple>
+        <otriple>Ardmore_Airport_(New_Zealand) | r2Surface | Poaceae</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poaceae | order | Commelinids</mtriple>
+        <mtriple>Ardmore_Airport_(New_Zealand) | 2ndRunwaySurfaceType | Poaceae</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Poaceae is the order of Commelinids, it is also the surface type of the second runway of Ardmore Airport, New Zealand.</lex>
+      <lex comment="" lid="Id1" lang="fr">Les Poaceae sont de l'ordre des Commelinidés, c'est aussi le type de surface de la deuxième piste de l'aéroport d'Ardmore, en Nouvelle-Zélande.</lex>
+      <lex comment="" lid="Id2" lang="en">The 2nd runway at Ardmore Airport (New Zealand) is made of Poaceae which belongs to the order of Commelinids.</lex>
+      <lex comment="" lid="Id2" lang="fr">La 2ème piste de l'aéroport d'Ardmore (Nouvelle-Zélande) est faite de Poaceae qui appartient à l'ordre des Commelinidés.</lex>
+    </entry>
+    <entry category="Airport" eid="22" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Essex_County,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, Essex County, New York.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Saranac Lake, comté d'Essex, New York.</lex>
+    </entry>
+    <entry category="Airport" eid="23" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | city | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | Harrietstown,_New_York</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | Harrietstown,_New_York</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Harrietstown, N.Y.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Saranac Lake, New York, qui fait partie de Harrietstown, N.Y.</lex>
+      <lex comment="" lid="Id2" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of Harrietstown, New York.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Saranac Lake, New York, qui fait partie de Harrietstown, New York.</lex>
+      <lex comment="" lid="Id3" lang="en">Adirondack Regional Airport serves the city of Saranac Lake in Harrietstown, New York.</lex>
+      <lex comment="" lid="Id3" lang="fr">L'aéroport régional Adirondack dessert la ville de Saranac Lake à Harrietstown, New York.</lex>
+    </entry>
+    <entry category="Airport" eid="24" size="2" shape="(X (X (X)))" shape_type="chain">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+        <otriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
+        <mtriple>Adirondack_Regional_Airport | cityServed | Saranac_Lake,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, New York, in the United States.</lex>
+      <lex comment="" lid="Id1" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Saranac Lake, dans l'État de New York, aux États-Unis.</lex>
+      <lex comment="" lid="Id2" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, New York, U.S.</lex>
+      <lex comment="" lid="Id2" lang="fr">L'aéroport régional d'Adirondack dessert la ville de Saranac Lake, New York, États-Unis.</lex>
+      <lex comment="" lid="Id3" lang="en">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of the U.S.</lex>
+      <lex comment="" lid="Id3" lang="fr">Adirondack Regional Airport serves the city of Saranac Lake, New York which is part of the U.S.</lex>
+    </entry>
+  </entries>
+</benchmark>

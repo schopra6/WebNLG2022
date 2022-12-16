@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="1" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ahmet Davutoğlu is the leader of Turkey, a country which is the located of the bronze Ataturk Monument which was inaugurated on July 27th, 1932.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ahmet Davutoğlu est le chef de la Turquie, un pays qui est le siège du monument de bronze Ataturk qui a été inauguré le 27 Juillet 1932.</lex>
+      <lex comment="" lid="Id2" lang="en">Turkey's leader is Ahmet Davutoğlu. The Ataturk Monument in Turkey was inaugurated on 27th July, 1932 and made of Bronze.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le chef de file de la Turquie est Ahmet Davutoğlu. Le monument Ataturk en Turquie a été inauguré le 27 juillet 1932 et est en bronze.</lex>
+      <lex comment="" lid="Id3" lang="en">The bronze Atatürk Monument was inaugurated on the 27th July 1932 at İzmir, Turkey, a country led by Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le monument de bronze Atatürk a été inauguré le 27 juillet 1932 à Izmir, Turquie, un pays dirigé par Ahmet Davutoglu.</lex>
+    </entry>
+    <entry category="Monument" eid="2" size="4" shape="(X (X) (X (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument in İzmir, Turkey, which is led by Ahmet Davutoglu and has Ankara as its capital, was inaugurated on July 27th, 1932.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le monument Atatürk à Izmir, en Turquie, qui est dirigé par Ahmet Davutoglu et dont Ankara est la capitale, a été inauguré le 27 juillet 1932.</lex>
+      <lex comment="" lid="Id2" lang="en">Turkey's leader is Ahmet Davutoglu and the capital is Ankara. Turkey is the location of the Ataturk Monument (Izmir) which was inaugurated on 27 July 1932.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le chef de la Turquie est Ahmet Davutoglu et la capitale est Ankara. La Turquie est l'emplacement du monument d'Ataturk (Izmir) qui a été inauguré le 27 juillet 1932.</lex>
+    </entry>
+    <entry category="Monument" eid="3" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Ataturk Monument (Izmir) is located in Turkey and the Turkish leader is Ahmet Davutoglu. The largest city is Istanbul and the currency is the Turkish lira.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le Monument d'Ataturk (Izmir) est situé en Turquie et le leader turc est Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument is located in Izmir, Turkey, where the largest city is Istanbul, the currency is the lira, and the leader's name is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le monument Atatürk est situé à Izmir, Turquie, où la plus grande ville est Istanbul, la devise est la lire, et le nom du chef est Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id3" lang="en">Turkey's largest city is Istanbul, the currency is the lira and the Turkish leader is Ahmet Davutoğlu. The Atatürk Monument (İzmir) is found in Turkey.</lex>
+      <lex comment="" lid="Id3" lang="fr">La plus grande ville de Turquie est Istanbul, la devise est la lire et le leader turc est Ahmet Davutoğlu.</lex>
+    </entry>
+    <entry category="Monument" eid="4" size="4" shape="(X (X) (X) (X (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The bronze Atatürk Monument was designed by Pietro Canonica and is located in İzmir, Turkey, a country led by the President of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le monument Atatürk de bronze a été conçu par Pietro Canonica et est situé à Izmir, en Turquie, un pays dirigé par le Président de la Turquie.</lex>
+      <lex comment="" lid="Id2" lang="en">Turkey, where the leader is known as President, is the location of the bronze Ataturk monument in Izmir. The monument was designed by Pietro Canonica.</lex>
+      <lex comment="" lid="Id2" lang="fr">La Turquie, où le dirigeant est connu sous le nom de Président, est l'emplacement du monument de bronze Ataturk à Izmir, qui a été conçu par Pietro Canonica.</lex>
+      <lex comment="" lid="Id3" lang="en">Pietro Canonica designed the bronze Ataturk monument located in Izmir, Turkey. The official title of the Turkish leader is President of Turkey.</lex>
+      <lex comment="" lid="Id3" lang="fr">Pietro Canonica a conçu le monument Ataturk de bronze situé à Izmir, en Turquie.</lex>
+    </entry>
+    <entry category="Monument" eid="5" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leader | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">The Atatürk Monument is located in İzmir, Turkey, a country with Istanbul as its largest city, and Ahmet Davutoğlu as its leader, the President of Turkey.</lex>
+      <lex comment="" lid="Id1" lang="fr">Le monument Atatürk est situé à Izmir, en Turquie, un pays avec Istanbul comme plus grande ville, et Ahmet Davutoğlu comme son chef, le président de la Turquie.</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument (İzmir) is found in Turkey, where the largest city is Istanbul, and the leader - the President of Turkey - is called Ahmet Davutoglu.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le monument d'Atatürk (Izmir) se trouve en Turquie, où la plus grande ville est Istanbul, et le chef - le président de la Turquie - est appelé Ahmet Davutoglu.</lex>
+    </entry>
+    <entry category="Monument" eid="6" size="4" shape="(X (X (X) (X) (X)))" shape_type="mixed">
+      <originaltripleset>
+        <otriple>Turkey | leaderTitle | President_of_Turkey</otriple>
+        <otriple>Turkey | leaderName | Ahmet_Davutoğlu</otriple>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | leaderTitle | President_of_Turkey</mtriple>
+        <mtriple>Turkey | leader | Ahmet_Davutoğlu</mtriple>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="" lid="Id1" lang="en">Ahmet Davutoglu is the President of Turkey. The capital of Turkey is Ankara, and the Ataruk Monument (Izmir) is located in Turkey.</lex>
+      <lex comment="" lid="Id1" lang="fr">Ahmet Davutoglu est le président de la Turquie, la capitale de la Turquie est Ankara, et le monument Ataruk (Izmir) est situé en Turquie.</lex>
+      <lex comment="" lid="Id2" lang="en">The Atatürk Monument (İzmir) is found in Turkey, where the capital city is Ankara and the leader (President of Turkey) is Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id2" lang="fr">Le monument d'Atatürk (Izmir) se trouve en Turquie, où la capitale est Ankara et le chef (président de la Turquie) est Ahmet Davutoğlu.</lex>
+      <lex comment="" lid="Id3" lang="en">The leader and President of Turkey is Ahmet Davutoglu. The Ataturk monument (Izmir) is located in Turkey where the capital is Ankara.</lex>
+      <lex comment="" lid="Id3" lang="fr">Le chef et président de la Turquie est Ahmet Davutoglu. Le monument d'Ataturk (Izmir) est situé en Turquie où la capitale est Ankara.</lex>
+    </entry>
+  </entries>
+</benchmark>
